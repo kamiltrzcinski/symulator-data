@@ -43,7 +43,7 @@ jobs:
       - name: Package data
         run: |
           VERSION=${GITHUB_REF_NAME}
-          zip -r symulator-data-${VERSION}.zip data/ schedules/
+          zip -r symulator-data-${VERSION}.zip data/
       - uses: actions/upload-artifact@v4
         with:
           name: data-package
