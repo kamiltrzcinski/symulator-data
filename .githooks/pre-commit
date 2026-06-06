@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+import subprocess
+import sys
+from pathlib import Path
+
+root = Path(__file__).resolve().parent.parent
+result = subprocess.run(
+    [sys.executable, str(root / "scripts" / "precommit_validate.py")],
+    cwd=str(root),
+)
+sys.exit(result.returncode)

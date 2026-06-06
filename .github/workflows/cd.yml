@@ -1,0 +1,126 @@
+name: CD
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      trains: ${{ steps.filter.outputs.trains }}
+      vehicles: ${{ steps.filter.outputs.vehicles }}
+      vehicle_types: ${{ steps.filter.outputs.vehicle_types }}
+      schedules: ${{ steps.filter.outputs.schedules }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            trains:
+              - 'data/trains/**'
+            vehicles:
+              - 'data/vehicles/**'
+            vehicle_types:
+              - 'data/vehicle_types/**'
+            schedules:
+              - 'data/schedules/**'
+
+  build-version:
+    runs-on: ubuntu-latest
+    outputs:
+      version_string: ${{ steps.version.outputs.version_string }}
+      tag: ${{ steps.version.outputs.tag }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compute version string
+        id: version
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION=$(cat VERSION | tr -d '[:space:]')
+          DATE=$(date +%Y%m%d)
+
+          # Count how many CD runs completed today (gives us build number)
+          TODAY=$(date +%Y-%m-%d)
+          BUILD=$(gh api "repos/${{ github.repository }}/actions/runs?per_page=100" \
+            --paginate \
+            -q "[.workflow_runs[] | select(.name==\"CD\" and (.created_at | startswith(\"$TODAY\")))] | length")
+          # Current run is already counted, so this is our build number
+          BUILD=$((BUILD))
+
+          VERSION_STRING="${VERSION}.${DATE}.${BUILD}"
+          TAG="v${VERSION_STRING}"
+
+          echo "version_string=$VERSION_STRING" >> $GITHUB_OUTPUT
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+          echo "Built version: $VERSION_STRING"
+
+  package:
+    needs: [detect-changes, build-version]
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - name: trains
+            path: data/trains
+            changed: ${{ needs.detect-changes.outputs.trains }}
+          - name: vehicles
+            path: data/vehicles
+            changed: ${{ needs.detect-changes.outputs.vehicles }}
+          - name: vehicle-types
+            path: data/vehicle_types
+            changed: ${{ needs.detect-changes.outputs.vehicle_types }}
+          - name: schedules
+            path: data/schedules
+            changed: ${{ needs.detect-changes.outputs.schedules }}
+    if: >
+      needs.detect-changes.outputs.trains == 'true' ||
+      needs.detect-changes.outputs.vehicles == 'true' ||
+      needs.detect-changes.outputs.vehicle_types == 'true' ||
+      needs.detect-changes.outputs.schedules == 'true'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package ${{ matrix.name }}
+        if: matrix.changed == 'true'
+        run: |
+          VERSION_STRING="${{ needs.build-version.outputs.version_string }}"
+          FILENAME="${{ matrix.name }}.${VERSION_STRING}.tar.gz"
+          tar -czf "$FILENAME" ${{ matrix.path }}
+          echo "Packaged: $FILENAME"
+      - name: Upload artifact
+        if: matrix.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pkg-${{ matrix.name }}
+          path: ${{ matrix.name }}.*.tar.gz
+          retention-days: 90
+
+  release:
+    needs: [build-version, package]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+          pattern: pkg-*
+          merge-multiple: true
+      - name: List packages
+        run: ls -la artifacts/ 2>/dev/null || ls -la .
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ needs.build-version.outputs.tag }}
+          name: ${{ needs.build-version.outputs.version_string }}
+          body: |
+            Automated data release.
+            Version: `${{ needs.build-version.outputs.version_string }}`
+            Commit: ${{ github.sha }}
+          files: |
+            artifacts/*.tar.gz
+          fail_on_unmatched_files: false
