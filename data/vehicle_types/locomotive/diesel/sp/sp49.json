@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595234,
+  "typeName": "SP49",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 16,
+  "axleCount": 4,
+  "massEmptyT": 74.4,
+  "massGrossT": 74.4,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 100,
+  "powerKW": 957,
+  "tractionForceKN": 319.0,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": false
+}

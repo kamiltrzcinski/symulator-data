@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595222,
+  "typeName": "SM30",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 10.14,
+  "axleCount": 4,
+  "massEmptyT": 36,
+  "massGrossT": 36,
+  "maxSpeedKmh": 60,
+  "brakingLambdaPct": 100,
+  "powerKW": 220,
+  "tractionForceKN": 73.3,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": false
+}

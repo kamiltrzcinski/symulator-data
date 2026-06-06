@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595172,
+  "typeName": "36WE",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 58.4,
+  "axleCount": 8,
+  "massEmptyT": 110,
+  "massGrossT": 110,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 1600,
+  "tractionForceKN": 228.6,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,19 @@
+{
+  "uid": 1103806595364,
+  "typeName": "WMB10",
+  "pkpSeries": null,
+  "vehicleType": "SERVICE_WAGON",
+  "vehicleSubtype": null,
+  "lengthM": 8.16,
+  "axleCount": 4,
+  "massEmptyT": 12,
+  "massGrossT": 12,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 80,
+  "powerKW": 115,
+  "tractionForceKN": null,
+  "family": "unknown",
+  "davisA": 24.525,
+  "davisB": 0.12753,
+  "davisC": 0.0011772
+}

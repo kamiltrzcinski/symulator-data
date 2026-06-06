@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595229,
+  "typeName": "SM60",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 7.88,
+  "axleCount": 2,
+  "massEmptyT": 30,
+  "massGrossT": 30,
+  "maxSpeedKmh": 40,
+  "brakingLambdaPct": 100,
+  "powerKW": 328,
+  "tractionForceKN": 109.3,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": false
+}

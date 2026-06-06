@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595271,
+  "typeName": "383",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 18.98,
+  "axleCount": 4,
+  "massEmptyT": 87,
+  "massGrossT": 87,
+  "maxSpeedKmh": 200,
+  "brakingLambdaPct": 110,
+  "powerKW": 6400,
+  "tractionForceKN": 426.7,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

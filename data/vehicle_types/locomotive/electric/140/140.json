@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595256,
+  "typeName": "140",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 15.74,
+  "axleCount": 4,
+  "massEmptyT": 82,
+  "massGrossT": 82,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 110,
+  "powerKW": 2032,
+  "tractionForceKN": 278.4,
+  "family": "Siemens EuroSprinter",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

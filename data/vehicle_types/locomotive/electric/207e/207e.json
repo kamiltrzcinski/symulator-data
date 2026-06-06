@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595270,
+  "typeName": "207E",
+  "pkpSeries": "EU07",
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 17.55,
+  "axleCount": 6,
+  "massEmptyT": 120,
+  "massGrossT": 120,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 110,
+  "powerKW": 2400,
+  "tractionForceKN": 328.8,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

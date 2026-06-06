@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595110,
+  "typeName": "VT628",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 44.35,
+  "axleCount": 8,
+  "massEmptyT": 84,
+  "massGrossT": 84,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 442,
+  "tractionForceKN": 63.1,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

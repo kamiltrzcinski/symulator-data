@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595265,
+  "typeName": "E186",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 18.9,
+  "axleCount": 4,
+  "massEmptyT": 85,
+  "massGrossT": 85,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 110,
+  "powerKW": 5600,
+  "tractionForceKN": 373.3,
+  "family": "Bombardier TRAXX",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

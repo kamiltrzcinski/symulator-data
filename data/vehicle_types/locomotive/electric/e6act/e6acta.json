@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595293,
+  "typeName": "E6ACTa",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 20.33,
+  "axleCount": 4,
+  "massEmptyT": 119,
+  "massGrossT": 119,
+  "maxSpeedKmh": 140,
+  "brakingLambdaPct": 110,
+  "powerKW": 5000,
+  "tractionForceKN": 360.0,
+  "family": "Newag Dragon",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

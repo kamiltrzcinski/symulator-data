@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595091,
+  "typeName": "SA109",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 26.63,
+  "axleCount": 8,
+  "massEmptyT": 45,
+  "massGrossT": 45,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 80,
+  "powerKW": 380,
+  "tractionForceKN": 70.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

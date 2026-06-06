@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595115,
+  "typeName": "ED250",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 187.4,
+  "axleCount": 8,
+  "massEmptyT": 395,
+  "massGrossT": 395,
+  "maxSpeedKmh": 250,
+  "brakingLambdaPct": 80,
+  "powerKW": 5664,
+  "tractionForceKN": 809.1,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595087,
+  "typeName": "SA105",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 17,
+  "axleCount": 8,
+  "massEmptyT": 28,
+  "massGrossT": 28,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 80,
+  "powerKW": 257,
+  "tractionForceKN": 36.7,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

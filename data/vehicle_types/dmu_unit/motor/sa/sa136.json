@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595099,
+  "typeName": "SA136",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 55.57,
+  "axleCount": 8,
+  "massEmptyT": 108,
+  "massGrossT": 108,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 764,
+  "tractionForceKN": 95.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

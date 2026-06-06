@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595312,
+  "typeName": "ET41",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 31.85,
+  "axleCount": 8,
+  "massEmptyT": 167,
+  "massGrossT": 167,
+  "maxSpeedKmh": 125,
+  "brakingLambdaPct": 110,
+  "powerKW": 4000,
+  "tractionForceKN": 560.0,
+  "family": "PKP Electric Freight",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

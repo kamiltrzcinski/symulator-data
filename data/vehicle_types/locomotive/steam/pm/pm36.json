@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595332,
+  "typeName": "Pm36",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 23.8,
+  "axleCount": 4,
+  "massEmptyT": 161.5,
+  "massGrossT": 161.5,
+  "maxSpeedKmh": 130,
+  "brakingLambdaPct": 100,
+  "powerKW": 1323,
+  "tractionForceKN": 176.4,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

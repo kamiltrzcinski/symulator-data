@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595330,
+  "typeName": "OKz32",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 15.32,
+  "axleCount": 4,
+  "massEmptyT": 118.4,
+  "massGrossT": 118.4,
+  "maxSpeedKmh": 75,
+  "brakingLambdaPct": 100,
+  "powerKW": 1470,
+  "tractionForceKN": 196.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

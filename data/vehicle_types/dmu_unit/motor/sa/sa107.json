@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595089,
+  "typeName": "SA107",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 14.645,
+  "axleCount": 8,
+  "massEmptyT": 23.3,
+  "massGrossT": 23.3,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 80,
+  "powerKW": 190,
+  "tractionForceKN": 27.1,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

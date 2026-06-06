@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595277,
+  "typeName": "3E/1M",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 16.82,
+  "axleCount": 4,
+  "massEmptyT": 114,
+  "massGrossT": 114,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 110,
+  "powerKW": 1860,
+  "tractionForceKN": 254.8,
+  "family": "Pafawag legacy",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

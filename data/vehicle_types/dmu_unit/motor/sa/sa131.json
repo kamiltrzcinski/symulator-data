@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595094,
+  "typeName": "SA131",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 41.7,
+  "axleCount": 8,
+  "massEmptyT": 78.5,
+  "massGrossT": 78.5,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 700,
+  "tractionForceKN": 100.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

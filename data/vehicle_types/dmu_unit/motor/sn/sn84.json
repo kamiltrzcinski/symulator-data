@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595108,
+  "typeName": "SN84",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 79.46,
+  "axleCount": 8,
+  "massEmptyT": 141.8,
+  "massGrossT": 141.8,
+  "maxSpeedKmh": 140,
+  "brakingLambdaPct": 80,
+  "powerKW": 754,
+  "tractionForceKN": 107.7,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,43 @@
+{
+  "uid": 1112396529668,
+  "pID": "TME 551462",
+  "displayName": "TME 551462",
+  "displayRoute": "Gdańsk Osowa — Jezierzyce Słupskie",
+  "vehicleComposition": {
+    "locomotive": [
+      "ST48"
+    ]
+  },
+  "trainType": "FREIGHT",
+  "trainCategory": "TME",
+  "carrierId": 1116691496970,
+  "route": [
+    { "stationName": "Gdańsk Osowa",          "arrival": null,      "departure": "12:32,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdańsk Osowa R23",      "arrival": "12:32,0", "departure": "12:32,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Wielki Kack",    "arrival": "12:36,0", "departure": "12:36,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Główna PZS R3-R4", "arrival": "12:44,0", "departure": "12:44,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Główna R21",     "arrival": "12:44,0", "departure": "12:44,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Główna",         "arrival": "12:44,0", "departure": "12:44,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Główna R64",     "arrival": "12:44,0", "departure": "12:44,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Główna R81",     "arrival": "12:44,0", "departure": "12:44,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Chylonia R13",   "arrival": "12:48,0", "departure": "12:48,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Chylonia R15",   "arrival": "12:48,0", "departure": "12:48,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gdynia Chylonia",       "arrival": "12:48,0", "departure": "12:48,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Rumia",                 "arrival": "12:52,0", "departure": "12:52,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Rumia R38",             "arrival": "12:52,0", "departure": "12:52,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Reda Roz.6",            "arrival": "12:55,0", "departure": "12:55,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Reda",                  "arrival": "12:55,0", "departure": "12:55,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Wejherowo Śmiechowo",   "arrival": "12:59,0", "departure": "12:59,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Wejherowo",             "arrival": "13:01,0", "departure": "13:01,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Gościcino Wejherowskie", "arrival": "13:05,0", "departure": "13:05,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Luzino",                "arrival": "13:09,0", "departure": "13:09,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Strzebielino Morskie",  "arrival": "13:13,0", "departure": "13:13,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Bożepole Wielkie",      "arrival": "13:16,0", "departure": "13:16,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Godętowo",              "arrival": "13:21,0", "departure": "13:21,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Lębork",                "arrival": "13:28,0", "departure": "13:28,0", "platform": null, "track": null, "stopType": "PT" },
+    { "stationName": "Pogorzelice",           "arrival": "13:34,0", "departure": "13:34,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Potęgowo",              "arrival": "13:42,0", "departure": "13:42,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Damnica",               "arrival": "13:53,0", "departure": "13:53,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Jezierzyce Słupskie",   "arrival": "14:00,0", "departure": null,      "platform": null, "track": null, "stopType": null }
+  ]
+}

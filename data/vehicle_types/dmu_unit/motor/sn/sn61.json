@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595104,
+  "typeName": "SN61",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 24.215,
+  "axleCount": 8,
+  "massEmptyT": 58,
+  "massGrossT": 58,
+  "maxSpeedKmh": 108,
+  "brakingLambdaPct": 80,
+  "powerKW": 368,
+  "tractionForceKN": 52.6,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

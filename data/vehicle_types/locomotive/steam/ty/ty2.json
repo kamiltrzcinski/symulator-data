@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595340,
+  "typeName": "Ty2",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 22.975,
+  "axleCount": 4,
+  "massEmptyT": 146.9,
+  "massGrossT": 146.9,
+  "maxSpeedKmh": 80,
+  "brakingLambdaPct": 100,
+  "powerKW": 1200,
+  "tractionForceKN": 160.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

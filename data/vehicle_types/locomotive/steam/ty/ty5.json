@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595345,
+  "typeName": "Ty5",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 22.94,
+  "axleCount": 4,
+  "massEmptyT": 146.4,
+  "massGrossT": 146.4,
+  "maxSpeedKmh": 80,
+  "brakingLambdaPct": 100,
+  "powerKW": 1195,
+  "tractionForceKN": 159.3,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

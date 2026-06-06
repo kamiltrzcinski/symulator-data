@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595264,
+  "typeName": "E183",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 18.94,
+  "axleCount": 4,
+  "massEmptyT": 120,
+  "massGrossT": 120,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 100,
+  "powerKW": 2790,
+  "tractionForceKN": 382.2,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595252,
+  "typeName": "121",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 16.14,
+  "axleCount": 4,
+  "massEmptyT": 88,
+  "massGrossT": 88,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 100,
+  "powerKW": 2032,
+  "tractionForceKN": 278.4,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

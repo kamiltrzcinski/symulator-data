@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595247,
+  "typeName": "T448p",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 13.58,
+  "axleCount": 4,
+  "massEmptyT": 72,
+  "massGrossT": 72,
+  "maxSpeedKmh": 70,
+  "brakingLambdaPct": 100,
+  "powerKW": 883,
+  "tractionForceKN": 294.3,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": false
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595344,
+  "typeName": "Ty45",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 22.38,
+  "axleCount": 4,
+  "massEmptyT": 163.1,
+  "massGrossT": 163.1,
+  "maxSpeedKmh": 75,
+  "brakingLambdaPct": 100,
+  "powerKW": 1264,
+  "tractionForceKN": 168.5,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595210,
+  "typeName": "Ls180",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 6.94,
+  "axleCount": 2,
+  "massEmptyT": 24,
+  "massGrossT": 24,
+  "maxSpeedKmh": 25,
+  "brakingLambdaPct": 100,
+  "powerKW": 110,
+  "tractionForceKN": 36.7,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": false
+}

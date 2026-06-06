@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595083,
+  "typeName": "SA101",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 31.28,
+  "axleCount": 8,
+  "massEmptyT": 53,
+  "massGrossT": 53,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 80,
+  "powerKW": 200,
+  "tractionForceKN": 28.6,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

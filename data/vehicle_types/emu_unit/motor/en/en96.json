@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595150,
+  "typeName": "EN96",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 42.65,
+  "axleCount": 8,
+  "massEmptyT": 83.2,
+  "massGrossT": 83.2,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 1600,
+  "tractionForceKN": 228.6,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595249,
+  "typeName": "111Eb",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 19.8,
+  "axleCount": 4,
+  "massEmptyT": 82,
+  "massGrossT": 82,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 110,
+  "powerKW": 5600,
+  "tractionForceKN": 373.3,
+  "family": "PESA Gama",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

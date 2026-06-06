@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595327,
+  "typeName": "Ok1",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 18.59,
+  "axleCount": 4,
+  "massEmptyT": 129.7,
+  "massGrossT": 129.7,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 100,
+  "powerKW": 662,
+  "tractionForceKN": 88.3,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

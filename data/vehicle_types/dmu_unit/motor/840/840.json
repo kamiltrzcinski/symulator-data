@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595077,
+  "typeName": "840",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 25.5,
+  "axleCount": 8,
+  "massEmptyT": 48.5,
+  "massGrossT": 48.5,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 530,
+  "tractionForceKN": 75.7,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

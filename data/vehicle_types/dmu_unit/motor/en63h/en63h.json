@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595080,
+  "typeName": "EN63H",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 59.3,
+  "axleCount": 8,
+  "massEmptyT": 119,
+  "massGrossT": 119,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 1600,
+  "tractionForceKN": 228.6,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595140,
+  "typeName": "EN64",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 58.95,
+  "axleCount": 8,
+  "massEmptyT": 109,
+  "massGrossT": 109,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 1440,
+  "tractionForceKN": 205.7,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

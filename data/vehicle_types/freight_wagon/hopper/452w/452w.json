@@ -1,0 +1,17 @@
+{
+  "uid": 1103806595181,
+  "typeName": "452W",
+  "vehicleType": "FREIGHT_WAGON",
+  "vehicleSubtype": "HOPPER",
+  "lengthM": 14.04,
+  "axleCount": 4,
+  "massEmptyT": 22.0,
+  "massGrossT": 90.0,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 100,
+  "powerKW": null,
+  "tractionForceKN": null,
+  "davisA": 14.715,
+  "davisB": 0.07848,
+  "davisC": 0.0007848
+}

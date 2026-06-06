@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: validate-uids
+        name: Validate UID registry
+        entry: python3 scripts/precommit_validate.py
+        language: python
+        types: [json]
+        pass_filenames: false

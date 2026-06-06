@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595311,
+  "typeName": "ET40",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 34.42,
+  "axleCount": 8,
+  "massEmptyT": 164,
+  "massGrossT": 164,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 110,
+  "powerKW": 4080,
+  "tractionForceKN": 558.9,
+  "family": "PKP Electric Freight",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

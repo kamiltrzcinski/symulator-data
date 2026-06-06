@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595335,
+  "typeName": "TKh49",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 9.17,
+  "axleCount": 4,
+  "massEmptyT": 44.4,
+  "massGrossT": 44.4,
+  "maxSpeedKmh": 45,
+  "brakingLambdaPct": 100,
+  "powerKW": 294,
+  "tractionForceKN": 39.2,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

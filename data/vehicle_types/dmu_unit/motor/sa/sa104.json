@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595086,
+  "typeName": "SA104",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 19.2,
+  "axleCount": 8,
+  "massEmptyT": 39,
+  "massGrossT": 39,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 80,
+  "powerKW": 157,
+  "tractionForceKN": 22.4,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

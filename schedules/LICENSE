@@ -1,0 +1,13 @@
+Copyright © 2026 Kamil Trzciński <kamil.trzcinski@gmail.com>
+Copyright © 2026 Tymon Kochański <tymonkochanski5@gmail.com>
+
+Istniejące rozkłady jazdy:
+
+schedules/passengers/ROJ50622.json   : © 2026 Kamil Trzciński, Tymon Kochański
+schedules/passengers/MPE5600.json    : © 2026 Kamil Trzciński, Tymon Kochański
+schedules/freight/TME551462.json     : © 2026 Kamil Trzciński, Tymon Kochański
+schedules/freight/TDE592599.json     : © 2026 Kamil Trzciński, Tymon Kochański
+
+Nowe rozkłady dodawane przez zewnętrznych współtwórców: autor pliku deklarowany w PR.
+Zewnętrzni współtwórcy NIE uzyskują żadnych praw do treści z data/vehicle_types/,
+data/vehicles/ ani data/trains/.

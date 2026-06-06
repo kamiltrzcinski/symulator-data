@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595201,
+  "typeName": "BR285",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 18.9,
+  "axleCount": 4,
+  "massEmptyT": 82,
+  "massGrossT": 82,
+  "maxSpeedKmh": 140,
+  "brakingLambdaPct": 100,
+  "powerKW": 2400,
+  "tractionForceKN": 342.9,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": true
+}

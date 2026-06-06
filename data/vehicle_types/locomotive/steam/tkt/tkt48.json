@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595336,
+  "typeName": "TKt48",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 14.2,
+  "axleCount": 4,
+  "massEmptyT": 98,
+  "massGrossT": 98,
+  "maxSpeedKmh": 80,
+  "brakingLambdaPct": 100,
+  "powerKW": 785,
+  "tractionForceKN": 104.7,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

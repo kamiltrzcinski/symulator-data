@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595266,
+  "typeName": "E189",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 19.58,
+  "axleCount": 4,
+  "massEmptyT": 86,
+  "massGrossT": 86,
+  "maxSpeedKmh": 140,
+  "brakingLambdaPct": 110,
+  "powerKW": 6400,
+  "tractionForceKN": 426.7,
+  "family": "Bombardier TRAXX",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

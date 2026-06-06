@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595154,
+  "typeName": "ER160",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 98.2,
+  "axleCount": 8,
+  "massEmptyT": 140,
+  "massGrossT": 140,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 2600,
+  "tractionForceKN": 371.4,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

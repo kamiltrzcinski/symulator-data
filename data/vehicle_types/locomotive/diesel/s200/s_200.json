@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595219,
+  "typeName": "S 200",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 17.24,
+  "axleCount": 4,
+  "massEmptyT": 117,
+  "massGrossT": 117,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 100,
+  "powerKW": 993,
+  "tractionForceKN": 331.0,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": false
+}

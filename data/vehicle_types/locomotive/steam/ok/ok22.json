@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595328,
+  "typeName": "Ok22",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 18.94,
+  "axleCount": 4,
+  "massEmptyT": 133,
+  "massGrossT": 133,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 100,
+  "powerKW": 720,
+  "tractionForceKN": 96.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

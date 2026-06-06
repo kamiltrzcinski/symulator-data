@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595237,
+  "typeName": "ST44",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 17.55,
+  "axleCount": 6,
+  "massEmptyT": 117,
+  "massGrossT": 117,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 100,
+  "powerKW": 1472,
+  "tractionForceKN": 300.0,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": true
+}

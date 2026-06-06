@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595338,
+  "typeName": "Tr12",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 17.535,
+  "axleCount": 4,
+  "massEmptyT": 107,
+  "massGrossT": 107,
+  "maxSpeedKmh": 60,
+  "brakingLambdaPct": 100,
+  "powerKW": 809,
+  "tractionForceKN": 107.9,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

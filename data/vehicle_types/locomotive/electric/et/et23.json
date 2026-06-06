@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595308,
+  "typeName": "ET23",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 18.8,
+  "axleCount": 6,
+  "massEmptyT": 124.2,
+  "massGrossT": 124.2,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 110,
+  "powerKW": 2790,
+  "tractionForceKN": 382.2,
+  "family": "PKP Electric Freight",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

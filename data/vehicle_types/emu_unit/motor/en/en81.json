@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595148,
+  "typeName": "EN81",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 26.53,
+  "axleCount": 8,
+  "massEmptyT": 53,
+  "massGrossT": 53,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 560,
+  "tractionForceKN": 80.0,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

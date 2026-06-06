@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595112,
+  "typeName": "LM-4268",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 63.2,
+  "axleCount": 8,
+  "massEmptyT": 109,
+  "massGrossT": 109,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 1400,
+  "tractionForceKN": 200.0,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

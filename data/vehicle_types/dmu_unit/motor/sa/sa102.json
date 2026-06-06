@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595084,
+  "typeName": "SA102",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 46.3,
+  "axleCount": 8,
+  "massEmptyT": 82,
+  "massGrossT": 82,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 80,
+  "powerKW": 400,
+  "tractionForceKN": 57.1,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

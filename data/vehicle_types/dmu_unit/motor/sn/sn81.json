@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595105,
+  "typeName": "SN81",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 16.5,
+  "axleCount": 8,
+  "massEmptyT": 23,
+  "massGrossT": 23,
+  "maxSpeedKmh": 90,
+  "brakingLambdaPct": 80,
+  "powerKW": 220,
+  "tractionForceKN": 31.4,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

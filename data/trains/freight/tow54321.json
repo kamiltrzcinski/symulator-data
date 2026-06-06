@@ -1,0 +1,11 @@
+{
+  "uid": 1112396529665,
+  "pID": "Tow 543210",
+  "displayName": "Tow 543210 Gdynia — Katowice",
+  "vehicle_uids": [
+    1108101562373,
+    1108101562371,
+    1108101562372
+  ],
+  "trainCategory": "FREIGHT"
+}

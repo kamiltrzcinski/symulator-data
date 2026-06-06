@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595303,
+  "typeName": "EP09",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 16.74,
+  "axleCount": 4,
+  "massEmptyT": 83.5,
+  "massGrossT": 83.5,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 110,
+  "powerKW": 2920,
+  "tractionForceKN": 195.0,
+  "family": "PKP Electric Passenger",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

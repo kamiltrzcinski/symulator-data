@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595114,
+  "typeName": "ED161",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 150.23,
+  "axleCount": 8,
+  "massEmptyT": 395,
+  "massGrossT": 395,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 2400,
+  "tractionForceKN": 342.9,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

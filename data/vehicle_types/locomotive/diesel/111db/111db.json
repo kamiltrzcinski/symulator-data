@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595183,
+  "typeName": "111Db",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 19.8,
+  "axleCount": 4,
+  "massEmptyT": 84,
+  "massGrossT": 84,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 100,
+  "powerKW": 2280,
+  "tractionForceKN": 325.7,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": true
+}

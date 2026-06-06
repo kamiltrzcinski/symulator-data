@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595337,
+  "typeName": "Tp4",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 18.29,
+  "axleCount": 4,
+  "massEmptyT": 115.4,
+  "massGrossT": 115.4,
+  "maxSpeedKmh": 55,
+  "brakingLambdaPct": 100,
+  "powerKW": 926,
+  "tractionForceKN": 123.5,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

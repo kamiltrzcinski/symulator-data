@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595111,
+  "typeName": "L-4268",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 45.7,
+  "axleCount": 8,
+  "massEmptyT": 90,
+  "massGrossT": 90,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 1400,
+  "tractionForceKN": 200.0,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

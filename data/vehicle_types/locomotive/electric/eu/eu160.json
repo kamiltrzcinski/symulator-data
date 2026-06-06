@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595319,
+  "typeName": "EU160",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 19.9,
+  "axleCount": 4,
+  "massEmptyT": 88,
+  "massGrossT": 88,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 110,
+  "powerKW": 5600,
+  "tractionForceKN": 373.3,
+  "family": "PKP Electric Universal",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

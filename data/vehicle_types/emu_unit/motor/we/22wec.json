@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595162,
+  "typeName": "22WEc",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 75.25,
+  "axleCount": 8,
+  "massEmptyT": 135,
+  "massGrossT": 135,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 2000,
+  "tractionForceKN": 285.7,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595186,
+  "typeName": "16D",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 16.97,
+  "axleCount": 4,
+  "massEmptyT": 116,
+  "massGrossT": 116,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 100,
+  "powerKW": 1480,
+  "tractionForceKN": 493.3,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": true
+}

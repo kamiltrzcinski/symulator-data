@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595255,
+  "typeName": "131",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 34.54,
+  "axleCount": 8,
+  "massEmptyT": 169,
+  "massGrossT": 169,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 110,
+  "powerKW": 4480,
+  "tractionForceKN": 613.7,
+  "family": "Siemens EuroSprinter",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

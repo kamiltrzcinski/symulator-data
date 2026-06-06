@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595269,
+  "typeName": "201Eo",
+  "pkpSeries": "ET22",
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 19.24,
+  "axleCount": 6,
+  "massEmptyT": 120,
+  "massGrossT": 120,
+  "maxSpeedKmh": 125,
+  "brakingLambdaPct": 110,
+  "powerKW": 3000,
+  "tractionForceKN": 411.0,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

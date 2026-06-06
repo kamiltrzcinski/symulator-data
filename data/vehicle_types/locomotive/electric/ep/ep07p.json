@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595301,
+  "typeName": "EP07P",
+  "pkpSeries": "EU07",
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 15.915,
+  "axleCount": 4,
+  "massEmptyT": 80,
+  "massGrossT": 80,
+  "maxSpeedKmh": 125,
+  "brakingLambdaPct": 110,
+  "powerKW": 2000,
+  "tractionForceKN": 274.0,
+  "family": "PKP Electric Passenger",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

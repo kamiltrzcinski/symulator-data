@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595236,
+  "typeName": "ST43",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "DIESEL",
+  "lengthM": 17,
+  "axleCount": 6,
+  "massEmptyT": 118,
+  "massGrossT": 118,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 100,
+  "powerKW": 1544,
+  "tractionForceKN": 514.7,
+  "family": "unknown",
+  "davisA": 44.145,
+  "davisB": 0.21582,
+  "davisC": 0.001962,
+  "multipleCouplingCapable": true
+}

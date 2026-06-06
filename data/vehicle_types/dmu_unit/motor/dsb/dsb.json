@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595078,
+  "typeName": "DSB",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 75.28,
+  "axleCount": 4,
+  "massEmptyT": 137.5,
+  "massGrossT": 137.5,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 810,
+  "tractionForceKN": 115.7,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

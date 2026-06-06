@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595166,
+  "typeName": "27WEb",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 114.75,
+  "axleCount": 8,
+  "massEmptyT": 211,
+  "massGrossT": 211,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 80,
+  "powerKW": 3000,
+  "tractionForceKN": 428.6,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

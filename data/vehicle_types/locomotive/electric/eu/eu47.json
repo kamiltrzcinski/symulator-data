@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595325,
+  "typeName": "EU47",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 18.9,
+  "axleCount": 4,
+  "massEmptyT": 85,
+  "massGrossT": 85,
+  "maxSpeedKmh": 160,
+  "brakingLambdaPct": 110,
+  "powerKW": 5600,
+  "tractionForceKN": 373.3,
+  "family": "PKP Electric Universal",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0024525,
+  "multipleCouplingCapable": true
+}

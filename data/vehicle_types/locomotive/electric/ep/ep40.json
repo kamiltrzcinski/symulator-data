@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595304,
+  "typeName": "EP40",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "ELECTRIC",
+  "lengthM": 34.42,
+  "axleCount": 4,
+  "massEmptyT": 164,
+  "massGrossT": 164,
+  "maxSpeedKmh": 100,
+  "brakingLambdaPct": 110,
+  "powerKW": 4080,
+  "tractionForceKN": 558.9,
+  "family": "PKP Electric Passenger",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

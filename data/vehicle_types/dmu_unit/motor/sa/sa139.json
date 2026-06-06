@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595102,
+  "typeName": "SA139",
+  "pkpSeries": null,
+  "vehicleType": "DMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 43.73,
+  "axleCount": 8,
+  "massEmptyT": 84.5,
+  "massGrossT": 84.5,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 780,
+  "tractionForceKN": 111.4,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": true
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595157,
+  "typeName": "19WE",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 85.273,
+  "axleCount": 8,
+  "massEmptyT": 190,
+  "massGrossT": 190,
+  "maxSpeedKmh": 130,
+  "brakingLambdaPct": 80,
+  "powerKW": 2240,
+  "tractionForceKN": 320.0,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}

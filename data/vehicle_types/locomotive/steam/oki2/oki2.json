@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595329,
+  "typeName": "OKi2",
+  "pkpSeries": null,
+  "vehicleType": "LOCOMOTIVE",
+  "vehicleSubtype": "STEAM",
+  "lengthM": 11.8,
+  "axleCount": 4,
+  "massEmptyT": 65.9,
+  "massGrossT": 65.9,
+  "maxSpeedKmh": 80,
+  "brakingLambdaPct": 100,
+  "powerKW": 640,
+  "tractionForceKN": 85.3,
+  "family": "unknown",
+  "davisA": 39.24,
+  "davisB": 0.1962,
+  "davisC": 0.0017658,
+  "multipleCouplingCapable": false
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 1103806595125,
+  "typeName": "EN57AKM",
+  "pkpSeries": null,
+  "vehicleType": "EMU_UNIT",
+  "vehicleSubtype": "MOTOR",
+  "lengthM": 64.97,
+  "axleCount": 12,
+  "massEmptyT": 123,
+  "massGrossT": 123,
+  "maxSpeedKmh": 120,
+  "brakingLambdaPct": 80,
+  "powerKW": 1000,
+  "tractionForceKN": 142.9,
+  "family": "unknown",
+  "davisA": 34.335,
+  "davisB": 0.17658,
+  "davisC": 0.0014715,
+  "multipleCouplingCapable": true
+}
