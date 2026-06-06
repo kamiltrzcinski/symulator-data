@@ -14,6 +14,7 @@ jobs:
       vehicles: ${{ steps.filter.outputs.vehicles }}
       vehicle_types: ${{ steps.filter.outputs.vehicle_types }}
       schedules: ${{ steps.filter.outputs.schedules }}
+      carriers: ${{ steps.filter.outputs.carriers }}
     steps:
       - uses: actions/checkout@v4
       - uses: dorny/paths-filter@v3
@@ -28,6 +29,8 @@ jobs:
               - 'data/vehicle_types/**'
             schedules:
               - 'data/schedules/**'
+            carriers:
+              - 'data/carriers/**'
 
   build-version:
     runs-on: ubuntu-latest
@@ -77,11 +80,15 @@ jobs:
           - name: schedules
             path: data/schedules
             changed: ${{ needs.detect-changes.outputs.schedules }}
+          - name: carriers
+            path: data/carriers
+            changed: ${{ needs.detect-changes.outputs.carriers }}
     if: >
       needs.detect-changes.outputs.trains == 'true' ||
       needs.detect-changes.outputs.vehicles == 'true' ||
       needs.detect-changes.outputs.vehicle_types == 'true' ||
-      needs.detect-changes.outputs.schedules == 'true'
+      needs.detect-changes.outputs.schedules == 'true' ||
+      needs.detect-changes.outputs.carriers == 'true'
     steps:
       - uses: actions/checkout@v4
       - name: Package ${{ matrix.name }}

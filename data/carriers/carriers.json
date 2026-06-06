@@ -1,0 +1,1374 @@
+{
+  "carriers": [
+    {
+      "id": 1116691496961,
+      "name": "ALZA Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496962,
+      "name": "Arriva RP Sp. z o.o.",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496963,
+      "name": "AWT-TU",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496964,
+      "name": "BARTER S.A.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496965,
+      "name": "BARTEX PLUS",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496966,
+      "name": "Bartex Spółka z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496967,
+      "name": "B.R.S",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496968,
+      "name": "Budimex Kolejnictwo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496969,
+      "name": "Captrain Polska",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496970,
+      "name": "CARGO Master",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496971,
+      "name": "Cargo POL",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496972,
+      "name": "CARGO PT T Sp. z o.o. SK",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496973,
+      "name": "CARGO PTP",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496974,
+      "name": "ČD Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496975,
+      "name": "ČD Cargo Poland",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496976,
+      "name": "CE-DROB",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496977,
+      "name": "CEMET",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496978,
+      "name": "Centrum Logist. Łososna",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496979,
+      "name": "České Dráhy",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496980,
+      "name": "CIECH Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496981,
+      "name": "CL-CARGO",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496982,
+      "name": "COLAS Rail Polska",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496983,
+      "name": "CTL Express",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496984,
+      "name": "CTL Kargo Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496985,
+      "name": "CTL Kolzap Spółka z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496986,
+      "name": "CTL Logistics Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496987,
+      "name": "CTL Północ Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496988,
+      "name": "CTL Rail Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496989,
+      "name": "CTL Reggio",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496990,
+      "name": "CTL Train",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496991,
+      "name": "DB Cargo Spedkol",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496992,
+      "name": "DB Kolchem",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496993,
+      "name": "DB Netz AGRS",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496994,
+      "name": "DB Rail Coaltran",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496995,
+      "name": "DB Cargo Polska",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496996,
+      "name": "DB Rail Rybnik S.A.",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496997,
+      "name": "DB Rail Zabrze S.A.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496998,
+      "name": "DEPOL",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691496999,
+      "name": "DOLATA",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497000,
+      "name": "DOLKOM Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497001,
+      "name": "Dolnośląskie Linie Autobusowe",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497002,
+      "name": "Ecco Rail Spółka z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497003,
+      "name": "EP Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497004,
+      "name": "EURONAFT Trzebinia",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497005,
+      "name": "EUROTRANS",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497006,
+      "name": "EXPLEO",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497007,
+      "name": "F.H.U. ORION Kolej",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497008,
+      "name": "FDM-REW",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497009,
+      "name": "Freightliner PL",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497010,
+      "name": "GATX Rail Poland",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497011,
+      "name": "GreenChip Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497012,
+      "name": "GT-RAIL",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497013,
+      "name": "HAGANS Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497014,
+      "name": "HSL Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497015,
+      "name": "IGL",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497016,
+      "name": "Inter Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497017,
+      "name": "IRT",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497018,
+      "name": "JD",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497019,
+      "name": "JSW Logistics",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497020,
+      "name": "KARPIEL",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497021,
+      "name": "Kolej Bałtycka",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497022,
+      "name": "Koleje Dolnośląskie S.A.",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497023,
+      "name": "Koleje Małopolskie",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497024,
+      "name": "Koleje Mazowieckie",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497025,
+      "name": "Koleje Śląskie Sp. z o.o.",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497026,
+      "name": "Koleje Wielkopolskie",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497027,
+      "name": "Koleje Wschodnie",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497028,
+      "name": "KOLPREM",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497029,
+      "name": "KOLTAR",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497030,
+      "name": "KP Kotlarnia",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497031,
+      "name": "LAUDE SMART",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497032,
+      "name": "LEO Express",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497033,
+      "name": "LG-Cargo",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497034,
+      "name": "Łódzka Kolej Aglomeracyjna",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497035,
+      "name": "Logistics & Transport",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497036,
+      "name": "LOKOMOTIV",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497037,
+      "name": "LokoTrain",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497038,
+      "name": "Loreco",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497039,
+      "name": "LOTOS Kolej",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497040,
+      "name": "LTE Polska",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497041,
+      "name": "Lubelski Węgiel BOGDANKA",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497042,
+      "name": "Maczki Bór",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497043,
+      "name": "MAJKOLTRANS",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497044,
+      "name": "METRANS (Polonia)",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497045,
+      "name": "MEGA-MET Polska",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497046,
+      "name": "Mobil Lok Servis",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497047,
+      "name": "MORIS",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497048,
+      "name": "NBE Rail Polska",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497049,
+      "name": "NEWAG",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497050,
+      "name": "NKN Usługi Kolejowe",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497051,
+      "name": "NZTK Bieruń",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497052,
+      "name": "Obsł. przew. - Energet.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497053,
+      "name": "Obsł. przew. - Telekom.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497054,
+      "name": "EURASIAN RAILWAY CARRIER",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497055,
+      "name": "ODEG Ostdeutsche",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497056,
+      "name": "OLAVION",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497057,
+      "name": "Omniloko",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497058,
+      "name": "Orion Rail Logistics",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497059,
+      "name": "ORLEN KolTrans",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497060,
+      "name": "OT Rail",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497061,
+      "name": "OST-WEST",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497062,
+      "name": "Parowozownia Wolsztyn",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497063,
+      "name": "PCC Intermodal S.A.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497064,
+      "name": "PHILIP Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497065,
+      "name": "PKP Cargo",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497066,
+      "name": "PKP Cargo International",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497067,
+      "name": "PKP Cargo Service",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497068,
+      "name": "PKP Energetyka S.A.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497069,
+      "name": "PKP Intercity",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497070,
+      "name": "PKP PLK",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497071,
+      "name": "PKP SKM Trójmiasto",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497072,
+      "name": "PN i UIK Kraków",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497073,
+      "name": "PNI Warszawa",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497074,
+      "name": "POL-MIEDŹ",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497075,
+      "name": "POLREGIO",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497076,
+      "name": "POZ BRUK",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497077,
+      "name": "PPMT - Gdańsk",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497078,
+      "name": "PRK i I Wrocław",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497079,
+      "name": "PRK Kraków",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497080,
+      "name": "PROTOR",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497081,
+      "name": "RAIL POLONIA",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497082,
+      "name": "Rail Polska",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497083,
+      "name": "RAIL STM",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497084,
+      "name": "Rail Cargo Carrier",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497085,
+      "name": "Rail Trans s.r.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497086,
+      "name": "RAIL-TRANS",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497087,
+      "name": "RCO",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497088,
+      "name": "SILVA",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497089,
+      "name": "SKM Warszawa",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497090,
+      "name": "SKPL",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497091,
+      "name": "SK-TRAIN",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497092,
+      "name": "STK S.A.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497093,
+      "name": "Świetelsky Rail Polska",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497094,
+      "name": "Zakłady TABOR M. Dybowski",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497095,
+      "name": "TAB-SZYN",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497096,
+      "name": "T&C",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497097,
+      "name": "TKol",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497098,
+      "name": "TKP-Silesia",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497099,
+      "name": "TORPOL Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497100,
+      "name": "TORREMS",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497101,
+      "name": "Track Tec Rail",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497102,
+      "name": "Track Tec Logistics",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497103,
+      "name": "Trainspeed",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497104,
+      "name": "Trakcja PRKiI",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497105,
+      "name": "TRANSCHEM Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497106,
+      "name": "TRANSKOL",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497107,
+      "name": "UN - DPNIK DOLKOM",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497108,
+      "name": "UN - PKP Energetyka",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497109,
+      "name": "UN - PKP PLK",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497110,
+      "name": "UN - PN i UIK Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497111,
+      "name": "UN - PPM-T Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497112,
+      "name": "UN - PUIK Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497113,
+      "name": "UN - ZNI Radom",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497114,
+      "name": "UN - PNI Warszawa",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497115,
+      "name": "UN - ZNI Stargard Szczec.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497116,
+      "name": "UN - ZRK DOM Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497117,
+      "name": "VOGT-CES Vogtlandbahn",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497118,
+      "name": "WAM Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497119,
+      "name": "WISKOL",
+      "type": [
+        "passenger",
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497120,
+      "name": "X-Train",
+      "type": [
+        "passenger"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497121,
+      "name": "ZIKSPJAW",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497122,
+      "name": "ZNI Katowice",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497123,
+      "name": "ZNI Radom",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497124,
+      "name": "ZNI Stargard Szczeciński",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497125,
+      "name": "ZNI Warszawa",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497126,
+      "name": "ZNLE",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497127,
+      "name": "ZRK DOM Sp. z o.o.",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    },
+    {
+      "id": 1116691497128,
+      "name": "ZUE",
+      "type": [
+        "freight"
+      ],
+      "logo": null
+    }
+  ]
+}
