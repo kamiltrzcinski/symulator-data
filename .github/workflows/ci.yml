@@ -11,21 +11,3 @@ jobs:
         with:
           python-version: '3.12'
       - run: python3 scripts/precommit_validate.py
-
-  build-tools:
-    strategy:
-      matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]
-    runs-on: ${{ matrix.os }}
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: pip install pyinstaller
-      - run: pyinstaller --onefile tools/uid-generator/main.py -n uid-generator
-      - run: pyinstaller --onefile tools/vehicle-browser/main.py -n vehicle-browser
-      - uses: actions/upload-artifact@v4
-        with:
-          name: tools-${{ matrix.os }}
-          path: dist/

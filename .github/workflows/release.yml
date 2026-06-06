@@ -6,36 +6,6 @@ on:
       - 'v*'
 
 jobs:
-  build-and-release:
-    strategy:
-      matrix:
-        include:
-          - os: ubuntu-latest
-            suffix: linux
-          - os: windows-latest
-            suffix: windows
-            exe: .exe
-          - os: macos-latest
-            suffix: macos
-    runs-on: ${{ matrix.os }}
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: pip install pyinstaller
-      - run: pyinstaller --onefile tools/uid-generator/main.py -n uid-generator
-      - run: pyinstaller --onefile tools/vehicle-browser/main.py -n vehicle-browser
-      - name: Rename binaries
-        shell: bash
-        run: |
-          mv dist/uid-generator${{ matrix.exe }} dist/uid-generator-${{ matrix.suffix }}${{ matrix.exe }}
-          mv dist/vehicle-browser${{ matrix.exe }} dist/vehicle-browser-${{ matrix.suffix }}${{ matrix.exe }}
-      - uses: actions/upload-artifact@v4
-        with:
-          name: binaries-${{ matrix.suffix }}
-          path: dist/
-
   package-data:
     runs-on: ubuntu-latest
     steps:
@@ -50,7 +20,7 @@ jobs:
           path: symulator-data-*.zip
 
   create-release:
-    needs: [build-and-release, package-data]
+    needs: [package-data]
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -61,11 +31,4 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: |
-            artifacts/binaries-linux/uid-generator-linux
-            artifacts/binaries-linux/vehicle-browser-linux
-            artifacts/binaries-windows/uid-generator-windows.exe
-            artifacts/binaries-windows/vehicle-browser-windows.exe
-            artifacts/binaries-macos/uid-generator-macos
-            artifacts/binaries-macos/vehicle-browser-macos
-            artifacts/data-package/symulator-data-*.zip
+          files: artifacts/data-package/symulator-data-*.zip
