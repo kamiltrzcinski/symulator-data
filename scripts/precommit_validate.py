@@ -8,7 +8,8 @@ Checks performed:
   - No duplicate UIDs within a single file
   - No duplicate UIDs across ALL files (global cross-file check)
   - vehicle_uids in trains reference existing vehicle UIDs
-  - schedules/ files have required 'uid' and 'vehicle_uids' fields
+  - operating_points.json contains valid unique UIDs and unique names
+  - schedules/ files have required 'uid' and valid 'stationName' references from operating_points.json
 
 Exit code: 0 on success, 1 on any validation failure.
 """
@@ -111,7 +112,7 @@ def validate_vehicle_types() -> None:
     seen: dict[int, str] = {}
     count = 0
     for path in sorted(types_dir.rglob("*.json")):
-        with open(path) as f:
+        with open(path, "r", encoding="utf-8") as f:
             try:
                 obj = json.load(f)
             except json.JSONDecodeError as e:
@@ -146,7 +147,7 @@ def validate_vehicles() -> dict[int, str]:
     seen: dict[int, str] = {}
     count = 0
     for path in sorted(vehicles_dir.rglob("vehicle.json")):
-        with open(path) as f:
+        with open(path, "r", encoding="utf-8") as f:
             try:
                 obj = json.load(f)
             except json.JSONDecodeError as e:
@@ -187,7 +188,7 @@ def validate_trains(vehicle_uids: dict[int, str]) -> None:
     seen: dict[int, str] = {}
     count = 0
     for path in sorted(trains_dir.rglob("*.json")):
-        with open(path) as f:
+        with open(path, "r", encoding="utf-8") as f:
             try:
                 obj = json.load(f)
             except json.JSONDecodeError as e:
@@ -219,15 +220,75 @@ def validate_trains(vehicle_uids: dict[int, str]) -> None:
     print(f"  Checked {count} train file(s)")
 
 
-def validate_schedules() -> None:
-    schedules_dir = ROOT / "schedules"
-    if not schedules_dir.exists():
-        return
+def validate_operating_points() -> dict[str, int]:
+    op_path = ROOT / "data" / "operating_points" / "operating_points.json"
+    if not op_path.exists():
+        return {}
+
+    seen_uids: dict[int, str] = {}
+    name_to_uid: dict[str, int] = {}
+    rel = str(op_path.relative_to(ROOT))
+
+    with open(op_path, "r", encoding="utf-8") as f:
+        try:
+            records = json.load(f)
+        except json.JSONDecodeError as e:
+            err(rel, f"JSON parse error: {e}")
+            return {}
+
+    if not isinstance(records, list):
+        err(rel, "operating_points.json must be a JSON array")
+        return {}
+
+    for idx, item in enumerate(records):
+        if not isinstance(item, dict):
+            err(rel, f"item at index {idx} is not an object")
+            continue
+
+        if "uid" not in item:
+            err(rel, f"item at index {idx} missing 'uid'")
+            continue
+        if "name" not in item or not isinstance(item["name"], str) or not item["name"].strip():
+            err(rel, f"item at index {idx} missing or invalid 'name'")
+            continue
+
+        uid_val = item["uid"]
+        name = item["name"].strip()
+
+        if validate_uid(uid_val, f"operating_points[{idx}].uid", rel):
+            kind = uid_kind(uid_val)
+            if kind != 0x11:
+                err(rel, f"uid {uid_val:#x} for '{name}' KIND {kind:#x} is not STATION (0x11)")
+            domain = uid_domain(uid_val)
+            if domain != 0x02:
+                err(rel, f"uid {uid_val:#x} for '{name}' DOMAIN {domain:#x} is not INFRASTRUCTURE (0x02)")
+
+            if uid_val in seen_uids:
+                err(rel, f"duplicate operating point uid {uid_val} (used by '{name}' and '{seen_uids[uid_val]}')")
+            else:
+                seen_uids[uid_val] = name
+                register_global(uid_val, rel)
+
+        if name in name_to_uid:
+            err(rel, f"duplicate operating point name: '{name}'")
+        else:
+            name_to_uid[name] = uid_val
+
+    print(f"  Checked {len(records)} operating point(s)")
+    return name_to_uid
+
+
+def validate_schedules(operating_points: dict[str, int]) -> None:
+    schedule_dirs = [ROOT / "data" / "schedules", ROOT / "schedules"]
+    files: list[Path] = []
+    for s_dir in schedule_dirs:
+        if s_dir.exists():
+            files.extend(s_dir.rglob("*.json"))
 
     seen: dict[int, str] = {}
     count = 0
-    for path in sorted(schedules_dir.rglob("*.json")):
-        with open(path) as f:
+    for path in sorted(set(files)):
+        with open(path, "r", encoding="utf-8") as f:
             try:
                 obj = json.load(f)
             except json.JSONDecodeError as e:
@@ -250,6 +311,30 @@ def validate_schedules() -> None:
         if "vehicle_uids" in obj and not isinstance(obj["vehicle_uids"], list):
             err(rel, "'vehicle_uids' must be a list")
 
+        if "route" in obj and isinstance(obj["route"], list):
+            for stop_idx, stop in enumerate(obj["route"]):
+                if not isinstance(stop, dict):
+                    err(rel, f"route[{stop_idx}] is not an object")
+                    continue
+                station_name = stop.get("stationName")
+                if not station_name:
+                    err(rel, f"route[{stop_idx}] missing 'stationName'")
+                    continue
+
+                if operating_points and station_name not in operating_points:
+                    err(rel, f"route[{stop_idx}] references unknown operating point: '{station_name}'")
+
+                if "point_uid" in stop:
+                    p_uid = stop["point_uid"]
+                    if validate_uid(p_uid, f"route[{stop_idx}].point_uid", rel):
+                        if operating_points and station_name in operating_points:
+                            expected_uid = operating_points[station_name]
+                            if p_uid != expected_uid:
+                                err(
+                                    rel,
+                                    f"route[{stop_idx}] point_uid {p_uid} does not match registered UID {expected_uid} for '{station_name}'"
+                                )
+
         count += 1
 
     print(f"  Checked {count} schedule file(s)")
@@ -257,6 +342,9 @@ def validate_schedules() -> None:
 
 def main() -> int:
     print("=== symulator-data UID Validation ===")
+
+    print("\n-- Operating points --")
+    operating_points = validate_operating_points()
 
     print("\n-- Vehicle types --")
     validate_vehicle_types()
@@ -268,7 +356,7 @@ def main() -> int:
     validate_trains(vehicle_uids)
 
     print("\n-- Schedules --")
-    validate_schedules()
+    validate_schedules(operating_points)
 
     print(f"\n-- Global cross-file check: {len(global_uids)} unique UIDs total --")
 
