@@ -9,3 +9,4 @@ openspec/
 .continue/
 .codex/
 .claude/
+.topology_cache.pkl
