@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715152,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawiercie Borowe Pole",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 270300
+    },
+    {
+      "line_no": "1",
+      "meter": 270300
+    },
+    {
+      "line_no": "1",
+      "meter": 270300
+    }
+  ]
+}

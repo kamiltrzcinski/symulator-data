@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709552,
+  "type": "TIMETABLE_POINT",
+  "name": "Dwory Z-Dy Chem.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "886",
+      "meter": 2300
+    },
+    {
+      "line_no": "886",
+      "meter": 2301
+    },
+    {
+      "line_no": "886",
+      "meter": 2301
+    }
+  ]
+}

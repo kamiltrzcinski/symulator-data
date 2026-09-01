@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709032,
+  "type": "TIMETABLE_POINT",
+  "name": "Cesky Tesin Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "591",
+      "meter": 318486
+    },
+    {
+      "line_no": "591",
+      "meter": 318486
+    }
+  ]
+}

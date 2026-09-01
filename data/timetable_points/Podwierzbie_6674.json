@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712658,
+  "type": "TIMETABLE_POINT",
+  "name": "Podwierzbie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 93300
+    },
+    {
+      "line_no": "27",
+      "meter": 93300
+    }
+  ]
+}

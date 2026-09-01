@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710134,
+  "type": "TIMETABLE_POINT",
+  "name": "Huta Czechy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 104620
+    },
+    {
+      "line_no": "12",
+      "meter": 104620
+    },
+    {
+      "line_no": "12",
+      "meter": 104620
+    },
+    {
+      "line_no": "12",
+      "meter": 104620
+    },
+    {
+      "line_no": "12",
+      "meter": 104620
+    }
+  ]
+}

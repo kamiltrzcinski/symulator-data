@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714681,
+  "type": "TIMETABLE_POINT",
+  "name": "Widuchowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 318966
+    },
+    {
+      "line_no": "273",
+      "meter": 318966
+    },
+    {
+      "line_no": "273",
+      "meter": 318966
+    }
+  ]
+}

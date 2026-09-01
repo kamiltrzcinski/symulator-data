@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708522,
+  "type": "TIMETABLE_POINT",
+  "name": "Adampol R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "561",
+      "meter": 3626
+    },
+    {
+      "line_no": "562",
+      "meter": 83
+    }
+  ]
+}

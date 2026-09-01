@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713833,
+  "type": "TIMETABLE_POINT",
+  "name": "Sycze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 62726
+    },
+    {
+      "line_no": "31",
+      "meter": 62726
+    },
+    {
+      "line_no": "31",
+      "meter": 62851
+    },
+    {
+      "line_no": "31",
+      "meter": 62851
+    },
+    {
+      "line_no": "31",
+      "meter": 62851
+    }
+  ]
+}

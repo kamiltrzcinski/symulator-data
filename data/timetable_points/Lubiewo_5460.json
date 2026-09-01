@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711444,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubiewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 88518
+    },
+    {
+      "line_no": "401",
+      "meter": 88518
+    },
+    {
+      "line_no": "996",
+      "meter": 0
+    },
+    {
+      "line_no": "996",
+      "meter": 0
+    },
+    {
+      "line_no": "996",
+      "meter": 0
+    },
+    {
+      "line_no": "996",
+      "meter": 0
+    }
+  ]
+}

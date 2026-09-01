@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713932,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Trzebusz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 3876
+    },
+    {
+      "line_no": "401",
+      "meter": 4067
+    }
+  ]
+}

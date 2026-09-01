@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714760,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilkowice Bystra",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 64292
+    },
+    {
+      "line_no": "139",
+      "meter": 64296
+    },
+    {
+      "line_no": "139",
+      "meter": 64296
+    },
+    {
+      "line_no": "139",
+      "meter": 64296
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708620,
+  "type": "TIMETABLE_POINT",
+  "name": "Bernacice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 31402
+    }
+  ]
+}

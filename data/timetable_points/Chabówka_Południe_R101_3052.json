@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709036,
+  "type": "TIMETABLE_POINT",
+  "name": "Chab\u00f3wka Po\u0142udnie R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 33300
+    },
+    {
+      "line_no": "98",
+      "meter": 33300
+    },
+    {
+      "line_no": "633",
+      "meter": 0
+    }
+  ]
+}

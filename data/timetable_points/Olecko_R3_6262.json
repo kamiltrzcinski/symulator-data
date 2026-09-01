@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712246,
+  "type": "TIMETABLE_POINT",
+  "name": "Olecko R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "39",
+      "meter": 643
+    },
+    {
+      "line_no": "41",
+      "meter": 26843
+    },
+    {
+      "line_no": "41",
+      "meter": 26843
+    }
+  ]
+}

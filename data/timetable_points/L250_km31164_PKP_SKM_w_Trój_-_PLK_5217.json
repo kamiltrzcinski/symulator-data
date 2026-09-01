@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711201,
+  "type": "TIMETABLE_POINT",
+  "name": "L250 km:31,164 PKP SKM w Tr\u00f3j - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 31164
+    },
+    {
+      "line_no": "250",
+      "meter": 31164
+    }
+  ]
+}

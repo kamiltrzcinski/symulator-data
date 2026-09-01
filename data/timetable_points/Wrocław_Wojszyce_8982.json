@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714966,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Wojszyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 6525
+    },
+    {
+      "line_no": "285",
+      "meter": 6525
+    },
+    {
+      "line_no": "285",
+      "meter": 6525
+    },
+    {
+      "line_no": "285",
+      "meter": 6842
+    },
+    {
+      "line_no": "285",
+      "meter": 6842
+    }
+  ]
+}

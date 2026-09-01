@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713783,
+  "type": "TIMETABLE_POINT",
+  "name": "Sucha \u017byrardowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 50033
+    },
+    {
+      "line_no": "1",
+      "meter": 50033
+    },
+    {
+      "line_no": "1",
+      "meter": 50033
+    },
+    {
+      "line_no": "1",
+      "meter": 50033
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715064,
+  "type": "TIMETABLE_POINT",
+  "name": "Zagna\u0144sk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 171297
+    },
+    {
+      "line_no": "8",
+      "meter": 171297
+    },
+    {
+      "line_no": "8",
+      "meter": 171297
+    },
+    {
+      "line_no": "8",
+      "meter": 171297
+    },
+    {
+      "line_no": "8",
+      "meter": 171297
+    }
+  ]
+}

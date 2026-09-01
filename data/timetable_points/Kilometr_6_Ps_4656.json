@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710640,
+  "type": "TIMETABLE_POINT",
+  "name": "Kilometr 6 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 122100
+    },
+    {
+      "line_no": "4",
+      "meter": 122100
+    },
+    {
+      "line_no": "4",
+      "meter": 122100
+    }
+  ]
+}

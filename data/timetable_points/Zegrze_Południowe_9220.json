@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715204,
+  "type": "TIMETABLE_POINT",
+  "name": "Zegrze Po\u0142udniowe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "28",
+      "meter": 2838
+    },
+    {
+      "line_no": "28",
+      "meter": 3200
+    },
+    {
+      "line_no": "28",
+      "meter": 3200
+    },
+    {
+      "line_no": "28",
+      "meter": 3341
+    },
+    {
+      "line_no": "28",
+      "meter": 3485
+    },
+    {
+      "line_no": "28",
+      "meter": 3485
+    },
+    {
+      "line_no": "28",
+      "meter": 3485
+    },
+    {
+      "line_no": "28",
+      "meter": 3485
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709734,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Port Gpa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 206019
+    },
+    {
+      "line_no": "201",
+      "meter": 206360
+    },
+    {
+      "line_no": "201",
+      "meter": 206360
+    },
+    {
+      "line_no": "201",
+      "meter": 206360
+    },
+    {
+      "line_no": "725",
+      "meter": 1120
+    },
+    {
+      "line_no": "725",
+      "meter": 1120
+    },
+    {
+      "line_no": "725",
+      "meter": 1120
+    },
+    {
+      "line_no": "725",
+      "meter": 1219
+    },
+    {
+      "line_no": "725",
+      "meter": 1219
+    }
+  ]
+}

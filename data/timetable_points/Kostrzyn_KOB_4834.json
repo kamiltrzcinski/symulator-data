@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710818,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn KOB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 256506
+    },
+    {
+      "line_no": "273",
+      "meter": 256506
+    },
+    {
+      "line_no": "273",
+      "meter": 256506
+    },
+    {
+      "line_no": "273",
+      "meter": 256506
+    },
+    {
+      "line_no": "827",
+      "meter": 1860
+    },
+    {
+      "line_no": "828",
+      "meter": 1
+    }
+  ]
+}

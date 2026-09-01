@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713519,
+  "type": "TIMETABLE_POINT",
+  "name": "Soko\u0142owo Wrzes.Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 252953
+    },
+    {
+      "line_no": "3",
+      "meter": 252953
+    },
+    {
+      "line_no": "3",
+      "meter": 252961
+    },
+    {
+      "line_no": "807",
+      "meter": 0
+    },
+    {
+      "line_no": "807",
+      "meter": 0
+    },
+    {
+      "line_no": "807",
+      "meter": 9
+    }
+  ]
+}

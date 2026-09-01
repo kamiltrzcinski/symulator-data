@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713450,
+  "type": "TIMETABLE_POINT",
+  "name": "Skupowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "59",
+      "meter": 23256
+    }
+  ]
+}

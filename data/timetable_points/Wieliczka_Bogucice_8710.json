@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714694,
+  "type": "TIMETABLE_POINT",
+  "name": "Wieliczka Bogucice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "109",
+      "meter": 3271
+    },
+    {
+      "line_no": "109",
+      "meter": 3271
+    },
+    {
+      "line_no": "109",
+      "meter": 3271
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713237,
+  "type": "TIMETABLE_POINT",
+  "name": "Ry\u017cyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 34143
+    },
+    {
+      "line_no": "368",
+      "meter": 34143
+    }
+  ]
+}

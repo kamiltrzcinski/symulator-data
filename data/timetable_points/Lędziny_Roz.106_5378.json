@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711362,
+  "type": "TIMETABLE_POINT",
+  "name": "L\u0119dziny Roz.106",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 20486
+    },
+    {
+      "line_no": "884",
+      "meter": 0
+    }
+  ]
+}

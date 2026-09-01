@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709070,
+  "type": "TIMETABLE_POINT",
+  "name": "Chlastawa Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 382666
+    },
+    {
+      "line_no": "3",
+      "meter": 382666
+    },
+    {
+      "line_no": "819",
+      "meter": 0
+    }
+  ]
+}

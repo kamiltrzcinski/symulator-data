@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710581,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119dzierzyn-Ko\u017ale R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "199",
+      "meter": 63089
+    },
+    {
+      "line_no": "199",
+      "meter": 63089
+    },
+    {
+      "line_no": "199",
+      "meter": 63089
+    },
+    {
+      "line_no": "872",
+      "meter": 63089
+    },
+    {
+      "line_no": "872",
+      "meter": 63089
+    },
+    {
+      "line_no": "872",
+      "meter": 63089
+    }
+  ]
+}

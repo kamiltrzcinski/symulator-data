@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712360,
+  "type": "TIMETABLE_POINT",
+  "name": "Os\u0142awica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": 43027
+    },
+    {
+      "line_no": "107",
+      "meter": 43027
+    }
+  ]
+}

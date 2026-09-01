@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709198,
+  "type": "TIMETABLE_POINT",
+  "name": "Cieszyn Uniwersytet",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 37581
+    },
+    {
+      "line_no": "190",
+      "meter": 37765
+    }
+  ]
+}

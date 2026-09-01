@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709600,
+  "type": "TIMETABLE_POINT",
+  "name": "Florek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 6150
+    },
+    {
+      "line_no": "33",
+      "meter": 6150
+    },
+    {
+      "line_no": "33",
+      "meter": 6150
+    },
+    {
+      "line_no": "33",
+      "meter": 6150
+    }
+  ]
+}

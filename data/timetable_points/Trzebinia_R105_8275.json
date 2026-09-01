@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714259,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebinia R105",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": -602
+    },
+    {
+      "line_no": "93",
+      "meter": -574
+    },
+    {
+      "line_no": "860",
+      "meter": 2722
+    },
+    {
+      "line_no": "860",
+      "meter": 2785
+    }
+  ]
+}

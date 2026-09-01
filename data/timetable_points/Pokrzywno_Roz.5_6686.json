@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712670,
+  "type": "TIMETABLE_POINT",
+  "name": "Pokrzywno Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "352",
+      "meter": 9287
+    },
+    {
+      "line_no": "824",
+      "meter": -52
+    }
+  ]
+}

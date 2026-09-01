@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709059,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142m \u015al\u0105ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "138",
+      "meter": 8531
+    },
+    {
+      "line_no": "138",
+      "meter": 8531
+    },
+    {
+      "line_no": "138",
+      "meter": 8531
+    }
+  ]
+}

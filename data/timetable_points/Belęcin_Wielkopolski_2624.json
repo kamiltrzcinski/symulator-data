@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708608,
+  "type": "TIMETABLE_POINT",
+  "name": "Bel\u0119cin Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "359",
+      "meter": 58395
+    },
+    {
+      "line_no": "359",
+      "meter": 58415
+    }
+  ]
+}

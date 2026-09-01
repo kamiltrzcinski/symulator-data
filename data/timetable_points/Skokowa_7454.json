@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713438,
+  "type": "TIMETABLE_POINT",
+  "name": "Skokowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 35832
+    },
+    {
+      "line_no": "271",
+      "meter": 36239
+    },
+    {
+      "line_no": "271",
+      "meter": 36239
+    },
+    {
+      "line_no": "271",
+      "meter": 36832
+    }
+  ]
+}

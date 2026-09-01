@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709711,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Chylonia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 26172
+    },
+    {
+      "line_no": "202",
+      "meter": 26172
+    },
+    {
+      "line_no": "202",
+      "meter": 26172
+    },
+    {
+      "line_no": "202",
+      "meter": 26172
+    },
+    {
+      "line_no": "250",
+      "meter": 26172
+    },
+    {
+      "line_no": "250",
+      "meter": 26172
+    },
+    {
+      "line_no": "250",
+      "meter": 26172
+    },
+    {
+      "line_no": "250",
+      "meter": 26172
+    },
+    {
+      "line_no": "723",
+      "meter": 0
+    },
+    {
+      "line_no": "723",
+      "meter": 0
+    },
+    {
+      "line_no": "723",
+      "meter": 0
+    },
+    {
+      "line_no": "723",
+      "meter": 0
+    },
+    {
+      "line_no": "723",
+      "meter": 0
+    },
+    {
+      "line_no": "964",
+      "meter": 295
+    },
+    {
+      "line_no": "964",
+      "meter": 350
+    }
+  ]
+}

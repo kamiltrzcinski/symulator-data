@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712722,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Antoninek R52",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 293800
+    },
+    {
+      "line_no": "3",
+      "meter": 293800
+    },
+    {
+      "line_no": "804",
+      "meter": 311
+    }
+  ]
+}

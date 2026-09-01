@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710025,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodzisk Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 67769
+    },
+    {
+      "line_no": "357",
+      "meter": 67769
+    },
+    {
+      "line_no": "357",
+      "meter": 67769
+    },
+    {
+      "line_no": "357",
+      "meter": 67769
+    }
+  ]
+}

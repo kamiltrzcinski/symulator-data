@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710166,
+  "type": "TIMETABLE_POINT",
+  "name": "Inowroc\u0142aw Chemia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "845",
+      "meter": 2300
+    },
+    {
+      "line_no": "845",
+      "meter": 2300
+    },
+    {
+      "line_no": "845",
+      "meter": 2300
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708621,
+  "type": "TIMETABLE_POINT",
+  "name": "Bernadczyzna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 134246
+    },
+    {
+      "line_no": "31",
+      "meter": 134246
+    },
+    {
+      "line_no": "31",
+      "meter": 134246
+    },
+    {
+      "line_no": "31",
+      "meter": 134246
+    },
+    {
+      "line_no": "911",
+      "meter": -403
+    },
+    {
+      "line_no": "911",
+      "meter": -403
+    },
+    {
+      "line_no": "911",
+      "meter": 1492
+    }
+  ]
+}

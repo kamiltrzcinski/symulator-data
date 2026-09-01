@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714146,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry TGE R922",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "129",
+      "meter": 39950
+    },
+    {
+      "line_no": "129",
+      "meter": 39950
+    },
+    {
+      "line_no": "129",
+      "meter": 39950
+    },
+    {
+      "line_no": "892",
+      "meter": 0
+    },
+    {
+      "line_no": "892",
+      "meter": 0
+    }
+  ]
+}

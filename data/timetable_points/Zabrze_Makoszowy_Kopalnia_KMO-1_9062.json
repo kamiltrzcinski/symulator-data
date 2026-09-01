@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715046,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Makoszowy Kopalnia KMO-1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 18897
+    },
+    {
+      "line_no": "672",
+      "meter": 2610
+    },
+    {
+      "line_no": "672",
+      "meter": 2610
+    },
+    {
+      "line_no": "893",
+      "meter": 3011
+    },
+    {
+      "line_no": "893",
+      "meter": 3011
+    }
+  ]
+}

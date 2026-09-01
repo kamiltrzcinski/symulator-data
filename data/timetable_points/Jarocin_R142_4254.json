@@ -1,0 +1,44 @@
+{
+  "uid": 3453153710238,
+  "type": "TIMETABLE_POINT",
+  "name": "Jarocin R142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 132456
+    },
+    {
+      "line_no": "272",
+      "meter": 133809
+    },
+    {
+      "line_no": "272",
+      "meter": 133870
+    },
+    {
+      "line_no": "272",
+      "meter": 133870
+    },
+    {
+      "line_no": "272",
+      "meter": 133870
+    },
+    {
+      "line_no": "360",
+      "meter": -1118
+    },
+    {
+      "line_no": "360",
+      "meter": 203
+    },
+    {
+      "line_no": "360",
+      "meter": 264
+    },
+    {
+      "line_no": "360",
+      "meter": 264
+    }
+  ]
+}

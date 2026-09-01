@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709252,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarnob\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 56737
+    },
+    {
+      "line_no": "210",
+      "meter": 56737
+    }
+  ]
+}

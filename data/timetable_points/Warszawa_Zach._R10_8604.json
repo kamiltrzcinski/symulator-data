@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714588,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zach. R10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 2515
+    },
+    {
+      "line_no": "2",
+      "meter": -2515
+    },
+    {
+      "line_no": "3",
+      "meter": 2515
+    }
+  ]
+}

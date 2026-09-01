@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710837,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcian",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 122707
+    },
+    {
+      "line_no": "271",
+      "meter": 122707
+    },
+    {
+      "line_no": "271",
+      "meter": 122707
+    },
+    {
+      "line_no": "271",
+      "meter": 122707
+    },
+    {
+      "line_no": "366",
+      "meter": 75198
+    },
+    {
+      "line_no": "366",
+      "meter": 75198
+    },
+    {
+      "line_no": "366",
+      "meter": 75430
+    },
+    {
+      "line_no": "366",
+      "meter": 75562
+    }
+  ]
+}

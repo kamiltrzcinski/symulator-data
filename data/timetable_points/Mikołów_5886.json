@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711870,
+  "type": "TIMETABLE_POINT",
+  "name": "Miko\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 8750
+    },
+    {
+      "line_no": "140",
+      "meter": 8750
+    }
+  ]
+}

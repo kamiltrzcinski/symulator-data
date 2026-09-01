@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709725,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia G\u0142\u00f3wna R64",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 21655
+    },
+    {
+      "line_no": "202",
+      "meter": 21655
+    },
+    {
+      "line_no": "202",
+      "meter": 21655
+    },
+    {
+      "line_no": "202",
+      "meter": 21655
+    },
+    {
+      "line_no": "960",
+      "meter": 668
+    }
+  ]
+}

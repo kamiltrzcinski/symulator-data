@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709121,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Stary R75",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "145",
+      "meter": 570
+    },
+    {
+      "line_no": "145",
+      "meter": 570
+    },
+    {
+      "line_no": "145",
+      "meter": 1331
+    },
+    {
+      "line_no": "161",
+      "meter": 12915
+    },
+    {
+      "line_no": "161",
+      "meter": 12915
+    },
+    {
+      "line_no": "161",
+      "meter": 12915
+    },
+    {
+      "line_no": "161",
+      "meter": 12915
+    },
+    {
+      "line_no": "161",
+      "meter": 12915
+    }
+  ]
+}

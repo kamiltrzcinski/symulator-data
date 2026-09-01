@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714255,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebieszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "322",
+      "meter": 12221
+    },
+    {
+      "line_no": "322",
+      "meter": 12221
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711487,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubo\u0144 k.Poznania R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 158499
+    },
+    {
+      "line_no": "357",
+      "meter": 111588
+    },
+    {
+      "line_no": "357",
+      "meter": 111588
+    },
+    {
+      "line_no": "357",
+      "meter": 112748
+    },
+    {
+      "line_no": "357",
+      "meter": 112748
+    },
+    {
+      "line_no": "802",
+      "meter": 4609
+    },
+    {
+      "line_no": "802",
+      "meter": 4609
+    }
+  ]
+}

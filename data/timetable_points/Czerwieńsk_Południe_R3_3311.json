@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709295,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwie\u0144sk Po\u0142udnie R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 164077
+    },
+    {
+      "line_no": "273",
+      "meter": 164077
+    },
+    {
+      "line_no": "436",
+      "meter": 0
+    }
+  ]
+}

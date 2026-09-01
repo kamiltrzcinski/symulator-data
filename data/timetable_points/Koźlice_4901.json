@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710885,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u017alice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "289",
+      "meter": 29060
+    },
+    {
+      "line_no": "289",
+      "meter": 29218
+    },
+    {
+      "line_no": "289",
+      "meter": 29218
+    },
+    {
+      "line_no": "289",
+      "meter": 29218
+    },
+    {
+      "line_no": "289",
+      "meter": 29218
+    }
+  ]
+}

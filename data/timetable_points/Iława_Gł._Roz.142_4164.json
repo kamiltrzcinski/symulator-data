@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710148,
+  "type": "TIMETABLE_POINT",
+  "name": "I\u0142awa G\u0142. Roz.142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 229847
+    },
+    {
+      "line_no": "353",
+      "meter": 230041
+    },
+    {
+      "line_no": "353",
+      "meter": 230041
+    },
+    {
+      "line_no": "967",
+      "meter": 2253
+    },
+    {
+      "line_no": "967",
+      "meter": 2495
+    }
+  ]
+}

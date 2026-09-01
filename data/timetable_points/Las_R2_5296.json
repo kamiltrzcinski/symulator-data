@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711280,
+  "type": "TIMETABLE_POINT",
+  "name": "Las R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "290",
+      "meter": 1016
+    },
+    {
+      "line_no": "779",
+      "meter": 987
+    }
+  ]
+}

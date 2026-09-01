@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712265,
+  "type": "TIMETABLE_POINT",
+  "name": "Olszanka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "288",
+      "meter": 40197
+    },
+    {
+      "line_no": "288",
+      "meter": 40197
+    }
+  ]
+}

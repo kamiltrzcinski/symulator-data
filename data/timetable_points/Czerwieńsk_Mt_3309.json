@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709293,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwie\u0144sk Mt",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "980",
+      "meter": 574
+    },
+    {
+      "line_no": "980",
+      "meter": 574
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709898,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorlice Fabryka Maszyn Glinik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "110",
+      "meter": 2341
+    },
+    {
+      "line_no": "110",
+      "meter": 2341
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid": 3453153709556,
+  "type": "TIMETABLE_POINT",
+  "name": "Dzia\u0142dowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 148226
+    },
+    {
+      "line_no": "9",
+      "meter": 148226
+    },
+    {
+      "line_no": "9",
+      "meter": 148226
+    },
+    {
+      "line_no": "208",
+      "meter": 0
+    },
+    {
+      "line_no": "208",
+      "meter": 0
+    },
+    {
+      "line_no": "208",
+      "meter": 0
+    },
+    {
+      "line_no": "208",
+      "meter": 0
+    },
+    {
+      "line_no": "208",
+      "meter": 0
+    },
+    {
+      "line_no": "216",
+      "meter": 0
+    },
+    {
+      "line_no": "216",
+      "meter": 0
+    },
+    {
+      "line_no": "216",
+      "meter": 0
+    },
+    {
+      "line_no": "216",
+      "meter": 0
+    },
+    {
+      "line_no": "966",
+      "meter": 1000
+    },
+    {
+      "line_no": "966",
+      "meter": 1000
+    }
+  ]
+}

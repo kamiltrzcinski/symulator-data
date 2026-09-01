@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710157,
+  "type": "TIMETABLE_POINT",
+  "name": "I\u0142owa \u017baga\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 86598
+    },
+    {
+      "line_no": "282",
+      "meter": 86598
+    },
+    {
+      "line_no": "282",
+      "meter": 86615
+    }
+  ]
+}

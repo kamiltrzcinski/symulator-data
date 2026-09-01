@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708623,
+  "type": "TIMETABLE_POINT",
+  "name": "Besko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 87736
+    },
+    {
+      "line_no": "108",
+      "meter": 87736
+    },
+    {
+      "line_no": "108",
+      "meter": 87736
+    },
+    {
+      "line_no": "108",
+      "meter": 87738
+    },
+    {
+      "line_no": "108",
+      "meter": 87738
+    }
+  ]
+}

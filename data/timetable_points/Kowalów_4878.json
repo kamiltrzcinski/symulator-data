@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710862,
+  "type": "TIMETABLE_POINT",
+  "name": "Kowal\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 231253
+    },
+    {
+      "line_no": "273",
+      "meter": 231256
+    }
+  ]
+}

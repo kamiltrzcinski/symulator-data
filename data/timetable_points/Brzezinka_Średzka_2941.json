@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708925,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzezinka \u015aredzka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 20457
+    },
+    {
+      "line_no": "273",
+      "meter": 20457
+    },
+    {
+      "line_no": "273",
+      "meter": 20457
+    }
+  ]
+}

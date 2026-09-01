@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709771,
+  "type": "TIMETABLE_POINT",
+  "name": "Gier\u0142o\u017c",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "259",
+      "meter": 8500
+    },
+    {
+      "line_no": "259",
+      "meter": 8500
+    },
+    {
+      "line_no": "259",
+      "meter": 8500
+    }
+  ]
+}

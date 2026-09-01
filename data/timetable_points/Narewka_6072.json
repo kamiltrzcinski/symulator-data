@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712056,
+  "type": "TIMETABLE_POINT",
+  "name": "Narewka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 139842
+    },
+    {
+      "line_no": "31",
+      "meter": 139842
+    },
+    {
+      "line_no": "31",
+      "meter": 139842
+    },
+    {
+      "line_no": "31",
+      "meter": 139842
+    },
+    {
+      "line_no": "31",
+      "meter": 139842
+    },
+    {
+      "line_no": "913",
+      "meter": -994
+    },
+    {
+      "line_no": "913",
+      "meter": -994
+    },
+    {
+      "line_no": "914",
+      "meter": -42
+    }
+  ]
+}

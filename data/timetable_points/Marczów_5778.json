@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711762,
+  "type": "TIMETABLE_POINT",
+  "name": "Marcz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 22930
+    },
+    {
+      "line_no": "283",
+      "meter": 22930
+    },
+    {
+      "line_no": "283",
+      "meter": 22930
+    },
+    {
+      "line_no": "283",
+      "meter": 22930
+    },
+    {
+      "line_no": "283",
+      "meter": 22951
+    },
+    {
+      "line_no": "283",
+      "meter": 22951
+    },
+    {
+      "line_no": "283",
+      "meter": 22951
+    }
+  ]
+}

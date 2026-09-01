@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713279,
+  "type": "TIMETABLE_POINT",
+  "name": "Sadlinki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "207",
+      "meter": 87387
+    },
+    {
+      "line_no": "207",
+      "meter": 87387
+    },
+    {
+      "line_no": "207",
+      "meter": 87387
+    },
+    {
+      "line_no": "207",
+      "meter": 87387
+    },
+    {
+      "line_no": "207",
+      "meter": 87387
+    }
+  ]
+}

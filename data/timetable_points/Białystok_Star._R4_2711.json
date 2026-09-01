@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708695,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok Star. R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 4292
+    },
+    {
+      "line_no": "38",
+      "meter": 4292
+    },
+    {
+      "line_no": "38",
+      "meter": 4292
+    },
+    {
+      "line_no": "38",
+      "meter": 4292
+    },
+    {
+      "line_no": "515",
+      "meter": 1908
+    },
+    {
+      "line_no": "515",
+      "meter": 1915
+    },
+    {
+      "line_no": "515",
+      "meter": 1950
+    }
+  ]
+}

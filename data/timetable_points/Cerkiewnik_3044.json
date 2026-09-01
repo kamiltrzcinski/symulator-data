@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709028,
+  "type": "TIMETABLE_POINT",
+  "name": "Cerkiewnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 14234
+    },
+    {
+      "line_no": "221",
+      "meter": 14294
+    },
+    {
+      "line_no": "221",
+      "meter": 14294
+    },
+    {
+      "line_no": "221",
+      "meter": 14297
+    },
+    {
+      "line_no": "221",
+      "meter": 14297
+    }
+  ]
+}

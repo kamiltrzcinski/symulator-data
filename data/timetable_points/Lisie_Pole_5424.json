@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711408,
+  "type": "TIMETABLE_POINT",
+  "name": "Lisie Pole",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 307499
+    },
+    {
+      "line_no": "273",
+      "meter": 307499
+    },
+    {
+      "line_no": "273",
+      "meter": 307499
+    }
+  ]
+}

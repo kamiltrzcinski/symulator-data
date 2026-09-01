@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708553,
+  "type": "TIMETABLE_POINT",
+  "name": "Baboszewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 40599
+    },
+    {
+      "line_no": "27",
+      "meter": 40599
+    }
+  ]
+}

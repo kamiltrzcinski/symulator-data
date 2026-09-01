@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709726,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia G\u0142\u00f3wna R81",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 21721
+    },
+    {
+      "line_no": "202",
+      "meter": 21755
+    },
+    {
+      "line_no": "202",
+      "meter": 21755
+    },
+    {
+      "line_no": "202",
+      "meter": 21755
+    },
+    {
+      "line_no": "202",
+      "meter": 21755
+    },
+    {
+      "line_no": "963",
+      "meter": 21721
+    },
+    {
+      "line_no": "963",
+      "meter": 21755
+    },
+    {
+      "line_no": "963",
+      "meter": 21755
+    }
+  ]
+}

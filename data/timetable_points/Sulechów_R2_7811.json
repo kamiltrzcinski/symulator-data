@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713795,
+  "type": "TIMETABLE_POINT",
+  "name": "Sulech\u00f3w R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 334
+    },
+    {
+      "line_no": "357",
+      "meter": 334
+    },
+    {
+      "line_no": "358",
+      "meter": 26044
+    },
+    {
+      "line_no": "358",
+      "meter": 26044
+    },
+    {
+      "line_no": "358",
+      "meter": 26044
+    },
+    {
+      "line_no": "358",
+      "meter": 26044
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708526,
+  "type": "TIMETABLE_POINT",
+  "name": "Alwernia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "103",
+      "meter": 14260
+    },
+    {
+      "line_no": "103",
+      "meter": 14260
+    },
+    {
+      "line_no": "103",
+      "meter": 14260
+    }
+  ]
+}

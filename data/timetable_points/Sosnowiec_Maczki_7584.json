@@ -1,0 +1,104 @@
+{
+  "uid": 3453153713568,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Maczki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "133",
+      "meter": 13276
+    },
+    {
+      "line_no": "133",
+      "meter": 13276
+    },
+    {
+      "line_no": "133",
+      "meter": 13276
+    },
+    {
+      "line_no": "133",
+      "meter": 13276
+    },
+    {
+      "line_no": "133",
+      "meter": 13276
+    },
+    {
+      "line_no": "133",
+      "meter": 13276
+    },
+    {
+      "line_no": "163",
+      "meter": 4295
+    },
+    {
+      "line_no": "163",
+      "meter": 4528
+    },
+    {
+      "line_no": "163",
+      "meter": 4528
+    },
+    {
+      "line_no": "163",
+      "meter": 4528
+    },
+    {
+      "line_no": "665",
+      "meter": 1
+    },
+    {
+      "line_no": "665",
+      "meter": 1
+    },
+    {
+      "line_no": "665",
+      "meter": 1
+    },
+    {
+      "line_no": "665",
+      "meter": 1
+    },
+    {
+      "line_no": "665",
+      "meter": 1
+    },
+    {
+      "line_no": "665",
+      "meter": 1
+    },
+    {
+      "line_no": "666",
+      "meter": 0
+    },
+    {
+      "line_no": "666",
+      "meter": 0
+    },
+    {
+      "line_no": "666",
+      "meter": 0
+    },
+    {
+      "line_no": "666",
+      "meter": 0
+    },
+    {
+      "line_no": "667",
+      "meter": 1
+    },
+    {
+      "line_no": "667",
+      "meter": 1
+    },
+    {
+      "line_no": "667",
+      "meter": 1
+    },
+    {
+      "line_no": "667",
+      "meter": 1
+    }
+  ]
+}

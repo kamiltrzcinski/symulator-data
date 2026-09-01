@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710306,
+  "type": "TIMETABLE_POINT",
+  "name": "Jawornica Roz.8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 149860
+    },
+    {
+      "line_no": "61",
+      "meter": 149860
+    },
+    {
+      "line_no": "61",
+      "meter": 149860
+    },
+    {
+      "line_no": "61",
+      "meter": 149860
+    },
+    {
+      "line_no": "61",
+      "meter": 149860
+    },
+    {
+      "line_no": "685",
+      "meter": 3232
+    },
+    {
+      "line_no": "685",
+      "meter": 3232
+    }
+  ]
+}

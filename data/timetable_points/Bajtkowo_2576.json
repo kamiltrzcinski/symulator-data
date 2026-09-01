@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708560,
+  "type": "TIMETABLE_POINT",
+  "name": "Bajtkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 142379
+    },
+    {
+      "line_no": "219",
+      "meter": 142379
+    },
+    {
+      "line_no": "219",
+      "meter": 142379
+    },
+    {
+      "line_no": "219",
+      "meter": 142407
+    },
+    {
+      "line_no": "219",
+      "meter": 142407
+    }
+  ]
+}

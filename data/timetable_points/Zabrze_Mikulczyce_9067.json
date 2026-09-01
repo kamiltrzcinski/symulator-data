@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715051,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Mikulczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 28257
+    },
+    {
+      "line_no": "132",
+      "meter": 28257
+    },
+    {
+      "line_no": "132",
+      "meter": 28257
+    }
+  ]
+}

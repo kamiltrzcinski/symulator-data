@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711608,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Kaliska GT 14-28",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": -656
+    },
+    {
+      "line_no": "15",
+      "meter": 67198
+    },
+    {
+      "line_no": "15",
+      "meter": 67629
+    },
+    {
+      "line_no": "550",
+      "meter": 5704
+    },
+    {
+      "line_no": "551",
+      "meter": 5566
+    }
+  ]
+}

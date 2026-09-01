@@ -1,0 +1,20 @@
+{
+  "uid": 3453153705987,
+  "type": "TIMETABLE_POINT",
+  "name": "129 Ps Km 37.900",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "129",
+      "meter": 37900
+    },
+    {
+      "line_no": "129",
+      "meter": 37900
+    },
+    {
+      "line_no": "129",
+      "meter": 37900
+    }
+  ]
+}

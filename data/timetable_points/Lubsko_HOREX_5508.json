@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711492,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubsko HOREX",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 173809
+    },
+    {
+      "line_no": "275",
+      "meter": 173809
+    }
+  ]
+}

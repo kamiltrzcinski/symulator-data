@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710269,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 16617
+    },
+    {
+      "line_no": "30",
+      "meter": 17656
+    },
+    {
+      "line_no": "30",
+      "meter": 17656
+    },
+    {
+      "line_no": "30",
+      "meter": 17656
+    },
+    {
+      "line_no": "30",
+      "meter": 17656
+    }
+  ]
+}

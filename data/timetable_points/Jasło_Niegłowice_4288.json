@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710272,
+  "type": "TIMETABLE_POINT",
+  "name": "Jas\u0142o Nieg\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 43820
+    },
+    {
+      "line_no": "108",
+      "meter": 43828
+    },
+    {
+      "line_no": "108",
+      "meter": 43828
+    },
+    {
+      "line_no": "108",
+      "meter": 43828
+    },
+    {
+      "line_no": "108",
+      "meter": 43828
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714327,
+  "type": "TIMETABLE_POINT",
+  "name": "Tychy Urbanowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 6934
+    },
+    {
+      "line_no": "179",
+      "meter": 6934
+    }
+  ]
+}

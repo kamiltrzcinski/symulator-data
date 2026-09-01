@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714106,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn. G\u00f3ry Tgd R455",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "130",
+      "meter": 37320
+    },
+    {
+      "line_no": "951",
+      "meter": 3166
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710180,
+  "type": "TIMETABLE_POINT",
+  "name": "Iwin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 19048
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710600,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119trzyno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 85116
+    },
+    {
+      "line_no": "229",
+      "meter": 85116
+    },
+    {
+      "line_no": "229",
+      "meter": 85116
+    }
+  ]
+}

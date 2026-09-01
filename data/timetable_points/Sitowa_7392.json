@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713376,
+  "type": "TIMETABLE_POINT",
+  "name": "Sitowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 87424
+    },
+    {
+      "line_no": "25",
+      "meter": 87431
+    },
+    {
+      "line_no": "25",
+      "meter": 87431
+    }
+  ]
+}

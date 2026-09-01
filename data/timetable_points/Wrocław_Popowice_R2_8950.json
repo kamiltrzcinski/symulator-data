@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714934,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Popowice R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "752",
+      "meter": 1792
+    },
+    {
+      "line_no": "754",
+      "meter": 0
+    },
+    {
+      "line_no": "754",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712190,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy Staw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "256",
+      "meter": 12566
+    },
+    {
+      "line_no": "256",
+      "meter": 12566
+    },
+    {
+      "line_no": "256",
+      "meter": 12566
+    },
+    {
+      "line_no": "256",
+      "meter": 12566
+    },
+    {
+      "line_no": "256",
+      "meter": 12566
+    }
+  ]
+}

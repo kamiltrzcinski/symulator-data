@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713545,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 68760
+    },
+    {
+      "line_no": "2",
+      "meter": 68760
+    },
+    {
+      "line_no": "2",
+      "meter": 68760
+    },
+    {
+      "line_no": "2",
+      "meter": 68760
+    },
+    {
+      "line_no": "2",
+      "meter": 68760
+    }
+  ]
+}

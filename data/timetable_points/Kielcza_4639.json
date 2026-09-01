@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710623,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielcza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 26297
+    },
+    {
+      "line_no": "144",
+      "meter": 26297
+    }
+  ]
+}

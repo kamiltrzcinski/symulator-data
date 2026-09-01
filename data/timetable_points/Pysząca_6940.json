@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712924,
+  "type": "TIMETABLE_POINT",
+  "name": "Pysz\u0105ca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "369",
+      "meter": 28984
+    },
+    {
+      "line_no": "369",
+      "meter": 28984
+    }
+  ]
+}

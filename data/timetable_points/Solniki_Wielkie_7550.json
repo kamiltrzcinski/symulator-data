@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713534,
+  "type": "TIMETABLE_POINT",
+  "name": "Solniki Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 124588
+    },
+    {
+      "line_no": "143",
+      "meter": 124588
+    },
+    {
+      "line_no": "143",
+      "meter": 124588
+    },
+    {
+      "line_no": "143",
+      "meter": 124588
+    },
+    {
+      "line_no": "143",
+      "meter": 126770
+    }
+  ]
+}

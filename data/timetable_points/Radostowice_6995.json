@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712979,
+  "type": "TIMETABLE_POINT",
+  "name": "Radostowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "148",
+      "meter": 7621
+    },
+    {
+      "line_no": "148",
+      "meter": 7621
+    }
+  ]
+}

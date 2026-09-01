@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710845,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcielniki R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 24789
+    },
+    {
+      "line_no": "95",
+      "meter": 24789
+    },
+    {
+      "line_no": "95",
+      "meter": 24789
+    },
+    {
+      "line_no": "95",
+      "meter": 24789
+    },
+    {
+      "line_no": "942",
+      "meter": 0
+    },
+    {
+      "line_no": "942",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714442,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142\u00f3wna R27",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "23",
+      "meter": 2160
+    },
+    {
+      "line_no": "23",
+      "meter": 2160
+    },
+    {
+      "line_no": "23",
+      "meter": 2160
+    },
+    {
+      "line_no": "23",
+      "meter": 2160
+    },
+    {
+      "line_no": "23",
+      "meter": 2160
+    },
+    {
+      "line_no": "42",
+      "meter": 2160
+    },
+    {
+      "line_no": "42",
+      "meter": 2160
+    }
+  ]
+}

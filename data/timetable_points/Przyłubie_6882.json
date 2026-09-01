@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712866,
+  "type": "TIMETABLE_POINT",
+  "name": "Przy\u0142ubie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 131325
+    },
+    {
+      "line_no": "18",
+      "meter": 131325
+    },
+    {
+      "line_no": "18",
+      "meter": 131386
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709586,
+  "type": "TIMETABLE_POINT",
+  "name": "E\u0142k S-Roz.110",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 156950
+    },
+    {
+      "line_no": "219",
+      "meter": 156950
+    },
+    {
+      "line_no": "219",
+      "meter": 157053
+    },
+    {
+      "line_no": "223",
+      "meter": 121723
+    },
+    {
+      "line_no": "223",
+      "meter": 121827
+    }
+  ]
+}

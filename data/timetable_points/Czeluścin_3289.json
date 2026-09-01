@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709273,
+  "type": "TIMETABLE_POINT",
+  "name": "Czelu\u015bcin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 184532
+    },
+    {
+      "line_no": "14",
+      "meter": 184532
+    },
+    {
+      "line_no": "14",
+      "meter": 184561
+    }
+  ]
+}

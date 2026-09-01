@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711745,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142ogoszcz R35",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 28058
+    },
+    {
+      "line_no": "61",
+      "meter": 28058
+    },
+    {
+      "line_no": "61",
+      "meter": 28058
+    },
+    {
+      "line_no": "61",
+      "meter": 28058
+    },
+    {
+      "line_no": "934",
+      "meter": 2015
+    },
+    {
+      "line_no": "934",
+      "meter": 2015
+    },
+    {
+      "line_no": "934",
+      "meter": 2015
+    }
+  ]
+}

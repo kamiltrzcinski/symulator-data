@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711196,
+  "type": "TIMETABLE_POINT",
+  "name": "L200 km:6,469 PLK - KWK So\u015bnica-M.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "200",
+      "meter": 6469
+    },
+    {
+      "line_no": "200",
+      "meter": 6469
+    }
+  ]
+}

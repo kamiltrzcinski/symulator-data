@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714968,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Zachodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 5201
+    },
+    {
+      "line_no": "274",
+      "meter": 5201
+    },
+    {
+      "line_no": "274",
+      "meter": 5201
+    },
+    {
+      "line_no": "751",
+      "meter": 5698
+    },
+    {
+      "line_no": "751",
+      "meter": 5698
+    },
+    {
+      "line_no": "751",
+      "meter": 5698
+    }
+  ]
+}

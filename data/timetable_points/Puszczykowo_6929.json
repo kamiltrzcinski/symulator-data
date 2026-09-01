@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712913,
+  "type": "TIMETABLE_POINT",
+  "name": "Puszczykowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 152255
+    },
+    {
+      "line_no": "271",
+      "meter": 152255
+    },
+    {
+      "line_no": "271",
+      "meter": 152255
+    }
+  ]
+}

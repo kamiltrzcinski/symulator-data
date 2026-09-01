@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708879,
+  "type": "TIMETABLE_POINT",
+  "name": "Braniewo Roz.11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 83968
+    },
+    {
+      "line_no": "204",
+      "meter": 83968
+    },
+    {
+      "line_no": "204",
+      "meter": 83968
+    },
+    {
+      "line_no": "221",
+      "meter": 87761
+    },
+    {
+      "line_no": "221",
+      "meter": 87761
+    },
+    {
+      "line_no": "221",
+      "meter": 87761
+    }
+  ]
+}

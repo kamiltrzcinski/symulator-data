@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708677,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok PZS R606",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 72823
+    },
+    {
+      "line_no": "32",
+      "meter": 72823
+    },
+    {
+      "line_no": "32",
+      "meter": 72823
+    }
+  ]
+}

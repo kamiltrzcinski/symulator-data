@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710652,
+  "type": "TIMETABLE_POINT",
+  "name": "Klewki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 8200
+    },
+    {
+      "line_no": "219",
+      "meter": 8200
+    },
+    {
+      "line_no": "219",
+      "meter": 8200
+    }
+  ]
+}

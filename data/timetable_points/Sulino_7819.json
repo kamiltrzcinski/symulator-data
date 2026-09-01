@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713803,
+  "type": "TIMETABLE_POINT",
+  "name": "Sulino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 110803
+    }
+  ]
+}

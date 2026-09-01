@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708747,
+  "type": "TIMETABLE_POINT",
+  "name": "Bierzwnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 115364
+    },
+    {
+      "line_no": "351",
+      "meter": 115364
+    },
+    {
+      "line_no": "351",
+      "meter": 115364
+    },
+    {
+      "line_no": "351",
+      "meter": 115364
+    },
+    {
+      "line_no": "351",
+      "meter": 115364
+    },
+    {
+      "line_no": "351",
+      "meter": 115364
+    }
+  ]
+}

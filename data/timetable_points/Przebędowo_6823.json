@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712807,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeb\u0119dowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 19950
+    }
+  ]
+}

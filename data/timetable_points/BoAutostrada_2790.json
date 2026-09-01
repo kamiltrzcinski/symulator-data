@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708774,
+  "type": "TIMETABLE_POINT",
+  "name": "Bo\"Autostrada\"",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 75046
+    },
+    {
+      "line_no": "204",
+      "meter": 75046
+    },
+    {
+      "line_no": "217",
+      "meter": 47676
+    },
+    {
+      "line_no": "217",
+      "meter": 47676
+    },
+    {
+      "line_no": "217",
+      "meter": 47676
+    }
+  ]
+}

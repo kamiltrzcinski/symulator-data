@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714463,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Jezi.Odst",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 18666
+    },
+    {
+      "line_no": "8",
+      "meter": 18666
+    }
+  ]
+}

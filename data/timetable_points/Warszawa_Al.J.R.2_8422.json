@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714406,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Al.J.R.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 6184
+    },
+    {
+      "line_no": "8",
+      "meter": 6184
+    },
+    {
+      "line_no": "8",
+      "meter": 6184
+    },
+    {
+      "line_no": "8",
+      "meter": 6184
+    },
+    {
+      "line_no": "445",
+      "meter": 6184
+    },
+    {
+      "line_no": "445",
+      "meter": 6184
+    },
+    {
+      "line_no": "445",
+      "meter": 6184
+    },
+    {
+      "line_no": "445",
+      "meter": 6184
+    }
+  ]
+}

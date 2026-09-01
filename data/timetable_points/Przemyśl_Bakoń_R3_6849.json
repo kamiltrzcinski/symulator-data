@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712833,
+  "type": "TIMETABLE_POINT",
+  "name": "Przemy\u015bl Bako\u0144 R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "102",
+      "meter": 1339
+    },
+    {
+      "line_no": "102",
+      "meter": 1339
+    },
+    {
+      "line_no": "102",
+      "meter": 1339
+    },
+    {
+      "line_no": "615",
+      "meter": 395
+    },
+    {
+      "line_no": "615",
+      "meter": 395
+    },
+    {
+      "line_no": "615",
+      "meter": 395
+    }
+  ]
+}

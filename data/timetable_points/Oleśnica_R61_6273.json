@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712257,
+  "type": "TIMETABLE_POINT",
+  "name": "Ole\u015bnica R61",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 134290
+    },
+    {
+      "line_no": "143",
+      "meter": 134290
+    },
+    {
+      "line_no": "143",
+      "meter": 134290
+    },
+    {
+      "line_no": "181",
+      "meter": 149109
+    },
+    {
+      "line_no": "181",
+      "meter": 149109
+    }
+  ]
+}

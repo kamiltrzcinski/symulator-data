@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710783,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0144skowola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 129625
+    },
+    {
+      "line_no": "7",
+      "meter": 129688
+    },
+    {
+      "line_no": "7",
+      "meter": 129688
+    },
+    {
+      "line_no": "7",
+      "meter": 129688
+    },
+    {
+      "line_no": "7",
+      "meter": 130186
+    }
+  ]
+}

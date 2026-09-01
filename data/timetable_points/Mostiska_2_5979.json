@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711963,
+  "type": "TIMETABLE_POINT",
+  "name": "Mostiska 2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "472",
+      "meter": 78650
+    },
+    {
+      "line_no": "472",
+      "meter": 78651
+    },
+    {
+      "line_no": "472",
+      "meter": 78651
+    },
+    {
+      "line_no": "473",
+      "meter": 78650
+    },
+    {
+      "line_no": "473",
+      "meter": 78651
+    },
+    {
+      "line_no": "473",
+      "meter": 78651
+    }
+  ]
+}

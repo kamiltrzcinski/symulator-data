@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713561,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Kazim. SKZ2 R24",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 74698
+    },
+    {
+      "line_no": "62",
+      "meter": 74698
+    },
+    {
+      "line_no": "62",
+      "meter": 74698
+    },
+    {
+      "line_no": "663",
+      "meter": 0
+    },
+    {
+      "line_no": "663",
+      "meter": 1
+    }
+  ]
+}

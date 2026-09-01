@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710263,
+  "type": "TIMETABLE_POINT",
+  "name": "Jasie\u0144 Brzeski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 47187
+    },
+    {
+      "line_no": "91",
+      "meter": 47187
+    },
+    {
+      "line_no": "91",
+      "meter": 47187
+    },
+    {
+      "line_no": "91",
+      "meter": 47290
+    },
+    {
+      "line_no": "91",
+      "meter": 47290
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710200,
+  "type": "TIMETABLE_POINT",
+  "name": "Jagodin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "468",
+      "meter": 511700
+    },
+    {
+      "line_no": "468",
+      "meter": 511700
+    },
+    {
+      "line_no": "468",
+      "meter": 511715
+    },
+    {
+      "line_no": "469",
+      "meter": 5000
+    },
+    {
+      "line_no": "469",
+      "meter": 5000
+    },
+    {
+      "line_no": "469",
+      "meter": 511715
+    }
+  ]
+}

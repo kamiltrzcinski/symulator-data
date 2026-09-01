@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714952,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw So\u0142tysowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 156609
+    },
+    {
+      "line_no": "143",
+      "meter": 156609
+    },
+    {
+      "line_no": "143",
+      "meter": 156609
+    },
+    {
+      "line_no": "143",
+      "meter": 156609
+    },
+    {
+      "line_no": "292",
+      "meter": 21447
+    },
+    {
+      "line_no": "292",
+      "meter": 21447
+    },
+    {
+      "line_no": "292",
+      "meter": 21447
+    },
+    {
+      "line_no": "292",
+      "meter": 21447
+    }
+  ]
+}

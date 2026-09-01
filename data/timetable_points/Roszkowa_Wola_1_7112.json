@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713096,
+  "type": "TIMETABLE_POINT",
+  "name": "Roszkowa Wola 1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 60900
+    },
+    {
+      "line_no": "4",
+      "meter": 60900
+    },
+    {
+      "line_no": "4",
+      "meter": 60900
+    },
+    {
+      "line_no": "4",
+      "meter": 60900
+    },
+    {
+      "line_no": "4",
+      "meter": 60900
+    }
+  ]
+}

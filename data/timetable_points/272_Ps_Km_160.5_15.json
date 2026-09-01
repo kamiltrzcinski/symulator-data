@@ -1,0 +1,16 @@
+{
+  "uid": 3453153705999,
+  "type": "TIMETABLE_POINT",
+  "name": "272 Ps Km 160.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 160500
+    },
+    {
+      "line_no": "272",
+      "meter": 160500
+    }
+  ]
+}

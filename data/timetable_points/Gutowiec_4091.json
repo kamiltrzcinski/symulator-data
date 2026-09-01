@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710075,
+  "type": "TIMETABLE_POINT",
+  "name": "Gutowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 74693
+    },
+    {
+      "line_no": "203",
+      "meter": 74693
+    },
+    {
+      "line_no": "203",
+      "meter": 74693
+    }
+  ]
+}

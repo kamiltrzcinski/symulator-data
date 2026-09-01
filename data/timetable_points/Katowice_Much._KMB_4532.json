@@ -1,0 +1,52 @@
+{
+  "uid": 3453153710516,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Much. KMB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 37740
+    },
+    {
+      "line_no": "171",
+      "meter": 37740
+    },
+    {
+      "line_no": "171",
+      "meter": 37740
+    },
+    {
+      "line_no": "652",
+      "meter": 107
+    },
+    {
+      "line_no": "653",
+      "meter": 113
+    },
+    {
+      "line_no": "653",
+      "meter": 113
+    },
+    {
+      "line_no": "653",
+      "meter": 113
+    },
+    {
+      "line_no": "657",
+      "meter": 9650
+    },
+    {
+      "line_no": "657",
+      "meter": 9650
+    },
+    {
+      "line_no": "707",
+      "meter": -87
+    },
+    {
+      "line_no": "707",
+      "meter": -87
+    }
+  ]
+}

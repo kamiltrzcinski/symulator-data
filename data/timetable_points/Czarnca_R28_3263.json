@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709247,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarnca R28",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 53313
+    },
+    {
+      "line_no": "61",
+      "meter": 53313
+    },
+    {
+      "line_no": "61",
+      "meter": 53700
+    },
+    {
+      "line_no": "61",
+      "meter": 53700
+    },
+    {
+      "line_no": "61",
+      "meter": 53700
+    },
+    {
+      "line_no": "571",
+      "meter": 115
+    },
+    {
+      "line_no": "571",
+      "meter": 439
+    },
+    {
+      "line_no": "571",
+      "meter": 439
+    }
+  ]
+}

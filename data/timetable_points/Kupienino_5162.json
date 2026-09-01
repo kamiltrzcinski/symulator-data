@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711146,
+  "type": "TIMETABLE_POINT",
+  "name": "Kupienino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 402084
+    },
+    {
+      "line_no": "3",
+      "meter": 402084
+    },
+    {
+      "line_no": "3",
+      "meter": 402084
+    }
+  ]
+}

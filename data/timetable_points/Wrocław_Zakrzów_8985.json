@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714969,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Zakrz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "326",
+      "meter": 1127
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709875,
+  "type": "TIMETABLE_POINT",
+  "name": "Goleni\u00f3w Roz.8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 22503
+    },
+    {
+      "line_no": "401",
+      "meter": 22503
+    },
+    {
+      "line_no": "402",
+      "meter": 142528
+    },
+    {
+      "line_no": "402",
+      "meter": 142528
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710620,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce Roz.16",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 187143
+    },
+    {
+      "line_no": "8",
+      "meter": 187143
+    },
+    {
+      "line_no": "8",
+      "meter": 187144
+    },
+    {
+      "line_no": "8",
+      "meter": 187144
+    },
+    {
+      "line_no": "61",
+      "meter": 528
+    },
+    {
+      "line_no": "61",
+      "meter": 528
+    },
+    {
+      "line_no": "61",
+      "meter": 528
+    }
+  ]
+}

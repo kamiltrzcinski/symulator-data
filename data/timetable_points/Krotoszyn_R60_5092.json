@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711076,
+  "type": "TIMETABLE_POINT",
+  "name": "Krotoszyn R60",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "815",
+      "meter": 1730
+    },
+    {
+      "line_no": "816",
+      "meter": -594
+    },
+    {
+      "line_no": "816",
+      "meter": 0
+    }
+  ]
+}

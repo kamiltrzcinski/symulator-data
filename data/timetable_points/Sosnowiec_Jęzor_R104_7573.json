@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713557,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec J\u0119zor R104",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "719",
+      "meter": 1607
+    },
+    {
+      "line_no": "719",
+      "meter": 1607
+    },
+    {
+      "line_no": "720",
+      "meter": 45
+    },
+    {
+      "line_no": "720",
+      "meter": 45
+    }
+  ]
+}

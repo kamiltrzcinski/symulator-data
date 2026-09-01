@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709353,
+  "type": "TIMETABLE_POINT",
+  "name": "Daniel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "788",
+      "meter": 2654
+    },
+    {
+      "line_no": "788",
+      "meter": 3160
+    },
+    {
+      "line_no": "789",
+      "meter": 1972
+    },
+    {
+      "line_no": "932",
+      "meter": 1
+    },
+    {
+      "line_no": "932",
+      "meter": 1
+    }
+  ]
+}

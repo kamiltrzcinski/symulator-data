@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711864,
+  "type": "TIMETABLE_POINT",
+  "name": "Mik\u0142aszewo Roz.10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "59",
+      "meter": 15345
+    },
+    {
+      "line_no": "59",
+      "meter": 15345
+    },
+    {
+      "line_no": "59",
+      "meter": 15345
+    },
+    {
+      "line_no": "59",
+      "meter": 15345
+    },
+    {
+      "line_no": "915",
+      "meter": -220
+    },
+    {
+      "line_no": "915",
+      "meter": -220
+    }
+  ]
+}

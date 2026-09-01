@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713865,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin D. SDA R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 195743
+    },
+    {
+      "line_no": "351",
+      "meter": 195743
+    },
+    {
+      "line_no": "351",
+      "meter": 195743
+    },
+    {
+      "line_no": "351",
+      "meter": 195743
+    },
+    {
+      "line_no": "857",
+      "meter": -187
+    },
+    {
+      "line_no": "857",
+      "meter": -187
+    }
+  ]
+}

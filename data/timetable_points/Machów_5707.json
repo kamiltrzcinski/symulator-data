@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711691,
+  "type": "TIMETABLE_POINT",
+  "name": "Mach\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "933",
+      "meter": 1500
+    },
+    {
+      "line_no": "933",
+      "meter": 1500
+    },
+    {
+      "line_no": "933",
+      "meter": 1500
+    }
+  ]
+}

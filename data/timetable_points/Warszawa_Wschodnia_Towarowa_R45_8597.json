@@ -1,0 +1,72 @@
+{
+  "uid": 3453153714581,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "503",
+      "meter": 1798
+    },
+    {
+      "line_no": "503",
+      "meter": 1798
+    },
+    {
+      "line_no": "503",
+      "meter": 1804
+    },
+    {
+      "line_no": "503",
+      "meter": 7768
+    },
+    {
+      "line_no": "503",
+      "meter": 7768
+    },
+    {
+      "line_no": "506",
+      "meter": -96
+    },
+    {
+      "line_no": "506",
+      "meter": 6960
+    },
+    {
+      "line_no": "506",
+      "meter": 6960
+    },
+    {
+      "line_no": "506",
+      "meter": 6964
+    },
+    {
+      "line_no": "546",
+      "meter": 6321
+    },
+    {
+      "line_no": "546",
+      "meter": 6321
+    },
+    {
+      "line_no": "546",
+      "meter": 6327
+    },
+    {
+      "line_no": "546",
+      "meter": 7768
+    },
+    {
+      "line_no": "546",
+      "meter": 7768
+    },
+    {
+      "line_no": "546",
+      "meter": 7768
+    },
+    {
+      "line_no": "546",
+      "meter": 7770
+    }
+  ]
+}

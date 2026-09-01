@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714283,
+  "type": "TIMETABLE_POINT",
+  "name": "Tuch\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 20873
+    },
+    {
+      "line_no": "96",
+      "meter": 20873
+    },
+    {
+      "line_no": "96",
+      "meter": 20873
+    }
+  ]
+}

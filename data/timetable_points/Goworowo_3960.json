@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709944,
+  "type": "TIMETABLE_POINT",
+  "name": "Goworowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 58150
+    },
+    {
+      "line_no": "29",
+      "meter": 58150
+    },
+    {
+      "line_no": "29",
+      "meter": 58267
+    }
+  ]
+}

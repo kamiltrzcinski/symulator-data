@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712763,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Wola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 6531
+    },
+    {
+      "line_no": "351",
+      "meter": 6531
+    },
+    {
+      "line_no": "351",
+      "meter": 6531
+    },
+    {
+      "line_no": "351",
+      "meter": 6531
+    },
+    {
+      "line_no": "351",
+      "meter": 6531
+    },
+    {
+      "line_no": "351",
+      "meter": 6531
+    }
+  ]
+}

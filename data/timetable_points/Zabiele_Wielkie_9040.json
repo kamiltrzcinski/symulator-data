@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715024,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabiele Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 19983
+    },
+    {
+      "line_no": "35",
+      "meter": 20015
+    }
+  ]
+}

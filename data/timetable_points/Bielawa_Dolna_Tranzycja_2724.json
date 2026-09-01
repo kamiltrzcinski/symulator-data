@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708708,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielawa Dolna Tranzycja",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "295",
+      "meter": 12947
+    }
+  ]
+}

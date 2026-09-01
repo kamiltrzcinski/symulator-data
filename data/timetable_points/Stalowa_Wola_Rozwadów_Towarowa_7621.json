@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713605,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola Rozwad\u00f3w Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 22182
+    },
+    {
+      "line_no": "74",
+      "meter": 22182
+    },
+    {
+      "line_no": "74",
+      "meter": 22182
+    },
+    {
+      "line_no": "74",
+      "meter": 22182
+    },
+    {
+      "line_no": "74",
+      "meter": 22182
+    },
+    {
+      "line_no": "74",
+      "meter": 22182
+    },
+    {
+      "line_no": "565",
+      "meter": 954
+    },
+    {
+      "line_no": "565",
+      "meter": 954
+    },
+    {
+      "line_no": "565",
+      "meter": 954
+    },
+    {
+      "line_no": "565",
+      "meter": 954
+    }
+  ]
+}

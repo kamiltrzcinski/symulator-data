@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709202,
+  "type": "TIMETABLE_POINT",
+  "name": "Ci\u0119cina Dolna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 83510
+    },
+    {
+      "line_no": "139",
+      "meter": 83510
+    }
+  ]
+}

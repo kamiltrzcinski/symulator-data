@@ -1,0 +1,48 @@
+{
+  "uid": 3453153711477,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Tatary R207",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "67",
+      "meter": 2890
+    },
+    {
+      "line_no": "67",
+      "meter": 2890
+    },
+    {
+      "line_no": "67",
+      "meter": 2890
+    },
+    {
+      "line_no": "67",
+      "meter": 2890
+    },
+    {
+      "line_no": "67",
+      "meter": 2890
+    },
+    {
+      "line_no": "930",
+      "meter": 2489
+    },
+    {
+      "line_no": "930",
+      "meter": 2489
+    },
+    {
+      "line_no": "930",
+      "meter": 2489
+    },
+    {
+      "line_no": "930",
+      "meter": 2489
+    },
+    {
+      "line_no": "930",
+      "meter": 2489
+    }
+  ]
+}

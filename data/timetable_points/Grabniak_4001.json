@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709985,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabniak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 84700
+    },
+    {
+      "line_no": "7",
+      "meter": 84715
+    },
+    {
+      "line_no": "7",
+      "meter": 84715
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710544,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Szopienice P\u00f3\u0142nocne R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "161",
+      "meter": -351
+    },
+    {
+      "line_no": "161",
+      "meter": -351
+    },
+    {
+      "line_no": "654",
+      "meter": 1103
+    },
+    {
+      "line_no": "654",
+      "meter": 1359
+    },
+    {
+      "line_no": "657",
+      "meter": 122
+    }
+  ]
+}

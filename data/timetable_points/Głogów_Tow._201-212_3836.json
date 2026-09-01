@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709820,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142og\u00f3w Tow. 201-212",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 282650
+    },
+    {
+      "line_no": "14",
+      "meter": 282650
+    }
+  ]
+}

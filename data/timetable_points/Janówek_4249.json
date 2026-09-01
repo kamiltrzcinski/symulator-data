@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710233,
+  "type": "TIMETABLE_POINT",
+  "name": "Jan\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 36757
+    },
+    {
+      "line_no": "9",
+      "meter": 36757
+    },
+    {
+      "line_no": "9",
+      "meter": 36772
+    }
+  ]
+}

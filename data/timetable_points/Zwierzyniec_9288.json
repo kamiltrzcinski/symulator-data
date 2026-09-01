@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715272,
+  "type": "TIMETABLE_POINT",
+  "name": "Zwierzyniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 74102
+    },
+    {
+      "line_no": "69",
+      "meter": 74102
+    },
+    {
+      "line_no": "69",
+      "meter": 74102
+    },
+    {
+      "line_no": "129",
+      "meter": 44600
+    },
+    {
+      "line_no": "130",
+      "meter": 44600
+    },
+    {
+      "line_no": "131",
+      "meter": 44600
+    },
+    {
+      "line_no": "131",
+      "meter": 44600
+    }
+  ]
+}

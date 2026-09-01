@@ -1,0 +1,68 @@
+{
+  "uid": 3453153710543,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Szopienice P\u00f3\u0142nocne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "161",
+      "meter": 1
+    },
+    {
+      "line_no": "161",
+      "meter": 1
+    },
+    {
+      "line_no": "161",
+      "meter": 1
+    },
+    {
+      "line_no": "161",
+      "meter": 260
+    },
+    {
+      "line_no": "161",
+      "meter": 260
+    },
+    {
+      "line_no": "161",
+      "meter": 260
+    },
+    {
+      "line_no": "654",
+      "meter": 1102
+    },
+    {
+      "line_no": "654",
+      "meter": 1358
+    },
+    {
+      "line_no": "654",
+      "meter": 1358
+    },
+    {
+      "line_no": "654",
+      "meter": 1358
+    },
+    {
+      "line_no": "657",
+      "meter": 1
+    },
+    {
+      "line_no": "657",
+      "meter": 1
+    },
+    {
+      "line_no": "657",
+      "meter": 1
+    },
+    {
+      "line_no": "657",
+      "meter": 244
+    },
+    {
+      "line_no": "657",
+      "meter": 244
+    }
+  ]
+}

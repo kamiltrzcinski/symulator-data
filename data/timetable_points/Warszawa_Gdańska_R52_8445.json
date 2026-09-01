@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714429,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska R52",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 10829
+    },
+    {
+      "line_no": "20",
+      "meter": 10880
+    },
+    {
+      "line_no": "509",
+      "meter": 10256
+    },
+    {
+      "line_no": "509",
+      "meter": 10256
+    },
+    {
+      "line_no": "509",
+      "meter": 10262
+    }
+  ]
+}

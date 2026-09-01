@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714408,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Aleje Jerozolimskie WKD",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 5534
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710632,
+  "type": "TIMETABLE_POINT",
+  "name": "Kije",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 24740
+    },
+    {
+      "line_no": "73",
+      "meter": 24740
+    },
+    {
+      "line_no": "73",
+      "meter": 24740
+    },
+    {
+      "line_no": "73",
+      "meter": 24819
+    },
+    {
+      "line_no": "73",
+      "meter": 24819
+    }
+  ]
+}

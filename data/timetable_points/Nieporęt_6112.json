@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712096,
+  "type": "TIMETABLE_POINT",
+  "name": "Niepor\u0119t",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "10",
+      "meter": 8492
+    },
+    {
+      "line_no": "10",
+      "meter": 8492
+    },
+    {
+      "line_no": "10",
+      "meter": 8550
+    }
+  ]
+}

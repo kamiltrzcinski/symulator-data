@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709899,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorlice Glinik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "110",
+      "meter": 3003
+    }
+  ]
+}

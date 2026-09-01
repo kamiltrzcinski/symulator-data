@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712955,
+  "type": "TIMETABLE_POINT",
+  "name": "Radlin Marcel Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "876",
+      "meter": 6154
+    },
+    {
+      "line_no": "876",
+      "meter": 6154
+    },
+    {
+      "line_no": "876",
+      "meter": 6237
+    },
+    {
+      "line_no": "876",
+      "meter": 6237
+    },
+    {
+      "line_no": "877",
+      "meter": 1662
+    },
+    {
+      "line_no": "877",
+      "meter": 1662
+    }
+  ]
+}

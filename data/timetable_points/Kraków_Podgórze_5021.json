@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711005,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Podg\u00f3rze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "624",
+      "meter": 950
+    },
+    {
+      "line_no": "624",
+      "meter": 950
+    },
+    {
+      "line_no": "624",
+      "meter": 950
+    }
+  ]
+}

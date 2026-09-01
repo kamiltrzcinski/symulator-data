@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709175,
+  "type": "TIMETABLE_POINT",
+  "name": "Ciecholub",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 138307
+    },
+    {
+      "line_no": "405",
+      "meter": 138307
+    },
+    {
+      "line_no": "405",
+      "meter": 138360
+    }
+  ]
+}

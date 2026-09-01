@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714837,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Rz\u0119dzi\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 85433
+    },
+    {
+      "line_no": "91",
+      "meter": 85433
+    },
+    {
+      "line_no": "91",
+      "meter": 85433
+    },
+    {
+      "line_no": "91",
+      "meter": 85433
+    },
+    {
+      "line_no": "91",
+      "meter": 85433
+    },
+    {
+      "line_no": "91",
+      "meter": 85433
+    }
+  ]
+}

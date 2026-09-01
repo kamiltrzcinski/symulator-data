@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711950,
+  "type": "TIMETABLE_POINT",
+  "name": "Mor\u0105g Kolonia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 43292
+    },
+    {
+      "line_no": "220",
+      "meter": 43309
+    },
+    {
+      "line_no": "220",
+      "meter": 43376
+    },
+    {
+      "line_no": "220",
+      "meter": 43376
+    }
+  ]
+}

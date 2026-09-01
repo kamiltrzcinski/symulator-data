@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712296,
+  "type": "TIMETABLE_POINT",
+  "name": "Opacz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 9615
+    }
+  ]
+}

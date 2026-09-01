@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715133,
+  "type": "TIMETABLE_POINT",
+  "name": "Zastocze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 32385
+    },
+    {
+      "line_no": "38",
+      "meter": 32385
+    },
+    {
+      "line_no": "38",
+      "meter": 32483
+    },
+    {
+      "line_no": "38",
+      "meter": 32483
+    },
+    {
+      "line_no": "38",
+      "meter": 32483
+    }
+  ]
+}

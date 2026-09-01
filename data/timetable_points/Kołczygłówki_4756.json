@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710740,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142czyg\u0142\u00f3wki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "212",
+      "meter": 47880
+    },
+    {
+      "line_no": "212",
+      "meter": 47880
+    },
+    {
+      "line_no": "212",
+      "meter": 47880
+    }
+  ]
+}

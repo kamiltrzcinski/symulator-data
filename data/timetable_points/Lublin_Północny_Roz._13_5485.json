@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711469,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin P\u00f3\u0142nocny Roz. 13",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 178066
+    },
+    {
+      "line_no": "7",
+      "meter": 178066
+    },
+    {
+      "line_no": "30",
+      "meter": 107606
+    },
+    {
+      "line_no": "30",
+      "meter": 107723
+    },
+    {
+      "line_no": "30",
+      "meter": 107723
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710729,
+  "type": "TIMETABLE_POINT",
+  "name": "Koluszki B\u0119zel. R155",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 107387
+    },
+    {
+      "line_no": "1",
+      "meter": 107387
+    },
+    {
+      "line_no": "1",
+      "meter": 107387
+    },
+    {
+      "line_no": "536",
+      "meter": 2496
+    }
+  ]
+}

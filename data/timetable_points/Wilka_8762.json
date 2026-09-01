@@ -1,0 +1,64 @@
+{
+  "uid": 3453153714746,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "290",
+      "meter": 8333
+    },
+    {
+      "line_no": "290",
+      "meter": 8333
+    },
+    {
+      "line_no": "290",
+      "meter": 8333
+    },
+    {
+      "line_no": "290",
+      "meter": 8333
+    },
+    {
+      "line_no": "290",
+      "meter": 8333
+    },
+    {
+      "line_no": "344",
+      "meter": 77
+    },
+    {
+      "line_no": "344",
+      "meter": 96
+    },
+    {
+      "line_no": "344",
+      "meter": 96
+    },
+    {
+      "line_no": "344",
+      "meter": 96
+    },
+    {
+      "line_no": "344",
+      "meter": 96
+    },
+    {
+      "line_no": "780",
+      "meter": 445
+    },
+    {
+      "line_no": "780",
+      "meter": 445
+    },
+    {
+      "line_no": "780",
+      "meter": 445
+    },
+    {
+      "line_no": "780",
+      "meter": 445
+    }
+  ]
+}

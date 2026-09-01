@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714924,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Nowy Dw\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 6812
+    },
+    {
+      "line_no": "759",
+      "meter": 1396
+    },
+    {
+      "line_no": "759",
+      "meter": 1396
+    },
+    {
+      "line_no": "759",
+      "meter": 1396
+    },
+    {
+      "line_no": "759",
+      "meter": 1396
+    }
+  ]
+}

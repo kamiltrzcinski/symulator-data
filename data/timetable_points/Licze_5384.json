@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711368,
+  "type": "TIMETABLE_POINT",
+  "name": "Licze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "218",
+      "meter": 42398
+    },
+    {
+      "line_no": "218",
+      "meter": 42398
+    },
+    {
+      "line_no": "218",
+      "meter": 42398
+    },
+    {
+      "line_no": "218",
+      "meter": 42398
+    }
+  ]
+}

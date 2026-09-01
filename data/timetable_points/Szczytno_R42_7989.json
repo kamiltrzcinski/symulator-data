@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713973,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczytno R42",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 92949
+    },
+    {
+      "line_no": "219",
+      "meter": 45429
+    },
+    {
+      "line_no": "219",
+      "meter": 45429
+    },
+    {
+      "line_no": "219",
+      "meter": 45429
+    }
+  ]
+}

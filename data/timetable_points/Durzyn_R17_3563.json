@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709547,
+  "type": "TIMETABLE_POINT",
+  "name": "Durzyn R17",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 162601
+    },
+    {
+      "line_no": "14",
+      "meter": 162601
+    },
+    {
+      "line_no": "815",
+      "meter": 158
+    }
+  ]
+}

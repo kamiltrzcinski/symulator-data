@@ -1,0 +1,48 @@
+{
+  "uid": 3453153708844,
+  "type": "TIMETABLE_POINT",
+  "name": "Borowa G\u00f3rka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "156",
+      "meter": 9732
+    },
+    {
+      "line_no": "156",
+      "meter": 9750
+    },
+    {
+      "line_no": "156",
+      "meter": 9750
+    },
+    {
+      "line_no": "156",
+      "meter": 9750
+    },
+    {
+      "line_no": "156",
+      "meter": 9750
+    },
+    {
+      "line_no": "670",
+      "meter": 0
+    },
+    {
+      "line_no": "670",
+      "meter": 0
+    },
+    {
+      "line_no": "670",
+      "meter": 0
+    },
+    {
+      "line_no": "715",
+      "meter": 50
+    },
+    {
+      "line_no": "715",
+      "meter": 50
+    }
+  ]
+}

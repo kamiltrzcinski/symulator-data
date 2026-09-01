@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710237,
+  "type": "TIMETABLE_POINT",
+  "name": "Jarocin PZS R286",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 95259
+    },
+    {
+      "line_no": "281",
+      "meter": 95259
+    },
+    {
+      "line_no": "281",
+      "meter": 95259
+    },
+    {
+      "line_no": "983",
+      "meter": 10
+    }
+  ]
+}

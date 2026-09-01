@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713476,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142otwiny R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "536",
+      "meter": 834
+    },
+    {
+      "line_no": "536",
+      "meter": 834
+    },
+    {
+      "line_no": "537",
+      "meter": 2908
+    },
+    {
+      "line_no": "537",
+      "meter": 2908
+    },
+    {
+      "line_no": "537",
+      "meter": 2908
+    }
+  ]
+}

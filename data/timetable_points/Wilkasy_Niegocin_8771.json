@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714755,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilkasy Niegocin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 154373
+    },
+    {
+      "line_no": "38",
+      "meter": 154373
+    },
+    {
+      "line_no": "38",
+      "meter": 154373
+    },
+    {
+      "line_no": "38",
+      "meter": 154436
+    },
+    {
+      "line_no": "38",
+      "meter": 154490
+    },
+    {
+      "line_no": "38",
+      "meter": 154490
+    },
+    {
+      "line_no": "38",
+      "meter": 154490
+    },
+    {
+      "line_no": "38",
+      "meter": 154500
+    }
+  ]
+}

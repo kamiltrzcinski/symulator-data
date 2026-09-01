@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715186,
+  "type": "TIMETABLE_POINT",
+  "name": "ZDU\u0143SKA WOLA KA. GT 103-129",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 167585
+    }
+  ]
+}

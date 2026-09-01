@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710206,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaksice Roz.40",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 331907
+    },
+    {
+      "line_no": "131",
+      "meter": 331907
+    },
+    {
+      "line_no": "741",
+      "meter": 8464
+    }
+  ]
+}

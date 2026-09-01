@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713335,
+  "type": "TIMETABLE_POINT",
+  "name": "Siedlce Zachodnie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 89863
+    },
+    {
+      "line_no": "2",
+      "meter": 89863
+    },
+    {
+      "line_no": "2",
+      "meter": 89863
+    },
+    {
+      "line_no": "2",
+      "meter": 89863
+    },
+    {
+      "line_no": "2",
+      "meter": 89863
+    }
+  ]
+}

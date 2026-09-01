@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710739,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142biel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 42174
+    },
+    {
+      "line_no": "7",
+      "meter": 42260
+    },
+    {
+      "line_no": "7",
+      "meter": 42260
+    }
+  ]
+}

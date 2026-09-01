@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709177,
+  "type": "TIMETABLE_POINT",
+  "name": "Cieksyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 8378
+    },
+    {
+      "line_no": "27",
+      "meter": 8378
+    }
+  ]
+}

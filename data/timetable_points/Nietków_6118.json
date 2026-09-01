@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712102,
+  "type": "TIMETABLE_POINT",
+  "name": "Nietk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 48683
+    },
+    {
+      "line_no": "358",
+      "meter": 48683
+    },
+    {
+      "line_no": "358",
+      "meter": 48683
+    },
+    {
+      "line_no": "358",
+      "meter": 48683
+    },
+    {
+      "line_no": "358",
+      "meter": 48700
+    }
+  ]
+}

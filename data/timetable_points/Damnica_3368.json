@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709352,
+  "type": "TIMETABLE_POINT",
+  "name": "Damnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 112387
+    },
+    {
+      "line_no": "202",
+      "meter": 112654
+    },
+    {
+      "line_no": "202",
+      "meter": 112654
+    },
+    {
+      "line_no": "202",
+      "meter": 112654
+    },
+    {
+      "line_no": "202",
+      "meter": 112654
+    }
+  ]
+}

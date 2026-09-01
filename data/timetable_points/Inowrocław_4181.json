@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710165,
+  "type": "TIMETABLE_POINT",
+  "name": "Inowroc\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 324936
+    },
+    {
+      "line_no": "131",
+      "meter": 324936
+    },
+    {
+      "line_no": "131",
+      "meter": 324936
+    },
+    {
+      "line_no": "353",
+      "meter": 100955
+    },
+    {
+      "line_no": "353",
+      "meter": 100955
+    },
+    {
+      "line_no": "353",
+      "meter": 100955
+    },
+    {
+      "line_no": "742",
+      "meter": 0
+    },
+    {
+      "line_no": "742",
+      "meter": 0
+    }
+  ]
+}

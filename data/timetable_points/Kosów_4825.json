@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710809,
+  "type": "TIMETABLE_POINT",
+  "name": "Kos\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 79940
+    },
+    {
+      "line_no": "22",
+      "meter": 79940
+    }
+  ]
+}

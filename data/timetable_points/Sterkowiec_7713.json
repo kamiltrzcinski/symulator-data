@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713697,
+  "type": "TIMETABLE_POINT",
+  "name": "Sterkowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 55975
+    },
+    {
+      "line_no": "91",
+      "meter": 55975
+    },
+    {
+      "line_no": "91",
+      "meter": 56102
+    },
+    {
+      "line_no": "91",
+      "meter": 56102
+    },
+    {
+      "line_no": "91",
+      "meter": 56102
+    }
+  ]
+}

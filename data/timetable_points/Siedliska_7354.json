@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713338,
+  "type": "TIMETABLE_POINT",
+  "name": "Siedliska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 141178
+    },
+    {
+      "line_no": "38",
+      "meter": 141178
+    },
+    {
+      "line_no": "38",
+      "meter": 141178
+    },
+    {
+      "line_no": "38",
+      "meter": 141217
+    },
+    {
+      "line_no": "38",
+      "meter": 141217
+    },
+    {
+      "line_no": "38",
+      "meter": 141217
+    },
+    {
+      "line_no": "38",
+      "meter": 141217
+    },
+    {
+      "line_no": "38",
+      "meter": 141231
+    }
+  ]
+}

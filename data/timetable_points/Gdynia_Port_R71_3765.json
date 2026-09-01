@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709749,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Port R71",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "228",
+      "meter": 5592
+    },
+    {
+      "line_no": "228",
+      "meter": 5592
+    },
+    {
+      "line_no": "228",
+      "meter": 5592
+    },
+    {
+      "line_no": "723",
+      "meter": 2078
+    },
+    {
+      "line_no": "723",
+      "meter": 2078
+    },
+    {
+      "line_no": "723",
+      "meter": 2078
+    },
+    {
+      "line_no": "723",
+      "meter": 2078
+    }
+  ]
+}

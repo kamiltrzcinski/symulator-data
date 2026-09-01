@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714506,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R26",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 13582
+    },
+    {
+      "line_no": "20",
+      "meter": 13582
+    },
+    {
+      "line_no": "835",
+      "meter": 9396
+    },
+    {
+      "line_no": "835",
+      "meter": 9396
+    },
+    {
+      "line_no": "835",
+      "meter": 9414
+    },
+    {
+      "line_no": "835",
+      "meter": 9414
+    }
+  ]
+}

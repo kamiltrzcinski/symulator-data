@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713461,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142awk\u00f3w LHS R75",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 394399
+    },
+    {
+      "line_no": "674",
+      "meter": 0
+    },
+    {
+      "line_no": "674",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714207,
+  "type": "TIMETABLE_POINT",
+  "name": "Tomasz\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 68140
+    },
+    {
+      "line_no": "25",
+      "meter": 68140
+    },
+    {
+      "line_no": "25",
+      "meter": 68140
+    }
+  ]
+}

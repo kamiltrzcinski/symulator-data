@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714109,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn.G\u00f3ry Tgc R.555",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "182",
+      "meter": 2988
+    },
+    {
+      "line_no": "182",
+      "meter": 2988
+    },
+    {
+      "line_no": "979",
+      "meter": 0
+    },
+    {
+      "line_no": "979",
+      "meter": 0
+    }
+  ]
+}

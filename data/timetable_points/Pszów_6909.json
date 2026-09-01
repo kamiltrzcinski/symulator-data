@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712893,
+  "type": "TIMETABLE_POINT",
+  "name": "Psz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "192",
+      "meter": 8460
+    }
+  ]
+}

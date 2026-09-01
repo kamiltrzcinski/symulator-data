@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714542,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Szcz\u0119\u015bliwice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "868",
+      "meter": 5377
+    },
+    {
+      "line_no": "868",
+      "meter": 5377
+    }
+  ]
+}

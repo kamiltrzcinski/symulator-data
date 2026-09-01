@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713773,
+  "type": "TIMETABLE_POINT",
+  "name": "Stypu\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 70912
+    },
+    {
+      "line_no": "371",
+      "meter": 70912
+    }
+  ]
+}

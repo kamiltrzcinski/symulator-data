@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708626,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0119dziemy\u015bl",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 137979
+    },
+    {
+      "line_no": "91",
+      "meter": 137979
+    },
+    {
+      "line_no": "91",
+      "meter": 137979
+    },
+    {
+      "line_no": "91",
+      "meter": 137979
+    },
+    {
+      "line_no": "91",
+      "meter": 138072
+    },
+    {
+      "line_no": "91",
+      "meter": 138072
+    }
+  ]
+}

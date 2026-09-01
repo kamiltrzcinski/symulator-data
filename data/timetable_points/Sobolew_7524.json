@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713508,
+  "type": "TIMETABLE_POINT",
+  "name": "Sobolew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 80631
+    },
+    {
+      "line_no": "7",
+      "meter": 80772
+    },
+    {
+      "line_no": "7",
+      "meter": 80772
+    },
+    {
+      "line_no": "7",
+      "meter": 80772
+    },
+    {
+      "line_no": "7",
+      "meter": 80772
+    }
+  ]
+}

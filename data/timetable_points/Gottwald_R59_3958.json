@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709942,
+  "type": "TIMETABLE_POINT",
+  "name": "Gottwald R59",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "713",
+      "meter": 3987
+    },
+    {
+      "line_no": "713",
+      "meter": 3987
+    },
+    {
+      "line_no": "713",
+      "meter": 3987
+    },
+    {
+      "line_no": "895",
+      "meter": 0
+    },
+    {
+      "line_no": "895",
+      "meter": 0
+    },
+    {
+      "line_no": "895",
+      "meter": 0
+    }
+  ]
+}

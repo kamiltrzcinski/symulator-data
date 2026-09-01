@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712801,
+  "type": "TIMETABLE_POINT",
+  "name": "Pruszcz Gda\u0144ski R44",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 273
+    },
+    {
+      "line_no": "226",
+      "meter": 302
+    },
+    {
+      "line_no": "226",
+      "meter": 302
+    },
+    {
+      "line_no": "226",
+      "meter": 302
+    },
+    {
+      "line_no": "226",
+      "meter": 302
+    },
+    {
+      "line_no": "229",
+      "meter": -302
+    },
+    {
+      "line_no": "229",
+      "meter": -302
+    },
+    {
+      "line_no": "229",
+      "meter": -273
+    }
+  ]
+}

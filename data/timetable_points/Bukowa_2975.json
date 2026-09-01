@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708959,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 32411
+    },
+    {
+      "line_no": "61",
+      "meter": 32411
+    },
+    {
+      "line_no": "61",
+      "meter": 32538
+    },
+    {
+      "line_no": "61",
+      "meter": 32538
+    },
+    {
+      "line_no": "61",
+      "meter": 32538
+    }
+  ]
+}

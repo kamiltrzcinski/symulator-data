@@ -1,0 +1,56 @@
+{
+  "uid": 3453153714981,
+  "type": "TIMETABLE_POINT",
+  "name": "Wrze\u015bnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 136310
+    },
+    {
+      "line_no": "281",
+      "meter": 136310
+    },
+    {
+      "line_no": "281",
+      "meter": 136310
+    },
+    {
+      "line_no": "281",
+      "meter": 136310
+    },
+    {
+      "line_no": "281",
+      "meter": 136310
+    },
+    {
+      "line_no": "807",
+      "meter": 2138
+    },
+    {
+      "line_no": "807",
+      "meter": 2138
+    },
+    {
+      "line_no": "807",
+      "meter": 2369
+    },
+    {
+      "line_no": "807",
+      "meter": 2369
+    },
+    {
+      "line_no": "808",
+      "meter": -838
+    },
+    {
+      "line_no": "808",
+      "meter": -838
+    },
+    {
+      "line_no": "808",
+      "meter": -837
+    }
+  ]
+}

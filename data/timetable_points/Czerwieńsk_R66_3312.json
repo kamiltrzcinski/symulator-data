@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709296,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwie\u0144sk R66",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 167049
+    },
+    {
+      "line_no": "273",
+      "meter": 167049
+    },
+    {
+      "line_no": "273",
+      "meter": 167049
+    },
+    {
+      "line_no": "980",
+      "meter": 0
+    },
+    {
+      "line_no": "980",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710706,
+  "type": "TIMETABLE_POINT",
+  "name": "Kobylnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 7727
+    },
+    {
+      "line_no": "353",
+      "meter": 7727
+    },
+    {
+      "line_no": "394",
+      "meter": 15978
+    }
+  ]
+}

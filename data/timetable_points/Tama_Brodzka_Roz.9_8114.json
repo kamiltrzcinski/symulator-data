@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714098,
+  "type": "TIMETABLE_POINT",
+  "name": "Tama Brodzka Roz.9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 51411
+    },
+    {
+      "line_no": "208",
+      "meter": 51411
+    },
+    {
+      "line_no": "208",
+      "meter": 51411
+    },
+    {
+      "line_no": "208",
+      "meter": 51411
+    },
+    {
+      "line_no": "208",
+      "meter": 51411
+    }
+  ]
+}

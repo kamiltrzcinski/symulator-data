@@ -1,0 +1,56 @@
+{
+  "uid": 3453153710997,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w P\u0142asz\u00f3w R13-14",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 12202
+    },
+    {
+      "line_no": "100",
+      "meter": 12202
+    },
+    {
+      "line_no": "100",
+      "meter": 12202
+    },
+    {
+      "line_no": "100",
+      "meter": 12202
+    },
+    {
+      "line_no": "100",
+      "meter": 12202
+    },
+    {
+      "line_no": "604",
+      "meter": -1465
+    },
+    {
+      "line_no": "604",
+      "meter": -1465
+    },
+    {
+      "line_no": "604",
+      "meter": -1465
+    },
+    {
+      "line_no": "629",
+      "meter": 3205
+    },
+    {
+      "line_no": "629",
+      "meter": 3205
+    },
+    {
+      "line_no": "629",
+      "meter": 3205
+    },
+    {
+      "line_no": "629",
+      "meter": 3205
+    }
+  ]
+}

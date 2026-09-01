@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711873,
+  "type": "TIMETABLE_POINT",
+  "name": "Mikulovice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "485",
+      "meter": 48726
+    },
+    {
+      "line_no": "485",
+      "meter": 48726
+    },
+    {
+      "line_no": "485",
+      "meter": 48947
+    },
+    {
+      "line_no": "485",
+      "meter": 48947
+    }
+  ]
+}

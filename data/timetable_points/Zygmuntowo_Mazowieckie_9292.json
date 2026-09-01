@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715276,
+  "type": "TIMETABLE_POINT",
+  "name": "Zygmuntowo Mazowieckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 35576
+    },
+    {
+      "line_no": "29",
+      "meter": 35576
+    },
+    {
+      "line_no": "29",
+      "meter": 35576
+    },
+    {
+      "line_no": "29",
+      "meter": 35576
+    }
+  ]
+}

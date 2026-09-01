@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713805,
+  "type": "TIMETABLE_POINT",
+  "name": "Suliszewo Drawskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 122290
+    },
+    {
+      "line_no": "210",
+      "meter": 122290
+    },
+    {
+      "line_no": "210",
+      "meter": 122309
+    }
+  ]
+}

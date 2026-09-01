@@ -1,0 +1,92 @@
+{
+  "uid": 3453153709762,
+  "type": "TIMETABLE_POINT",
+  "name": "Geniusze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 211791
+    },
+    {
+      "line_no": "6",
+      "meter": 211791
+    },
+    {
+      "line_no": "6",
+      "meter": 212805
+    },
+    {
+      "line_no": "6",
+      "meter": 212806
+    },
+    {
+      "line_no": "6",
+      "meter": 212882
+    },
+    {
+      "line_no": "6",
+      "meter": 212882
+    },
+    {
+      "line_no": "6",
+      "meter": 212882
+    },
+    {
+      "line_no": "6",
+      "meter": 212882
+    },
+    {
+      "line_no": "6",
+      "meter": 212882
+    },
+    {
+      "line_no": "6",
+      "meter": 213100
+    },
+    {
+      "line_no": "6",
+      "meter": 213100
+    },
+    {
+      "line_no": "6",
+      "meter": 213100
+    },
+    {
+      "line_no": "6",
+      "meter": 213100
+    },
+    {
+      "line_no": "6",
+      "meter": 213100
+    },
+    {
+      "line_no": "57",
+      "meter": 186221
+    },
+    {
+      "line_no": "57",
+      "meter": 187172
+    },
+    {
+      "line_no": "57",
+      "meter": 187172
+    },
+    {
+      "line_no": "57",
+      "meter": 187172
+    },
+    {
+      "line_no": "57",
+      "meter": 187172
+    },
+    {
+      "line_no": "57",
+      "meter": 187172
+    },
+    {
+      "line_no": "57",
+      "meter": 187172
+    }
+  ]
+}

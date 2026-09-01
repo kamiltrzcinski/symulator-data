@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708167,
+  "type": "TIMETABLE_POINT",
+  "name": "A285 009,418",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 9418
+    },
+    {
+      "line_no": "285",
+      "meter": 9418
+    },
+    {
+      "line_no": "285",
+      "meter": 9418
+    }
+  ]
+}

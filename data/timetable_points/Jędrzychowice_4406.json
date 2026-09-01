@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710390,
+  "type": "TIMETABLE_POINT",
+  "name": "J\u0119drzychowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "278",
+      "meter": 22421
+    },
+    {
+      "line_no": "278",
+      "meter": 22421
+    },
+    {
+      "line_no": "278",
+      "meter": 22421
+    }
+  ]
+}

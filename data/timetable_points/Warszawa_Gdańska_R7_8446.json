@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714430,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "509",
+      "meter": 7975
+    },
+    {
+      "line_no": "509",
+      "meter": 7975
+    },
+    {
+      "line_no": "509",
+      "meter": 7980
+    },
+    {
+      "line_no": "509",
+      "meter": 7980
+    },
+    {
+      "line_no": "548",
+      "meter": 0
+    },
+    {
+      "line_no": "548",
+      "meter": 0
+    },
+    {
+      "line_no": "548",
+      "meter": 0
+    }
+  ]
+}

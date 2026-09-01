@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711701,
+  "type": "TIMETABLE_POINT",
+  "name": "Majdan Stule\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "81",
+      "meter": 26892
+    },
+    {
+      "line_no": "81",
+      "meter": 27002
+    }
+  ]
+}

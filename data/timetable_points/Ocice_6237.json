@@ -1,0 +1,48 @@
+{
+  "uid": 3453153712221,
+  "type": "TIMETABLE_POINT",
+  "name": "Ocice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 257532
+    },
+    {
+      "line_no": "25",
+      "meter": 257532
+    },
+    {
+      "line_no": "25",
+      "meter": 257532
+    },
+    {
+      "line_no": "25",
+      "meter": 257532
+    },
+    {
+      "line_no": "25",
+      "meter": 257532
+    },
+    {
+      "line_no": "25",
+      "meter": 257532
+    },
+    {
+      "line_no": "71",
+      "meter": 0
+    },
+    {
+      "line_no": "71",
+      "meter": 0
+    },
+    {
+      "line_no": "71",
+      "meter": 0
+    },
+    {
+      "line_no": "71",
+      "meter": 0
+    }
+  ]
+}

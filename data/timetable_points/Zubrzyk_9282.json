@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715266,
+  "type": "TIMETABLE_POINT",
+  "name": "Zubrzyk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 121119
+    },
+    {
+      "line_no": "96",
+      "meter": 121119
+    },
+    {
+      "line_no": "96",
+      "meter": 121119
+    },
+    {
+      "line_no": "96",
+      "meter": 121139
+    }
+  ]
+}

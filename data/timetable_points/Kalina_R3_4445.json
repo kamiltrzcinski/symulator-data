@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710429,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalina R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 67087
+    },
+    {
+      "line_no": "131",
+      "meter": 67102
+    },
+    {
+      "line_no": "131",
+      "meter": 67102
+    },
+    {
+      "line_no": "687",
+      "meter": -17
+    },
+    {
+      "line_no": "687",
+      "meter": 3
+    }
+  ]
+}

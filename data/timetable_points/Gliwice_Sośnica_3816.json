@@ -1,0 +1,72 @@
+{
+  "uid": 3453153709800,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice So\u015bnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 21250
+    },
+    {
+      "line_no": "141",
+      "meter": 21250
+    },
+    {
+      "line_no": "141",
+      "meter": 21250
+    },
+    {
+      "line_no": "141",
+      "meter": 21250
+    },
+    {
+      "line_no": "200",
+      "meter": 4337
+    },
+    {
+      "line_no": "200",
+      "meter": 4337
+    },
+    {
+      "line_no": "200",
+      "meter": 4337
+    },
+    {
+      "line_no": "200",
+      "meter": 4337
+    },
+    {
+      "line_no": "200",
+      "meter": 4337
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    },
+    {
+      "line_no": "676",
+      "meter": 1
+    }
+  ]
+}

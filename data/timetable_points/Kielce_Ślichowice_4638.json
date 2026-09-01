@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710622,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce \u015alichowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 3723
+    },
+    {
+      "line_no": "61",
+      "meter": 3723
+    },
+    {
+      "line_no": "61",
+      "meter": 3723
+    },
+    {
+      "line_no": "61",
+      "meter": 3723
+    },
+    {
+      "line_no": "61",
+      "meter": 3723
+    },
+    {
+      "line_no": "61",
+      "meter": 3723
+    }
+  ]
+}

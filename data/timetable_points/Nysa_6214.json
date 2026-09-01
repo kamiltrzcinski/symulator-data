@@ -1,0 +1,44 @@
+{
+  "uid": 3453153712198,
+  "type": "TIMETABLE_POINT",
+  "name": "Nysa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 139075
+    },
+    {
+      "line_no": "137",
+      "meter": 139075
+    },
+    {
+      "line_no": "137",
+      "meter": 139075
+    },
+    {
+      "line_no": "137",
+      "meter": 139075
+    },
+    {
+      "line_no": "287",
+      "meter": 48752
+    },
+    {
+      "line_no": "287",
+      "meter": 48753
+    },
+    {
+      "line_no": "288",
+      "meter": 1
+    },
+    {
+      "line_no": "288",
+      "meter": 1
+    },
+    {
+      "line_no": "288",
+      "meter": 237
+    }
+  ]
+}

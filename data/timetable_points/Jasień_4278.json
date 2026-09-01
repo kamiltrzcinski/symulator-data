@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710262,
+  "type": "TIMETABLE_POINT",
+  "name": "Jasie\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 167163
+    },
+    {
+      "line_no": "275",
+      "meter": 167163
+    },
+    {
+      "line_no": "275",
+      "meter": 167173
+    }
+  ]
+}

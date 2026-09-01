@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714740,
+  "type": "TIMETABLE_POINT",
+  "name": "Wi\u0119c\u0142awice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 106831
+    },
+    {
+      "line_no": "353",
+      "meter": 106831
+    }
+  ]
+}

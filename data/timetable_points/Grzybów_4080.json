@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710064,
+  "type": "TIMETABLE_POINT",
+  "name": "Grzyb\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 39690
+    },
+    {
+      "line_no": "70",
+      "meter": 39690
+    },
+    {
+      "line_no": "70",
+      "meter": 39690
+    },
+    {
+      "line_no": "70",
+      "meter": 39690
+    },
+    {
+      "line_no": "70",
+      "meter": 39690
+    }
+  ]
+}

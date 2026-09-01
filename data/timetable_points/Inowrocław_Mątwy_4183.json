@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710167,
+  "type": "TIMETABLE_POINT",
+  "name": "Inowroc\u0142aw M\u0105twy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "231",
+      "meter": 2139
+    },
+    {
+      "line_no": "231",
+      "meter": 2139
+    }
+  ]
+}

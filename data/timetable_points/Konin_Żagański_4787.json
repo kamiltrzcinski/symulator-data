@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710771,
+  "type": "TIMETABLE_POINT",
+  "name": "Konin \u017baga\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 91448
+    },
+    {
+      "line_no": "282",
+      "meter": 91500
+    }
+  ]
+}

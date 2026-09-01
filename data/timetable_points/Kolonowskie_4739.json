@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710723,
+  "type": "TIMETABLE_POINT",
+  "name": "Kolonowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 42295
+    }
+  ]
+}

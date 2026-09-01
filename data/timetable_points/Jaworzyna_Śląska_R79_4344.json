@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710328,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaworzyna \u015al\u0105ska R79",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 237543
+    },
+    {
+      "line_no": "274",
+      "meter": 48913
+    }
+  ]
+}

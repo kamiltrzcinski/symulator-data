@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711815,
+  "type": "TIMETABLE_POINT",
+  "name": "Miech\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 277343
+    },
+    {
+      "line_no": "8",
+      "meter": 277343
+    },
+    {
+      "line_no": "8",
+      "meter": 277343
+    },
+    {
+      "line_no": "8",
+      "meter": 277343
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715176,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szy\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 379335
+    },
+    {
+      "line_no": "3",
+      "meter": 379335
+    },
+    {
+      "line_no": "3",
+      "meter": 379335
+    },
+    {
+      "line_no": "3",
+      "meter": 379335
+    },
+    {
+      "line_no": "359",
+      "meter": 68877
+    },
+    {
+      "line_no": "359",
+      "meter": 68878
+    },
+    {
+      "line_no": "359",
+      "meter": 68878
+    },
+    {
+      "line_no": "373",
+      "meter": 43080
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711207,
+  "type": "TIMETABLE_POINT",
+  "name": "L311 km:29,844 PLK - UM W.Dolno\u015bl.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 29844
+    }
+  ]
+}

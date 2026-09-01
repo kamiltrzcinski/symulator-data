@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708741,
+  "type": "TIMETABLE_POINT",
+  "name": "Bierawa R73",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "151",
+      "meter": 7100
+    },
+    {
+      "line_no": "151",
+      "meter": 7100
+    },
+    {
+      "line_no": "151",
+      "meter": 7100
+    },
+    {
+      "line_no": "151",
+      "meter": 7100
+    },
+    {
+      "line_no": "890",
+      "meter": 1629
+    },
+    {
+      "line_no": "890",
+      "meter": 1629
+    },
+    {
+      "line_no": "890",
+      "meter": 1629
+    }
+  ]
+}

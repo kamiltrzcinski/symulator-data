@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710071,
+  "type": "TIMETABLE_POINT",
+  "name": "Gubinek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 196915
+    },
+    {
+      "line_no": "275",
+      "meter": 196915
+    },
+    {
+      "line_no": "275",
+      "meter": 196915
+    }
+  ]
+}

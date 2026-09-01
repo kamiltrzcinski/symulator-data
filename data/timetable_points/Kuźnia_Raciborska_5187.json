@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711171,
+  "type": "TIMETABLE_POINT",
+  "name": "Ku\u017ania Raciborska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "151",
+      "meter": 18039
+    },
+    {
+      "line_no": "151",
+      "meter": 18039
+    },
+    {
+      "line_no": "151",
+      "meter": 18039
+    },
+    {
+      "line_no": "151",
+      "meter": 18080
+    }
+  ]
+}

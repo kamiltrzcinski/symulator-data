@@ -1,0 +1,64 @@
+{
+  "uid": 3453153709669,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Olszynka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 10220
+    },
+    {
+      "line_no": "226",
+      "meter": 10220
+    },
+    {
+      "line_no": "226",
+      "meter": 10255
+    },
+    {
+      "line_no": "226",
+      "meter": 10255
+    },
+    {
+      "line_no": "226",
+      "meter": 10255
+    },
+    {
+      "line_no": "226",
+      "meter": 10255
+    },
+    {
+      "line_no": "226",
+      "meter": 10255
+    },
+    {
+      "line_no": "226",
+      "meter": 10255
+    },
+    {
+      "line_no": "721",
+      "meter": 2572
+    },
+    {
+      "line_no": "721",
+      "meter": 2572
+    },
+    {
+      "line_no": "721",
+      "meter": 2572
+    },
+    {
+      "line_no": "846",
+      "meter": 1
+    },
+    {
+      "line_no": "846",
+      "meter": 1
+    },
+    {
+      "line_no": "846",
+      "meter": 1
+    }
+  ]
+}

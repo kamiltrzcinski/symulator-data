@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715054,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrzeg",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 51441
+    },
+    {
+      "line_no": "93",
+      "meter": 51441
+    },
+    {
+      "line_no": "93",
+      "meter": 51441
+    },
+    {
+      "line_no": "93",
+      "meter": 51505
+    },
+    {
+      "line_no": "150",
+      "meter": 4445
+    },
+    {
+      "line_no": "693",
+      "meter": 79
+    },
+    {
+      "line_no": "693",
+      "meter": 149
+    },
+    {
+      "line_no": "693",
+      "meter": 149
+    }
+  ]
+}

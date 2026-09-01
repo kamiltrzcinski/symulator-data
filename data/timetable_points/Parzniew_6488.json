@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712472,
+  "type": "TIMETABLE_POINT",
+  "name": "Parzniew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 18631
+    },
+    {
+      "line_no": "447",
+      "meter": 18631
+    }
+  ]
+}

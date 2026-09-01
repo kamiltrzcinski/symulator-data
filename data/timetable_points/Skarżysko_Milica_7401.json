@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713385,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko Milica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 141149
+    },
+    {
+      "line_no": "25",
+      "meter": 141149
+    },
+    {
+      "line_no": "25",
+      "meter": 141149
+    }
+  ]
+}

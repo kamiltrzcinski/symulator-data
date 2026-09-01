@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713471,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142onice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 127315
+    },
+    {
+      "line_no": "351",
+      "meter": 127319
+    },
+    {
+      "line_no": "351",
+      "meter": 127319
+    },
+    {
+      "line_no": "351",
+      "meter": 127319
+    },
+    {
+      "line_no": "351",
+      "meter": 127319
+    },
+    {
+      "line_no": "351",
+      "meter": 127319
+    },
+    {
+      "line_no": "351",
+      "meter": 127319
+    }
+  ]
+}

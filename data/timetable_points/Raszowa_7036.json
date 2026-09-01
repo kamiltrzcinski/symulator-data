@@ -1,0 +1,52 @@
+{
+  "uid": 3453153713020,
+  "type": "TIMETABLE_POINT",
+  "name": "Raszowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "136",
+      "meter": 5747
+    },
+    {
+      "line_no": "136",
+      "meter": 5747
+    },
+    {
+      "line_no": "136",
+      "meter": 5747
+    },
+    {
+      "line_no": "136",
+      "meter": 5852
+    },
+    {
+      "line_no": "136",
+      "meter": 6444
+    },
+    {
+      "line_no": "136",
+      "meter": 6444
+    },
+    {
+      "line_no": "136",
+      "meter": 6444
+    },
+    {
+      "line_no": "136",
+      "meter": 6444
+    },
+    {
+      "line_no": "136",
+      "meter": 6444
+    },
+    {
+      "line_no": "891",
+      "meter": 1
+    },
+    {
+      "line_no": "891",
+      "meter": 1
+    }
+  ]
+}

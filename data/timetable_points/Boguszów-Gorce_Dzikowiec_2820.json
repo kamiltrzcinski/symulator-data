@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708804,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogusz\u00f3w-Gorce Dzikowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "291",
+      "meter": 20640
+    },
+    {
+      "line_no": "291",
+      "meter": 20640
+    }
+  ]
+}

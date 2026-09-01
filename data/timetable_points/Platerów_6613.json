@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712597,
+  "type": "TIMETABLE_POINT",
+  "name": "Plater\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 43379
+    },
+    {
+      "line_no": "31",
+      "meter": 43379
+    },
+    {
+      "line_no": "31",
+      "meter": 43379
+    },
+    {
+      "line_no": "31",
+      "meter": 43379
+    },
+    {
+      "line_no": "31",
+      "meter": 43379
+    },
+    {
+      "line_no": "31",
+      "meter": 43379
+    }
+  ]
+}

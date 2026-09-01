@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715164,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0105bkowice \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 187080
+    },
+    {
+      "line_no": "137",
+      "meter": 187080
+    }
+  ]
+}

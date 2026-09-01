@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708715,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 284325
+    },
+    {
+      "line_no": "273",
+      "meter": 284415
+    },
+    {
+      "line_no": "273",
+      "meter": 284415
+    }
+  ]
+}

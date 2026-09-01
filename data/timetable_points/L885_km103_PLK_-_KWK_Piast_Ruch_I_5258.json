@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711242,
+  "type": "TIMETABLE_POINT",
+  "name": "L885 km:,103 PLK - KWK Piast Ruch I",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "885",
+      "meter": 103
+    },
+    {
+      "line_no": "885",
+      "meter": 103
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712892,
+  "type": "TIMETABLE_POINT",
+  "name": "Pszenno Cukrownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 54978
+    },
+    {
+      "line_no": "285",
+      "meter": 54978
+    },
+    {
+      "line_no": "285",
+      "meter": 54978
+    },
+    {
+      "line_no": "285",
+      "meter": 54978
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710122,
+  "type": "TIMETABLE_POINT",
+  "name": "Hrubiesz\u00f3w Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 3123
+    },
+    {
+      "line_no": "65",
+      "meter": 3123
+    },
+    {
+      "line_no": "931",
+      "meter": 2883
+    },
+    {
+      "line_no": "931",
+      "meter": 3109
+    },
+    {
+      "line_no": "931",
+      "meter": 3109
+    },
+    {
+      "line_no": "931",
+      "meter": 3109
+    },
+    {
+      "line_no": "931",
+      "meter": 3109
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708519,
+  "type": "TIMETABLE_POINT",
+  "name": "Adamowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 43523
+    }
+  ]
+}

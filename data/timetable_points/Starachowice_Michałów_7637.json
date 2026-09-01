@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713621,
+  "type": "TIMETABLE_POINT",
+  "name": "Starachowice Micha\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 165748
+    },
+    {
+      "line_no": "25",
+      "meter": 165850
+    },
+    {
+      "line_no": "25",
+      "meter": 165850
+    },
+    {
+      "line_no": "25",
+      "meter": 165860
+    }
+  ]
+}

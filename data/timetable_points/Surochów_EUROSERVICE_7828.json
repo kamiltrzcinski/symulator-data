@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713812,
+  "type": "TIMETABLE_POINT",
+  "name": "Suroch\u00f3w EUROSERVICE",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "101",
+      "meter": 5500
+    }
+  ]
+}

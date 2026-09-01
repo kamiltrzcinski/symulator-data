@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712554,
+  "type": "TIMETABLE_POINT",
+  "name": "Pilchowice Zapora",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 11168
+    },
+    {
+      "line_no": "283",
+      "meter": 11168
+    },
+    {
+      "line_no": "283",
+      "meter": 11168
+    },
+    {
+      "line_no": "283",
+      "meter": 11168
+    },
+    {
+      "line_no": "283",
+      "meter": 11227
+    },
+    {
+      "line_no": "283",
+      "meter": 11227
+    },
+    {
+      "line_no": "283",
+      "meter": 11227
+    }
+  ]
+}

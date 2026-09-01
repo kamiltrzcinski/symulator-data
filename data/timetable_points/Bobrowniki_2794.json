@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708778,
+  "type": "TIMETABLE_POINT",
+  "name": "Bobrowniki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "11",
+      "meter": 15169
+    },
+    {
+      "line_no": "11",
+      "meter": 15169
+    },
+    {
+      "line_no": "11",
+      "meter": 15169
+    }
+  ]
+}

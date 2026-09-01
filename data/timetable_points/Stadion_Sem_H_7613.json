@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713597,
+  "type": "TIMETABLE_POINT",
+  "name": "Stadion Sem H",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 12460
+    },
+    {
+      "line_no": "349",
+      "meter": 12460
+    }
+  ]
+}

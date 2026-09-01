@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712869,
+  "type": "TIMETABLE_POINT",
+  "name": "Przysieka Stara",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 117207
+    },
+    {
+      "line_no": "271",
+      "meter": 117207
+    },
+    {
+      "line_no": "271",
+      "meter": 117207
+    },
+    {
+      "line_no": "271",
+      "meter": 117207
+    },
+    {
+      "line_no": "271",
+      "meter": 117277
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710462,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamie\u0144czyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 280724
+    },
+    {
+      "line_no": "8",
+      "meter": 280724
+    },
+    {
+      "line_no": "8",
+      "meter": 280724
+    },
+    {
+      "line_no": "8",
+      "meter": 280724
+    },
+    {
+      "line_no": "8",
+      "meter": 280724
+    }
+  ]
+}

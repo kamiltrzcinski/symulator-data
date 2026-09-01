@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711263,
+  "type": "TIMETABLE_POINT",
+  "name": "L938 km:,05 PLK - CTL Maczki-B\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "938",
+      "meter": 50
+    }
+  ]
+}

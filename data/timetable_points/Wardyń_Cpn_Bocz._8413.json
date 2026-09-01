@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714397,
+  "type": "TIMETABLE_POINT",
+  "name": "Wardy\u0144 Cpn Bocz.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 135760
+    },
+    {
+      "line_no": "410",
+      "meter": 135760
+    },
+    {
+      "line_no": "410",
+      "meter": 135760
+    }
+  ]
+}

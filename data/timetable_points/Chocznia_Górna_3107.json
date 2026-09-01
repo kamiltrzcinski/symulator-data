@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709091,
+  "type": "TIMETABLE_POINT",
+  "name": "Chocznia G\u00f3rna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 23700
+    },
+    {
+      "line_no": "117",
+      "meter": 23986
+    },
+    {
+      "line_no": "117",
+      "meter": 23986
+    },
+    {
+      "line_no": "117",
+      "meter": 24015
+    },
+    {
+      "line_no": "117",
+      "meter": 24313
+    }
+  ]
+}

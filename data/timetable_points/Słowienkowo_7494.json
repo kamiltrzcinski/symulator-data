@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713478,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142owienkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 17420
+    },
+    {
+      "line_no": "402",
+      "meter": 17420
+    }
+  ]
+}

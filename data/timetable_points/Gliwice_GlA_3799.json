@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709783,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice GlA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "200",
+      "meter": 3869
+    },
+    {
+      "line_no": "200",
+      "meter": 3869
+    },
+    {
+      "line_no": "200",
+      "meter": 3869
+    },
+    {
+      "line_no": "200",
+      "meter": 3869
+    },
+    {
+      "line_no": "711",
+      "meter": 503
+    },
+    {
+      "line_no": "711",
+      "meter": 503
+    },
+    {
+      "line_no": "711",
+      "meter": 503
+    }
+  ]
+}

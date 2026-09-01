@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708771,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0142otnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "359",
+      "meter": 26400
+    },
+    {
+      "line_no": "359",
+      "meter": 26411
+    }
+  ]
+}

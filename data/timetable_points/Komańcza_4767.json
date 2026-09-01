@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710751,
+  "type": "TIMETABLE_POINT",
+  "name": "Koma\u0144cza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": 35251
+    },
+    {
+      "line_no": "107",
+      "meter": 35251
+    },
+    {
+      "line_no": "107",
+      "meter": 35251
+    }
+  ]
+}

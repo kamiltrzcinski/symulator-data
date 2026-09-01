@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709474,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobrocin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 51629
+    },
+    {
+      "line_no": "220",
+      "meter": 51629
+    },
+    {
+      "line_no": "220",
+      "meter": 51640
+    },
+    {
+      "line_no": "220",
+      "meter": 51640
+    }
+  ]
+}

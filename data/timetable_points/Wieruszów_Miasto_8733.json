@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714717,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierusz\u00f3w Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 90855
+    },
+    {
+      "line_no": "181",
+      "meter": 90855
+    },
+    {
+      "line_no": "181",
+      "meter": 90955
+    }
+  ]
+}

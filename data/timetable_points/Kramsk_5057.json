@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711041,
+  "type": "TIMETABLE_POINT",
+  "name": "Kramsk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 187834
+    },
+    {
+      "line_no": "3",
+      "meter": 187834
+    }
+  ]
+}

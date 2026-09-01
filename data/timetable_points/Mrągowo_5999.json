@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711983,
+  "type": "TIMETABLE_POINT",
+  "name": "Mr\u0105gowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 34078
+    },
+    {
+      "line_no": "223",
+      "meter": 34078
+    },
+    {
+      "line_no": "223",
+      "meter": 34078
+    },
+    {
+      "line_no": "223",
+      "meter": 34078
+    }
+  ]
+}

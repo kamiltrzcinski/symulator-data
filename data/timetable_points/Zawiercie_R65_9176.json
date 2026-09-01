@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715160,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawiercie R65",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 224828
+    },
+    {
+      "line_no": "4",
+      "meter": 224828
+    },
+    {
+      "line_no": "4",
+      "meter": 224828
+    },
+    {
+      "line_no": "4",
+      "meter": 224840
+    },
+    {
+      "line_no": "160",
+      "meter": 275013
+    },
+    {
+      "line_no": "160",
+      "meter": 275013
+    },
+    {
+      "line_no": "160",
+      "meter": 275030
+    }
+  ]
+}

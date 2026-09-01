@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709189,
+  "type": "TIMETABLE_POINT",
+  "name": "Cierpig\u00f3rz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 25430
+    },
+    {
+      "line_no": "31",
+      "meter": 25430
+    },
+    {
+      "line_no": "31",
+      "meter": 25430
+    },
+    {
+      "line_no": "31",
+      "meter": 25430
+    },
+    {
+      "line_no": "31",
+      "meter": 25430
+    },
+    {
+      "line_no": "31",
+      "meter": 25430
+    }
+  ]
+}

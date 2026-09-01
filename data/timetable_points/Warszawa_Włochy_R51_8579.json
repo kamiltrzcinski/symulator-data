@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714563,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa W\u0142ochy R51",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 8370
+    },
+    {
+      "line_no": "3",
+      "meter": 8370
+    },
+    {
+      "line_no": "3",
+      "meter": 8370
+    },
+    {
+      "line_no": "457",
+      "meter": 8370
+    },
+    {
+      "line_no": "457",
+      "meter": 8370
+    }
+  ]
+}

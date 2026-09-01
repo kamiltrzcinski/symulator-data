@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714789,
+  "type": "TIMETABLE_POINT",
+  "name": "Wiz\u00f3w Z-Dy Chem. Sa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "973",
+      "meter": 5085
+    },
+    {
+      "line_no": "973",
+      "meter": 5085
+    },
+    {
+      "line_no": "973",
+      "meter": 5085
+    }
+  ]
+}

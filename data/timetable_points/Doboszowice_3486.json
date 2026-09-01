@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709470,
+  "type": "TIMETABLE_POINT",
+  "name": "Doboszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 172123
+    },
+    {
+      "line_no": "137",
+      "meter": 172123
+    }
+  ]
+}

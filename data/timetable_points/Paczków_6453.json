@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712437,
+  "type": "TIMETABLE_POINT",
+  "name": "Paczk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 166107
+    }
+  ]
+}

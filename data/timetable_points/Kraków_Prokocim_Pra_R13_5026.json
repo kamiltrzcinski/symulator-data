@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711010,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Prokocim Pra R13",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 14169
+    },
+    {
+      "line_no": "100",
+      "meter": 14169
+    },
+    {
+      "line_no": "100",
+      "meter": 14169
+    },
+    {
+      "line_no": "100",
+      "meter": 14169
+    },
+    {
+      "line_no": "604",
+      "meter": 442
+    },
+    {
+      "line_no": "604",
+      "meter": 442
+    },
+    {
+      "line_no": "604",
+      "meter": 550
+    }
+  ]
+}

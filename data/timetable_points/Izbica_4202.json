@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710186,
+  "type": "TIMETABLE_POINT",
+  "name": "Izbica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 30545
+    },
+    {
+      "line_no": "69",
+      "meter": 30545
+    },
+    {
+      "line_no": "69",
+      "meter": 30545
+    },
+    {
+      "line_no": "69",
+      "meter": 31206
+    },
+    {
+      "line_no": "69",
+      "meter": 31206
+    },
+    {
+      "line_no": "69",
+      "meter": 31206
+    },
+    {
+      "line_no": "69",
+      "meter": 31206
+    }
+  ]
+}

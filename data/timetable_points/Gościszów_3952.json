@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709936,
+  "type": "TIMETABLE_POINT",
+  "name": "Go\u015bcisz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 45894
+    },
+    {
+      "line_no": "283",
+      "meter": 45894
+    },
+    {
+      "line_no": "283",
+      "meter": 45894
+    },
+    {
+      "line_no": "283",
+      "meter": 48347
+    },
+    {
+      "line_no": "283",
+      "meter": 48347
+    },
+    {
+      "line_no": "283",
+      "meter": 48347
+    },
+    {
+      "line_no": "283",
+      "meter": 48347
+    }
+  ]
+}

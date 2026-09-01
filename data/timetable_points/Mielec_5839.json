@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711823,
+  "type": "TIMETABLE_POINT",
+  "name": "Mielec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 291933
+    },
+    {
+      "line_no": "25",
+      "meter": 291933
+    },
+    {
+      "line_no": "25",
+      "meter": 291933
+    },
+    {
+      "line_no": "25",
+      "meter": 291933
+    },
+    {
+      "line_no": "25",
+      "meter": 291933
+    },
+    {
+      "line_no": "25",
+      "meter": 291933
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714996,
+  "type": "TIMETABLE_POINT",
+  "name": "W-W Br Stadion S80",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 8055
+    },
+    {
+      "line_no": "349",
+      "meter": 8055
+    }
+  ]
+}

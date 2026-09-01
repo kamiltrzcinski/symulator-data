@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713524,
+  "type": "TIMETABLE_POINT",
+  "name": "Sok\u00f3\u0142ka R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 218921
+    },
+    {
+      "line_no": "6",
+      "meter": 218921
+    },
+    {
+      "line_no": "6",
+      "meter": 218921
+    },
+    {
+      "line_no": "6",
+      "meter": 218921
+    },
+    {
+      "line_no": "40",
+      "meter": 394
+    }
+  ]
+}

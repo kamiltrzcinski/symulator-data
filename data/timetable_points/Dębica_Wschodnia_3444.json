@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709428,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bica Wschodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 113000
+    },
+    {
+      "line_no": "91",
+      "meter": 113950
+    },
+    {
+      "line_no": "91",
+      "meter": 113950
+    },
+    {
+      "line_no": "91",
+      "meter": 113950
+    },
+    {
+      "line_no": "91",
+      "meter": 113950
+    }
+  ]
+}

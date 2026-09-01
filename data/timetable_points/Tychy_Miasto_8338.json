@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714322,
+  "type": "TIMETABLE_POINT",
+  "name": "Tychy Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 3730
+    },
+    {
+      "line_no": "179",
+      "meter": 3730
+    },
+    {
+      "line_no": "179",
+      "meter": 3730
+    },
+    {
+      "line_no": "696",
+      "meter": 1
+    },
+    {
+      "line_no": "696",
+      "meter": 1
+    },
+    {
+      "line_no": "696",
+      "meter": 1
+    }
+  ]
+}

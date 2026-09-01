@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711349,
+  "type": "TIMETABLE_POINT",
+  "name": "Lewki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 27145
+    },
+    {
+      "line_no": "32",
+      "meter": 27145
+    },
+    {
+      "line_no": "32",
+      "meter": 27145
+    },
+    {
+      "line_no": "32",
+      "meter": 27145
+    },
+    {
+      "line_no": "32",
+      "meter": 27169
+    },
+    {
+      "line_no": "32",
+      "meter": 27320
+    },
+    {
+      "line_no": "52",
+      "meter": -44
+    },
+    {
+      "line_no": "52",
+      "meter": 0
+    },
+    {
+      "line_no": "52",
+      "meter": 0
+    }
+  ]
+}

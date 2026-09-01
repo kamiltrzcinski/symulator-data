@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713045,
+  "type": "TIMETABLE_POINT",
+  "name": "Rejowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 229286
+    },
+    {
+      "line_no": "7",
+      "meter": 229286
+    },
+    {
+      "line_no": "7",
+      "meter": 229286
+    },
+    {
+      "line_no": "69",
+      "meter": 0
+    },
+    {
+      "line_no": "69",
+      "meter": 0
+    },
+    {
+      "line_no": "69",
+      "meter": 0
+    },
+    {
+      "line_no": "69",
+      "meter": 0
+    },
+    {
+      "line_no": "563",
+      "meter": 800
+    }
+  ]
+}

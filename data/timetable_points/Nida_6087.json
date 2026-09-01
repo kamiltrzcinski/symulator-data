@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712071,
+  "type": "TIMETABLE_POINT",
+  "name": "Nida",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 6822
+    },
+    {
+      "line_no": "73",
+      "meter": 6822
+    },
+    {
+      "line_no": "73",
+      "meter": 6822
+    },
+    {
+      "line_no": "73",
+      "meter": 6822
+    },
+    {
+      "line_no": "73",
+      "meter": 6822
+    }
+  ]
+}

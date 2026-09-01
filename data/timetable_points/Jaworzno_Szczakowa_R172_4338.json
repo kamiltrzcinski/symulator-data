@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710322,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaworzno Szczakowa R172",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "666",
+      "meter": 1679
+    },
+    {
+      "line_no": "666",
+      "meter": 1679
+    },
+    {
+      "line_no": "666",
+      "meter": 1679
+    },
+    {
+      "line_no": "669",
+      "meter": -931
+    },
+    {
+      "line_no": "669",
+      "meter": -931
+    },
+    {
+      "line_no": "669",
+      "meter": -931
+    },
+    {
+      "line_no": "669",
+      "meter": -931
+    }
+  ]
+}

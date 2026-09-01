@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711457,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin G\u0142\u00f3wny PZS R144-155",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 175452
+    },
+    {
+      "line_no": "67",
+      "meter": 475
+    },
+    {
+      "line_no": "67",
+      "meter": 571
+    },
+    {
+      "line_no": "67",
+      "meter": 571
+    },
+    {
+      "line_no": "68",
+      "meter": -571
+    },
+    {
+      "line_no": "68",
+      "meter": -479
+    },
+    {
+      "line_no": "930",
+      "meter": 758
+    },
+    {
+      "line_no": "935",
+      "meter": 571
+    },
+    {
+      "line_no": "935",
+      "meter": 1913
+    }
+  ]
+}

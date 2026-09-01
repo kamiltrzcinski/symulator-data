@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710510,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice M. Kmb R234",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "652",
+      "meter": 72
+    },
+    {
+      "line_no": "652",
+      "meter": 72
+    },
+    {
+      "line_no": "652",
+      "meter": 72
+    },
+    {
+      "line_no": "653",
+      "meter": 72
+    },
+    {
+      "line_no": "653",
+      "meter": 72
+    },
+    {
+      "line_no": "653",
+      "meter": 72
+    },
+    {
+      "line_no": "653",
+      "meter": 72
+    }
+  ]
+}

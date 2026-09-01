@@ -1,0 +1,60 @@
+{
+  "uid": 3453153711725,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142aszewicze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 199920
+    },
+    {
+      "line_no": "2",
+      "meter": 201575
+    },
+    {
+      "line_no": "2",
+      "meter": 201575
+    },
+    {
+      "line_no": "2",
+      "meter": 201687
+    },
+    {
+      "line_no": "2",
+      "meter": 201687
+    },
+    {
+      "line_no": "2",
+      "meter": 201687
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709094,
+  "type": "TIMETABLE_POINT",
+  "name": "Chojna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 300567
+    },
+    {
+      "line_no": "273",
+      "meter": 300567
+    }
+  ]
+}

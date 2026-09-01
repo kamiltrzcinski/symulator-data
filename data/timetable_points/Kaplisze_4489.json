@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710473,
+  "type": "TIMETABLE_POINT",
+  "name": "Kaplisze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "116",
+      "meter": 22472
+    },
+    {
+      "line_no": "116",
+      "meter": 22554
+    }
+  ]
+}

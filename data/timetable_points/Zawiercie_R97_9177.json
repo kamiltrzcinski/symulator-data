@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715161,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawiercie R97",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "160",
+      "meter": 275940
+    },
+    {
+      "line_no": "160",
+      "meter": 275940
+    },
+    {
+      "line_no": "160",
+      "meter": 275940
+    },
+    {
+      "line_no": "160",
+      "meter": 275940
+    },
+    {
+      "line_no": "705",
+      "meter": 1292
+    },
+    {
+      "line_no": "705",
+      "meter": 1292
+    }
+  ]
+}

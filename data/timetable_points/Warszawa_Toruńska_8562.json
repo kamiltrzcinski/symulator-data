@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714546,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Toru\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 12000
+    },
+    {
+      "line_no": "9",
+      "meter": 12000
+    },
+    {
+      "line_no": "9",
+      "meter": 12045
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713852,
+  "type": "TIMETABLE_POINT",
+  "name": "Szastarka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 55329
+    },
+    {
+      "line_no": "68",
+      "meter": 55329
+    },
+    {
+      "line_no": "68",
+      "meter": 55329
+    },
+    {
+      "line_no": "68",
+      "meter": 55329
+    },
+    {
+      "line_no": "68",
+      "meter": 55329
+    }
+  ]
+}

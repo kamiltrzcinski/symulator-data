@@ -1,0 +1,64 @@
+{
+  "uid": 3453153714915,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Muchob\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 4956
+    },
+    {
+      "line_no": "273",
+      "meter": 4956
+    },
+    {
+      "line_no": "273",
+      "meter": 5232
+    },
+    {
+      "line_no": "273",
+      "meter": 5232
+    },
+    {
+      "line_no": "273",
+      "meter": 5232
+    },
+    {
+      "line_no": "273",
+      "meter": 5232
+    },
+    {
+      "line_no": "275",
+      "meter": 5232
+    },
+    {
+      "line_no": "275",
+      "meter": 5232
+    },
+    {
+      "line_no": "275",
+      "meter": 5232
+    },
+    {
+      "line_no": "757",
+      "meter": 3726
+    },
+    {
+      "line_no": "757",
+      "meter": 4004
+    },
+    {
+      "line_no": "757",
+      "meter": 4004
+    },
+    {
+      "line_no": "758",
+      "meter": 3295
+    },
+    {
+      "line_no": "758",
+      "meter": 3295
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711132,
+  "type": "TIMETABLE_POINT",
+  "name": "Kuklin\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 173671
+    },
+    {
+      "line_no": "14",
+      "meter": 173671
+    },
+    {
+      "line_no": "14",
+      "meter": 173671
+    }
+  ]
+}

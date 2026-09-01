@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712280,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn MPEC Kortowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 77284
+    },
+    {
+      "line_no": "216",
+      "meter": 77284
+    },
+    {
+      "line_no": "216",
+      "meter": 77284
+    },
+    {
+      "line_no": "216",
+      "meter": 78186
+    },
+    {
+      "line_no": "216",
+      "meter": 78186
+    }
+  ]
+}

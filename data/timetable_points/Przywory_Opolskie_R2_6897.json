@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712881,
+  "type": "TIMETABLE_POINT",
+  "name": "Przywory Opolskie R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "136",
+      "meter": 30329
+    },
+    {
+      "line_no": "136",
+      "meter": 30329
+    },
+    {
+      "line_no": "978",
+      "meter": 1075
+    },
+    {
+      "line_no": "978",
+      "meter": 1075
+    }
+  ]
+}

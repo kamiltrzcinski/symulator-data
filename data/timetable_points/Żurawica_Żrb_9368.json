@@ -1,0 +1,44 @@
+{
+  "uid": 3453153715352,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017burawica \u017brb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 237072
+    },
+    {
+      "line_no": "91",
+      "meter": 237072
+    },
+    {
+      "line_no": "91",
+      "meter": 237078
+    },
+    {
+      "line_no": "91",
+      "meter": 237078
+    },
+    {
+      "line_no": "91",
+      "meter": 237078
+    },
+    {
+      "line_no": "614",
+      "meter": 1231
+    },
+    {
+      "line_no": "861",
+      "meter": 2807
+    },
+    {
+      "line_no": "861",
+      "meter": 2807
+    },
+    {
+      "line_no": "861",
+      "meter": 2807
+    }
+  ]
+}

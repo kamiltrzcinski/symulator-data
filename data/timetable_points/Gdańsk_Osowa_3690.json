@@ -1,0 +1,52 @@
+{
+  "uid": 3453153709674,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Osowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 188529
+    },
+    {
+      "line_no": "201",
+      "meter": 188600
+    },
+    {
+      "line_no": "201",
+      "meter": 188600
+    },
+    {
+      "line_no": "235",
+      "meter": 9203
+    },
+    {
+      "line_no": "235",
+      "meter": 9203
+    },
+    {
+      "line_no": "248",
+      "meter": 17837
+    },
+    {
+      "line_no": "248",
+      "meter": 18246
+    },
+    {
+      "line_no": "248",
+      "meter": 18246
+    },
+    {
+      "line_no": "253",
+      "meter": 1208
+    },
+    {
+      "line_no": "253",
+      "meter": 1210
+    },
+    {
+      "line_no": "253",
+      "meter": 1210
+    }
+  ]
+}

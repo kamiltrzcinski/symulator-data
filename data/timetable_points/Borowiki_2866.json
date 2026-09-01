@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708850,
+  "type": "TIMETABLE_POINT",
+  "name": "Borowiki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 79403
+    },
+    {
+      "line_no": "31",
+      "meter": 79403
+    },
+    {
+      "line_no": "31",
+      "meter": 79403
+    },
+    {
+      "line_no": "31",
+      "meter": 79951
+    },
+    {
+      "line_no": "31",
+      "meter": 79951
+    }
+  ]
+}

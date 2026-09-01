@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714735,
+  "type": "TIMETABLE_POINT",
+  "name": "Wiewiecko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 139056
+    },
+    {
+      "line_no": "210",
+      "meter": 139056
+    },
+    {
+      "line_no": "210",
+      "meter": 139109
+    }
+  ]
+}

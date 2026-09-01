@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714044,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awidnica Przedmie\u015bcie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 58003
+    },
+    {
+      "line_no": "285",
+      "meter": 58003
+    },
+    {
+      "line_no": "285",
+      "meter": 58003
+    },
+    {
+      "line_no": "285",
+      "meter": 58003
+    },
+    {
+      "line_no": "285",
+      "meter": 58003
+    },
+    {
+      "line_no": "285",
+      "meter": 58061
+    },
+    {
+      "line_no": "771",
+      "meter": 0
+    },
+    {
+      "line_no": "771",
+      "meter": 0
+    },
+    {
+      "line_no": "771",
+      "meter": 0
+    },
+    {
+      "line_no": "771",
+      "meter": 122
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712853,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeworsk R66",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 195240
+    },
+    {
+      "line_no": "91",
+      "meter": 195240
+    },
+    {
+      "line_no": "91",
+      "meter": 195240
+    },
+    {
+      "line_no": "91",
+      "meter": 195240
+    },
+    {
+      "line_no": "988",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713639,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Pole",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 10995
+    },
+    {
+      "line_no": "204",
+      "meter": 10995
+    },
+    {
+      "line_no": "204",
+      "meter": 10995
+    }
+  ]
+}

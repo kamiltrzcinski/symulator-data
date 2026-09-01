@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713728,
+  "type": "TIMETABLE_POINT",
+  "name": "Str\u00f3\u017ce R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 56826
+    },
+    {
+      "line_no": "96",
+      "meter": 56826
+    },
+    {
+      "line_no": "96",
+      "meter": 56826
+    },
+    {
+      "line_no": "108",
+      "meter": 585
+    },
+    {
+      "line_no": "108",
+      "meter": 585
+    },
+    {
+      "line_no": "108",
+      "meter": 585
+    }
+  ]
+}

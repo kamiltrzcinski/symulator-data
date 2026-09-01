@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710483,
+  "type": "TIMETABLE_POINT",
+  "name": "Karsin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 69201
+    },
+    {
+      "line_no": "215",
+      "meter": 69201
+    },
+    {
+      "line_no": "215",
+      "meter": 69201
+    }
+  ]
+}

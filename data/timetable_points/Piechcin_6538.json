@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712522,
+  "type": "TIMETABLE_POINT",
+  "name": "Piechcin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "206",
+      "meter": 15158
+    },
+    {
+      "line_no": "206",
+      "meter": 15158
+    }
+  ]
+}

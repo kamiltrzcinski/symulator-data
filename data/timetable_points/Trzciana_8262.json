@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714246,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzciana",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 142990
+    },
+    {
+      "line_no": "91",
+      "meter": 143338
+    },
+    {
+      "line_no": "91",
+      "meter": 143338
+    },
+    {
+      "line_no": "91",
+      "meter": 143338
+    },
+    {
+      "line_no": "91",
+      "meter": 143438
+    },
+    {
+      "line_no": "91",
+      "meter": 143438
+    }
+  ]
+}

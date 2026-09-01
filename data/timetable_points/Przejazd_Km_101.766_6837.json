@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712821,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd Km 101.766",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 101766
+    }
+  ]
+}

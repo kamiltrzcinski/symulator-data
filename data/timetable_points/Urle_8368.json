@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714352,
+  "type": "TIMETABLE_POINT",
+  "name": "Urle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 53010
+    },
+    {
+      "line_no": "6",
+      "meter": 53010
+    },
+    {
+      "line_no": "6",
+      "meter": 53010
+    },
+    {
+      "line_no": "6",
+      "meter": 53155
+    },
+    {
+      "line_no": "6",
+      "meter": 53156
+    },
+    {
+      "line_no": "6",
+      "meter": 53156
+    },
+    {
+      "line_no": "6",
+      "meter": 53156
+    }
+  ]
+}

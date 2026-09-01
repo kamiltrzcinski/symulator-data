@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711116,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzywin Gryfi\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 314856
+    },
+    {
+      "line_no": "273",
+      "meter": 314856
+    }
+  ]
+}

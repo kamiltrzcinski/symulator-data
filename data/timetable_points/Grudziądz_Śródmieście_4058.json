@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710042,
+  "type": "TIMETABLE_POINT",
+  "name": "Grudzi\u0105dz \u015ar\u00f3dmie\u015bcie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 109740
+    },
+    {
+      "line_no": "208",
+      "meter": 109740
+    }
+  ]
+}

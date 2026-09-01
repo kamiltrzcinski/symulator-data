@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710871,
+  "type": "TIMETABLE_POINT",
+  "name": "Kozienice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "76",
+      "meter": 13381
+    },
+    {
+      "line_no": "76",
+      "meter": 13381
+    }
+  ]
+}

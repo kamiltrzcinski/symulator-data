@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711270,
+  "type": "TIMETABLE_POINT",
+  "name": "L978 km:,958 PLK - CEMET S.A.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "978",
+      "meter": 958
+    },
+    {
+      "line_no": "978",
+      "meter": 958
+    }
+  ]
+}

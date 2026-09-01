@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714212,
+  "type": "TIMETABLE_POINT",
+  "name": "Top\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 68680
+    },
+    {
+      "line_no": "6",
+      "meter": 68680
+    },
+    {
+      "line_no": "6",
+      "meter": 68680
+    },
+    {
+      "line_no": "6",
+      "meter": 68683
+    },
+    {
+      "line_no": "6",
+      "meter": 68683
+    },
+    {
+      "line_no": "6",
+      "meter": 68683
+    }
+  ]
+}

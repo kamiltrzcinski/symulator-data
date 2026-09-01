@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711407,
+  "type": "TIMETABLE_POINT",
+  "name": "Lisewo Kaszubskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 20378
+    },
+    {
+      "line_no": "230",
+      "meter": 20378
+    },
+    {
+      "line_no": "230",
+      "meter": 20378
+    }
+  ]
+}

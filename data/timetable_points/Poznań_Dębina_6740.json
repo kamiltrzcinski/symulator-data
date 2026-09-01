@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712724,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 D\u0119bina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 197643
+    },
+    {
+      "line_no": "272",
+      "meter": 197643
+    }
+  ]
+}

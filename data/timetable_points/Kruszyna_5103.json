@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711087,
+  "type": "TIMETABLE_POINT",
+  "name": "Kruszyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 80500
+    },
+    {
+      "line_no": "8",
+      "meter": 80500
+    },
+    {
+      "line_no": "8",
+      "meter": 81388
+    },
+    {
+      "line_no": "8",
+      "meter": 81388
+    },
+    {
+      "line_no": "8",
+      "meter": 81388
+    }
+  ]
+}

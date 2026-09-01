@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714726,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzchos\u0142awice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 111522
+    },
+    {
+      "line_no": "353",
+      "meter": 111522
+    }
+  ]
+}

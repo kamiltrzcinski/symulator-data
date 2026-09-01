@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710096,
+  "type": "TIMETABLE_POINT",
+  "name": "Henrykowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 51858
+    },
+    {
+      "line_no": "221",
+      "meter": 51858
+    },
+    {
+      "line_no": "221",
+      "meter": 51858
+    },
+    {
+      "line_no": "221",
+      "meter": 53432
+    },
+    {
+      "line_no": "221",
+      "meter": 53432
+    }
+  ]
+}

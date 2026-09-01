@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712119,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa D\u0119ba",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 14181
+    },
+    {
+      "line_no": "71",
+      "meter": 14181
+    }
+  ]
+}

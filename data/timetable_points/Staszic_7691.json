@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713675,
+  "type": "TIMETABLE_POINT",
+  "name": "Staszic",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "142",
+      "meter": 2800
+    },
+    {
+      "line_no": "142",
+      "meter": 2901
+    },
+    {
+      "line_no": "652",
+      "meter": 1450
+    },
+    {
+      "line_no": "652",
+      "meter": 1450
+    },
+    {
+      "line_no": "652",
+      "meter": 1450
+    },
+    {
+      "line_no": "707",
+      "meter": 1193
+    },
+    {
+      "line_no": "707",
+      "meter": 1193
+    },
+    {
+      "line_no": "707",
+      "meter": 1193
+    },
+    {
+      "line_no": "898",
+      "meter": 67
+    },
+    {
+      "line_no": "898",
+      "meter": 67
+    }
+  ]
+}

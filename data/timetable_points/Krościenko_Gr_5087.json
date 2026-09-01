@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711071,
+  "type": "TIMETABLE_POINT",
+  "name": "Kro\u015bcienko (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 161074
+    },
+    {
+      "line_no": "108",
+      "meter": 161074
+    },
+    {
+      "line_no": "108",
+      "meter": 161074
+    },
+    {
+      "line_no": "108",
+      "meter": 161085
+    },
+    {
+      "line_no": "475",
+      "meter": 115700
+    },
+    {
+      "line_no": "475",
+      "meter": 115700
+    }
+  ]
+}

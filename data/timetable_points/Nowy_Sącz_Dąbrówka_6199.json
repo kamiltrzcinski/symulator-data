@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712183,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy S\u0105cz D\u0105br\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 90200
+    },
+    {
+      "line_no": "96",
+      "meter": 90300
+    }
+  ]
+}

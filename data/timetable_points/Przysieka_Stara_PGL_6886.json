@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712870,
+  "type": "TIMETABLE_POINT",
+  "name": "Przysieka Stara PGL",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 116662
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708520,
+  "type": "TIMETABLE_POINT",
+  "name": "Adampol",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 182090
+    },
+    {
+      "line_no": "7",
+      "meter": 182090
+    },
+    {
+      "line_no": "561",
+      "meter": 3256
+    },
+    {
+      "line_no": "561",
+      "meter": 3537
+    },
+    {
+      "line_no": "562",
+      "meter": 100
+    },
+    {
+      "line_no": "562",
+      "meter": 100
+    }
+  ]
+}

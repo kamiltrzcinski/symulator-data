@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713135,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Wielka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 117543
+    },
+    {
+      "line_no": "8",
+      "meter": 117543
+    },
+    {
+      "line_no": "8",
+      "meter": 117578
+    },
+    {
+      "line_no": "8",
+      "meter": 117632
+    },
+    {
+      "line_no": "8",
+      "meter": 117632
+    },
+    {
+      "line_no": "8",
+      "meter": 118660
+    }
+  ]
+}

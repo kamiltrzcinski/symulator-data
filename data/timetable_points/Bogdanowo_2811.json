@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708795,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogdanowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 24228
+    },
+    {
+      "line_no": "354",
+      "meter": 24447
+    },
+    {
+      "line_no": "354",
+      "meter": 24597
+    },
+    {
+      "line_no": "354",
+      "meter": 24597
+    }
+  ]
+}

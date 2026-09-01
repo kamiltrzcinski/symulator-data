@@ -1,0 +1,56 @@
+{
+  "uid": 3453153714533,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Remb. R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 10062
+    },
+    {
+      "line_no": "2",
+      "meter": 10062
+    },
+    {
+      "line_no": "2",
+      "meter": 10062
+    },
+    {
+      "line_no": "2",
+      "meter": 10062
+    },
+    {
+      "line_no": "2",
+      "meter": 10062
+    },
+    {
+      "line_no": "2",
+      "meter": 10111
+    },
+    {
+      "line_no": "2",
+      "meter": 10111
+    },
+    {
+      "line_no": "2",
+      "meter": 11567
+    },
+    {
+      "line_no": "546",
+      "meter": 9927
+    },
+    {
+      "line_no": "546",
+      "meter": 10062
+    },
+    {
+      "line_no": "546",
+      "meter": 10111
+    },
+    {
+      "line_no": "546",
+      "meter": 11567
+    }
+  ]
+}

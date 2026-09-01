@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714276,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzemeszno  GT T 1-6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 59744
+    }
+  ]
+}

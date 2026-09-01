@@ -1,0 +1,56 @@
+{
+  "uid": 3453153713026,
+  "type": "TIMETABLE_POINT",
+  "name": "Rawicz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 63062
+    },
+    {
+      "line_no": "271",
+      "meter": 63062
+    },
+    {
+      "line_no": "271",
+      "meter": 63062
+    },
+    {
+      "line_no": "271",
+      "meter": 63062
+    },
+    {
+      "line_no": "271",
+      "meter": 63062
+    },
+    {
+      "line_no": "271",
+      "meter": 63062
+    },
+    {
+      "line_no": "362",
+      "meter": 32787
+    },
+    {
+      "line_no": "362",
+      "meter": 32787
+    },
+    {
+      "line_no": "362",
+      "meter": 33186
+    },
+    {
+      "line_no": "362",
+      "meter": 33186
+    },
+    {
+      "line_no": "362",
+      "meter": 33186
+    },
+    {
+      "line_no": "362",
+      "meter": 33186
+    }
+  ]
+}

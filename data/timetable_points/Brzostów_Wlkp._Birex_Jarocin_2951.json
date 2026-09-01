@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708935,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzost\u00f3w Wlkp. Birex Jarocin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 4528
+    },
+    {
+      "line_no": "360",
+      "meter": 4528
+    }
+  ]
+}

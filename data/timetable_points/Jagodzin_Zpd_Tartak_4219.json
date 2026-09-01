@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710203,
+  "type": "TIMETABLE_POINT",
+  "name": "Jagodzin Zpd Tartak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 70170
+    },
+    {
+      "line_no": "282",
+      "meter": 70170
+    }
+  ]
+}

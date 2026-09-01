@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711888,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0142kowice R49",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 73962
+    },
+    {
+      "line_no": "296",
+      "meter": 12589
+    }
+  ]
+}

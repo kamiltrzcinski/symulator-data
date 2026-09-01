@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713445,
+  "type": "TIMETABLE_POINT",
+  "name": "Sk\u00f3rka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 167299
+    },
+    {
+      "line_no": "203",
+      "meter": 167299
+    }
+  ]
+}

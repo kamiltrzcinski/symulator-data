@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714541,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Stadion",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "448",
+      "meter": 3196
+    },
+    {
+      "line_no": "448",
+      "meter": 3196
+    },
+    {
+      "line_no": "448",
+      "meter": 3196
+    }
+  ]
+}

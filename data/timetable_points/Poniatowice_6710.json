@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712694,
+  "type": "TIMETABLE_POINT",
+  "name": "Poniatowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 137558
+    },
+    {
+      "line_no": "181",
+      "meter": 137558
+    }
+  ]
+}

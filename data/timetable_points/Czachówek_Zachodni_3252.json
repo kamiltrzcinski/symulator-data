@@ -1,0 +1,52 @@
+{
+  "uid": 3453153709236,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek Zachodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 64340
+    },
+    {
+      "line_no": "12",
+      "meter": 64340
+    },
+    {
+      "line_no": "12",
+      "meter": 64340
+    },
+    {
+      "line_no": "12",
+      "meter": 64340
+    },
+    {
+      "line_no": "12",
+      "meter": 64340
+    },
+    {
+      "line_no": "526",
+      "meter": 0
+    },
+    {
+      "line_no": "526",
+      "meter": 0
+    },
+    {
+      "line_no": "526",
+      "meter": 0
+    },
+    {
+      "line_no": "528",
+      "meter": 181
+    },
+    {
+      "line_no": "528",
+      "meter": 181
+    },
+    {
+      "line_no": "528",
+      "meter": 181
+    }
+  ]
+}

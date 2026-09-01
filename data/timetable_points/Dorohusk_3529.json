@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709513,
+  "type": "TIMETABLE_POINT",
+  "name": "Dorohusk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 269508
+    },
+    {
+      "line_no": "7",
+      "meter": 269508
+    },
+    {
+      "line_no": "63",
+      "meter": 2031
+    },
+    {
+      "line_no": "63",
+      "meter": 2031
+    },
+    {
+      "line_no": "63",
+      "meter": 2031
+    },
+    {
+      "line_no": "789",
+      "meter": 0
+    },
+    {
+      "line_no": "789",
+      "meter": 0
+    }
+  ]
+}

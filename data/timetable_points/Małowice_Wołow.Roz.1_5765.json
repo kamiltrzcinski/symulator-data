@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711749,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142owice Wo\u0142ow.Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 54869
+    },
+    {
+      "line_no": "273",
+      "meter": 54869
+    }
+  ]
+}

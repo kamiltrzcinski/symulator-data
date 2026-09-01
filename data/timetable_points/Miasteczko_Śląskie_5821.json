@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711805,
+  "type": "TIMETABLE_POINT",
+  "name": "Miasteczko \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "129",
+      "meter": 40375
+    },
+    {
+      "line_no": "129",
+      "meter": 40375
+    },
+    {
+      "line_no": "129",
+      "meter": 40375
+    },
+    {
+      "line_no": "129",
+      "meter": 40375
+    },
+    {
+      "line_no": "131",
+      "meter": 40220
+    },
+    {
+      "line_no": "131",
+      "meter": 40220
+    }
+  ]
+}

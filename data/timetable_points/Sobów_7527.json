@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713511,
+  "type": "TIMETABLE_POINT",
+  "name": "Sob\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 248502
+    },
+    {
+      "line_no": "25",
+      "meter": 248502
+    },
+    {
+      "line_no": "25",
+      "meter": 248502
+    },
+    {
+      "line_no": "25",
+      "meter": 248502
+    },
+    {
+      "line_no": "74",
+      "meter": 0
+    },
+    {
+      "line_no": "74",
+      "meter": 0
+    },
+    {
+      "line_no": "74",
+      "meter": 0
+    }
+  ]
+}

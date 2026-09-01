@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713339,
+  "type": "TIMETABLE_POINT",
+  "name": "Siedliska ko\u0142o Tuchowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 25987
+    },
+    {
+      "line_no": "96",
+      "meter": 25987
+    },
+    {
+      "line_no": "96",
+      "meter": 25987
+    }
+  ]
+}

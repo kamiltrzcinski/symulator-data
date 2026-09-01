@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713725,
+  "type": "TIMETABLE_POINT",
+  "name": "Str\u00f3\u017ce pzs R103-104",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 55697
+    },
+    {
+      "line_no": "96",
+      "meter": 55697
+    },
+    {
+      "line_no": "96",
+      "meter": 55697
+    },
+    {
+      "line_no": "96",
+      "meter": 55697
+    },
+    {
+      "line_no": "96",
+      "meter": 55697
+    },
+    {
+      "line_no": "619",
+      "meter": 1
+    },
+    {
+      "line_no": "619",
+      "meter": 1
+    },
+    {
+      "line_no": "619",
+      "meter": 37
+    },
+    {
+      "line_no": "619",
+      "meter": 37
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712307,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Czarnow\u0105sy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 11688
+    },
+    {
+      "line_no": "277",
+      "meter": 11688
+    },
+    {
+      "line_no": "277",
+      "meter": 11688
+    },
+    {
+      "line_no": "277",
+      "meter": 11688
+    },
+    {
+      "line_no": "977",
+      "meter": 1
+    }
+  ]
+}

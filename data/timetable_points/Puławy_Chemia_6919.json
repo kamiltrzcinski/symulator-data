@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712903,
+  "type": "TIMETABLE_POINT",
+  "name": "Pu\u0142awy Chemia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 121546
+    },
+    {
+      "line_no": "7",
+      "meter": 121580
+    },
+    {
+      "line_no": "7",
+      "meter": 121580
+    },
+    {
+      "line_no": "7",
+      "meter": 121580
+    }
+  ]
+}

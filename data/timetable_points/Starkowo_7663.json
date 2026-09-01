@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713647,
+  "type": "TIMETABLE_POINT",
+  "name": "Starkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "359",
+      "meter": 24580
+    },
+    {
+      "line_no": "359",
+      "meter": 24586
+    }
+  ]
+}

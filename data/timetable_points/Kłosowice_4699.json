@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710683,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142osowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 44079
+    },
+    {
+      "line_no": "368",
+      "meter": 44079
+    }
+  ]
+}

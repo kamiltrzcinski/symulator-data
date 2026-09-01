@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710287,
+  "type": "TIMETABLE_POINT",
+  "name": "Jastrz\u0119bie \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "301",
+      "meter": 52507
+    },
+    {
+      "line_no": "301",
+      "meter": 52507
+    },
+    {
+      "line_no": "301",
+      "meter": 52507
+    }
+  ]
+}

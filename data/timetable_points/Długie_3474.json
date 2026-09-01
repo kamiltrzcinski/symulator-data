@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709458,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0142ugie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 94672
+    },
+    {
+      "line_no": "108",
+      "meter": 94672
+    },
+    {
+      "line_no": "108",
+      "meter": 94678
+    },
+    {
+      "line_no": "108",
+      "meter": 94678
+    },
+    {
+      "line_no": "108",
+      "meter": 94678
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710121,
+  "type": "TIMETABLE_POINT",
+  "name": "Hrubiesz\u00f3w Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "72",
+      "meter": 61639
+    },
+    {
+      "line_no": "72",
+      "meter": 61639
+    },
+    {
+      "line_no": "931",
+      "meter": 1
+    },
+    {
+      "line_no": "931",
+      "meter": 1
+    },
+    {
+      "line_no": "931",
+      "meter": 1
+    },
+    {
+      "line_no": "931",
+      "meter": 1
+    }
+  ]
+}

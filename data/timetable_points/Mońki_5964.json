@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711948,
+  "type": "TIMETABLE_POINT",
+  "name": "Mo\u0144ki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 43872
+    },
+    {
+      "line_no": "38",
+      "meter": 43872
+    },
+    {
+      "line_no": "38",
+      "meter": 43872
+    },
+    {
+      "line_no": "38",
+      "meter": 43872
+    },
+    {
+      "line_no": "38",
+      "meter": 43872
+    }
+  ]
+}

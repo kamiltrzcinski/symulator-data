@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710642,
+  "type": "TIMETABLE_POINT",
+  "name": "Kiszkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "377",
+      "meter": 29190
+    },
+    {
+      "line_no": "377",
+      "meter": 29190
+    },
+    {
+      "line_no": "377",
+      "meter": 29190
+    }
+  ]
+}

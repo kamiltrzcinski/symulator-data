@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712230,
+  "type": "TIMETABLE_POINT",
+  "name": "Ograszka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 133043
+    },
+    {
+      "line_no": "27",
+      "meter": 133043
+    }
+  ]
+}

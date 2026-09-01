@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714817,
+  "type": "TIMETABLE_POINT",
+  "name": "Wojan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 120753
+    },
+    {
+      "line_no": "274",
+      "meter": 120753
+    }
+  ]
+}

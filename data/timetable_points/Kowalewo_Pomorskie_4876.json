@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710860,
+  "type": "TIMETABLE_POINT",
+  "name": "Kowalewo Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "209",
+      "meter": 49765
+    },
+    {
+      "line_no": "209",
+      "meter": 49765
+    },
+    {
+      "line_no": "209",
+      "meter": 49765
+    },
+    {
+      "line_no": "209",
+      "meter": 49765
+    },
+    {
+      "line_no": "209",
+      "meter": 49765
+    },
+    {
+      "line_no": "353",
+      "meter": 161474
+    },
+    {
+      "line_no": "353",
+      "meter": 161474
+    }
+  ]
+}

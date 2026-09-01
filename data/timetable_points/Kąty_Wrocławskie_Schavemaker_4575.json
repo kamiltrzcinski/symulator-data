@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710559,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0105ty Wroc\u0142awskie Schavemaker",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 19108
+    },
+    {
+      "line_no": "274",
+      "meter": 19108
+    }
+  ]
+}

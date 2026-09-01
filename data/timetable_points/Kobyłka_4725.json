@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710709,
+  "type": "TIMETABLE_POINT",
+  "name": "Koby\u0142ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 19339
+    },
+    {
+      "line_no": "6",
+      "meter": 19339
+    },
+    {
+      "line_no": "21",
+      "meter": 15286
+    },
+    {
+      "line_no": "21",
+      "meter": 15286
+    },
+    {
+      "line_no": "21",
+      "meter": 15286
+    }
+  ]
+}

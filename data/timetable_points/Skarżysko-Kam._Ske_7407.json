@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713391,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kam. Ske",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 145670
+    },
+    {
+      "line_no": "25",
+      "meter": 145670
+    },
+    {
+      "line_no": "25",
+      "meter": 145670
+    },
+    {
+      "line_no": "25",
+      "meter": 145670
+    },
+    {
+      "line_no": "566",
+      "meter": 2319
+    },
+    {
+      "line_no": "566",
+      "meter": 2319
+    },
+    {
+      "line_no": "566",
+      "meter": 2319
+    }
+  ]
+}

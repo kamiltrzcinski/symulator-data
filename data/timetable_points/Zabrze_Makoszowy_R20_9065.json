@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715049,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Makoszowy R20",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 16979
+    },
+    {
+      "line_no": "149",
+      "meter": 280
+    }
+  ]
+}

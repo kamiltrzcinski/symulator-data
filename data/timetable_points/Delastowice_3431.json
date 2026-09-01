@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709415,
+  "type": "TIMETABLE_POINT",
+  "name": "Delastowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 43265
+    },
+    {
+      "line_no": "115",
+      "meter": 43265
+    },
+    {
+      "line_no": "115",
+      "meter": 43265
+    }
+  ]
+}

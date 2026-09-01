@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715057,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrzeg Czarnolesie ZCB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "150",
+      "meter": 8600
+    },
+    {
+      "line_no": "150",
+      "meter": 8600
+    },
+    {
+      "line_no": "150",
+      "meter": 8600
+    },
+    {
+      "line_no": "693",
+      "meter": 3750
+    },
+    {
+      "line_no": "693",
+      "meter": 3750
+    },
+    {
+      "line_no": "693",
+      "meter": 3750
+    },
+    {
+      "line_no": "693",
+      "meter": 3750
+    }
+  ]
+}

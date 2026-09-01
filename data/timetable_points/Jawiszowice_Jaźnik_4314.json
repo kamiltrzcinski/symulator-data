@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710298,
+  "type": "TIMETABLE_POINT",
+  "name": "Jawiszowice Ja\u017anik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 37742
+    },
+    {
+      "line_no": "93",
+      "meter": 37742
+    },
+    {
+      "line_no": "93",
+      "meter": 37742
+    }
+  ]
+}

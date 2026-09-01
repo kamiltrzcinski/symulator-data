@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710678,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142odzko Nowe R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 97371
+    },
+    {
+      "line_no": "276",
+      "meter": 97371
+    },
+    {
+      "line_no": "322",
+      "meter": -2755
+    }
+  ]
+}

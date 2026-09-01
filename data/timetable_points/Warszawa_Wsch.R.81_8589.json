@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714573,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wsch.R.81",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 4950
+    },
+    {
+      "line_no": "2",
+      "meter": 4950
+    },
+    {
+      "line_no": "2",
+      "meter": 4950
+    },
+    {
+      "line_no": "2",
+      "meter": 4950
+    },
+    {
+      "line_no": "902",
+      "meter": 4950
+    },
+    {
+      "line_no": "902",
+      "meter": 4950
+    }
+  ]
+}

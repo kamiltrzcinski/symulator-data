@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710785,
+  "type": "TIMETABLE_POINT",
+  "name": "Kopalnia Bazaltu Lubie\u0144 Holcim",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 265426
+    },
+    {
+      "line_no": "137",
+      "meter": 265426
+    },
+    {
+      "line_no": "137",
+      "meter": 265426
+    }
+  ]
+}

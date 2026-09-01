@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710499,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Kostuchna KWK Murcki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "697",
+      "meter": 915
+    },
+    {
+      "line_no": "697",
+      "meter": 915
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713739,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzebielinko L\u0119borskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 25050
+    },
+    {
+      "line_no": "230",
+      "meter": 25050
+    },
+    {
+      "line_no": "230",
+      "meter": 25050
+    }
+  ]
+}

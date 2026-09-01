@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713784,
+  "type": "TIMETABLE_POINT",
+  "name": "Suchacz Zamek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 17462
+    },
+    {
+      "line_no": "254",
+      "meter": 17462
+    }
+  ]
+}

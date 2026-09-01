@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709529,
+  "type": "TIMETABLE_POINT",
+  "name": "Dru\u017cyna Pozna\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 142150
+    },
+    {
+      "line_no": "271",
+      "meter": 142150
+    },
+    {
+      "line_no": "271",
+      "meter": 142150
+    }
+  ]
+}

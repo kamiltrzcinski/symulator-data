@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714951,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw R\u00f3\u017canka \u0141adownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "292",
+      "meter": 24516
+    },
+    {
+      "line_no": "292",
+      "meter": 24516
+    },
+    {
+      "line_no": "292",
+      "meter": 24516
+    },
+    {
+      "line_no": "292",
+      "meter": 24516
+    },
+    {
+      "line_no": "292",
+      "meter": 24516
+    }
+  ]
+}

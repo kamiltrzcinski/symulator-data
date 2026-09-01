@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713893,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin \u0141asztownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 355278
+    },
+    {
+      "line_no": "273",
+      "meter": 355489
+    },
+    {
+      "line_no": "273",
+      "meter": 355489
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713006,
+  "type": "TIMETABLE_POINT",
+  "name": "Rajcza Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 100000
+    },
+    {
+      "line_no": "139",
+      "meter": 100000
+    }
+  ]
+}

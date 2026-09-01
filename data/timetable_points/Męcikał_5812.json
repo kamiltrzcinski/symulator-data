@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711796,
+  "type": "TIMETABLE_POINT",
+  "name": "M\u0119cika\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "211",
+      "meter": 19712
+    },
+    {
+      "line_no": "211",
+      "meter": 19712
+    },
+    {
+      "line_no": "211",
+      "meter": 19728
+    },
+    {
+      "line_no": "211",
+      "meter": 19728
+    }
+  ]
+}

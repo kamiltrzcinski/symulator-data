@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714827,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Bierwiecka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 84415
+    },
+    {
+      "line_no": "8",
+      "meter": 84496
+    },
+    {
+      "line_no": "8",
+      "meter": 84496
+    },
+    {
+      "line_no": "8",
+      "meter": 84581
+    },
+    {
+      "line_no": "8",
+      "meter": 84581
+    }
+  ]
+}

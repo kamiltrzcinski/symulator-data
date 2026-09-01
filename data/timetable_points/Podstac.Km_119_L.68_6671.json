@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712655,
+  "type": "TIMETABLE_POINT",
+  "name": "Podstac.Km 119 L.68",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 119000
+    },
+    {
+      "line_no": "68",
+      "meter": 119000
+    },
+    {
+      "line_no": "68",
+      "meter": 119000
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713182,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Niedobczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 44820
+    },
+    {
+      "line_no": "140",
+      "meter": 44914
+    }
+  ]
+}

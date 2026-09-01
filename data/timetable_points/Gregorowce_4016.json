@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710000,
+  "type": "TIMETABLE_POINT",
+  "name": "Gregorowce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 18509
+    },
+    {
+      "line_no": "32",
+      "meter": 18738
+    },
+    {
+      "line_no": "32",
+      "meter": 18738
+    },
+    {
+      "line_no": "32",
+      "meter": 18738
+    },
+    {
+      "line_no": "32",
+      "meter": 18857
+    },
+    {
+      "line_no": "32",
+      "meter": 18857
+    },
+    {
+      "line_no": "32",
+      "meter": 18857
+    },
+    {
+      "line_no": "32",
+      "meter": 18857
+    }
+  ]
+}

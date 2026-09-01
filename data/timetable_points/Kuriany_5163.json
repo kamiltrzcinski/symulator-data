@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711147,
+  "type": "TIMETABLE_POINT",
+  "name": "Kuriany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "37",
+      "meter": 13524
+    },
+    {
+      "line_no": "37",
+      "meter": 13524
+    },
+    {
+      "line_no": "37",
+      "meter": 13524
+    },
+    {
+      "line_no": "37",
+      "meter": 13533
+    },
+    {
+      "line_no": "37",
+      "meter": 13533
+    },
+    {
+      "line_no": "37",
+      "meter": 13533
+    }
+  ]
+}

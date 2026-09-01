@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710111,
+  "type": "TIMETABLE_POINT",
+  "name": "Hordzie\u017cka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 27950
+    },
+    {
+      "line_no": "26",
+      "meter": 27950
+    },
+    {
+      "line_no": "26",
+      "meter": 27950
+    },
+    {
+      "line_no": "26",
+      "meter": 27950
+    },
+    {
+      "line_no": "26",
+      "meter": 27950
+    },
+    {
+      "line_no": "26",
+      "meter": 27983
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712858,
+  "type": "TIMETABLE_POINT",
+  "name": "Przew\u00f3z",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "380",
+      "meter": 22922
+    },
+    {
+      "line_no": "380",
+      "meter": 22922
+    },
+    {
+      "line_no": "380",
+      "meter": 23085
+    }
+  ]
+}

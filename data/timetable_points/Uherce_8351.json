@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714335,
+  "type": "TIMETABLE_POINT",
+  "name": "Uherce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 130251
+    },
+    {
+      "line_no": "108",
+      "meter": 130251
+    },
+    {
+      "line_no": "108",
+      "meter": 130251
+    }
+  ]
+}

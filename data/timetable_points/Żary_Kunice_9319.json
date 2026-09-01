@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715303,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017bary Kunice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 97032
+    },
+    {
+      "line_no": "282",
+      "meter": 97032
+    },
+    {
+      "line_no": "282",
+      "meter": 97630
+    },
+    {
+      "line_no": "282",
+      "meter": 97630
+    }
+  ]
+}

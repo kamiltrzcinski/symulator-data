@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711949,
+  "type": "TIMETABLE_POINT",
+  "name": "Mor\u0105g",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 45302
+    },
+    {
+      "line_no": "220",
+      "meter": 45302
+    },
+    {
+      "line_no": "220",
+      "meter": 45302
+    }
+  ]
+}

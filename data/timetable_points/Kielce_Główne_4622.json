@@ -1,0 +1,56 @@
+{
+  "uid": 3453153710606,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce G\u0142\u00f3wne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 187672
+    },
+    {
+      "line_no": "8",
+      "meter": 187672
+    },
+    {
+      "line_no": "8",
+      "meter": 187672
+    },
+    {
+      "line_no": "8",
+      "meter": 187672
+    },
+    {
+      "line_no": "8",
+      "meter": 187672
+    },
+    {
+      "line_no": "8",
+      "meter": 187672
+    },
+    {
+      "line_no": "61",
+      "meter": 0
+    },
+    {
+      "line_no": "61",
+      "meter": 0
+    },
+    {
+      "line_no": "61",
+      "meter": 0
+    },
+    {
+      "line_no": "61",
+      "meter": 529
+    },
+    {
+      "line_no": "61",
+      "meter": 529
+    },
+    {
+      "line_no": "61",
+      "meter": 529
+    }
+  ]
+}

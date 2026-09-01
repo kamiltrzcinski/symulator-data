@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711758,
+  "type": "TIMETABLE_POINT",
+  "name": "Marcinowice \u015awidnickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 49872
+    },
+    {
+      "line_no": "285",
+      "meter": 49872
+    },
+    {
+      "line_no": "285",
+      "meter": 49872
+    },
+    {
+      "line_no": "285",
+      "meter": 49900
+    },
+    {
+      "line_no": "285",
+      "meter": 49900
+    }
+  ]
+}

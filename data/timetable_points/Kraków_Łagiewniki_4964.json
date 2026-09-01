@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710948,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w \u0141agiewniki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 4243
+    },
+    {
+      "line_no": "94",
+      "meter": 4243
+    },
+    {
+      "line_no": "94",
+      "meter": 4243
+    },
+    {
+      "line_no": "94",
+      "meter": 4243
+    },
+    {
+      "line_no": "94",
+      "meter": 4243
+    },
+    {
+      "line_no": "94",
+      "meter": 4243
+    }
+  ]
+}

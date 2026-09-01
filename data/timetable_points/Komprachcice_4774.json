@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710758,
+  "type": "TIMETABLE_POINT",
+  "name": "Komprachcice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 6609
+    },
+    {
+      "line_no": "287",
+      "meter": 6609
+    },
+    {
+      "line_no": "287",
+      "meter": 6609
+    }
+  ]
+}

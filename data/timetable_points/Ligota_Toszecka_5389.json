@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711373,
+  "type": "TIMETABLE_POINT",
+  "name": "Ligota Toszecka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 53837
+    },
+    {
+      "line_no": "132",
+      "meter": 53837
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709179,
+  "type": "TIMETABLE_POINT",
+  "name": "Cienin Ko\u015bcielny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 221612
+    },
+    {
+      "line_no": "3",
+      "meter": 221612
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710714,
+  "type": "TIMETABLE_POINT",
+  "name": "Kojsz\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 13325
+    },
+    {
+      "line_no": "98",
+      "meter": 13325
+    },
+    {
+      "line_no": "98",
+      "meter": 13325
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712731,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Franowo Po",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "352",
+      "meter": 4636
+    }
+  ]
+}

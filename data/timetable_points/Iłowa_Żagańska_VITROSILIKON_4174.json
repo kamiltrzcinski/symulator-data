@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710158,
+  "type": "TIMETABLE_POINT",
+  "name": "I\u0142owa \u017baga\u0144ska VITROSILIKON",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 87175
+    }
+  ]
+}

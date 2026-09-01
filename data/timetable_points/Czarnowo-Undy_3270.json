@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709254,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarnowo-Undy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 57952
+    },
+    {
+      "line_no": "36",
+      "meter": 57952
+    },
+    {
+      "line_no": "36",
+      "meter": 57952
+    },
+    {
+      "line_no": "36",
+      "meter": 57952
+    },
+    {
+      "line_no": "36",
+      "meter": 57952
+    },
+    {
+      "line_no": "36",
+      "meter": 57952
+    }
+  ]
+}

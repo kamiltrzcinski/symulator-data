@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715209,
+  "type": "TIMETABLE_POINT",
+  "name": "Zes\u0142awice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 309687
+    },
+    {
+      "line_no": "8",
+      "meter": 309687
+    },
+    {
+      "line_no": "8",
+      "meter": 309687
+    },
+    {
+      "line_no": "8",
+      "meter": 309687
+    },
+    {
+      "line_no": "8",
+      "meter": 309687
+    }
+  ]
+}

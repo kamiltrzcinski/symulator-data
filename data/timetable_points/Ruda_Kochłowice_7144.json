@@ -1,0 +1,60 @@
+{
+  "uid": 3453153713128,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Koch\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 6643
+    },
+    {
+      "line_no": "141",
+      "meter": 6643
+    },
+    {
+      "line_no": "141",
+      "meter": 6643
+    },
+    {
+      "line_no": "141",
+      "meter": 6643
+    },
+    {
+      "line_no": "141",
+      "meter": 6925
+    },
+    {
+      "line_no": "141",
+      "meter": 6925
+    },
+    {
+      "line_no": "141",
+      "meter": 7020
+    },
+    {
+      "line_no": "164",
+      "meter": 4675
+    },
+    {
+      "line_no": "164",
+      "meter": 4675
+    },
+    {
+      "line_no": "164",
+      "meter": 4770
+    },
+    {
+      "line_no": "164",
+      "meter": 5369
+    },
+    {
+      "line_no": "164",
+      "meter": 5369
+    },
+    {
+      "line_no": "164",
+      "meter": 5369
+    }
+  ]
+}

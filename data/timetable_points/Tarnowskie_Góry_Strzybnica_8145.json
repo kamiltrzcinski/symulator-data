@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714129,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry Strzybnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 6209
+    },
+    {
+      "line_no": "144",
+      "meter": 6209
+    }
+  ]
+}

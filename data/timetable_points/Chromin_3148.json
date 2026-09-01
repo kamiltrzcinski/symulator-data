@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709132,
+  "type": "TIMETABLE_POINT",
+  "name": "Chromin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 118231
+    },
+    {
+      "line_no": "12",
+      "meter": 118231
+    },
+    {
+      "line_no": "12",
+      "meter": 118231
+    },
+    {
+      "line_no": "12",
+      "meter": 118231
+    },
+    {
+      "line_no": "12",
+      "meter": 118231
+    }
+  ]
+}

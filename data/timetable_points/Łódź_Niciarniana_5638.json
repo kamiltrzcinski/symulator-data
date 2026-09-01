@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711622,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Niciarniana",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "17",
+      "meter": 2752
+    },
+    {
+      "line_no": "17",
+      "meter": 2771
+    },
+    {
+      "line_no": "17",
+      "meter": 2771
+    },
+    {
+      "line_no": "458",
+      "meter": 2771
+    },
+    {
+      "line_no": "458",
+      "meter": 2771
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713762,
+  "type": "TIMETABLE_POINT",
+  "name": "Studniska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 192999
+    },
+    {
+      "line_no": "274",
+      "meter": 192999
+    },
+    {
+      "line_no": "274",
+      "meter": 192999
+    },
+    {
+      "line_no": "274",
+      "meter": 192999
+    },
+    {
+      "line_no": "274",
+      "meter": 194250
+    },
+    {
+      "line_no": "274",
+      "meter": 194300
+    },
+    {
+      "line_no": "779",
+      "meter": 170
+    },
+    {
+      "line_no": "779",
+      "meter": 171
+    }
+  ]
+}

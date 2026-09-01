@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713366,
+  "type": "TIMETABLE_POINT",
+  "name": "Sierzchowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 80482
+    },
+    {
+      "line_no": "18",
+      "meter": 80482
+    }
+  ]
+}

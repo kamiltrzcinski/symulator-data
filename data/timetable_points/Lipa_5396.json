@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711380,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 90277
+    },
+    {
+      "line_no": "68",
+      "meter": 90277
+    },
+    {
+      "line_no": "68",
+      "meter": 90277
+    },
+    {
+      "line_no": "68",
+      "meter": 90277
+    },
+    {
+      "line_no": "68",
+      "meter": 90277
+    }
+  ]
+}

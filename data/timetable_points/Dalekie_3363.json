@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709347,
+  "type": "TIMETABLE_POINT",
+  "name": "Dalekie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 30142
+    },
+    {
+      "line_no": "29",
+      "meter": 30142
+    },
+    {
+      "line_no": "29",
+      "meter": 30142
+    },
+    {
+      "line_no": "29",
+      "meter": 30142
+    }
+  ]
+}

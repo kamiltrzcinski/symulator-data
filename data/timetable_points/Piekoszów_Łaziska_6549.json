@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712533,
+  "type": "TIMETABLE_POINT",
+  "name": "Piekosz\u00f3w \u0141aziska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 14017
+    },
+    {
+      "line_no": "61",
+      "meter": 14017
+    },
+    {
+      "line_no": "61",
+      "meter": 14017
+    },
+    {
+      "line_no": "61",
+      "meter": 14017
+    },
+    {
+      "line_no": "61",
+      "meter": 14017
+    },
+    {
+      "line_no": "61",
+      "meter": 14017
+    },
+    {
+      "line_no": "61",
+      "meter": 14122
+    }
+  ]
+}

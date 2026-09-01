@@ -1,0 +1,60 @@
+{
+  "uid": 3453153711727,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142aszewicze MS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "865",
+      "meter": 197792
+    },
+    {
+      "line_no": "865",
+      "meter": 197792
+    },
+    {
+      "line_no": "865",
+      "meter": 200800
+    },
+    {
+      "line_no": "865",
+      "meter": 200800
+    },
+    {
+      "line_no": "866",
+      "meter": 198240
+    },
+    {
+      "line_no": "866",
+      "meter": 198240
+    },
+    {
+      "line_no": "866",
+      "meter": 199200
+    },
+    {
+      "line_no": "866",
+      "meter": 199200
+    },
+    {
+      "line_no": "867",
+      "meter": 201575
+    },
+    {
+      "line_no": "867",
+      "meter": 201575
+    },
+    {
+      "line_no": "867",
+      "meter": 201575
+    },
+    {
+      "line_no": "867",
+      "meter": 202080
+    },
+    {
+      "line_no": "867",
+      "meter": 202080
+    }
+  ]
+}

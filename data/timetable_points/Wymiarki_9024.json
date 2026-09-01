@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715008,
+  "type": "TIMETABLE_POINT",
+  "name": "Wymiarki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "380",
+      "meter": 13279
+    },
+    {
+      "line_no": "380",
+      "meter": 13279
+    }
+  ]
+}

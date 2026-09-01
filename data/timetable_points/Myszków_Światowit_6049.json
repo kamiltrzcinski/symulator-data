@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712033,
+  "type": "TIMETABLE_POINT",
+  "name": "Myszk\u00f3w \u015awiatowit",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 263442
+    },
+    {
+      "line_no": "1",
+      "meter": 263442
+    },
+    {
+      "line_no": "1",
+      "meter": 263442
+    }
+  ]
+}

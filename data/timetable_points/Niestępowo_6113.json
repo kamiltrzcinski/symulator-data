@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712097,
+  "type": "TIMETABLE_POINT",
+  "name": "Niest\u0119powo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 22468
+    },
+    {
+      "line_no": "229",
+      "meter": 22468
+    },
+    {
+      "line_no": "229",
+      "meter": 22468
+    }
+  ]
+}

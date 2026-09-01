@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713654,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary Borek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 50270
+    },
+    {
+      "line_no": "402",
+      "meter": 50270
+    }
+  ]
+}

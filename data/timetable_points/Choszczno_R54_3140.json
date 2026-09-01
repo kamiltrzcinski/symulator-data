@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709124,
+  "type": "TIMETABLE_POINT",
+  "name": "Choszczno R54",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 138540
+    },
+    {
+      "line_no": "410",
+      "meter": 143482
+    }
+  ]
+}

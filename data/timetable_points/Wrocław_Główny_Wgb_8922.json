@@ -1,0 +1,52 @@
+{
+  "uid": 3453153714906,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw G\u0142\u00f3wny Wgb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 178707
+    },
+    {
+      "line_no": "132",
+      "meter": 178707
+    },
+    {
+      "line_no": "132",
+      "meter": 178707
+    },
+    {
+      "line_no": "276",
+      "meter": 2318
+    },
+    {
+      "line_no": "276",
+      "meter": 2318
+    },
+    {
+      "line_no": "285",
+      "meter": 2315
+    },
+    {
+      "line_no": "285",
+      "meter": 2315
+    },
+    {
+      "line_no": "285",
+      "meter": 2315
+    },
+    {
+      "line_no": "285",
+      "meter": 2315
+    },
+    {
+      "line_no": "763",
+      "meter": 3595
+    },
+    {
+      "line_no": "763",
+      "meter": 3595
+    }
+  ]
+}

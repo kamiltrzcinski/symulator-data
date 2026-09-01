@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714157,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn\u00f3w Klikowa Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 4200
+    },
+    {
+      "line_no": "115",
+      "meter": 4200
+    }
+  ]
+}

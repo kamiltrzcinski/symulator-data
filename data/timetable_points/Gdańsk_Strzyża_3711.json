@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709695,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Strzy\u017ca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "248",
+      "meter": 2193
+    }
+  ]
+}

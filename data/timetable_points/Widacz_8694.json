@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714678,
+  "type": "TIMETABLE_POINT",
+  "name": "Widacz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 78308
+    },
+    {
+      "line_no": "108",
+      "meter": 78308
+    },
+    {
+      "line_no": "108",
+      "meter": 78308
+    },
+    {
+      "line_no": "108",
+      "meter": 78308
+    },
+    {
+      "line_no": "108",
+      "meter": 78308
+    }
+  ]
+}

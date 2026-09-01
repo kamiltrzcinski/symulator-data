@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708971,
+  "type": "TIMETABLE_POINT",
+  "name": "Buk\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "302",
+      "meter": 10150
+    },
+    {
+      "line_no": "302",
+      "meter": 10160
+    },
+    {
+      "line_no": "302",
+      "meter": 10160
+    }
+  ]
+}

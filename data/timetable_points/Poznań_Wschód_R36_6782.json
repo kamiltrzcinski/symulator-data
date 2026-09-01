@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712766,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Wsch\u00f3d R36",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 299842
+    },
+    {
+      "line_no": "3",
+      "meter": 299842
+    },
+    {
+      "line_no": "353",
+      "meter": -802
+    },
+    {
+      "line_no": "356",
+      "meter": -802
+    },
+    {
+      "line_no": "356",
+      "meter": -802
+    },
+    {
+      "line_no": "356",
+      "meter": -802
+    }
+  ]
+}

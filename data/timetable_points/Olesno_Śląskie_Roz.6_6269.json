@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712253,
+  "type": "TIMETABLE_POINT",
+  "name": "Olesno \u015al\u0105skie Roz.6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 49917
+    },
+    {
+      "line_no": "143",
+      "meter": 49917
+    },
+    {
+      "line_no": "143",
+      "meter": 49917
+    }
+  ]
+}

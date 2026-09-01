@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711494,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubzina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 119810
+    },
+    {
+      "line_no": "91",
+      "meter": 119810
+    },
+    {
+      "line_no": "91",
+      "meter": 119820
+    },
+    {
+      "line_no": "91",
+      "meter": 119820
+    },
+    {
+      "line_no": "91",
+      "meter": 119820
+    },
+    {
+      "line_no": "91",
+      "meter": 119820
+    }
+  ]
+}

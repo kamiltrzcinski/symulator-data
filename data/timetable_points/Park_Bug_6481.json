@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712465,
+  "type": "TIMETABLE_POINT",
+  "name": "Park Bug",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "459",
+      "meter": 97100
+    },
+    {
+      "line_no": "459",
+      "meter": 97100
+    },
+    {
+      "line_no": "459",
+      "meter": 97100
+    },
+    {
+      "line_no": "467",
+      "meter": 97100
+    },
+    {
+      "line_no": "467",
+      "meter": 97100
+    }
+  ]
+}

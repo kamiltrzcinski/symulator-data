@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715070,
+  "type": "TIMETABLE_POINT",
+  "name": "Zag\u00f3rz Zut",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 114446
+    },
+    {
+      "line_no": "108",
+      "meter": 114446
+    }
+  ]
+}

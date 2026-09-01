@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712040,
+  "type": "TIMETABLE_POINT",
+  "name": "Nadolice Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "292",
+      "meter": 6149
+    },
+    {
+      "line_no": "292",
+      "meter": 6149
+    },
+    {
+      "line_no": "292",
+      "meter": 6236
+    }
+  ]
+}

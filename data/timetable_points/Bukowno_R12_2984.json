@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708968,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowno R12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 53096
+    },
+    {
+      "line_no": "62",
+      "meter": 53096
+    },
+    {
+      "line_no": "156",
+      "meter": -427
+    },
+    {
+      "line_no": "156",
+      "meter": -427
+    },
+    {
+      "line_no": "156",
+      "meter": -427
+    }
+  ]
+}

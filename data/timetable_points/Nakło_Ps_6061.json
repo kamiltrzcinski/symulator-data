@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712045,
+  "type": "TIMETABLE_POINT",
+  "name": "Nak\u0142o Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 182300
+    }
+  ]
+}

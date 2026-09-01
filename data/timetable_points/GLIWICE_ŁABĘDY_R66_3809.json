@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709793,
+  "type": "TIMETABLE_POINT",
+  "name": "GLIWICE \u0141AB\u0118DY R66",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 32707
+    },
+    {
+      "line_no": "167",
+      "meter": 5659
+    }
+  ]
+}

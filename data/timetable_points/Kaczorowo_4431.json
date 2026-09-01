@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710415,
+  "type": "TIMETABLE_POINT",
+  "name": "Kaczorowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 48225
+    },
+    {
+      "line_no": "27",
+      "meter": 48225
+    }
+  ]
+}

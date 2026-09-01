@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714329,
+  "type": "TIMETABLE_POINT",
+  "name": "Tychy \u017bwak\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 20120
+    },
+    {
+      "line_no": "139",
+      "meter": 20120
+    }
+  ]
+}

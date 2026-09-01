@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713768,
+  "type": "TIMETABLE_POINT",
+  "name": "Studzionka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "159",
+      "meter": 24397
+    },
+    {
+      "line_no": "159",
+      "meter": 24397
+    },
+    {
+      "line_no": "159",
+      "meter": 24397
+    },
+    {
+      "line_no": "159",
+      "meter": 24397
+    },
+    {
+      "line_no": "689",
+      "meter": 1
+    },
+    {
+      "line_no": "689",
+      "meter": 1
+    }
+  ]
+}

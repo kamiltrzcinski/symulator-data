@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708586,
+  "type": "TIMETABLE_POINT",
+  "name": "Bartodzieje",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 86589
+    },
+    {
+      "line_no": "8",
+      "meter": 86589
+    },
+    {
+      "line_no": "8",
+      "meter": 86710
+    },
+    {
+      "line_no": "8",
+      "meter": 86710
+    },
+    {
+      "line_no": "8",
+      "meter": 86710
+    }
+  ]
+}

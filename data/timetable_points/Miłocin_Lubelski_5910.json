@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711894,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0142ocin Lubelski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 154547
+    },
+    {
+      "line_no": "7",
+      "meter": 154609
+    },
+    {
+      "line_no": "7",
+      "meter": 154609
+    },
+    {
+      "line_no": "7",
+      "meter": 154778
+    }
+  ]
+}

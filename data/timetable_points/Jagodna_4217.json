@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710201,
+  "type": "TIMETABLE_POINT",
+  "name": "Jagodna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 10969
+    },
+    {
+      "line_no": "254",
+      "meter": 10969
+    }
+  ]
+}

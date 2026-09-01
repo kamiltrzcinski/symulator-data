@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710364,
+  "type": "TIMETABLE_POINT",
+  "name": "Jele\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 61398
+    },
+    {
+      "line_no": "25",
+      "meter": 61398
+    },
+    {
+      "line_no": "25",
+      "meter": 61398
+    }
+  ]
+}

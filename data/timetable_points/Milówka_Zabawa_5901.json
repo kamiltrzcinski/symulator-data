@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711885,
+  "type": "TIMETABLE_POINT",
+  "name": "Mil\u00f3wka Zabawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 95275
+    },
+    {
+      "line_no": "139",
+      "meter": 95275
+    }
+  ]
+}

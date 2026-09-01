@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711952,
+  "type": "TIMETABLE_POINT",
+  "name": "Mordy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 17902
+    },
+    {
+      "line_no": "31",
+      "meter": 17902
+    },
+    {
+      "line_no": "31",
+      "meter": 17902
+    },
+    {
+      "line_no": "31",
+      "meter": 17902
+    },
+    {
+      "line_no": "31",
+      "meter": 17902
+    }
+  ]
+}

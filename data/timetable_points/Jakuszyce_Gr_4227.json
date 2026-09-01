@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710211,
+  "type": "TIMETABLE_POINT",
+  "name": "Jakuszyce (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 43138
+    },
+    {
+      "line_no": "590",
+      "meter": 40111
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710247,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaros\u0142awiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 44061
+    },
+    {
+      "line_no": "72",
+      "meter": 20648
+    },
+    {
+      "line_no": "72",
+      "meter": 20648
+    },
+    {
+      "line_no": "72",
+      "meter": 20648
+    },
+    {
+      "line_no": "72",
+      "meter": 20648
+    }
+  ]
+}

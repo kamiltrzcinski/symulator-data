@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711301,
+  "type": "TIMETABLE_POINT",
+  "name": "Legionowo Piaski R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "10",
+      "meter": 1210
+    },
+    {
+      "line_no": "10",
+      "meter": 1210
+    },
+    {
+      "line_no": "511",
+      "meter": 1020
+    }
+  ]
+}

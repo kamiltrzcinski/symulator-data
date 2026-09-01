@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708906,
+  "type": "TIMETABLE_POINT",
+  "name": "Bruzgi",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "460",
+      "meter": 159700
+    },
+    {
+      "line_no": "460",
+      "meter": 240260
+    },
+    {
+      "line_no": "460",
+      "meter": 240260
+    },
+    {
+      "line_no": "464",
+      "meter": 159700
+    },
+    {
+      "line_no": "464",
+      "meter": 159800
+    },
+    {
+      "line_no": "464",
+      "meter": 159800
+    }
+  ]
+}

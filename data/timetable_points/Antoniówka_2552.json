@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708536,
+  "type": "TIMETABLE_POINT",
+  "name": "Antoni\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 108511
+    },
+    {
+      "line_no": "26",
+      "meter": 108511
+    },
+    {
+      "line_no": "26",
+      "meter": 108511
+    },
+    {
+      "line_no": "26",
+      "meter": 108550
+    },
+    {
+      "line_no": "26",
+      "meter": 108550
+    },
+    {
+      "line_no": "26",
+      "meter": 108550
+    }
+  ]
+}

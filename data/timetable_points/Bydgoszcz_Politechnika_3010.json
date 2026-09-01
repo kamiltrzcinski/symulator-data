@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708994,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz Politechnika",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "209",
+      "meter": 105586
+    },
+    {
+      "line_no": "209",
+      "meter": 105586
+    },
+    {
+      "line_no": "209",
+      "meter": 105586
+    },
+    {
+      "line_no": "209",
+      "meter": 105586
+    },
+    {
+      "line_no": "209",
+      "meter": 105586
+    }
+  ]
+}

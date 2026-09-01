@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711044,
+  "type": "TIMETABLE_POINT",
+  "name": "Kraski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 221501
+    },
+    {
+      "line_no": "131",
+      "meter": 221501
+    },
+    {
+      "line_no": "131",
+      "meter": 221501
+    }
+  ]
+}

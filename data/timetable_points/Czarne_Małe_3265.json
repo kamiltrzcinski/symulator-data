@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709249,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarne Ma\u0142e",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 92429
+    },
+    {
+      "line_no": "210",
+      "meter": 92502
+    },
+    {
+      "line_no": "210",
+      "meter": 92502
+    }
+  ]
+}

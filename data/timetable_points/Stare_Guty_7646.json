@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713630,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Guty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 110689
+    },
+    {
+      "line_no": "219",
+      "meter": 110975
+    },
+    {
+      "line_no": "219",
+      "meter": 110975
+    },
+    {
+      "line_no": "219",
+      "meter": 110975
+    }
+  ]
+}

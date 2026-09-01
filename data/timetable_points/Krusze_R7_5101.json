@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711085,
+  "type": "TIMETABLE_POINT",
+  "name": "Krusze R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "13",
+      "meter": 3034
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    }
+  ]
+}

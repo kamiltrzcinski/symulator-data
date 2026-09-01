@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712117,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Brze\u017anica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 24523
+    },
+    {
+      "line_no": "146",
+      "meter": 24533
+    },
+    {
+      "line_no": "146",
+      "meter": 24533
+    }
+  ]
+}

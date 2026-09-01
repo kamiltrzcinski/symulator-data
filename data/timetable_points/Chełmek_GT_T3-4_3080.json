@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709064,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142mek GT T3-4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 16680
+    },
+    {
+      "line_no": "93",
+      "meter": 16680
+    },
+    {
+      "line_no": "93",
+      "meter": 16680
+    },
+    {
+      "line_no": "93",
+      "meter": 16769
+    },
+    {
+      "line_no": "93",
+      "meter": 16771
+    }
+  ]
+}

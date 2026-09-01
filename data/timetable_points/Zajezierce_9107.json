@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715091,
+  "type": "TIMETABLE_POINT",
+  "name": "Zajezierce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "37",
+      "meter": 16233
+    },
+    {
+      "line_no": "37",
+      "meter": 16233
+    },
+    {
+      "line_no": "37",
+      "meter": 16233
+    },
+    {
+      "line_no": "37",
+      "meter": 16322
+    },
+    {
+      "line_no": "37",
+      "meter": 16322
+    }
+  ]
+}

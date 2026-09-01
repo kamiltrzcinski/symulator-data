@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710610,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce Herbskie Kha",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 3033
+    },
+    {
+      "line_no": "61",
+      "meter": 3033
+    },
+    {
+      "line_no": "61",
+      "meter": 3033
+    },
+    {
+      "line_no": "840",
+      "meter": 1453
+    },
+    {
+      "line_no": "842",
+      "meter": 24
+    }
+  ]
+}

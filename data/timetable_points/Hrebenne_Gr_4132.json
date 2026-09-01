@@ -1,0 +1,52 @@
+{
+  "uid": 3453153710116,
+  "type": "TIMETABLE_POINT",
+  "name": "Hrebenne (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 138042
+    },
+    {
+      "line_no": "69",
+      "meter": 138042
+    },
+    {
+      "line_no": "69",
+      "meter": 138042
+    },
+    {
+      "line_no": "69",
+      "meter": 138042
+    },
+    {
+      "line_no": "69",
+      "meter": 138042
+    },
+    {
+      "line_no": "69",
+      "meter": 138042
+    },
+    {
+      "line_no": "471",
+      "meter": 6460
+    },
+    {
+      "line_no": "471",
+      "meter": 6460
+    },
+    {
+      "line_no": "471",
+      "meter": 7390
+    },
+    {
+      "line_no": "471",
+      "meter": 7390
+    },
+    {
+      "line_no": "471",
+      "meter": 7390
+    }
+  ]
+}

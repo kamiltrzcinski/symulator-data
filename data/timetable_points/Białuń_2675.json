@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708659,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142u\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 29167
+    },
+    {
+      "line_no": "401",
+      "meter": 29167
+    },
+    {
+      "line_no": "401",
+      "meter": 29167
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715001,
+  "type": "TIMETABLE_POINT",
+  "name": "Wyczerpy R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 222810
+    },
+    {
+      "line_no": "1",
+      "meter": 222810
+    },
+    {
+      "line_no": "1",
+      "meter": 222963
+    },
+    {
+      "line_no": "1",
+      "meter": 222963
+    },
+    {
+      "line_no": "146",
+      "meter": -209
+    },
+    {
+      "line_no": "146",
+      "meter": -55
+    },
+    {
+      "line_no": "146",
+      "meter": -55
+    }
+  ]
+}

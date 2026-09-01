@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709341,
+  "type": "TIMETABLE_POINT",
+  "name": "Czy\u017ck\u00f3wko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 162578
+    },
+    {
+      "line_no": "18",
+      "meter": 162578
+    },
+    {
+      "line_no": "745",
+      "meter": 2603
+    },
+    {
+      "line_no": "745",
+      "meter": 2603
+    },
+    {
+      "line_no": "745",
+      "meter": 2603
+    }
+  ]
+}

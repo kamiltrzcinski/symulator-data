@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708862,
+  "type": "TIMETABLE_POINT",
+  "name": "Borzytuchom",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "212",
+      "meter": 35010
+    },
+    {
+      "line_no": "212",
+      "meter": 35010
+    },
+    {
+      "line_no": "212",
+      "meter": 35010
+    }
+  ]
+}

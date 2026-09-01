@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714290,
+  "type": "TIMETABLE_POINT",
+  "name": "Tunel R13",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 268527
+    },
+    {
+      "line_no": "8",
+      "meter": 268527
+    },
+    {
+      "line_no": "8",
+      "meter": 268527
+    },
+    {
+      "line_no": "8",
+      "meter": 268548
+    },
+    {
+      "line_no": "8",
+      "meter": 268548
+    },
+    {
+      "line_no": "62",
+      "meter": 743
+    },
+    {
+      "line_no": "62",
+      "meter": 749
+    }
+  ]
+}

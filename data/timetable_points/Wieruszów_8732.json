@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714716,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierusz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 93286
+    },
+    {
+      "line_no": "181",
+      "meter": 93286
+    },
+    {
+      "line_no": "181",
+      "meter": 93286
+    }
+  ]
+}

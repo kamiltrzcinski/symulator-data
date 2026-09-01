@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710210,
+  "type": "TIMETABLE_POINT",
+  "name": "Jakubowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 214721
+    },
+    {
+      "line_no": "25",
+      "meter": 214721
+    },
+    {
+      "line_no": "25",
+      "meter": 214721
+    }
+  ]
+}

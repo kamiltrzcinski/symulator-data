@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713749,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzelce Opolskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 66931
+    },
+    {
+      "line_no": "132",
+      "meter": 66931
+    },
+    {
+      "line_no": "132",
+      "meter": 66931
+    },
+    {
+      "line_no": "175",
+      "meter": 30078
+    },
+    {
+      "line_no": "175",
+      "meter": 30078
+    },
+    {
+      "line_no": "175",
+      "meter": 30078
+    },
+    {
+      "line_no": "175",
+      "meter": 30078
+    }
+  ]
+}

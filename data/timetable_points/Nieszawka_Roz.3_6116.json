@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712100,
+  "type": "TIMETABLE_POINT",
+  "name": "Nieszawka Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 130456
+    },
+    {
+      "line_no": "353",
+      "meter": 130456
+    },
+    {
+      "line_no": "734",
+      "meter": -55
+    }
+  ]
+}

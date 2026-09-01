@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710056,
+  "type": "TIMETABLE_POINT",
+  "name": "Grz\u0119dzice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 178009
+    },
+    {
+      "line_no": "351",
+      "meter": 178009
+    },
+    {
+      "line_no": "351",
+      "meter": 178009
+    },
+    {
+      "line_no": "351",
+      "meter": 178009
+    },
+    {
+      "line_no": "351",
+      "meter": 178009
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153706010,
+  "type": "TIMETABLE_POINT",
+  "name": "8 Ps Km 57.96",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 57960
+    },
+    {
+      "line_no": "8",
+      "meter": 57960
+    },
+    {
+      "line_no": "8",
+      "meter": 57960
+    }
+  ]
+}

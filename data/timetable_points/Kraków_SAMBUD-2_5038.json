@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711022,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w SAMBUD-2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "940",
+      "meter": 6235
+    }
+  ]
+}

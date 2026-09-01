@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710403,
+  "type": "TIMETABLE_POINT",
+  "name": "Julianka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 87888
+    },
+    {
+      "line_no": "61",
+      "meter": 87888
+    },
+    {
+      "line_no": "61",
+      "meter": 87888
+    },
+    {
+      "line_no": "61",
+      "meter": 87888
+    },
+    {
+      "line_no": "61",
+      "meter": 87888
+    }
+  ]
+}

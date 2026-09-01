@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713381,
+  "type": "TIMETABLE_POINT",
+  "name": "Skalmierz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 83126
+    },
+    {
+      "line_no": "14",
+      "meter": 83145
+    },
+    {
+      "line_no": "14",
+      "meter": 83145
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709857,
+  "type": "TIMETABLE_POINT",
+  "name": "Goc\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "34",
+      "meter": 18040
+    },
+    {
+      "line_no": "34",
+      "meter": 18040
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708790,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogaczewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 41436
+    },
+    {
+      "line_no": "204",
+      "meter": 41436
+    },
+    {
+      "line_no": "204",
+      "meter": 41436
+    },
+    {
+      "line_no": "204",
+      "meter": 41436
+    },
+    {
+      "line_no": "220",
+      "meter": 85081
+    },
+    {
+      "line_no": "220",
+      "meter": 85081
+    }
+  ]
+}

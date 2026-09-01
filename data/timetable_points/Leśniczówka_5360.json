@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711344,
+  "type": "TIMETABLE_POINT",
+  "name": "Le\u015bnicz\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 28268
+    },
+    {
+      "line_no": "68",
+      "meter": 28268
+    },
+    {
+      "line_no": "68",
+      "meter": 28268
+    },
+    {
+      "line_no": "68",
+      "meter": 28268
+    },
+    {
+      "line_no": "68",
+      "meter": 28366
+    },
+    {
+      "line_no": "68",
+      "meter": 28366
+    }
+  ]
+}

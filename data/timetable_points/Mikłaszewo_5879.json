@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711863,
+  "type": "TIMETABLE_POINT",
+  "name": "Mik\u0142aszewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "59",
+      "meter": 15035
+    },
+    {
+      "line_no": "59",
+      "meter": 15035
+    },
+    {
+      "line_no": "59",
+      "meter": 15035
+    },
+    {
+      "line_no": "59",
+      "meter": 15560
+    },
+    {
+      "line_no": "59",
+      "meter": 15560
+    },
+    {
+      "line_no": "59",
+      "meter": 15560
+    },
+    {
+      "line_no": "915",
+      "meter": 0
+    },
+    {
+      "line_no": "915",
+      "meter": 0
+    }
+  ]
+}

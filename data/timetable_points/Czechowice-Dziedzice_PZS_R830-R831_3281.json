@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709265,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice PZS R830-R831",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 51709
+    }
+  ]
+}

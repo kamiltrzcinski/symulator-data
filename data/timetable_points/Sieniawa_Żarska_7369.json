@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713353,
+  "type": "TIMETABLE_POINT",
+  "name": "Sieniawa \u017barska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 358639
+    },
+    {
+      "line_no": "14",
+      "meter": 358639
+    },
+    {
+      "line_no": "14",
+      "meter": 358650
+    },
+    {
+      "line_no": "14",
+      "meter": 358709
+    },
+    {
+      "line_no": "14",
+      "meter": 358709
+    }
+  ]
+}

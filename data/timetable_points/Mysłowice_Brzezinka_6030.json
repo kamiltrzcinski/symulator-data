@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712014,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142owice Brzezinka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "138",
+      "meter": 18309
+    },
+    {
+      "line_no": "138",
+      "meter": 18309
+    },
+    {
+      "line_no": "138",
+      "meter": 18309
+    },
+    {
+      "line_no": "180",
+      "meter": 15387
+    },
+    {
+      "line_no": "180",
+      "meter": 15387
+    }
+  ]
+}

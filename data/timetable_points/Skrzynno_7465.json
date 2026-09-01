@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713449,
+  "type": "TIMETABLE_POINT",
+  "name": "Skrzynno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 56004
+    },
+    {
+      "line_no": "22",
+      "meter": 56004
+    },
+    {
+      "line_no": "22",
+      "meter": 56035
+    },
+    {
+      "line_no": "22",
+      "meter": 56035
+    },
+    {
+      "line_no": "22",
+      "meter": 56035
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713035,
+  "type": "TIMETABLE_POINT",
+  "name": "Reda Rekowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 4758
+    },
+    {
+      "line_no": "213",
+      "meter": 4758
+    }
+  ]
+}

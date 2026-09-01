@@ -1,0 +1,64 @@
+{
+  "uid": 3453153711607,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Kaliska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 0
+    },
+    {
+      "line_no": "14",
+      "meter": 0
+    },
+    {
+      "line_no": "14",
+      "meter": 503
+    },
+    {
+      "line_no": "15",
+      "meter": 68285
+    },
+    {
+      "line_no": "15",
+      "meter": 68285
+    },
+    {
+      "line_no": "25",
+      "meter": 0
+    },
+    {
+      "line_no": "25",
+      "meter": 0
+    },
+    {
+      "line_no": "25",
+      "meter": 0
+    },
+    {
+      "line_no": "539",
+      "meter": 1
+    },
+    {
+      "line_no": "539",
+      "meter": 1
+    },
+    {
+      "line_no": "539",
+      "meter": 1
+    },
+    {
+      "line_no": "550",
+      "meter": 6360
+    },
+    {
+      "line_no": "551",
+      "meter": 6212
+    },
+    {
+      "line_no": "551",
+      "meter": 6212
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714102,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 47963
+    },
+    {
+      "line_no": "12",
+      "meter": 47963
+    },
+    {
+      "line_no": "12",
+      "meter": 47963
+    },
+    {
+      "line_no": "12",
+      "meter": 47963
+    },
+    {
+      "line_no": "12",
+      "meter": 47963
+    }
+  ]
+}

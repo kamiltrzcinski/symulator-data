@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711992,
+  "type": "TIMETABLE_POINT",
+  "name": "Mszana Dolna Marki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 13381
+    },
+    {
+      "line_no": "104",
+      "meter": 13381
+    },
+    {
+      "line_no": "104",
+      "meter": 13381
+    }
+  ]
+}

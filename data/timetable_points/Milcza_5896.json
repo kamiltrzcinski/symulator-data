@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711880,
+  "type": "TIMETABLE_POINT",
+  "name": "Milcza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 83479
+    },
+    {
+      "line_no": "108",
+      "meter": 83479
+    },
+    {
+      "line_no": "108",
+      "meter": 83479
+    },
+    {
+      "line_no": "108",
+      "meter": 83479
+    },
+    {
+      "line_no": "108",
+      "meter": 83479
+    }
+  ]
+}

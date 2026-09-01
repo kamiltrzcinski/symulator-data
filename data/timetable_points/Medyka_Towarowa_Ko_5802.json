@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711786,
+  "type": "TIMETABLE_POINT",
+  "name": "Medyka Towarowa Ko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "989",
+      "meter": 2226
+    }
+  ]
+}

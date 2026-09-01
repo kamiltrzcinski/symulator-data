@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710890,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u00f3rnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 180802
+    },
+    {
+      "line_no": "272",
+      "meter": 180802
+    },
+    {
+      "line_no": "272",
+      "meter": 181071
+    },
+    {
+      "line_no": "272",
+      "meter": 181071
+    },
+    {
+      "line_no": "272",
+      "meter": 181802
+    }
+  ]
+}

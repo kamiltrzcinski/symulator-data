@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714266,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebinia Sz Andrzej",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "114",
+      "meter": 2000
+    },
+    {
+      "line_no": "114",
+      "meter": 2000
+    }
+  ]
+}

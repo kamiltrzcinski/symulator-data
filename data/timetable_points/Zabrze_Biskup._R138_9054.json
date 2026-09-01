@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715038,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Biskup. R138",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 23552
+    },
+    {
+      "line_no": "132",
+      "meter": 23552
+    },
+    {
+      "line_no": "132",
+      "meter": 23552
+    },
+    {
+      "line_no": "132",
+      "meter": 23552
+    },
+    {
+      "line_no": "188",
+      "meter": 23552
+    },
+    {
+      "line_no": "188",
+      "meter": 23552
+    },
+    {
+      "line_no": "188",
+      "meter": 23552
+    }
+  ]
+}

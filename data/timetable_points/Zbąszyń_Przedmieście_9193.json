@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715177,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szy\u0144 Przedmie\u015bcie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "359",
+      "meter": 66619
+    },
+    {
+      "line_no": "359",
+      "meter": 66637
+    }
+  ]
+}

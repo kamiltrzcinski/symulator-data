@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709154,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrz\u0119sne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 41020
+    },
+    {
+      "line_no": "6",
+      "meter": 41020
+    },
+    {
+      "line_no": "6",
+      "meter": 41020
+    },
+    {
+      "line_no": "6",
+      "meter": 41089
+    },
+    {
+      "line_no": "6",
+      "meter": 41089
+    },
+    {
+      "line_no": "6",
+      "meter": 41089
+    },
+    {
+      "line_no": "6",
+      "meter": 41089
+    }
+  ]
+}

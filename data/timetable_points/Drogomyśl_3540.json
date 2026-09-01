@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709524,
+  "type": "TIMETABLE_POINT",
+  "name": "Drogomy\u015bl",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 64723
+    },
+    {
+      "line_no": "93",
+      "meter": 64723
+    },
+    {
+      "line_no": "93",
+      "meter": 64723
+    }
+  ]
+}

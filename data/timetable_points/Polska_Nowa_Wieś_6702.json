@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712686,
+  "type": "TIMETABLE_POINT",
+  "name": "Polska Nowa Wie\u015b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 9866
+    },
+    {
+      "line_no": "287",
+      "meter": 9866
+    },
+    {
+      "line_no": "287",
+      "meter": 9866
+    }
+  ]
+}

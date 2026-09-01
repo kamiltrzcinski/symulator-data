@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709453,
+  "type": "TIMETABLE_POINT",
+  "name": "Dioniz\u00f3w R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 173641
+    },
+    {
+      "line_no": "131",
+      "meter": 173641
+    },
+    {
+      "line_no": "810",
+      "meter": 3304
+    },
+    {
+      "line_no": "810",
+      "meter": 3304
+    },
+    {
+      "line_no": "810",
+      "meter": 3304
+    }
+  ]
+}

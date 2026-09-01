@@ -1,0 +1,48 @@
+{
+  "uid": 3453153709788,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice \u0141ab\u0119dy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "135",
+      "meter": 0
+    },
+    {
+      "line_no": "135",
+      "meter": 0
+    },
+    {
+      "line_no": "135",
+      "meter": 0
+    },
+    {
+      "line_no": "137",
+      "meter": 32985
+    },
+    {
+      "line_no": "137",
+      "meter": 32985
+    },
+    {
+      "line_no": "167",
+      "meter": 5658
+    },
+    {
+      "line_no": "168",
+      "meter": 5785
+    },
+    {
+      "line_no": "168",
+      "meter": 5785
+    },
+    {
+      "line_no": "168",
+      "meter": 5785
+    },
+    {
+      "line_no": "168",
+      "meter": 5785
+    }
+  ]
+}

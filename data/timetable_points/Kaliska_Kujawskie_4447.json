@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710431,
+  "type": "TIMETABLE_POINT",
+  "name": "Kaliska Kujawskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 27287
+    },
+    {
+      "line_no": "18",
+      "meter": 27287
+    }
+  ]
+}

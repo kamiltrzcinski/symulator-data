@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714103,
+  "type": "TIMETABLE_POINT",
+  "name": "Targowiska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 75707
+    },
+    {
+      "line_no": "108",
+      "meter": 75707
+    },
+    {
+      "line_no": "108",
+      "meter": 75707
+    }
+  ]
+}

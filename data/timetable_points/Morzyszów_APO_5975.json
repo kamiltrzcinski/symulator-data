@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711959,
+  "type": "TIMETABLE_POINT",
+  "name": "Morzysz\u00f3w APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 87745
+    }
+  ]
+}

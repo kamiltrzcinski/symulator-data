@@ -1,0 +1,52 @@
+{
+  "uid": 3453153713016,
+  "type": "TIMETABLE_POINT",
+  "name": "Rakowice \u017bwirownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "283",
+      "meter": 36320
+    },
+    {
+      "line_no": "974",
+      "meter": 1
+    },
+    {
+      "line_no": "974",
+      "meter": 19
+    },
+    {
+      "line_no": "974",
+      "meter": 19
+    }
+  ]
+}

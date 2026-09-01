@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713661,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary Klukom",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 133628
+    },
+    {
+      "line_no": "351",
+      "meter": 133638
+    },
+    {
+      "line_no": "351",
+      "meter": 133638
+    },
+    {
+      "line_no": "351",
+      "meter": 133638
+    },
+    {
+      "line_no": "351",
+      "meter": 133638
+    },
+    {
+      "line_no": "351",
+      "meter": 133638
+    }
+  ]
+}

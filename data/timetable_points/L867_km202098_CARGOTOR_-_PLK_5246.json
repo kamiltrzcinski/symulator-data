@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711230,
+  "type": "TIMETABLE_POINT",
+  "name": "L867 km:202,098 CARGOTOR - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "867",
+      "meter": 201984
+    },
+    {
+      "line_no": "867",
+      "meter": 202098
+    },
+    {
+      "line_no": "867",
+      "meter": 202098
+    }
+  ]
+}

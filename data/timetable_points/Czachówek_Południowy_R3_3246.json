@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709230,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek Po\u0142udniowy R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 34605
+    },
+    {
+      "line_no": "8",
+      "meter": 34605
+    },
+    {
+      "line_no": "8",
+      "meter": 34605
+    },
+    {
+      "line_no": "8",
+      "meter": 34605
+    },
+    {
+      "line_no": "8",
+      "meter": 34605
+    },
+    {
+      "line_no": "8",
+      "meter": 34605
+    },
+    {
+      "line_no": "526",
+      "meter": 1256
+    },
+    {
+      "line_no": "526",
+      "meter": 1256
+    },
+    {
+      "line_no": "526",
+      "meter": 1256
+    }
+  ]
+}

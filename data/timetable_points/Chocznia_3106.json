@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709090,
+  "type": "TIMETABLE_POINT",
+  "name": "Chocznia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 21978
+    },
+    {
+      "line_no": "117",
+      "meter": 21978
+    },
+    {
+      "line_no": "117",
+      "meter": 22020
+    }
+  ]
+}

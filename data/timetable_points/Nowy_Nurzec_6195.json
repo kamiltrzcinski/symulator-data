@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712179,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy Nurzec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 76542
+    },
+    {
+      "line_no": "31",
+      "meter": 76542
+    },
+    {
+      "line_no": "31",
+      "meter": 76614
+    },
+    {
+      "line_no": "31",
+      "meter": 76614
+    },
+    {
+      "line_no": "31",
+      "meter": 76614
+    }
+  ]
+}

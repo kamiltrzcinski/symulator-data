@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713274,
+  "type": "TIMETABLE_POINT",
+  "name": "Rz\u0119\u015bnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 118335
+    },
+    {
+      "line_no": "210",
+      "meter": 118335
+    }
+  ]
+}

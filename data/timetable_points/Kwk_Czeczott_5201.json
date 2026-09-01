@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711185,
+  "type": "TIMETABLE_POINT",
+  "name": "Kwk Czeczott",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "882",
+      "meter": 7500
+    },
+    {
+      "line_no": "882",
+      "meter": 7500
+    },
+    {
+      "line_no": "882",
+      "meter": 7500
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709350,
+  "type": "TIMETABLE_POINT",
+  "name": "Damas\u0142awek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 198936
+    },
+    {
+      "line_no": "281",
+      "meter": 198936
+    },
+    {
+      "line_no": "281",
+      "meter": 198936
+    },
+    {
+      "line_no": "281",
+      "meter": 198936
+    },
+    {
+      "line_no": "281",
+      "meter": 198936
+    }
+  ]
+}

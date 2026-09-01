@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711115,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzywda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 22552
+    },
+    {
+      "line_no": "26",
+      "meter": 22552
+    },
+    {
+      "line_no": "26",
+      "meter": 22552
+    },
+    {
+      "line_no": "26",
+      "meter": 22552
+    },
+    {
+      "line_no": "26",
+      "meter": 22552
+    }
+  ]
+}

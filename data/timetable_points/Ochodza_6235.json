@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712219,
+  "type": "TIMETABLE_POINT",
+  "name": "Ochodza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 49600
+    },
+    {
+      "line_no": "93",
+      "meter": 49600
+    },
+    {
+      "line_no": "93",
+      "meter": 49600
+    },
+    {
+      "line_no": "93",
+      "meter": 49600
+    },
+    {
+      "line_no": "150",
+      "meter": 2504
+    },
+    {
+      "line_no": "150",
+      "meter": 2504
+    },
+    {
+      "line_no": "150",
+      "meter": 2504
+    }
+  ]
+}

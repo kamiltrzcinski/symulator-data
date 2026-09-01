@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711107,
+  "type": "TIMETABLE_POINT",
+  "name": "Krze\u015bnica Sarbinowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "430",
+      "meter": 231683
+    },
+    {
+      "line_no": "430",
+      "meter": 231683
+    }
+  ]
+}

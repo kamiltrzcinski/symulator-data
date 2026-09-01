@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711114,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzymosze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 13468
+    },
+    {
+      "line_no": "31",
+      "meter": 13468
+    },
+    {
+      "line_no": "31",
+      "meter": 13468
+    },
+    {
+      "line_no": "31",
+      "meter": 13468
+    },
+    {
+      "line_no": "31",
+      "meter": 13468
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712232,
+  "type": "TIMETABLE_POINT",
+  "name": "Okartowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 80565
+    },
+    {
+      "line_no": "223",
+      "meter": 80565
+    },
+    {
+      "line_no": "223",
+      "meter": 80565
+    }
+  ]
+}

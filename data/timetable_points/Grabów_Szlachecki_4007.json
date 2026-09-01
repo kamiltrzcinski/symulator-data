@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709991,
+  "type": "TIMETABLE_POINT",
+  "name": "Grab\u00f3w Szlachecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 35065
+    },
+    {
+      "line_no": "26",
+      "meter": 35266
+    },
+    {
+      "line_no": "26",
+      "meter": 35266
+    },
+    {
+      "line_no": "26",
+      "meter": 35266
+    },
+    {
+      "line_no": "26",
+      "meter": 35266
+    },
+    {
+      "line_no": "26",
+      "meter": 35266
+    }
+  ]
+}

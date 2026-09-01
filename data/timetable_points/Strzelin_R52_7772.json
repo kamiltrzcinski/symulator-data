@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713756,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzelin R52",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 37312
+    },
+    {
+      "line_no": "276",
+      "meter": 37312
+    }
+  ]
+}

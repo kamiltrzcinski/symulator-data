@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713603,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola Rozwad\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 102770
+    },
+    {
+      "line_no": "68",
+      "meter": 102770
+    },
+    {
+      "line_no": "68",
+      "meter": 102770
+    },
+    {
+      "line_no": "68",
+      "meter": 102770
+    },
+    {
+      "line_no": "68",
+      "meter": 102770
+    },
+    {
+      "line_no": "68",
+      "meter": 102770
+    },
+    {
+      "line_no": "74",
+      "meter": 23335
+    },
+    {
+      "line_no": "74",
+      "meter": 23342
+    }
+  ]
+}

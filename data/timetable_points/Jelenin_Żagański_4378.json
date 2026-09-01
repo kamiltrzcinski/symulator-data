@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710362,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenin \u017baga\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 76875
+    },
+    {
+      "line_no": "371",
+      "meter": 76875
+    }
+  ]
+}

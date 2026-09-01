@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711819,
+  "type": "TIMETABLE_POINT",
+  "name": "Mied\u017ano",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 101058
+    },
+    {
+      "line_no": "131",
+      "meter": 101058
+    },
+    {
+      "line_no": "131",
+      "meter": 101058
+    },
+    {
+      "line_no": "131",
+      "meter": 101058
+    },
+    {
+      "line_no": "131",
+      "meter": 101335
+    },
+    {
+      "line_no": "131",
+      "meter": 101335
+    },
+    {
+      "line_no": "131",
+      "meter": 101356
+    }
+  ]
+}

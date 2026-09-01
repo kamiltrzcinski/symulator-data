@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711365,
+  "type": "TIMETABLE_POINT",
+  "name": "Libi\u0105\u017c ZB Janina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 9358
+    },
+    {
+      "line_no": "93",
+      "meter": 9358
+    }
+  ]
+}

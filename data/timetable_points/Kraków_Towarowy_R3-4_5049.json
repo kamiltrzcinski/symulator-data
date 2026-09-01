@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711033,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Towarowy R3-4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 3517
+    },
+    {
+      "line_no": "118",
+      "meter": 3990
+    },
+    {
+      "line_no": "118",
+      "meter": 3990
+    }
+  ]
+}

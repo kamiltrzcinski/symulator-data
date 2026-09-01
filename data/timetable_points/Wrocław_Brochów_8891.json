@@ -1,0 +1,92 @@
+{
+  "uid": 3453153714875,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Broch\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 175726
+    },
+    {
+      "line_no": "132",
+      "meter": 175726
+    },
+    {
+      "line_no": "132",
+      "meter": 175726
+    },
+    {
+      "line_no": "277",
+      "meter": 85574
+    },
+    {
+      "line_no": "277",
+      "meter": 85574
+    },
+    {
+      "line_no": "277",
+      "meter": 85574
+    },
+    {
+      "line_no": "349",
+      "meter": 3083
+    },
+    {
+      "line_no": "349",
+      "meter": 3083
+    },
+    {
+      "line_no": "349",
+      "meter": 3083
+    },
+    {
+      "line_no": "750",
+      "meter": 4936
+    },
+    {
+      "line_no": "750",
+      "meter": 4936
+    },
+    {
+      "line_no": "750",
+      "meter": 4936
+    },
+    {
+      "line_no": "750",
+      "meter": 4936
+    },
+    {
+      "line_no": "763",
+      "meter": 1166
+    },
+    {
+      "line_no": "763",
+      "meter": 1166
+    },
+    {
+      "line_no": "764",
+      "meter": 3450
+    },
+    {
+      "line_no": "764",
+      "meter": 3450
+    },
+    {
+      "line_no": "764",
+      "meter": 3450
+    },
+    {
+      "line_no": "764",
+      "meter": 3450
+    },
+    {
+      "line_no": "764",
+      "meter": 3450
+    },
+    {
+      "line_no": "765",
+      "meter": 2070
+    }
+  ]
+}

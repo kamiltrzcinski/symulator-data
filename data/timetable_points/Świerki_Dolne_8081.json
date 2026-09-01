@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714065,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awierki Dolne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "286",
+      "meter": 33179
+    },
+    {
+      "line_no": "286",
+      "meter": 33189
+    }
+  ]
+}

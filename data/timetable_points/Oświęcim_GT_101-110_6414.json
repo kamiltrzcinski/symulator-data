@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712398,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u015bwi\u0119cim GT 101-110",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 26617
+    },
+    {
+      "line_no": "93",
+      "meter": 27179
+    },
+    {
+      "line_no": "93",
+      "meter": 27179
+    },
+    {
+      "line_no": "882",
+      "meter": -804
+    },
+    {
+      "line_no": "882",
+      "meter": -804
+    },
+    {
+      "line_no": "882",
+      "meter": -804
+    },
+    {
+      "line_no": "882",
+      "meter": -188
+    }
+  ]
+}

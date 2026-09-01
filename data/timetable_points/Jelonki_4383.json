@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710367,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelonki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "34",
+      "meter": 22477
+    },
+    {
+      "line_no": "34",
+      "meter": 22477
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711027,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Tow. R226",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 1822
+    },
+    {
+      "line_no": "118",
+      "meter": 1822
+    },
+    {
+      "line_no": "118",
+      "meter": 1822
+    },
+    {
+      "line_no": "601",
+      "meter": 1188
+    },
+    {
+      "line_no": "601",
+      "meter": 1188
+    },
+    {
+      "line_no": "601",
+      "meter": 1455
+    },
+    {
+      "line_no": "949",
+      "meter": 0
+    }
+  ]
+}

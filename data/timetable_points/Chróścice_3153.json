@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709137,
+  "type": "TIMETABLE_POINT",
+  "name": "Chr\u00f3\u015bcice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 22735
+    },
+    {
+      "line_no": "277",
+      "meter": 22735
+    },
+    {
+      "line_no": "277",
+      "meter": 22735
+    }
+  ]
+}

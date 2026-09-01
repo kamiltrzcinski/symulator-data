@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709418,
+  "type": "TIMETABLE_POINT",
+  "name": "Desna-Pustinska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "590",
+      "meter": 31624
+    }
+  ]
+}

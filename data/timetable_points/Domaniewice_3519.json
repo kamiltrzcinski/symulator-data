@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709503,
+  "type": "TIMETABLE_POINT",
+  "name": "Domaniewice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 21435
+    },
+    {
+      "line_no": "15",
+      "meter": 21435
+    }
+  ]
+}

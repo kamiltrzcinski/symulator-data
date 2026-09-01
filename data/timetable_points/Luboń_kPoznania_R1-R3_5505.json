@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711489,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubo\u0144 k/Poznania R1-R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 157063
+    },
+    {
+      "line_no": "271",
+      "meter": 157063
+    },
+    {
+      "line_no": "271",
+      "meter": 157063
+    },
+    {
+      "line_no": "271",
+      "meter": 161144
+    },
+    {
+      "line_no": "271",
+      "meter": 161144
+    },
+    {
+      "line_no": "357",
+      "meter": 111307
+    },
+    {
+      "line_no": "357",
+      "meter": 111307
+    }
+  ]
+}

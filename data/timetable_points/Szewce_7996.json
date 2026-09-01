@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713980,
+  "type": "TIMETABLE_POINT",
+  "name": "Szewce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 15850
+    },
+    {
+      "line_no": "271",
+      "meter": 15850
+    },
+    {
+      "line_no": "271",
+      "meter": 15850
+    },
+    {
+      "line_no": "271",
+      "meter": 16007
+    }
+  ]
+}

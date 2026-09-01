@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712599,
+  "type": "TIMETABLE_POINT",
+  "name": "Plavec PZS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "487",
+      "meter": 70662
+    },
+    {
+      "line_no": "559",
+      "meter": 275
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709169,
+  "type": "TIMETABLE_POINT",
+  "name": "Ciasna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 29604
+    },
+    {
+      "line_no": "143",
+      "meter": 29604
+    },
+    {
+      "line_no": "143",
+      "meter": 29604
+    },
+    {
+      "line_no": "143",
+      "meter": 29604
+    },
+    {
+      "line_no": "143",
+      "meter": 29604
+    }
+  ]
+}

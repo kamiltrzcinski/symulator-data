@@ -1,0 +1,136 @@
+{
+  "uid": 3453153714575,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "502",
+      "meter": 1512
+    },
+    {
+      "line_no": "502",
+      "meter": 1512
+    },
+    {
+      "line_no": "502",
+      "meter": 1512
+    },
+    {
+      "line_no": "502",
+      "meter": 1576
+    },
+    {
+      "line_no": "503",
+      "meter": 1797
+    },
+    {
+      "line_no": "503",
+      "meter": 1797
+    },
+    {
+      "line_no": "503",
+      "meter": 1803
+    },
+    {
+      "line_no": "503",
+      "meter": 1803
+    },
+    {
+      "line_no": "503",
+      "meter": 7074
+    },
+    {
+      "line_no": "503",
+      "meter": 7074
+    },
+    {
+      "line_no": "503",
+      "meter": 7074
+    },
+    {
+      "line_no": "506",
+      "meter": -95
+    },
+    {
+      "line_no": "506",
+      "meter": 6965
+    },
+    {
+      "line_no": "506",
+      "meter": 6965
+    },
+    {
+      "line_no": "506",
+      "meter": 6965
+    },
+    {
+      "line_no": "546",
+      "meter": 7074
+    },
+    {
+      "line_no": "546",
+      "meter": 7074
+    },
+    {
+      "line_no": "546",
+      "meter": 7074
+    },
+    {
+      "line_no": "546",
+      "meter": 7074
+    },
+    {
+      "line_no": "546",
+      "meter": 7074
+    },
+    {
+      "line_no": "546",
+      "meter": 7074
+    },
+    {
+      "line_no": "547",
+      "meter": 7000
+    },
+    {
+      "line_no": "547",
+      "meter": 7000
+    },
+    {
+      "line_no": "547",
+      "meter": 7000
+    },
+    {
+      "line_no": "547",
+      "meter": 7000
+    },
+    {
+      "line_no": "844",
+      "meter": -358
+    },
+    {
+      "line_no": "844",
+      "meter": 7751
+    },
+    {
+      "line_no": "901",
+      "meter": 7074
+    },
+    {
+      "line_no": "901",
+      "meter": 7074
+    },
+    {
+      "line_no": "901",
+      "meter": 7074
+    },
+    {
+      "line_no": "901",
+      "meter": 7074
+    },
+    {
+      "line_no": "902",
+      "meter": 7875
+    }
+  ]
+}

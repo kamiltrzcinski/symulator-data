@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714399,
+  "type": "TIMETABLE_POINT",
+  "name": "Warka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 56284
+    },
+    {
+      "line_no": "8",
+      "meter": 56284
+    },
+    {
+      "line_no": "8",
+      "meter": 56444
+    },
+    {
+      "line_no": "8",
+      "meter": 56444
+    },
+    {
+      "line_no": "8",
+      "meter": 56444
+    },
+    {
+      "line_no": "8",
+      "meter": 56451
+    }
+  ]
+}

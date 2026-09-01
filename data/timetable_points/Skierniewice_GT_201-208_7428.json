@@ -1,0 +1,68 @@
+{
+  "uid": 3453153713412,
+  "type": "TIMETABLE_POINT",
+  "name": "Skierniewice GT 201-208",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 64381
+    },
+    {
+      "line_no": "1",
+      "meter": 64381
+    },
+    {
+      "line_no": "1",
+      "meter": 64381
+    },
+    {
+      "line_no": "1",
+      "meter": 64381
+    },
+    {
+      "line_no": "1",
+      "meter": 64381
+    },
+    {
+      "line_no": "1",
+      "meter": 64381
+    },
+    {
+      "line_no": "12",
+      "meter": 1629
+    },
+    {
+      "line_no": "12",
+      "meter": 1629
+    },
+    {
+      "line_no": "12",
+      "meter": 1629
+    },
+    {
+      "line_no": "12",
+      "meter": 1629
+    },
+    {
+      "line_no": "12",
+      "meter": 1629
+    },
+    {
+      "line_no": "529",
+      "meter": 1730
+    },
+    {
+      "line_no": "529",
+      "meter": 1730
+    },
+    {
+      "line_no": "529",
+      "meter": 1730
+    },
+    {
+      "line_no": "529",
+      "meter": 1730
+    }
+  ]
+}

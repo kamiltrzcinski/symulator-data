@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714994,
+  "type": "TIMETABLE_POINT",
+  "name": "W-W Br Stadion S124",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 12320
+    },
+    {
+      "line_no": "349",
+      "meter": 12320
+    }
+  ]
+}

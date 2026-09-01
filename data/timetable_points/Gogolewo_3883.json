@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709867,
+  "type": "TIMETABLE_POINT",
+  "name": "Gogolewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 321476
+    },
+    {
+      "line_no": "202",
+      "meter": 321476
+    },
+    {
+      "line_no": "202",
+      "meter": 321476
+    },
+    {
+      "line_no": "202",
+      "meter": 321476
+    }
+  ]
+}

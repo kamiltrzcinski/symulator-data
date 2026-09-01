@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713732,
+  "type": "TIMETABLE_POINT",
+  "name": "Stryk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 42270
+    },
+    {
+      "line_no": "15",
+      "meter": 42270
+    }
+  ]
+}

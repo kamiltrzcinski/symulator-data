@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713121,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Bia\u0142aczowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 96879
+    },
+    {
+      "line_no": "25",
+      "meter": 96924
+    },
+    {
+      "line_no": "25",
+      "meter": 96924
+    }
+  ]
+}

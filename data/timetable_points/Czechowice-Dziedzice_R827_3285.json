@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709269,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice R827",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 51306
+    },
+    {
+      "line_no": "693",
+      "meter": 14
+    },
+    {
+      "line_no": "693",
+      "meter": 14
+    },
+    {
+      "line_no": "693",
+      "meter": 15
+    },
+    {
+      "line_no": "693",
+      "meter": 15
+    }
+  ]
+}

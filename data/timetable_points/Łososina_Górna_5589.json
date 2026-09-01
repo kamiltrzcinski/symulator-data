@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711573,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141ososina G\u00f3rna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 43200
+    },
+    {
+      "line_no": "104",
+      "meter": 43200
+    },
+    {
+      "line_no": "104",
+      "meter": 43200
+    },
+    {
+      "line_no": "104",
+      "meter": 43200
+    }
+  ]
+}

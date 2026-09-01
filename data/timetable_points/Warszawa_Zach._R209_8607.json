@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714591,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zach. R209",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "445",
+      "meter": 2735
+    },
+    {
+      "line_no": "445",
+      "meter": 2751
+    },
+    {
+      "line_no": "445",
+      "meter": 2751
+    },
+    {
+      "line_no": "445",
+      "meter": 2752
+    },
+    {
+      "line_no": "447",
+      "meter": 2735
+    },
+    {
+      "line_no": "447",
+      "meter": 2751
+    },
+    {
+      "line_no": "447",
+      "meter": 2751
+    },
+    {
+      "line_no": "447",
+      "meter": 2751
+    }
+  ]
+}

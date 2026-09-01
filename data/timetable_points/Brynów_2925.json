@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708909,
+  "type": "TIMETABLE_POINT",
+  "name": "Bryn\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 3193
+    },
+    {
+      "line_no": "139",
+      "meter": 3193
+    },
+    {
+      "line_no": "139",
+      "meter": 3193
+    },
+    {
+      "line_no": "656",
+      "meter": 3004
+    },
+    {
+      "line_no": "656",
+      "meter": 3004
+    },
+    {
+      "line_no": "656",
+      "meter": 3004
+    }
+  ]
+}

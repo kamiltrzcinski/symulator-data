@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712592,
+  "type": "TIMETABLE_POINT",
+  "name": "Piwniczna-Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 111157
+    },
+    {
+      "line_no": "96",
+      "meter": 111157
+    },
+    {
+      "line_no": "96",
+      "meter": 111157
+    },
+    {
+      "line_no": "96",
+      "meter": 111157
+    }
+  ]
+}

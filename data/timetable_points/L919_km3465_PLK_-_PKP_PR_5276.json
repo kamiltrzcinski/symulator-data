@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711260,
+  "type": "TIMETABLE_POINT",
+  "name": "L919 km:3,465 PLK - PKP PR",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "919",
+      "meter": 3465
+    },
+    {
+      "line_no": "919",
+      "meter": 3465
+    },
+    {
+      "line_no": "919",
+      "meter": 3465
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708761,
+  "type": "TIMETABLE_POINT",
+  "name": "Biskupiec Reszelski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 7517
+    },
+    {
+      "line_no": "223",
+      "meter": 7517
+    },
+    {
+      "line_no": "223",
+      "meter": 7527
+    },
+    {
+      "line_no": "223",
+      "meter": 7527
+    },
+    {
+      "line_no": "223",
+      "meter": 7527
+    },
+    {
+      "line_no": "223",
+      "meter": 7527
+    }
+  ]
+}

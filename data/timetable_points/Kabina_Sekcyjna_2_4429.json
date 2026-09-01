@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710413,
+  "type": "TIMETABLE_POINT",
+  "name": "Kabina Sekcyjna 2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 136100
+    }
+  ]
+}

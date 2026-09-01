@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710280,
+  "type": "TIMETABLE_POINT",
+  "name": "Jastarnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 48024
+    },
+    {
+      "line_no": "213",
+      "meter": 48024
+    }
+  ]
+}

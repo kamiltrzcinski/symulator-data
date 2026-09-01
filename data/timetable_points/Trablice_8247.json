@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714231,
+  "type": "TIMETABLE_POINT",
+  "name": "Trablice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 109844
+    },
+    {
+      "line_no": "8",
+      "meter": 109844
+    },
+    {
+      "line_no": "8",
+      "meter": 110015
+    },
+    {
+      "line_no": "8",
+      "meter": 110015
+    },
+    {
+      "line_no": "8",
+      "meter": 110015
+    }
+  ]
+}

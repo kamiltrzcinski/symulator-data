@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711051,
+  "type": "TIMETABLE_POINT",
+  "name": "Kra\u015bnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 44108
+    },
+    {
+      "line_no": "68",
+      "meter": 44108
+    },
+    {
+      "line_no": "68",
+      "meter": 44108
+    },
+    {
+      "line_no": "68",
+      "meter": 44108
+    },
+    {
+      "line_no": "68",
+      "meter": 44108
+    }
+  ]
+}

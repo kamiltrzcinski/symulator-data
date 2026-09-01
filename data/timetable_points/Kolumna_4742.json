@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710726,
+  "type": "TIMETABLE_POINT",
+  "name": "Kolumna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 24799
+    },
+    {
+      "line_no": "14",
+      "meter": 24799
+    },
+    {
+      "line_no": "14",
+      "meter": 24864
+    },
+    {
+      "line_no": "14",
+      "meter": 24864
+    }
+  ]
+}

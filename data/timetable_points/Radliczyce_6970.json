@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712954,
+  "type": "TIMETABLE_POINT",
+  "name": "Radliczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 89478
+    },
+    {
+      "line_no": "14",
+      "meter": 89478
+    },
+    {
+      "line_no": "14",
+      "meter": 89478
+    },
+    {
+      "line_no": "14",
+      "meter": 90065
+    },
+    {
+      "line_no": "14",
+      "meter": 90065
+    },
+    {
+      "line_no": "14",
+      "meter": 90065
+    }
+  ]
+}

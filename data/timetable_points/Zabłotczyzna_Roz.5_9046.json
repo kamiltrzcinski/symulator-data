@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715030,
+  "type": "TIMETABLE_POINT",
+  "name": "Zab\u0142otczyzna Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "59",
+      "meter": 19932
+    },
+    {
+      "line_no": "59",
+      "meter": 19932
+    },
+    {
+      "line_no": "59",
+      "meter": 19932
+    },
+    {
+      "line_no": "59",
+      "meter": 19932
+    },
+    {
+      "line_no": "912",
+      "meter": -870
+    },
+    {
+      "line_no": "912",
+      "meter": -870
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711686,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141upk\u00f3w (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": 50588
+    },
+    {
+      "line_no": "107",
+      "meter": 50588
+    },
+    {
+      "line_no": "107",
+      "meter": 50588
+    },
+    {
+      "line_no": "488",
+      "meter": 119930
+    },
+    {
+      "line_no": "488",
+      "meter": 119930
+    }
+  ]
+}

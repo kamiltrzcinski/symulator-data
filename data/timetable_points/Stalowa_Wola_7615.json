@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713599,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 106237
+    },
+    {
+      "line_no": "68",
+      "meter": 106237
+    },
+    {
+      "line_no": "68",
+      "meter": 106237
+    },
+    {
+      "line_no": "68",
+      "meter": 106250
+    },
+    {
+      "line_no": "68",
+      "meter": 106250
+    }
+  ]
+}

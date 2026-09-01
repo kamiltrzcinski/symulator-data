@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715256,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0142otniki Kujawskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 337871
+    },
+    {
+      "line_no": "131",
+      "meter": 337871
+    }
+  ]
+}

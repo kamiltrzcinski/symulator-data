@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709940,
+  "type": "TIMETABLE_POINT",
+  "name": "Gotart\u00f3w R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 3069
+    },
+    {
+      "line_no": "272",
+      "meter": 3069
+    },
+    {
+      "line_no": "272",
+      "meter": 3069
+    }
+  ]
+}

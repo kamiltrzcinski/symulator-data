@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709209,
+  "type": "TIMETABLE_POINT",
+  "name": "Cimochy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "39",
+      "meter": 16221
+    },
+    {
+      "line_no": "39",
+      "meter": 16275
+    },
+    {
+      "line_no": "39",
+      "meter": 16275
+    }
+  ]
+}

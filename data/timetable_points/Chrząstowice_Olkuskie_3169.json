@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709153,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrz\u0105stowice Olkuskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 30379
+    },
+    {
+      "line_no": "62",
+      "meter": 30379
+    },
+    {
+      "line_no": "62",
+      "meter": 30560
+    },
+    {
+      "line_no": "62",
+      "meter": 30560
+    }
+  ]
+}

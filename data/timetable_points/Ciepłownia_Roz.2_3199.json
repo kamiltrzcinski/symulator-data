@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709183,
+  "type": "TIMETABLE_POINT",
+  "name": "Ciep\u0142ownia Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "159",
+      "meter": 15778
+    },
+    {
+      "line_no": "159",
+      "meter": 15778
+    },
+    {
+      "line_no": "159",
+      "meter": 15778
+    },
+    {
+      "line_no": "874",
+      "meter": 1622
+    },
+    {
+      "line_no": "874",
+      "meter": 1625
+    }
+  ]
+}

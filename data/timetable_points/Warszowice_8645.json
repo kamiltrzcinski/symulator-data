@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714629,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "159",
+      "meter": 20957
+    },
+    {
+      "line_no": "159",
+      "meter": 20957
+    },
+    {
+      "line_no": "159",
+      "meter": 20957
+    },
+    {
+      "line_no": "159",
+      "meter": 20957
+    },
+    {
+      "line_no": "159",
+      "meter": 20957
+    },
+    {
+      "line_no": "159",
+      "meter": 20957
+    },
+    {
+      "line_no": "159",
+      "meter": 20957
+    }
+  ]
+}

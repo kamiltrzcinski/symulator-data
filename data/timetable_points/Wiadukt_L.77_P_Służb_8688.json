@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714672,
+  "type": "TIMETABLE_POINT",
+  "name": "Wiadukt L.77 P S\u0142u\u017cb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "77",
+      "meter": 3200
+    },
+    {
+      "line_no": "77",
+      "meter": 3200
+    }
+  ]
+}

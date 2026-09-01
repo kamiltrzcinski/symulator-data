@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710521,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Muchowiec KMB R232",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 37629
+    },
+    {
+      "line_no": "171",
+      "meter": 37634
+    },
+    {
+      "line_no": "653",
+      "meter": -6
+    },
+    {
+      "line_no": "653",
+      "meter": 0
+    }
+  ]
+}

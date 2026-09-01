@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710506,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Ligota R78",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 6838
+    },
+    {
+      "line_no": "139",
+      "meter": 6838
+    },
+    {
+      "line_no": "142",
+      "meter": 756
+    }
+  ]
+}

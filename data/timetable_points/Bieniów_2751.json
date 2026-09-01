@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708735,
+  "type": "TIMETABLE_POINT",
+  "name": "Bieni\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 155769
+    },
+    {
+      "line_no": "275",
+      "meter": 155769
+    },
+    {
+      "line_no": "370",
+      "meter": 40630
+    },
+    {
+      "line_no": "370",
+      "meter": 40630
+    },
+    {
+      "line_no": "370",
+      "meter": 40630
+    }
+  ]
+}

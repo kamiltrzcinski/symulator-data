@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712855,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeworsk Tow.Pt",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "988",
+      "meter": 760
+    }
+  ]
+}

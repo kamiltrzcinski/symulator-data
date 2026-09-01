@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712340,
+  "type": "TIMETABLE_POINT",
+  "name": "Orzechowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 112662
+    },
+    {
+      "line_no": "281",
+      "meter": 112662
+    },
+    {
+      "line_no": "281",
+      "meter": 112662
+    }
+  ]
+}

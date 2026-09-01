@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714120,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowska Wola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 10010
+    },
+    {
+      "line_no": "71",
+      "meter": 10010
+    },
+    {
+      "line_no": "71",
+      "meter": 10010
+    }
+  ]
+}

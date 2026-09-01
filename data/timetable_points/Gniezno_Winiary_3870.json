@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709854,
+  "type": "TIMETABLE_POINT",
+  "name": "Gniezno Winiary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 164926
+    },
+    {
+      "line_no": "281",
+      "meter": 164926
+    },
+    {
+      "line_no": "281",
+      "meter": 164926
+    },
+    {
+      "line_no": "377",
+      "meter": 0
+    },
+    {
+      "line_no": "377",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709923,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorzupia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 158596
+    },
+    {
+      "line_no": "14",
+      "meter": 158596
+    },
+    {
+      "line_no": "14",
+      "meter": 158602
+    }
+  ]
+}

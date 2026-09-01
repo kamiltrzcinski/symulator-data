@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712450,
+  "type": "TIMETABLE_POINT",
+  "name": "Panewnik R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 1970
+    },
+    {
+      "line_no": "171",
+      "meter": 41694
+    },
+    {
+      "line_no": "171",
+      "meter": 41694
+    }
+  ]
+}

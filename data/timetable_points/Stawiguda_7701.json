@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713685,
+  "type": "TIMETABLE_POINT",
+  "name": "Stawiguda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 63741
+    },
+    {
+      "line_no": "216",
+      "meter": 63741
+    },
+    {
+      "line_no": "216",
+      "meter": 64024
+    },
+    {
+      "line_no": "216",
+      "meter": 64024
+    }
+  ]
+}

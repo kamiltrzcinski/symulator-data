@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708816,
+  "type": "TIMETABLE_POINT",
+  "name": "Bojanowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 75311
+    },
+    {
+      "line_no": "271",
+      "meter": 75311
+    },
+    {
+      "line_no": "271",
+      "meter": 75311
+    },
+    {
+      "line_no": "271",
+      "meter": 75311
+    },
+    {
+      "line_no": "271",
+      "meter": 75311
+    },
+    {
+      "line_no": "372",
+      "meter": 324
+    }
+  ]
+}

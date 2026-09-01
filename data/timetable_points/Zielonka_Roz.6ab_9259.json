@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715243,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielonka Roz.6ab",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 14254
+    },
+    {
+      "line_no": "6",
+      "meter": 14254
+    },
+    {
+      "line_no": "21",
+      "meter": 9943
+    },
+    {
+      "line_no": "21",
+      "meter": 9943
+    }
+  ]
+}

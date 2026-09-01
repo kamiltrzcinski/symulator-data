@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711155,
+  "type": "TIMETABLE_POINT",
+  "name": "Kusi\u0119ta Nowe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 104134
+    },
+    {
+      "line_no": "61",
+      "meter": 104134
+    },
+    {
+      "line_no": "61",
+      "meter": 104217
+    },
+    {
+      "line_no": "61",
+      "meter": 104217
+    },
+    {
+      "line_no": "61",
+      "meter": 104217
+    }
+  ]
+}

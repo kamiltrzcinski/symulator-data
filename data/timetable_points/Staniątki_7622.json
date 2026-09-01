@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713606,
+  "type": "TIMETABLE_POINT",
+  "name": "Stani\u0105tki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 21280
+    },
+    {
+      "line_no": "91",
+      "meter": 21280
+    },
+    {
+      "line_no": "91",
+      "meter": 21280
+    },
+    {
+      "line_no": "91",
+      "meter": 21296
+    },
+    {
+      "line_no": "91",
+      "meter": 21500
+    },
+    {
+      "line_no": "91",
+      "meter": 21500
+    }
+  ]
+}

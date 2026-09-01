@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709525,
+  "type": "TIMETABLE_POINT",
+  "name": "Drogosze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 374655
+    },
+    {
+      "line_no": "353",
+      "meter": 374655
+    },
+    {
+      "line_no": "353",
+      "meter": 374660
+    }
+  ]
+}

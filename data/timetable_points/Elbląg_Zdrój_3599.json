@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709583,
+  "type": "TIMETABLE_POINT",
+  "name": "Elbl\u0105g Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 4284
+    },
+    {
+      "line_no": "254",
+      "meter": 4357
+    },
+    {
+      "line_no": "254",
+      "meter": 4730
+    },
+    {
+      "line_no": "254",
+      "meter": 4730
+    },
+    {
+      "line_no": "254",
+      "meter": 5577
+    },
+    {
+      "line_no": "254",
+      "meter": 5772
+    }
+  ]
+}

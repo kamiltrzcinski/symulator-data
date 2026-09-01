@@ -1,0 +1,52 @@
+{
+  "uid": 3453153713326,
+  "type": "TIMETABLE_POINT",
+  "name": "Sieciech\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "76",
+      "meter": 1863
+    },
+    {
+      "line_no": "76",
+      "meter": 1863
+    },
+    {
+      "line_no": "76",
+      "meter": 1863
+    },
+    {
+      "line_no": "76",
+      "meter": 1863
+    },
+    {
+      "line_no": "76",
+      "meter": 1863
+    },
+    {
+      "line_no": "76",
+      "meter": 1863
+    },
+    {
+      "line_no": "577",
+      "meter": 6647
+    },
+    {
+      "line_no": "577",
+      "meter": 6647
+    },
+    {
+      "line_no": "577",
+      "meter": 6647
+    },
+    {
+      "line_no": "577",
+      "meter": 6647
+    },
+    {
+      "line_no": "577",
+      "meter": 6647
+    }
+  ]
+}

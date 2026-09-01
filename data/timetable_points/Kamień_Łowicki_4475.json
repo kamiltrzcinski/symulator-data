@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710459,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamie\u0144 \u0141owicki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 27400
+    },
+    {
+      "line_no": "15",
+      "meter": 27400
+    }
+  ]
+}

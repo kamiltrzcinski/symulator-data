@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714851,
+  "type": "TIMETABLE_POINT",
+  "name": "Wo\u0142omin S\u0142oneczna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 22938
+    },
+    {
+      "line_no": "6",
+      "meter": 22938
+    },
+    {
+      "line_no": "6",
+      "meter": 23053
+    },
+    {
+      "line_no": "21",
+      "meter": 18636
+    },
+    {
+      "line_no": "21",
+      "meter": 18636
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153710897,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak.Prb Gt. Odjazd.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 17210
+    },
+    {
+      "line_no": "100",
+      "meter": 17210
+    },
+    {
+      "line_no": "100",
+      "meter": 17210
+    },
+    {
+      "line_no": "100",
+      "meter": 17210
+    },
+    {
+      "line_no": "605",
+      "meter": 3514
+    },
+    {
+      "line_no": "605",
+      "meter": 3514
+    },
+    {
+      "line_no": "605",
+      "meter": 3514
+    },
+    {
+      "line_no": "945",
+      "meter": 1333
+    },
+    {
+      "line_no": "945",
+      "meter": 1445
+    }
+  ]
+}

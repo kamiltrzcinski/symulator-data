@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709158,
+  "type": "TIMETABLE_POINT",
+  "name": "Chwalibogowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 130823
+    },
+    {
+      "line_no": "281",
+      "meter": 130823
+    },
+    {
+      "line_no": "281",
+      "meter": 130823
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711876,
+  "type": "TIMETABLE_POINT",
+  "name": "Milan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 44450
+    },
+    {
+      "line_no": "30",
+      "meter": 44644
+    },
+    {
+      "line_no": "30",
+      "meter": 44644
+    },
+    {
+      "line_no": "30",
+      "meter": 44644
+    },
+    {
+      "line_no": "30",
+      "meter": 44644
+    }
+  ]
+}

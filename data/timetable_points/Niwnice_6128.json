@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712112,
+  "type": "TIMETABLE_POINT",
+  "name": "Niwnice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 41230
+    },
+    {
+      "line_no": "283",
+      "meter": 41230
+    },
+    {
+      "line_no": "283",
+      "meter": 41230
+    },
+    {
+      "line_no": "283",
+      "meter": 41230
+    },
+    {
+      "line_no": "283",
+      "meter": 41230
+    },
+    {
+      "line_no": "283",
+      "meter": 41230
+    },
+    {
+      "line_no": "283",
+      "meter": 41230
+    }
+  ]
+}

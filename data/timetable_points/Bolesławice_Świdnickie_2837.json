@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708821,
+  "type": "TIMETABLE_POINT",
+  "name": "Boles\u0142awice \u015awidnickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 232100
+    },
+    {
+      "line_no": "137",
+      "meter": 232216
+    }
+  ]
+}

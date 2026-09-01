@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711283,
+  "type": "TIMETABLE_POINT",
+  "name": "Lasek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "99",
+      "meter": 18097
+    },
+    {
+      "line_no": "99",
+      "meter": 18097
+    },
+    {
+      "line_no": "99",
+      "meter": 18097
+    },
+    {
+      "line_no": "99",
+      "meter": 18097
+    },
+    {
+      "line_no": "99",
+      "meter": 18098
+    }
+  ]
+}

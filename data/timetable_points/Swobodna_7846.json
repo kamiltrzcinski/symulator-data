@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713830,
+  "type": "TIMETABLE_POINT",
+  "name": "Swobodna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 17214
+    },
+    {
+      "line_no": "221",
+      "meter": 17214
+    },
+    {
+      "line_no": "221",
+      "meter": 17730
+    },
+    {
+      "line_no": "221",
+      "meter": 17730
+    },
+    {
+      "line_no": "221",
+      "meter": 17800
+    }
+  ]
+}

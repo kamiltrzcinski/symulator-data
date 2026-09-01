@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710644,
+  "type": "TIMETABLE_POINT",
+  "name": "Klecza Dolna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 14362
+    },
+    {
+      "line_no": "117",
+      "meter": 14362
+    },
+    {
+      "line_no": "117",
+      "meter": 14362
+    }
+  ]
+}

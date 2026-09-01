@@ -1,0 +1,72 @@
+{
+  "uid": 3453153714425,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 10534
+    },
+    {
+      "line_no": "20",
+      "meter": 10534
+    },
+    {
+      "line_no": "20",
+      "meter": 10534
+    },
+    {
+      "line_no": "509",
+      "meter": 9775
+    },
+    {
+      "line_no": "509",
+      "meter": 9775
+    },
+    {
+      "line_no": "509",
+      "meter": 9880
+    },
+    {
+      "line_no": "509",
+      "meter": 9880
+    },
+    {
+      "line_no": "509",
+      "meter": 9880
+    },
+    {
+      "line_no": "548",
+      "meter": 50
+    },
+    {
+      "line_no": "548",
+      "meter": 50
+    },
+    {
+      "line_no": "548",
+      "meter": 50
+    },
+    {
+      "line_no": "548",
+      "meter": 50
+    },
+    {
+      "line_no": "549",
+      "meter": 50
+    },
+    {
+      "line_no": "549",
+      "meter": 50
+    },
+    {
+      "line_no": "549",
+      "meter": 50
+    },
+    {
+      "line_no": "549",
+      "meter": 50
+    }
+  ]
+}

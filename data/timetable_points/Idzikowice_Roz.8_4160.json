@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710144,
+  "type": "TIMETABLE_POINT",
+  "name": "Idzikowice Roz.8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 79981
+    },
+    {
+      "line_no": "4",
+      "meter": 79981
+    },
+    {
+      "line_no": "4",
+      "meter": 80470
+    },
+    {
+      "line_no": "4",
+      "meter": 80470
+    },
+    {
+      "line_no": "573",
+      "meter": 132
+    },
+    {
+      "line_no": "573",
+      "meter": 132
+    },
+    {
+      "line_no": "573",
+      "meter": 631
+    }
+  ]
+}

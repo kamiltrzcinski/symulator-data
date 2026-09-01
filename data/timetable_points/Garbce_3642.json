@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709626,
+  "type": "TIMETABLE_POINT",
+  "name": "Garbce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 51800
+    },
+    {
+      "line_no": "271",
+      "meter": 51946
+    },
+    {
+      "line_no": "271",
+      "meter": 51946
+    },
+    {
+      "line_no": "271",
+      "meter": 51946
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709506,
+  "type": "TIMETABLE_POINT",
+  "name": "Domas\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 16167
+    },
+    {
+      "line_no": "285",
+      "meter": 16167
+    },
+    {
+      "line_no": "285",
+      "meter": 16167
+    },
+    {
+      "line_no": "285",
+      "meter": 16174
+    },
+    {
+      "line_no": "285",
+      "meter": 16174
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713718,
+  "type": "TIMETABLE_POINT",
+  "name": "Str\u0105czno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 32842
+    }
+  ]
+}

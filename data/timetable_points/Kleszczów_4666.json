@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710650,
+  "type": "TIMETABLE_POINT",
+  "name": "Kleszcz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "148",
+      "meter": 20565
+    },
+    {
+      "line_no": "148",
+      "meter": 20565
+    },
+    {
+      "line_no": "148",
+      "meter": 20565
+    },
+    {
+      "line_no": "874",
+      "meter": 81
+    },
+    {
+      "line_no": "874",
+      "meter": 81
+    },
+    {
+      "line_no": "874",
+      "meter": 81
+    },
+    {
+      "line_no": "874",
+      "meter": 81
+    }
+  ]
+}

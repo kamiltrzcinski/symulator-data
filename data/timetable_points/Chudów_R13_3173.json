@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709157,
+  "type": "TIMETABLE_POINT",
+  "name": "Chud\u00f3w R13",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "172",
+      "meter": 4286
+    },
+    {
+      "line_no": "172",
+      "meter": 4286
+    },
+    {
+      "line_no": "172",
+      "meter": 4286
+    },
+    {
+      "line_no": "863",
+      "meter": 4671
+    },
+    {
+      "line_no": "863",
+      "meter": 4671
+    }
+  ]
+}

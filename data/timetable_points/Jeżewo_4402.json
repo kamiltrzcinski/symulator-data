@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710386,
+  "type": "TIMETABLE_POINT",
+  "name": "Je\u017cewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 127383
+    },
+    {
+      "line_no": "208",
+      "meter": 127383
+    },
+    {
+      "line_no": "208",
+      "meter": 127383
+    },
+    {
+      "line_no": "208",
+      "meter": 127383
+    },
+    {
+      "line_no": "208",
+      "meter": 127383
+    }
+  ]
+}

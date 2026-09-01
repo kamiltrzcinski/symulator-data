@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713011,
+  "type": "TIMETABLE_POINT",
+  "name": "Rakoniewice Milickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 50250
+    },
+    {
+      "line_no": "281",
+      "meter": 50250
+    },
+    {
+      "line_no": "281",
+      "meter": 50250
+    },
+    {
+      "line_no": "281",
+      "meter": 50311
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713696,
+  "type": "TIMETABLE_POINT",
+  "name": "Steknica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 128385
+    },
+    {
+      "line_no": "229",
+      "meter": 128385
+    },
+    {
+      "line_no": "229",
+      "meter": 128390
+    }
+  ]
+}

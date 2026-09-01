@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712518,
+  "type": "TIMETABLE_POINT",
+  "name": "Piaski Roz.7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 185389
+    },
+    {
+      "line_no": "8",
+      "meter": 185389
+    },
+    {
+      "line_no": "8",
+      "meter": 185389
+    },
+    {
+      "line_no": "8",
+      "meter": 185389
+    },
+    {
+      "line_no": "567",
+      "meter": 0
+    }
+  ]
+}

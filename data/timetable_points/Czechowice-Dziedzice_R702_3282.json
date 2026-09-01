@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709266,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice R702",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 41823
+    },
+    {
+      "line_no": "790",
+      "meter": 0
+    }
+  ]
+}

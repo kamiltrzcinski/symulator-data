@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713559,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec K. SKZ1 R19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "163",
+      "meter": 626
+    },
+    {
+      "line_no": "163",
+      "meter": 626
+    },
+    {
+      "line_no": "663",
+      "meter": 957
+    },
+    {
+      "line_no": "663",
+      "meter": 957
+    },
+    {
+      "line_no": "663",
+      "meter": 957
+    }
+  ]
+}

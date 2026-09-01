@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708725,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielsko-Bia\u0142a Komorowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 52216
+    },
+    {
+      "line_no": "139",
+      "meter": 52216
+    },
+    {
+      "line_no": "139",
+      "meter": 52216
+    },
+    {
+      "line_no": "139",
+      "meter": 52216
+    },
+    {
+      "line_no": "139",
+      "meter": 52250
+    }
+  ]
+}

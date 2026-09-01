@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710454,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamienna Karczma",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 51496
+    },
+    {
+      "line_no": "203",
+      "meter": 51496
+    }
+  ]
+}

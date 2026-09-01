@@ -1,0 +1,44 @@
+{
+  "uid": 3453153714083,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awinouj\u015bcie R108",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 99475
+    },
+    {
+      "line_no": "401",
+      "meter": 99523
+    },
+    {
+      "line_no": "996",
+      "meter": 9823
+    },
+    {
+      "line_no": "996",
+      "meter": 9823
+    },
+    {
+      "line_no": "997",
+      "meter": 75
+    },
+    {
+      "line_no": "997",
+      "meter": 75
+    },
+    {
+      "line_no": "997",
+      "meter": 75
+    },
+    {
+      "line_no": "997",
+      "meter": 83
+    },
+    {
+      "line_no": "997",
+      "meter": 83
+    }
+  ]
+}

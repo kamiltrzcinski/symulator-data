@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708970,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowo Cz\u0142uchowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 115082
+    },
+    {
+      "line_no": "203",
+      "meter": 115082
+    },
+    {
+      "line_no": "203",
+      "meter": 115082
+    }
+  ]
+}

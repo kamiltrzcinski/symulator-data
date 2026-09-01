@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712809,
+  "type": "TIMETABLE_POINT",
+  "name": "Przecisz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 50118
+    },
+    {
+      "line_no": "94",
+      "meter": 50118
+    },
+    {
+      "line_no": "94",
+      "meter": 50118
+    },
+    {
+      "line_no": "94",
+      "meter": 50118
+    },
+    {
+      "line_no": "94",
+      "meter": 50118
+    },
+    {
+      "line_no": "94",
+      "meter": 50118
+    }
+  ]
+}

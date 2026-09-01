@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709225,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek G\u00f3rny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 35570
+    },
+    {
+      "line_no": "8",
+      "meter": 35570
+    },
+    {
+      "line_no": "8",
+      "meter": 35610
+    },
+    {
+      "line_no": "8",
+      "meter": 35610
+    },
+    {
+      "line_no": "8",
+      "meter": 35610
+    }
+  ]
+}

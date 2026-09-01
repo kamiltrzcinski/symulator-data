@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712134,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b Ko\u015bcielna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 14587
+    },
+    {
+      "line_no": "35",
+      "meter": 14865
+    }
+  ]
+}

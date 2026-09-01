@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715075,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaj\u0105cz.Tcz. pzs ZTD",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "260",
+      "meter": 0
+    },
+    {
+      "line_no": "260",
+      "meter": 0
+    },
+    {
+      "line_no": "260",
+      "meter": 0
+    },
+    {
+      "line_no": "260",
+      "meter": 0
+    },
+    {
+      "line_no": "265",
+      "meter": 23
+    },
+    {
+      "line_no": "729",
+      "meter": 11097
+    },
+    {
+      "line_no": "730",
+      "meter": 0
+    },
+    {
+      "line_no": "730",
+      "meter": 0
+    }
+  ]
+}

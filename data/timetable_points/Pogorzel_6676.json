@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712660,
+  "type": "TIMETABLE_POINT",
+  "name": "Pogorzel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 48017
+    },
+    {
+      "line_no": "41",
+      "meter": 48017
+    },
+    {
+      "line_no": "41",
+      "meter": 48017
+    }
+  ]
+}

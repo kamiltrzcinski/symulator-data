@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710224,
+  "type": "TIMETABLE_POINT",
+  "name": "Jankowce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 124882
+    },
+    {
+      "line_no": "108",
+      "meter": 124882
+    },
+    {
+      "line_no": "108",
+      "meter": 124882
+    },
+    {
+      "line_no": "108",
+      "meter": 124882
+    },
+    {
+      "line_no": "108",
+      "meter": 124882
+    }
+  ]
+}

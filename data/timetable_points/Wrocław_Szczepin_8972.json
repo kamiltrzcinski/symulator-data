@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714956,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Szczepin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 161921
+    }
+  ]
+}

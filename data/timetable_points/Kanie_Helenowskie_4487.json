@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710471,
+  "type": "TIMETABLE_POINT",
+  "name": "Kanie Helenowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 21357
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709553,
+  "type": "TIMETABLE_POINT",
+  "name": "Dygowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 88027
+    },
+    {
+      "line_no": "404",
+      "meter": 88027
+    }
+  ]
+}

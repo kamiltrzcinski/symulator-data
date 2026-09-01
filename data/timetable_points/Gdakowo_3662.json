@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709646,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdakowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 249335
+    },
+    {
+      "line_no": "9",
+      "meter": 249335
+    },
+    {
+      "line_no": "9",
+      "meter": 249340
+    },
+    {
+      "line_no": "9",
+      "meter": 249555
+    }
+  ]
+}

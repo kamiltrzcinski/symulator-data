@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714747,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilka 1 Nw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "290",
+      "meter": 9084
+    },
+    {
+      "line_no": "290",
+      "meter": 9084
+    },
+    {
+      "line_no": "290",
+      "meter": 9084
+    },
+    {
+      "line_no": "780",
+      "meter": 872
+    },
+    {
+      "line_no": "780",
+      "meter": 872
+    },
+    {
+      "line_no": "780",
+      "meter": 889
+    },
+    {
+      "line_no": "780",
+      "meter": 889
+    },
+    {
+      "line_no": "780",
+      "meter": 889
+    }
+  ]
+}

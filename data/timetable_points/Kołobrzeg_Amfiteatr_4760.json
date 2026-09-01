@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710744,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142obrzeg Amfiteatr",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 40690
+    },
+    {
+      "line_no": "402",
+      "meter": 40690
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711479,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Zachodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 170274
+    },
+    {
+      "line_no": "7",
+      "meter": 170337
+    },
+    {
+      "line_no": "7",
+      "meter": 170337
+    }
+  ]
+}

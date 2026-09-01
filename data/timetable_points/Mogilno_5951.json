@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711935,
+  "type": "TIMETABLE_POINT",
+  "name": "Mogilno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 74382
+    },
+    {
+      "line_no": "353",
+      "meter": 74382
+    }
+  ]
+}

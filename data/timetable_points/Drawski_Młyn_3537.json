@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709521,
+  "type": "TIMETABLE_POINT",
+  "name": "Drawski M\u0142yn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 78005
+    },
+    {
+      "line_no": "351",
+      "meter": 78005
+    },
+    {
+      "line_no": "351",
+      "meter": 78005
+    },
+    {
+      "line_no": "351",
+      "meter": 78005
+    },
+    {
+      "line_no": "351",
+      "meter": 78005
+    }
+  ]
+}

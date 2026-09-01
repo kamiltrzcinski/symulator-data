@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709690,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Przymorze-Uniwersytet",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 6882
+    },
+    {
+      "line_no": "250",
+      "meter": 6882
+    },
+    {
+      "line_no": "250",
+      "meter": 6882
+    },
+    {
+      "line_no": "250",
+      "meter": 6973
+    },
+    {
+      "line_no": "250",
+      "meter": 6973
+    },
+    {
+      "line_no": "250",
+      "meter": 6983
+    },
+    {
+      "line_no": "250",
+      "meter": 6983
+    }
+  ]
+}

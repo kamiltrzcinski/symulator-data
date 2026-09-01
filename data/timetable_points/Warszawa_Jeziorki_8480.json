@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714464,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Jeziorki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 18550
+    },
+    {
+      "line_no": "8",
+      "meter": 18550
+    },
+    {
+      "line_no": "8",
+      "meter": 18550
+    },
+    {
+      "line_no": "8",
+      "meter": 18665
+    },
+    {
+      "line_no": "8",
+      "meter": 18665
+    },
+    {
+      "line_no": "8",
+      "meter": 18665
+    }
+  ]
+}

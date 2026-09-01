@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712976,
+  "type": "TIMETABLE_POINT",
+  "name": "Radomsko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 189133
+    },
+    {
+      "line_no": "1",
+      "meter": 189133
+    },
+    {
+      "line_no": "1",
+      "meter": 189133
+    },
+    {
+      "line_no": "1",
+      "meter": 189133
+    },
+    {
+      "line_no": "1",
+      "meter": 189133
+    }
+  ]
+}

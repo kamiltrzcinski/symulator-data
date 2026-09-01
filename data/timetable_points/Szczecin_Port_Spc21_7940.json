@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713924,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Spc21",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 352844
+    },
+    {
+      "line_no": "273",
+      "meter": 352844
+    }
+  ]
+}

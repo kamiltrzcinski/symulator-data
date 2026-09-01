@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713618,
+  "type": "TIMETABLE_POINT",
+  "name": "Stara Wie\u015b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 34955
+    },
+    {
+      "line_no": "7",
+      "meter": 34955
+    },
+    {
+      "line_no": "7",
+      "meter": 35222
+    }
+  ]
+}

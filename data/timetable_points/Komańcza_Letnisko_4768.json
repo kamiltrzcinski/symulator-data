@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710752,
+  "type": "TIMETABLE_POINT",
+  "name": "Koma\u0144cza Letnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": 34203
+    },
+    {
+      "line_no": "107",
+      "meter": 34203
+    },
+    {
+      "line_no": "107",
+      "meter": 34203
+    },
+    {
+      "line_no": "107",
+      "meter": 34203
+    }
+  ]
+}

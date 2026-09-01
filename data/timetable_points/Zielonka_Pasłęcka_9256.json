@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715240,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielonka Pas\u0142\u0119cka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 65393
+    },
+    {
+      "line_no": "220",
+      "meter": 65393
+    },
+    {
+      "line_no": "220",
+      "meter": 65454
+    }
+  ]
+}

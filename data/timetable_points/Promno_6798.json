@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712782,
+  "type": "TIMETABLE_POINT",
+  "name": "Promno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 17530
+    },
+    {
+      "line_no": "353",
+      "meter": 17530
+    }
+  ]
+}

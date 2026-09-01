@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713017,
+  "type": "TIMETABLE_POINT",
+  "name": "Rakowiec Pomorski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "218",
+      "meter": 46274
+    },
+    {
+      "line_no": "218",
+      "meter": 46274
+    },
+    {
+      "line_no": "218",
+      "meter": 46274
+    },
+    {
+      "line_no": "218",
+      "meter": 46274
+    }
+  ]
+}

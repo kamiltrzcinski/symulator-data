@@ -1,0 +1,56 @@
+{
+  "uid": 3453153709604,
+  "type": "TIMETABLE_POINT",
+  "name": "Fosowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 175736
+    },
+    {
+      "line_no": "61",
+      "meter": 176335
+    },
+    {
+      "line_no": "61",
+      "meter": 176335
+    },
+    {
+      "line_no": "61",
+      "meter": 176335
+    },
+    {
+      "line_no": "61",
+      "meter": 176335
+    },
+    {
+      "line_no": "61",
+      "meter": 176338
+    },
+    {
+      "line_no": "144",
+      "meter": 44474
+    },
+    {
+      "line_no": "144",
+      "meter": 44474
+    },
+    {
+      "line_no": "175",
+      "meter": 51726
+    },
+    {
+      "line_no": "175",
+      "meter": 51726
+    },
+    {
+      "line_no": "175",
+      "meter": 51726
+    },
+    {
+      "line_no": "175",
+      "meter": 51726
+    }
+  ]
+}

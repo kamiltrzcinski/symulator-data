@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710608,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce Herbs. R.237",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 3298
+    },
+    {
+      "line_no": "61",
+      "meter": 3298
+    },
+    {
+      "line_no": "61",
+      "meter": 3299
+    },
+    {
+      "line_no": "61",
+      "meter": 3299
+    },
+    {
+      "line_no": "61",
+      "meter": 3299
+    },
+    {
+      "line_no": "61",
+      "meter": 3299
+    },
+    {
+      "line_no": "842",
+      "meter": 318
+    },
+    {
+      "line_no": "842",
+      "meter": 318
+    }
+  ]
+}

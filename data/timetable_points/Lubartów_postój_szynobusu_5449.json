@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711433,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubart\u00f3w post\u00f3j szynobusu",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 79010
+    },
+    {
+      "line_no": "30",
+      "meter": 79010
+    }
+  ]
+}

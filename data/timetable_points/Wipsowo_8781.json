@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714765,
+  "type": "TIMETABLE_POINT",
+  "name": "Wipsowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 322558
+    },
+    {
+      "line_no": "353",
+      "meter": 322558
+    },
+    {
+      "line_no": "353",
+      "meter": 322631
+    }
+  ]
+}

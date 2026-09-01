@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712018,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142owice Kosz. Mksc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 24932
+    },
+    {
+      "line_no": "698",
+      "meter": 1533
+    },
+    {
+      "line_no": "883",
+      "meter": 1
+    }
+  ]
+}

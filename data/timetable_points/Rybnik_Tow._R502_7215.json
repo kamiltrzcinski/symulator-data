@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713199,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Tow. R502",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 44765
+    },
+    {
+      "line_no": "140",
+      "meter": 44765
+    },
+    {
+      "line_no": "959",
+      "meter": 1339
+    },
+    {
+      "line_no": "959",
+      "meter": 1339
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713042,
+  "type": "TIMETABLE_POINT",
+  "name": "Regulice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "103",
+      "meter": 12103
+    },
+    {
+      "line_no": "103",
+      "meter": 12103
+    },
+    {
+      "line_no": "103",
+      "meter": 12103
+    }
+  ]
+}

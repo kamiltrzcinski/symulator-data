@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709605,
+  "type": "TIMETABLE_POINT",
+  "name": "Fosowskie R33",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 175737
+    },
+    {
+      "line_no": "61",
+      "meter": 176775
+    },
+    {
+      "line_no": "61",
+      "meter": 176775
+    },
+    {
+      "line_no": "61",
+      "meter": 176775
+    },
+    {
+      "line_no": "144",
+      "meter": 43871
+    },
+    {
+      "line_no": "144",
+      "meter": 44911
+    }
+  ]
+}

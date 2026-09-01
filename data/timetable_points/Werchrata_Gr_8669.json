@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714653,
+  "type": "TIMETABLE_POINT",
+  "name": "Werchrata (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "116",
+      "meter": 0
+    },
+    {
+      "line_no": "116",
+      "meter": 0
+    },
+    {
+      "line_no": "116",
+      "meter": 0
+    },
+    {
+      "line_no": "116",
+      "meter": 0
+    },
+    {
+      "line_no": "476",
+      "meter": 8600
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153705985,
+  "type": "TIMETABLE_POINT",
+  "name": "115 Przejazd Km 47.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 47432
+    },
+    {
+      "line_no": "115",
+      "meter": 47432
+    }
+  ]
+}

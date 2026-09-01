@@ -1,0 +1,40 @@
+{
+  "uid": 3453153708901,
+  "type": "TIMETABLE_POINT",
+  "name": "Bron\u00f3w Roz. 8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "150",
+      "meter": 9797
+    },
+    {
+      "line_no": "150",
+      "meter": 9797
+    },
+    {
+      "line_no": "150",
+      "meter": 9797
+    },
+    {
+      "line_no": "150",
+      "meter": 11573
+    },
+    {
+      "line_no": "693",
+      "meter": 5664
+    },
+    {
+      "line_no": "693",
+      "meter": 5664
+    },
+    {
+      "line_no": "693",
+      "meter": 5664
+    },
+    {
+      "line_no": "693",
+      "meter": 7469
+    }
+  ]
+}

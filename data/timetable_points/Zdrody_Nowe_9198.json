@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715182,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdrody Nowe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 146093
+    },
+    {
+      "line_no": "6",
+      "meter": 146107
+    },
+    {
+      "line_no": "6",
+      "meter": 146107
+    },
+    {
+      "line_no": "6",
+      "meter": 146107
+    },
+    {
+      "line_no": "6",
+      "meter": 146107
+    }
+  ]
+}

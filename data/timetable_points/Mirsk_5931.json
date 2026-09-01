@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711915,
+  "type": "TIMETABLE_POINT",
+  "name": "Mirsk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "317",
+      "meter": 8772
+    },
+    {
+      "line_no": "317",
+      "meter": 80244
+    },
+    {
+      "line_no": "317",
+      "meter": 80244
+    },
+    {
+      "line_no": "317",
+      "meter": 80244
+    },
+    {
+      "line_no": "317",
+      "meter": 80244
+    },
+    {
+      "line_no": "317",
+      "meter": 80244
+    },
+    {
+      "line_no": "336",
+      "meter": 0
+    },
+    {
+      "line_no": "336",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711485,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubomino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 37181
+    },
+    {
+      "line_no": "221",
+      "meter": 37181
+    },
+    {
+      "line_no": "221",
+      "meter": 37297
+    },
+    {
+      "line_no": "221",
+      "meter": 37297
+    },
+    {
+      "line_no": "221",
+      "meter": 37297
+    }
+  ]
+}

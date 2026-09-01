@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710630,
+  "type": "TIMETABLE_POINT",
+  "name": "Kietrz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "194",
+      "meter": 8645
+    },
+    {
+      "line_no": "194",
+      "meter": 8645
+    },
+    {
+      "line_no": "194",
+      "meter": 8645
+    }
+  ]
+}

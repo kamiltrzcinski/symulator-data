@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711636,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Olech\u00f3w R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 10457
+    },
+    {
+      "line_no": "25",
+      "meter": 10457
+    },
+    {
+      "line_no": "25",
+      "meter": 10457
+    },
+    {
+      "line_no": "25",
+      "meter": 10475
+    },
+    {
+      "line_no": "25",
+      "meter": 10475
+    },
+    {
+      "line_no": "830",
+      "meter": 10475
+    },
+    {
+      "line_no": "830",
+      "meter": 10475
+    }
+  ]
+}

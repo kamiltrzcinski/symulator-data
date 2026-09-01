@@ -1,0 +1,52 @@
+{
+  "uid": 3453153714108,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn.G. TGC pzs R540",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "129",
+      "meter": 37237
+    },
+    {
+      "line_no": "129",
+      "meter": 37237
+    },
+    {
+      "line_no": "129",
+      "meter": 37237
+    },
+    {
+      "line_no": "129",
+      "meter": 37237
+    },
+    {
+      "line_no": "129",
+      "meter": 37237
+    },
+    {
+      "line_no": "979",
+      "meter": 317
+    },
+    {
+      "line_no": "979",
+      "meter": 317
+    },
+    {
+      "line_no": "979",
+      "meter": 317
+    },
+    {
+      "line_no": "979",
+      "meter": 317
+    },
+    {
+      "line_no": "979",
+      "meter": 317
+    },
+    {
+      "line_no": "979",
+      "meter": 317
+    }
+  ]
+}

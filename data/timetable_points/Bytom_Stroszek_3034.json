@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709018,
+  "type": "TIMETABLE_POINT",
+  "name": "Bytom Stroszek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 23823
+    },
+    {
+      "line_no": "131",
+      "meter": 23824
+    },
+    {
+      "line_no": "131",
+      "meter": 23824
+    },
+    {
+      "line_no": "131",
+      "meter": 23824
+    }
+  ]
+}

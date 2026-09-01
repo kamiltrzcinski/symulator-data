@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714680,
+  "type": "TIMETABLE_POINT",
+  "name": "Wide\u0142ka ORLEN",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 46730
+    },
+    {
+      "line_no": "71",
+      "meter": 46730
+    },
+    {
+      "line_no": "71",
+      "meter": 46730
+    },
+    {
+      "line_no": "71",
+      "meter": 46730
+    }
+  ]
+}

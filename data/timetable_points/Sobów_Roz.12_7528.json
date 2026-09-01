@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713512,
+  "type": "TIMETABLE_POINT",
+  "name": "Sob\u00f3w Roz.12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 249523
+    },
+    {
+      "line_no": "25",
+      "meter": 249523
+    },
+    {
+      "line_no": "25",
+      "meter": 249523
+    },
+    {
+      "line_no": "74",
+      "meter": -1021
+    },
+    {
+      "line_no": "74",
+      "meter": -1021
+    }
+  ]
+}

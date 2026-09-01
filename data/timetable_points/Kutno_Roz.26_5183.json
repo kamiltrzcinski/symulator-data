@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711167,
+  "type": "TIMETABLE_POINT",
+  "name": "Kutno Roz.26",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 125651
+    },
+    {
+      "line_no": "3",
+      "meter": 125651
+    },
+    {
+      "line_no": "33",
+      "meter": -250
+    }
+  ]
+}

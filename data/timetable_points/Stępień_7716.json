@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713700,
+  "type": "TIMETABLE_POINT",
+  "name": "St\u0119pie\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 42402
+    },
+    {
+      "line_no": "254",
+      "meter": 42402
+    }
+  ]
+}

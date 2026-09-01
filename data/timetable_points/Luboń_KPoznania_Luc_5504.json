@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711488,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubo\u0144 K/Poznania Luc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "802",
+      "meter": 1000
+    },
+    {
+      "line_no": "802",
+      "meter": 1000
+    }
+  ]
+}

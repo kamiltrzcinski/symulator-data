@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714038,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awidnica Kraszowice R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 223737
+    },
+    {
+      "line_no": "137",
+      "meter": 223737
+    },
+    {
+      "line_no": "137",
+      "meter": 223737
+    },
+    {
+      "line_no": "137",
+      "meter": 223739
+    },
+    {
+      "line_no": "266",
+      "meter": 60726
+    },
+    {
+      "line_no": "285",
+      "meter": 60726
+    }
+  ]
+}

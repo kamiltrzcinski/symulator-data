@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713492,
+  "type": "TIMETABLE_POINT",
+  "name": "Sm\u0119towo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 457250
+    },
+    {
+      "line_no": "131",
+      "meter": 457250
+    },
+    {
+      "line_no": "238",
+      "meter": 75041
+    },
+    {
+      "line_no": "238",
+      "meter": 75595
+    },
+    {
+      "line_no": "238",
+      "meter": 75595
+    }
+  ]
+}

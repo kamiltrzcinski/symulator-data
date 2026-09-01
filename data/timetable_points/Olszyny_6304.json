@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712288,
+  "type": "TIMETABLE_POINT",
+  "name": "Olszyny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 52293
+    },
+    {
+      "line_no": "219",
+      "meter": 52293
+    },
+    {
+      "line_no": "219",
+      "meter": 52293
+    },
+    {
+      "line_no": "219",
+      "meter": 52523
+    },
+    {
+      "line_no": "219",
+      "meter": 52523
+    }
+  ]
+}

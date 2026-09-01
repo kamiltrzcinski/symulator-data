@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713342,
+  "type": "TIMETABLE_POINT",
+  "name": "Siekierzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "331",
+      "meter": 4559
+    }
+  ]
+}

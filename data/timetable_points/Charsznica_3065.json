@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709049,
+  "type": "TIMETABLE_POINT",
+  "name": "Charsznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 7793
+    },
+    {
+      "line_no": "62",
+      "meter": 7793
+    },
+    {
+      "line_no": "62",
+      "meter": 7793
+    }
+  ]
+}

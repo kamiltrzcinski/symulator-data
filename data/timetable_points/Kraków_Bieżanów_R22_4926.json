@@ -1,0 +1,44 @@
+{
+  "uid": 3453153710910,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Bie\u017can\u00f3w R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 7676
+    },
+    {
+      "line_no": "91",
+      "meter": 7676
+    },
+    {
+      "line_no": "91",
+      "meter": 9163
+    },
+    {
+      "line_no": "91",
+      "meter": 9163
+    },
+    {
+      "line_no": "91",
+      "meter": 9165
+    },
+    {
+      "line_no": "629",
+      "meter": 7676
+    },
+    {
+      "line_no": "629",
+      "meter": 9163
+    },
+    {
+      "line_no": "629",
+      "meter": 9163
+    },
+    {
+      "line_no": "629",
+      "meter": 9182
+    }
+  ]
+}

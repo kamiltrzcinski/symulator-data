@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714955,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Swojczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "292",
+      "meter": 16894
+    },
+    {
+      "line_no": "292",
+      "meter": 16894
+    },
+    {
+      "line_no": "292",
+      "meter": 16894
+    },
+    {
+      "line_no": "292",
+      "meter": 16894
+    },
+    {
+      "line_no": "292",
+      "meter": 16894
+    },
+    {
+      "line_no": "292",
+      "meter": 16894
+    },
+    {
+      "line_no": "292",
+      "meter": 16894
+    }
+  ]
+}

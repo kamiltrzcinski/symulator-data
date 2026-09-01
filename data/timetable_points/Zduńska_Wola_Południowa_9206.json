@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715190,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdu\u0144ska Wola Po\u0142udniowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 167509
+    },
+    {
+      "line_no": "131",
+      "meter": 167509
+    },
+    {
+      "line_no": "131",
+      "meter": 167605
+    }
+  ]
+}

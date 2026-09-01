@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711604,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a D\u0105browa Przemys\u0142owa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "939",
+      "meter": 1483
+    },
+    {
+      "line_no": "939",
+      "meter": 1483
+    },
+    {
+      "line_no": "939",
+      "meter": 1484
+    }
+  ]
+}

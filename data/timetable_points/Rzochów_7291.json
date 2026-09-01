@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713275,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzoch\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 299700
+    },
+    {
+      "line_no": "25",
+      "meter": 299700
+    },
+    {
+      "line_no": "25",
+      "meter": 299914
+    },
+    {
+      "line_no": "25",
+      "meter": 299914
+    },
+    {
+      "line_no": "25",
+      "meter": 299914
+    },
+    {
+      "line_no": "25",
+      "meter": 300214
+    },
+    {
+      "line_no": "25",
+      "meter": 300214
+    },
+    {
+      "line_no": "25",
+      "meter": 300214
+    }
+  ]
+}

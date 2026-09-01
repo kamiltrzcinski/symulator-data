@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712778,
+  "type": "TIMETABLE_POINT",
+  "name": "Prioma",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 7832
+    },
+    {
+      "line_no": "208",
+      "meter": 7832
+    },
+    {
+      "line_no": "208",
+      "meter": 7832
+    },
+    {
+      "line_no": "208",
+      "meter": 7832
+    },
+    {
+      "line_no": "208",
+      "meter": 7832
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713627,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Bojanowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 112546
+    },
+    {
+      "line_no": "271",
+      "meter": 112546
+    },
+    {
+      "line_no": "271",
+      "meter": 112546
+    },
+    {
+      "line_no": "271",
+      "meter": 112546
+    },
+    {
+      "line_no": "271",
+      "meter": 112546
+    }
+  ]
+}

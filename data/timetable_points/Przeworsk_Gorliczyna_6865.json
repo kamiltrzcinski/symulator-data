@@ -1,0 +1,56 @@
+{
+  "uid": 3453153712849,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeworsk Gorliczyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 175325
+    },
+    {
+      "line_no": "68",
+      "meter": 175325
+    },
+    {
+      "line_no": "68",
+      "meter": 175325
+    },
+    {
+      "line_no": "68",
+      "meter": 175417
+    },
+    {
+      "line_no": "68",
+      "meter": 175417
+    },
+    {
+      "line_no": "68",
+      "meter": 175417
+    },
+    {
+      "line_no": "612",
+      "meter": 1443
+    },
+    {
+      "line_no": "612",
+      "meter": 1443
+    },
+    {
+      "line_no": "612",
+      "meter": 1443
+    },
+    {
+      "line_no": "612",
+      "meter": 1585
+    },
+    {
+      "line_no": "612",
+      "meter": 1585
+    },
+    {
+      "line_no": "612",
+      "meter": 1585
+    }
+  ]
+}

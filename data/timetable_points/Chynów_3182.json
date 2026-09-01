@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709166,
+  "type": "TIMETABLE_POINT",
+  "name": "Chyn\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 42913
+    },
+    {
+      "line_no": "8",
+      "meter": 42913
+    },
+    {
+      "line_no": "8",
+      "meter": 42913
+    },
+    {
+      "line_no": "8",
+      "meter": 42918
+    },
+    {
+      "line_no": "8",
+      "meter": 43011
+    },
+    {
+      "line_no": "8",
+      "meter": 43011
+    }
+  ]
+}

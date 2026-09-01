@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710918,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Bonarka R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 2652
+    },
+    {
+      "line_no": "94",
+      "meter": 2652
+    },
+    {
+      "line_no": "94",
+      "meter": 2652
+    },
+    {
+      "line_no": "94",
+      "meter": 2652
+    },
+    {
+      "line_no": "624",
+      "meter": 2202
+    },
+    {
+      "line_no": "624",
+      "meter": 2202
+    },
+    {
+      "line_no": "624",
+      "meter": 2202
+    }
+  ]
+}

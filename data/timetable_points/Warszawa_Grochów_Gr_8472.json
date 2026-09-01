@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714456,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Groch\u00f3w Gr",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "839",
+      "meter": 3334
+    }
+  ]
+}

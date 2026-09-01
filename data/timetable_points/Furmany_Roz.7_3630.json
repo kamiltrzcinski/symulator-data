@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709614,
+  "type": "TIMETABLE_POINT",
+  "name": "Furmany Roz.7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 4427
+    },
+    {
+      "line_no": "74",
+      "meter": 4427
+    },
+    {
+      "line_no": "74",
+      "meter": 4427
+    }
+  ]
+}

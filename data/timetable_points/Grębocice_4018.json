@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710002,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr\u0119bocice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 87530
+    },
+    {
+      "line_no": "273",
+      "meter": 87530
+    },
+    {
+      "line_no": "273",
+      "meter": 87530
+    }
+  ]
+}

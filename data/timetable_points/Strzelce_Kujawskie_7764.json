@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713748,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzelce Kujawskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 14017
+    },
+    {
+      "line_no": "33",
+      "meter": 14017
+    },
+    {
+      "line_no": "33",
+      "meter": 14017
+    }
+  ]
+}

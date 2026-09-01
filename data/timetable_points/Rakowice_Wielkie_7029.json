@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713013,
+  "type": "TIMETABLE_POINT",
+  "name": "Rakowice Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    },
+    {
+      "line_no": "283",
+      "meter": 35711
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714684,
+  "type": "TIMETABLE_POINT",
+  "name": "Widz\u00f3w Teklin\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 199944
+    },
+    {
+      "line_no": "1",
+      "meter": 200525
+    },
+    {
+      "line_no": "1",
+      "meter": 200525
+    },
+    {
+      "line_no": "1",
+      "meter": 200525
+    },
+    {
+      "line_no": "1",
+      "meter": 200525
+    },
+    {
+      "line_no": "1",
+      "meter": 200525
+    },
+    {
+      "line_no": "1",
+      "meter": 200525
+    },
+    {
+      "line_no": "1",
+      "meter": 200710
+    }
+  ]
+}

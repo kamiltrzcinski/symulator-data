@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711213,
+  "type": "TIMETABLE_POINT",
+  "name": "L393 km:2,51 PLK - Katowicki W\u0119giel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "393",
+      "meter": 2510
+    },
+    {
+      "line_no": "393",
+      "meter": 2510
+    }
+  ]
+}

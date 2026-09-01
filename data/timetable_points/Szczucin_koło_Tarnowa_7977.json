@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713961,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczucin ko\u0142o Tarnowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 48800
+    },
+    {
+      "line_no": "115",
+      "meter": 48800
+    },
+    {
+      "line_no": "115",
+      "meter": 48800
+    },
+    {
+      "line_no": "115",
+      "meter": 48800
+    }
+  ]
+}

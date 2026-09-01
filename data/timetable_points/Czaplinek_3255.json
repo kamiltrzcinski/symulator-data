@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709239,
+  "type": "TIMETABLE_POINT",
+  "name": "Czaplinek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 98233
+    },
+    {
+      "line_no": "210",
+      "meter": 98233
+    },
+    {
+      "line_no": "210",
+      "meter": 98233
+    }
+  ]
+}

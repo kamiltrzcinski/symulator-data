@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711926,
+  "type": "TIMETABLE_POINT",
+  "name": "M\u0142ynary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 60769
+    },
+    {
+      "line_no": "204",
+      "meter": 60769
+    },
+    {
+      "line_no": "204",
+      "meter": 60769
+    },
+    {
+      "line_no": "204",
+      "meter": 60769
+    },
+    {
+      "line_no": "204",
+      "meter": 60769
+    }
+  ]
+}

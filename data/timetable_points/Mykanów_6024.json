@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712008,
+  "type": "TIMETABLE_POINT",
+  "name": "Mykan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 7463
+    },
+    {
+      "line_no": "146",
+      "meter": 7463
+    },
+    {
+      "line_no": "146",
+      "meter": 7463
+    },
+    {
+      "line_no": "146",
+      "meter": 7493
+    },
+    {
+      "line_no": "146",
+      "meter": 7493
+    },
+    {
+      "line_no": "146",
+      "meter": 7503
+    }
+  ]
+}

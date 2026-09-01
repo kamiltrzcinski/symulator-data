@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714254,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebie\u0144czyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "103",
+      "meter": 26234
+    },
+    {
+      "line_no": "103",
+      "meter": 26234
+    },
+    {
+      "line_no": "103",
+      "meter": 26234
+    }
+  ]
+}

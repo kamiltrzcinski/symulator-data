@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711164,
+  "type": "TIMETABLE_POINT",
+  "name": "Kutno R517",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 125632
+    },
+    {
+      "line_no": "18",
+      "meter": -271
+    }
+  ]
+}

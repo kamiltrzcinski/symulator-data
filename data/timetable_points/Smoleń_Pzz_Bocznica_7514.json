@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713498,
+  "type": "TIMETABLE_POINT",
+  "name": "Smole\u0144 Pzz Bocznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 140338
+    },
+    {
+      "line_no": "410",
+      "meter": 140338
+    },
+    {
+      "line_no": "410",
+      "meter": 140338
+    }
+  ]
+}

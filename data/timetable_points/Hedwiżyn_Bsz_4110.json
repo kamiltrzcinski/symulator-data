@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710094,
+  "type": "TIMETABLE_POINT",
+  "name": "Hedwi\u017cyn Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 14535
+    },
+    {
+      "line_no": "66",
+      "meter": 14535
+    },
+    {
+      "line_no": "66",
+      "meter": 14535
+    }
+  ]
+}

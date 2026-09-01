@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713517,
+  "type": "TIMETABLE_POINT",
+  "name": "Sokoliniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 96282
+    }
+  ]
+}

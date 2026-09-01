@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713003,
+  "type": "TIMETABLE_POINT",
+  "name": "Radzymin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "10",
+      "meter": 18382
+    },
+    {
+      "line_no": "10",
+      "meter": 18382
+    },
+    {
+      "line_no": "10",
+      "meter": 18382
+    }
+  ]
+}

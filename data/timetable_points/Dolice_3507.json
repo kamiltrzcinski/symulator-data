@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709491,
+  "type": "TIMETABLE_POINT",
+  "name": "Dolice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 152862
+    },
+    {
+      "line_no": "351",
+      "meter": 152868
+    },
+    {
+      "line_no": "351",
+      "meter": 152868
+    },
+    {
+      "line_no": "351",
+      "meter": 152868
+    },
+    {
+      "line_no": "351",
+      "meter": 152868
+    },
+    {
+      "line_no": "351",
+      "meter": 152868
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714662,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0119gliniec Roz.6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 59602
+    },
+    {
+      "line_no": "975",
+      "meter": 0
+    }
+  ]
+}

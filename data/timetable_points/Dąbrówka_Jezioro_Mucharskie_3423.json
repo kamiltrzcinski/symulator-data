@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709407,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105br\u00f3wka Jezioro Mucharskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 35600
+    },
+    {
+      "line_no": "97",
+      "meter": 35612
+    }
+  ]
+}

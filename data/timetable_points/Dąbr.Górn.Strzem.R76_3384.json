@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709368,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105br.G\u00f3rn.Strzem.R76",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 69684
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714615,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R66",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "42",
+      "meter": 3442
+    },
+    {
+      "line_no": "42",
+      "meter": 3442
+    },
+    {
+      "line_no": "85",
+      "meter": 3442
+    },
+    {
+      "line_no": "85",
+      "meter": 3442
+    },
+    {
+      "line_no": "85",
+      "meter": 3442
+    }
+  ]
+}

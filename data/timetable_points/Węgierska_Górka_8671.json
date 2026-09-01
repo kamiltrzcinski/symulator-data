@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714655,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0119gierska G\u00f3rka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 86865
+    },
+    {
+      "line_no": "139",
+      "meter": 86865
+    },
+    {
+      "line_no": "139",
+      "meter": 86865
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708565,
+  "type": "TIMETABLE_POINT",
+  "name": "Baranowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 46171
+    },
+    {
+      "line_no": "223",
+      "meter": 46171
+    },
+    {
+      "line_no": "223",
+      "meter": 46171
+    }
+  ]
+}

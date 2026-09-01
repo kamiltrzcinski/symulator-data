@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712957,
+  "type": "TIMETABLE_POINT",
+  "name": "Radlin Obszary R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "862",
+      "meter": 3049
+    },
+    {
+      "line_no": "877",
+      "meter": 28
+    }
+  ]
+}

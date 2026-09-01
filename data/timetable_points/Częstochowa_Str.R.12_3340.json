@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709324,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Str.R.12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 116830
+    },
+    {
+      "line_no": "61",
+      "meter": 116830
+    },
+    {
+      "line_no": "61",
+      "meter": 116830
+    },
+    {
+      "line_no": "61",
+      "meter": 116830
+    },
+    {
+      "line_no": "700",
+      "meter": 2205
+    }
+  ]
+}

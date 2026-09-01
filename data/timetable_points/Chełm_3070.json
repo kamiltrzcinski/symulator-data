@@ -1,0 +1,52 @@
+{
+  "uid": 3453153709054,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142m",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 248419
+    },
+    {
+      "line_no": "7",
+      "meter": 248419
+    },
+    {
+      "line_no": "7",
+      "meter": 248419
+    },
+    {
+      "line_no": "7",
+      "meter": 248419
+    },
+    {
+      "line_no": "63",
+      "meter": 23120
+    },
+    {
+      "line_no": "63",
+      "meter": 23120
+    },
+    {
+      "line_no": "63",
+      "meter": 23120
+    },
+    {
+      "line_no": "63",
+      "meter": 23120
+    },
+    {
+      "line_no": "81",
+      "meter": 497
+    },
+    {
+      "line_no": "81",
+      "meter": 497
+    },
+    {
+      "line_no": "748",
+      "meter": 825
+    }
+  ]
+}

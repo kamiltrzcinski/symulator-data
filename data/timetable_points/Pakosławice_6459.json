@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712443,
+  "type": "TIMETABLE_POINT",
+  "name": "Pakos\u0142awice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "288",
+      "meter": 9409
+    },
+    {
+      "line_no": "288",
+      "meter": 9409
+    }
+  ]
+}

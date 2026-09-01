@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709214,
+  "type": "TIMETABLE_POINT",
+  "name": "Cisiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 89461
+    },
+    {
+      "line_no": "139",
+      "meter": 89461
+    }
+  ]
+}

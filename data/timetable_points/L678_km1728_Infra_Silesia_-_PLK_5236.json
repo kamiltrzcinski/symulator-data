@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711220,
+  "type": "TIMETABLE_POINT",
+  "name": "L678 km:1,728 Infra Silesia - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "678",
+      "meter": 1728
+    },
+    {
+      "line_no": "678",
+      "meter": 1728
+    }
+  ]
+}

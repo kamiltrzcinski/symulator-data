@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711318,
+  "type": "TIMETABLE_POINT",
+  "name": "Lekart\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 8045
+    },
+    {
+      "line_no": "177",
+      "meter": 8045
+    },
+    {
+      "line_no": "177",
+      "meter": 8045
+    }
+  ]
+}

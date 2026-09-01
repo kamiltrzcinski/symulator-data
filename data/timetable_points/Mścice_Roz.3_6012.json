@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711996,
+  "type": "TIMETABLE_POINT",
+  "name": "M\u015bcice Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 8269
+    },
+    {
+      "line_no": "402",
+      "meter": 8269
+    },
+    {
+      "line_no": "427",
+      "meter": -140
+    }
+  ]
+}

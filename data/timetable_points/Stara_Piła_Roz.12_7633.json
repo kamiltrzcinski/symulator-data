@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713617,
+  "type": "TIMETABLE_POINT",
+  "name": "Stara Pi\u0142a Roz.12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 25312
+    },
+    {
+      "line_no": "229",
+      "meter": 25312
+    },
+    {
+      "line_no": "229",
+      "meter": 25353
+    },
+    {
+      "line_no": "234",
+      "meter": 19898
+    },
+    {
+      "line_no": "234",
+      "meter": 19927
+    }
+  ]
+}

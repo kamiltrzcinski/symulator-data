@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714218,
+  "type": "TIMETABLE_POINT",
+  "name": "Toru\u0144 Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 137141
+    },
+    {
+      "line_no": "353",
+      "meter": 137141
+    }
+  ]
+}

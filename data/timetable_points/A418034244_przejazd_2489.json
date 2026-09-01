@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708473,
+  "type": "TIMETABLE_POINT",
+  "name": "A418034,244 przejazd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "418",
+      "meter": 34244
+    }
+  ]
+}

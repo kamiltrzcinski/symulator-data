@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710177,
+  "type": "TIMETABLE_POINT",
+  "name": "Inowroc\u0142aw Tow. InA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 323440
+    },
+    {
+      "line_no": "131",
+      "meter": 323440
+    },
+    {
+      "line_no": "353",
+      "meter": 99450
+    },
+    {
+      "line_no": "353",
+      "meter": 99450
+    },
+    {
+      "line_no": "742",
+      "meter": 1505
+    }
+  ]
+}

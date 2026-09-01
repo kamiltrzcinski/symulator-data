@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711274,
+  "type": "TIMETABLE_POINT",
+  "name": "Lachowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 52479
+    },
+    {
+      "line_no": "97",
+      "meter": 52479
+    },
+    {
+      "line_no": "97",
+      "meter": 52479
+    }
+  ]
+}

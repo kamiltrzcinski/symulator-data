@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713669,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary W\u0119gliniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 64489
+    }
+  ]
+}

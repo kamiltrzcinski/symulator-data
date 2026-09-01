@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710777,
+  "type": "TIMETABLE_POINT",
+  "name": "Konotop",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 26445
+    },
+    {
+      "line_no": "371",
+      "meter": 26445
+    }
+  ]
+}

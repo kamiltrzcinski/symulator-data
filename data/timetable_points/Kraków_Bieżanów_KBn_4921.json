@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710905,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Bie\u017can\u00f3w KBn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 8002
+    },
+    {
+      "line_no": "91",
+      "meter": 8002
+    },
+    {
+      "line_no": "91",
+      "meter": 8002
+    },
+    {
+      "line_no": "91",
+      "meter": 8002
+    },
+    {
+      "line_no": "91",
+      "meter": 8900
+    }
+  ]
+}

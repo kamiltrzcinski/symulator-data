@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710621,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce S\u0142owik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 195368
+    },
+    {
+      "line_no": "8",
+      "meter": 195368
+    },
+    {
+      "line_no": "8",
+      "meter": 195368
+    },
+    {
+      "line_no": "8",
+      "meter": 195368
+    },
+    {
+      "line_no": "8",
+      "meter": 195368
+    },
+    {
+      "line_no": "8",
+      "meter": 195368
+    }
+  ]
+}

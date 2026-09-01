@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714385,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142cz WBK 847 Bocznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 24202
+    }
+  ]
+}

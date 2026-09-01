@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713329,
+  "type": "TIMETABLE_POINT",
+  "name": "Siedlce Baza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 2500
+    },
+    {
+      "line_no": "31",
+      "meter": 2500
+    },
+    {
+      "line_no": "31",
+      "meter": 2500
+    },
+    {
+      "line_no": "31",
+      "meter": 2500
+    }
+  ]
+}

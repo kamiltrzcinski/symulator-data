@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713577,
+  "type": "TIMETABLE_POINT",
+  "name": "So\u015bnica Jaros\u0142awska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 227712
+    },
+    {
+      "line_no": "91",
+      "meter": 227712
+    },
+    {
+      "line_no": "91",
+      "meter": 227712
+    },
+    {
+      "line_no": "91",
+      "meter": 227717
+    },
+    {
+      "line_no": "91",
+      "meter": 227717
+    },
+    {
+      "line_no": "91",
+      "meter": 227717
+    }
+  ]
+}

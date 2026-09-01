@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710821,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn PZS R572",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "430",
+      "meter": 240615
+    },
+    {
+      "line_no": "828",
+      "meter": 925
+    }
+  ]
+}

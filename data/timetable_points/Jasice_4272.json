@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710256,
+  "type": "TIMETABLE_POINT",
+  "name": "Jasice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 209257
+    },
+    {
+      "line_no": "25",
+      "meter": 209315
+    },
+    {
+      "line_no": "25",
+      "meter": 209315
+    }
+  ]
+}

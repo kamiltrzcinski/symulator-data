@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714094,
+  "type": "TIMETABLE_POINT",
+  "name": "Tacisz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 41550
+    },
+    {
+      "line_no": "137",
+      "meter": 41648
+    },
+    {
+      "line_no": "137",
+      "meter": 41648
+    }
+  ]
+}

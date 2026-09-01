@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714584,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R48-50",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "546",
+      "meter": 7868
+    },
+    {
+      "line_no": "546",
+      "meter": 7868
+    },
+    {
+      "line_no": "546",
+      "meter": 7868
+    },
+    {
+      "line_no": "901",
+      "meter": 7874
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid": 3453153711447,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "289",
+      "meter": 22329
+    },
+    {
+      "line_no": "971",
+      "meter": 0
+    },
+    {
+      "line_no": "971",
+      "meter": 0
+    },
+    {
+      "line_no": "971",
+      "meter": 0
+    },
+    {
+      "line_no": "971",
+      "meter": 0
+    },
+    {
+      "line_no": "971",
+      "meter": 0
+    },
+    {
+      "line_no": "971",
+      "meter": 0
+    }
+  ]
+}

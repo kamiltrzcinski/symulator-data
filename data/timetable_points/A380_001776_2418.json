@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708402,
+  "type": "TIMETABLE_POINT",
+  "name": "A380 001,776",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "380",
+      "meter": 1776
+    }
+  ]
+}

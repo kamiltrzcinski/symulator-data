@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712467,
+  "type": "TIMETABLE_POINT",
+  "name": "Parleza Wielka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 11121
+    },
+    {
+      "line_no": "223",
+      "meter": 11121
+    },
+    {
+      "line_no": "223",
+      "meter": 11121
+    },
+    {
+      "line_no": "223",
+      "meter": 11122
+    },
+    {
+      "line_no": "223",
+      "meter": 11122
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712268,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn Dajtki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 78710
+    },
+    {
+      "line_no": "216",
+      "meter": 78710
+    },
+    {
+      "line_no": "353",
+      "meter": 294328
+    },
+    {
+      "line_no": "353",
+      "meter": 294328
+    }
+  ]
+}

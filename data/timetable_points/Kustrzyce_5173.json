@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711157,
+  "type": "TIMETABLE_POINT",
+  "name": "Kustrzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 162165
+    },
+    {
+      "line_no": "131",
+      "meter": 162165
+    }
+  ]
+}

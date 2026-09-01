@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712567,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0142a Kalina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 85802
+    },
+    {
+      "line_no": "354",
+      "meter": 85802
+    },
+    {
+      "line_no": "354",
+      "meter": 86026
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713481,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142upca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 232800
+    },
+    {
+      "line_no": "3",
+      "meter": 232800
+    },
+    {
+      "line_no": "3",
+      "meter": 232822
+    }
+  ]
+}

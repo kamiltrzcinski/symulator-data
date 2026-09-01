@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714833,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola \u0141u\u017ca\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 10090
+    },
+    {
+      "line_no": "108",
+      "meter": 10090
+    },
+    {
+      "line_no": "108",
+      "meter": 10090
+    }
+  ]
+}

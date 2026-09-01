@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712379,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostr\u00f3da GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 258500
+    },
+    {
+      "line_no": "353",
+      "meter": 258500
+    }
+  ]
+}

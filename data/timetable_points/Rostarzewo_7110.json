@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713094,
+  "type": "TIMETABLE_POINT",
+  "name": "Rostarzewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 49377
+    },
+    {
+      "line_no": "357",
+      "meter": 49377
+    },
+    {
+      "line_no": "357",
+      "meter": 49377
+    },
+    {
+      "line_no": "357",
+      "meter": 49377
+    },
+    {
+      "line_no": "357",
+      "meter": 49383
+    }
+  ]
+}

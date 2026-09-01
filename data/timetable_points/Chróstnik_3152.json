@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709136,
+  "type": "TIMETABLE_POINT",
+  "name": "Chr\u00f3stnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "289",
+      "meter": 17590
+    },
+    {
+      "line_no": "289",
+      "meter": 17640
+    },
+    {
+      "line_no": "289",
+      "meter": 17640
+    },
+    {
+      "line_no": "289",
+      "meter": 17640
+    }
+  ]
+}

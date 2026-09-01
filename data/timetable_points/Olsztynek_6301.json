@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712285,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztynek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 52968
+    },
+    {
+      "line_no": "216",
+      "meter": 52968
+    },
+    {
+      "line_no": "216",
+      "meter": 52975
+    },
+    {
+      "line_no": "216",
+      "meter": 52975
+    }
+  ]
+}

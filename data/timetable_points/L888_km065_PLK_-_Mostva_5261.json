@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711245,
+  "type": "TIMETABLE_POINT",
+  "name": "L888 km:,065 PLK - Mostva",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "888",
+      "meter": 65
+    },
+    {
+      "line_no": "888",
+      "meter": 65
+    },
+    {
+      "line_no": "888",
+      "meter": 65
+    },
+    {
+      "line_no": "888",
+      "meter": 93
+    },
+    {
+      "line_no": "888",
+      "meter": 93
+    }
+  ]
+}

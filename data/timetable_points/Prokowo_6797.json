@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712781,
+  "type": "TIMETABLE_POINT",
+  "name": "Prokowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 47856
+    },
+    {
+      "line_no": "229",
+      "meter": 47856
+    },
+    {
+      "line_no": "229",
+      "meter": 47856
+    }
+  ]
+}

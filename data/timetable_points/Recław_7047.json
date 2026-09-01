@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713031,
+  "type": "TIMETABLE_POINT",
+  "name": "Rec\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 66604
+    },
+    {
+      "line_no": "401",
+      "meter": 66604
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712632,
+  "type": "TIMETABLE_POINT",
+  "name": "Podd\u0119bice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 203216
+    },
+    {
+      "line_no": "131",
+      "meter": 203216
+    },
+    {
+      "line_no": "131",
+      "meter": 203216
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711325,
+  "type": "TIMETABLE_POINT",
+  "name": "Leopold\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 42197
+    },
+    {
+      "line_no": "26",
+      "meter": 42197
+    },
+    {
+      "line_no": "26",
+      "meter": 42197
+    },
+    {
+      "line_no": "26",
+      "meter": 42204
+    },
+    {
+      "line_no": "26",
+      "meter": 42204
+    },
+    {
+      "line_no": "26",
+      "meter": 42204
+    },
+    {
+      "line_no": "26",
+      "meter": 42204
+    }
+  ]
+}

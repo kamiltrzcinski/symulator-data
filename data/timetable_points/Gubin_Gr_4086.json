@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710070,
+  "type": "TIMETABLE_POINT",
+  "name": "Gubin (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 197698
+    },
+    {
+      "line_no": "358",
+      "meter": 94257
+    },
+    {
+      "line_no": "358",
+      "meter": 94257
+    },
+    {
+      "line_no": "358",
+      "meter": 94257
+    },
+    {
+      "line_no": "358",
+      "meter": 94257
+    },
+    {
+      "line_no": "494",
+      "meter": -2150
+    },
+    {
+      "line_no": "494",
+      "meter": -2150
+    },
+    {
+      "line_no": "494",
+      "meter": 1640
+    }
+  ]
+}

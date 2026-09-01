@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714117,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowiec Brzeski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 40715
+    },
+    {
+      "line_no": "277",
+      "meter": 40715
+    },
+    {
+      "line_no": "277",
+      "meter": 40715
+    }
+  ]
+}

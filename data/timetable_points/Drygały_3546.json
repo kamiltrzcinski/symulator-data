@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709530,
+  "type": "TIMETABLE_POINT",
+  "name": "Dryga\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 129938
+    },
+    {
+      "line_no": "219",
+      "meter": 130068
+    },
+    {
+      "line_no": "219",
+      "meter": 130068
+    },
+    {
+      "line_no": "219",
+      "meter": 130068
+    },
+    {
+      "line_no": "219",
+      "meter": 130068
+    }
+  ]
+}

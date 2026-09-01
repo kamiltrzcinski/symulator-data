@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712259,
+  "type": "TIMETABLE_POINT",
+  "name": "Olkusz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 45021
+    },
+    {
+      "line_no": "62",
+      "meter": 45021
+    },
+    {
+      "line_no": "62",
+      "meter": 45021
+    },
+    {
+      "line_no": "62",
+      "meter": 45021
+    },
+    {
+      "line_no": "65",
+      "meter": 378081
+    }
+  ]
+}

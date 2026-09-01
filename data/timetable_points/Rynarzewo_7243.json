@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713227,
+  "type": "TIMETABLE_POINT",
+  "name": "Rynarzewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 113014
+    },
+    {
+      "line_no": "356",
+      "meter": 113014
+    }
+  ]
+}

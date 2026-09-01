@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711838,
+  "type": "TIMETABLE_POINT",
+  "name": "Mieszaki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 81030
+    },
+    {
+      "line_no": "27",
+      "meter": 81030
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713336,
+  "type": "TIMETABLE_POINT",
+  "name": "Siedlec Trzebnicki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "326",
+      "meter": 10391
+    },
+    {
+      "line_no": "326",
+      "meter": 10423
+    }
+  ]
+}

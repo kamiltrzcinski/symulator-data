@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714382,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142brzych Szczawienko R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 65453
+    },
+    {
+      "line_no": "274",
+      "meter": 65554
+    },
+    {
+      "line_no": "274",
+      "meter": 65554
+    },
+    {
+      "line_no": "869",
+      "meter": -450
+    },
+    {
+      "line_no": "869",
+      "meter": -450
+    },
+    {
+      "line_no": "869",
+      "meter": -374
+    },
+    {
+      "line_no": "869",
+      "meter": -374
+    }
+  ]
+}

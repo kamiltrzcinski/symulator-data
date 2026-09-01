@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712861,
+  "type": "TIMETABLE_POINT",
+  "name": "Przyby\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 271731
+    },
+    {
+      "line_no": "137",
+      "meter": 271731
+    },
+    {
+      "line_no": "137",
+      "meter": 271731
+    }
+  ]
+}

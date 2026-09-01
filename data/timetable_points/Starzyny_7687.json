@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713671,
+  "type": "TIMETABLE_POINT",
+  "name": "Starzyny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "64",
+      "meter": 30417
+    },
+    {
+      "line_no": "64",
+      "meter": 32570
+    },
+    {
+      "line_no": "64",
+      "meter": 32570
+    },
+    {
+      "line_no": "64",
+      "meter": 32570
+    },
+    {
+      "line_no": "570",
+      "meter": 2932
+    },
+    {
+      "line_no": "570",
+      "meter": 2932
+    }
+  ]
+}

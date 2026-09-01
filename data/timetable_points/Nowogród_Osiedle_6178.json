@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712162,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowogr\u00f3d Osiedle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "370",
+      "meter": 29854
+    },
+    {
+      "line_no": "370",
+      "meter": 29854
+    }
+  ]
+}

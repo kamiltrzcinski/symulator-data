@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713050,
+  "type": "TIMETABLE_POINT",
+  "name": "Rejowiec R502",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 1910
+    },
+    {
+      "line_no": "69",
+      "meter": 1910
+    },
+    {
+      "line_no": "69",
+      "meter": 1910
+    },
+    {
+      "line_no": "563",
+      "meter": 1598
+    }
+  ]
+}

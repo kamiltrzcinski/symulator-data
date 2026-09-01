@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712243,
+  "type": "TIMETABLE_POINT",
+  "name": "Olbrachtowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 28767
+    },
+    {
+      "line_no": "285",
+      "meter": 28767
+    },
+    {
+      "line_no": "285",
+      "meter": 28767
+    },
+    {
+      "line_no": "285",
+      "meter": 28767
+    },
+    {
+      "line_no": "285",
+      "meter": 28767
+    }
+  ]
+}

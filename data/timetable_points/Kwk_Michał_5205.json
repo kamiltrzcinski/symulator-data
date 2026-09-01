@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711189,
+  "type": "TIMETABLE_POINT",
+  "name": "Kwk Micha\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "871",
+      "meter": 900
+    }
+  ]
+}

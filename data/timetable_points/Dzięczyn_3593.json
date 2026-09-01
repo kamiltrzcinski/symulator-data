@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709577,
+  "type": "TIMETABLE_POINT",
+  "name": "Dzi\u0119czyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 206405
+    },
+    {
+      "line_no": "14",
+      "meter": 206405
+    },
+    {
+      "line_no": "14",
+      "meter": 206445
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713682,
+  "type": "TIMETABLE_POINT",
+  "name": "Staw Kunowski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 176465
+    },
+    {
+      "line_no": "25",
+      "meter": 176465
+    },
+    {
+      "line_no": "25",
+      "meter": 176700
+    }
+  ]
+}

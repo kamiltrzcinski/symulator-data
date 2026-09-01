@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711953,
+  "type": "TIMETABLE_POINT",
+  "name": "Mordy Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 19713
+    },
+    {
+      "line_no": "31",
+      "meter": 19713
+    },
+    {
+      "line_no": "31",
+      "meter": 19713
+    },
+    {
+      "line_no": "31",
+      "meter": 19713
+    },
+    {
+      "line_no": "31",
+      "meter": 19713
+    },
+    {
+      "line_no": "31",
+      "meter": 19713
+    },
+    {
+      "line_no": "31",
+      "meter": 19713
+    }
+  ]
+}

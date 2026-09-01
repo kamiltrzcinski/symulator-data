@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712111,
+  "type": "TIMETABLE_POINT",
+  "name": "Nisko Rac\u0142awice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 115895
+    },
+    {
+      "line_no": "68",
+      "meter": 115895
+    },
+    {
+      "line_no": "68",
+      "meter": 115895
+    },
+    {
+      "line_no": "68",
+      "meter": 116000
+    },
+    {
+      "line_no": "68",
+      "meter": 116000
+    }
+  ]
+}

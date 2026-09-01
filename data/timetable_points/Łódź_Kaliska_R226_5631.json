@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711615,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Kaliska R226",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 1765
+    },
+    {
+      "line_no": "25",
+      "meter": 1816
+    },
+    {
+      "line_no": "539",
+      "meter": 0
+    },
+    {
+      "line_no": "539",
+      "meter": 0
+    },
+    {
+      "line_no": "539",
+      "meter": 0
+    }
+  ]
+}

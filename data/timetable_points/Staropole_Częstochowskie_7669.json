@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713653,
+  "type": "TIMETABLE_POINT",
+  "name": "Staropole Cz\u0119stochowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 83830
+    },
+    {
+      "line_no": "61",
+      "meter": 83830
+    },
+    {
+      "line_no": "61",
+      "meter": 83935
+    },
+    {
+      "line_no": "61",
+      "meter": 83935
+    },
+    {
+      "line_no": "61",
+      "meter": 83935
+    },
+    {
+      "line_no": "61",
+      "meter": 83935
+    }
+  ]
+}

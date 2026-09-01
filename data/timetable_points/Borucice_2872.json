@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708856,
+  "type": "TIMETABLE_POINT",
+  "name": "Borucice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 51200
+    },
+    {
+      "line_no": "277",
+      "meter": 51200
+    },
+    {
+      "line_no": "277",
+      "meter": 51200
+    }
+  ]
+}

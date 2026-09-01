@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709977,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 19813
+    },
+    {
+      "line_no": "12",
+      "meter": 19813
+    },
+    {
+      "line_no": "12",
+      "meter": 19813
+    },
+    {
+      "line_no": "12",
+      "meter": 19813
+    },
+    {
+      "line_no": "12",
+      "meter": 19813
+    }
+  ]
+}

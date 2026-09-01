@@ -1,0 +1,48 @@
+{
+  "uid": 3453153709323,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Rak\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 233379
+    },
+    {
+      "line_no": "1",
+      "meter": 233400
+    },
+    {
+      "line_no": "1",
+      "meter": 233400
+    },
+    {
+      "line_no": "1",
+      "meter": 233500
+    },
+    {
+      "line_no": "1",
+      "meter": 233500
+    },
+    {
+      "line_no": "701",
+      "meter": 3430
+    },
+    {
+      "line_no": "701",
+      "meter": 3617
+    },
+    {
+      "line_no": "701",
+      "meter": 3752
+    },
+    {
+      "line_no": "703",
+      "meter": 2700
+    },
+    {
+      "line_no": "703",
+      "meter": 2740
+    }
+  ]
+}

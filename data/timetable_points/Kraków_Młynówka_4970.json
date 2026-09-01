@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710954,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w M\u0142yn\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 7575
+    },
+    {
+      "line_no": "118",
+      "meter": 7575
+    },
+    {
+      "line_no": "118",
+      "meter": 7575
+    }
+  ]
+}

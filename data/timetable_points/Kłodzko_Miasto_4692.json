@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710676,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142odzko Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 95216
+    },
+    {
+      "line_no": "276",
+      "meter": 95216
+    },
+    {
+      "line_no": "276",
+      "meter": 95409
+    }
+  ]
+}

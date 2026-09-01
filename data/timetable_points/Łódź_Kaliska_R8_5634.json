@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711618,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Kaliska R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 66941
+    },
+    {
+      "line_no": "550",
+      "meter": 5077
+    }
+  ]
+}

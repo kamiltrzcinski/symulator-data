@@ -1,0 +1,68 @@
+{
+  "uid": 3453153714558,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wile\u0144ska R105-R113",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "21",
+      "meter": 1773
+    },
+    {
+      "line_no": "21",
+      "meter": 1872
+    },
+    {
+      "line_no": "21",
+      "meter": 1872
+    },
+    {
+      "line_no": "21",
+      "meter": 2718
+    },
+    {
+      "line_no": "21",
+      "meter": 2718
+    },
+    {
+      "line_no": "21",
+      "meter": 2718
+    },
+    {
+      "line_no": "21",
+      "meter": 2718
+    },
+    {
+      "line_no": "503",
+      "meter": 71
+    },
+    {
+      "line_no": "503",
+      "meter": 71
+    },
+    {
+      "line_no": "503",
+      "meter": 71
+    },
+    {
+      "line_no": "503",
+      "meter": 71
+    },
+    {
+      "line_no": "503",
+      "meter": 71
+    },
+    {
+      "line_no": "503",
+      "meter": 4594
+    },
+    {
+      "line_no": "503",
+      "meter": 4603
+    },
+    {
+      "line_no": "503",
+      "meter": 4603
+    }
+  ]
+}

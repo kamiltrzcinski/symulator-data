@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708933,
+  "type": "TIMETABLE_POINT",
+  "name": "Brze\u017ano Cz\u0142uchowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 7125
+    },
+    {
+      "line_no": "210",
+      "meter": 7125
+    }
+  ]
+}

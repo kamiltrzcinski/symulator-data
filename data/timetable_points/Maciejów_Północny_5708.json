@@ -1,0 +1,48 @@
+{
+  "uid": 3453153711692,
+  "type": "TIMETABLE_POINT",
+  "name": "Maciej\u00f3w P\u00f3\u0142nocny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "147",
+      "meter": 7917
+    },
+    {
+      "line_no": "147",
+      "meter": 7917
+    },
+    {
+      "line_no": "147",
+      "meter": 7920
+    },
+    {
+      "line_no": "147",
+      "meter": 7920
+    },
+    {
+      "line_no": "147",
+      "meter": 7920
+    },
+    {
+      "line_no": "672",
+      "meter": 483
+    },
+    {
+      "line_no": "672",
+      "meter": 483
+    },
+    {
+      "line_no": "672",
+      "meter": 483
+    },
+    {
+      "line_no": "711",
+      "meter": -558
+    },
+    {
+      "line_no": "711",
+      "meter": -558
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710226,
+  "type": "TIMETABLE_POINT",
+  "name": "Jankowo Dolne ODST",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 54347
+    },
+    {
+      "line_no": "353",
+      "meter": 54347
+    },
+    {
+      "line_no": "353",
+      "meter": 54347
+    }
+  ]
+}

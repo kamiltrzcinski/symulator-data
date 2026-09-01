@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713356,
+  "type": "TIMETABLE_POINT",
+  "name": "Sieradz M\u0119ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 53486
+    },
+    {
+      "line_no": "14",
+      "meter": 53486
+    },
+    {
+      "line_no": "14",
+      "meter": 53486
+    },
+    {
+      "line_no": "14",
+      "meter": 54399
+    },
+    {
+      "line_no": "14",
+      "meter": 54516
+    },
+    {
+      "line_no": "14",
+      "meter": 54516
+    }
+  ]
+}

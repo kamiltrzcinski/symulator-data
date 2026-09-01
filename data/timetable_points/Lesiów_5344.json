@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711328,
+  "type": "TIMETABLE_POINT",
+  "name": "Lesi\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 90162
+    },
+    {
+      "line_no": "8",
+      "meter": 90162
+    },
+    {
+      "line_no": "8",
+      "meter": 91909
+    },
+    {
+      "line_no": "8",
+      "meter": 91909
+    },
+    {
+      "line_no": "8",
+      "meter": 92120
+    },
+    {
+      "line_no": "8",
+      "meter": 92120
+    },
+    {
+      "line_no": "8",
+      "meter": 92120
+    }
+  ]
+}

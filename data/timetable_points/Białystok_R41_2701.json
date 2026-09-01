@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708685,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok R41",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "556",
+      "meter": 175723
+    },
+    {
+      "line_no": "556",
+      "meter": 175723
+    },
+    {
+      "line_no": "556",
+      "meter": 175724
+    },
+    {
+      "line_no": "837",
+      "meter": 175723
+    },
+    {
+      "line_no": "837",
+      "meter": 175724
+    }
+  ]
+}

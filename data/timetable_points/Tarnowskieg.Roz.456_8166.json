@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714150,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskieg.Roz.456",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "950",
+      "meter": 3844
+    },
+    {
+      "line_no": "950",
+      "meter": 3844
+    },
+    {
+      "line_no": "950",
+      "meter": 3844
+    },
+    {
+      "line_no": "954",
+      "meter": 621
+    },
+    {
+      "line_no": "954",
+      "meter": 621
+    }
+  ]
+}

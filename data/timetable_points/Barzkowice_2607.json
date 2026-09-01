@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708591,
+  "type": "TIMETABLE_POINT",
+  "name": "Barzkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 114327
+    }
+  ]
+}

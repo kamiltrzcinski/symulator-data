@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712610,
+  "type": "TIMETABLE_POINT",
+  "name": "P\u0142ock Radziwie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 45720
+    },
+    {
+      "line_no": "33",
+      "meter": 45720
+    },
+    {
+      "line_no": "33",
+      "meter": 45720
+    }
+  ]
+}

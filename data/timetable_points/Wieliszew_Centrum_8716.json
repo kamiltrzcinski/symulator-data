@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714700,
+  "type": "TIMETABLE_POINT",
+  "name": "Wieliszew Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "28",
+      "meter": 1856
+    },
+    {
+      "line_no": "28",
+      "meter": 1856
+    },
+    {
+      "line_no": "28",
+      "meter": 1858
+    }
+  ]
+}

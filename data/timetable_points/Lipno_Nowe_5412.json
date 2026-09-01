@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711396,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipno Nowe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 103709
+    },
+    {
+      "line_no": "271",
+      "meter": 103709
+    },
+    {
+      "line_no": "271",
+      "meter": 103709
+    },
+    {
+      "line_no": "271",
+      "meter": 103970
+    },
+    {
+      "line_no": "271",
+      "meter": 103997
+    },
+    {
+      "line_no": "271",
+      "meter": 103997
+    },
+    {
+      "line_no": "271",
+      "meter": 104052
+    },
+    {
+      "line_no": "271",
+      "meter": 104052
+    },
+    {
+      "line_no": "271",
+      "meter": 104052
+    }
+  ]
+}

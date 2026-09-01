@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712388,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostr\u00f3wek W\u0119growski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 63622
+    },
+    {
+      "line_no": "6",
+      "meter": 63622
+    },
+    {
+      "line_no": "6",
+      "meter": 63622
+    },
+    {
+      "line_no": "6",
+      "meter": 63689
+    },
+    {
+      "line_no": "6",
+      "meter": 63689
+    },
+    {
+      "line_no": "6",
+      "meter": 63689
+    }
+  ]
+}

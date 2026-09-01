@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712712,
+  "type": "TIMETABLE_POINT",
+  "name": "Pot\u0119gowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 98293
+    },
+    {
+      "line_no": "202",
+      "meter": 98464
+    },
+    {
+      "line_no": "202",
+      "meter": 98464
+    },
+    {
+      "line_no": "202",
+      "meter": 98464
+    },
+    {
+      "line_no": "202",
+      "meter": 98464
+    }
+  ]
+}

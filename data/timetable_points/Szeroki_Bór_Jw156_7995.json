@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713979,
+  "type": "TIMETABLE_POINT",
+  "name": "Szeroki B\u00f3r Jw156",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 94175
+    },
+    {
+      "line_no": "219",
+      "meter": 94175
+    },
+    {
+      "line_no": "219",
+      "meter": 94175
+    },
+    {
+      "line_no": "219",
+      "meter": 94175
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "uid": 3453153710728,
+  "type": "TIMETABLE_POINT",
+  "name": "Koluszki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 103914
+    },
+    {
+      "line_no": "1",
+      "meter": 103914
+    },
+    {
+      "line_no": "1",
+      "meter": 105194
+    },
+    {
+      "line_no": "1",
+      "meter": 105194
+    },
+    {
+      "line_no": "1",
+      "meter": 105194
+    },
+    {
+      "line_no": "17",
+      "meter": 26197
+    },
+    {
+      "line_no": "17",
+      "meter": 26197
+    },
+    {
+      "line_no": "534",
+      "meter": 625
+    },
+    {
+      "line_no": "535",
+      "meter": 1410
+    },
+    {
+      "line_no": "536",
+      "meter": 2495
+    },
+    {
+      "line_no": "538",
+      "meter": 700
+    }
+  ]
+}

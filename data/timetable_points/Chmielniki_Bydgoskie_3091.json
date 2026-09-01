@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709075,
+  "type": "TIMETABLE_POINT",
+  "name": "Chmielniki Bydgoskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 351085
+    },
+    {
+      "line_no": "131",
+      "meter": 351085
+    }
+  ]
+}

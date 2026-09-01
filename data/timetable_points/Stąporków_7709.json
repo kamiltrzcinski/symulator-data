@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713693,
+  "type": "TIMETABLE_POINT",
+  "name": "St\u0105pork\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 119163
+    },
+    {
+      "line_no": "25",
+      "meter": 119163
+    },
+    {
+      "line_no": "25",
+      "meter": 119163
+    }
+  ]
+}

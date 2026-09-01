@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714641,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0105growiec Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 49327
+    }
+  ]
+}

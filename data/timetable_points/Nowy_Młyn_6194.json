@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712178,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy M\u0142yn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 184325
+    },
+    {
+      "line_no": "38",
+      "meter": 184325
+    },
+    {
+      "line_no": "38",
+      "meter": 184325
+    },
+    {
+      "line_no": "38",
+      "meter": 184332
+    },
+    {
+      "line_no": "38",
+      "meter": 184332
+    },
+    {
+      "line_no": "38",
+      "meter": 184332
+    },
+    {
+      "line_no": "38",
+      "meter": 184585
+    }
+  ]
+}

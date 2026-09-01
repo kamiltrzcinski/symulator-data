@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709565,
+  "type": "TIMETABLE_POINT",
+  "name": "Dziemb\u00f3wko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 82098
+    },
+    {
+      "line_no": "354",
+      "meter": 82098
+    },
+    {
+      "line_no": "354",
+      "meter": 82098
+    }
+  ]
+}

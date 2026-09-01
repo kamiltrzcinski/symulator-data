@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711293,
+  "type": "TIMETABLE_POINT",
+  "name": "Lasowice Ma\u0142e Oleskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "175",
+      "meter": 81635
+    },
+    {
+      "line_no": "175",
+      "meter": 81635
+    },
+    {
+      "line_no": "175",
+      "meter": 81635
+    },
+    {
+      "line_no": "175",
+      "meter": 81635
+    }
+  ]
+}

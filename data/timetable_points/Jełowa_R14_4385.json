@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710369,
+  "type": "TIMETABLE_POINT",
+  "name": "Je\u0142owa R14",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "293",
+      "meter": -713
+    },
+    {
+      "line_no": "293",
+      "meter": 123
+    },
+    {
+      "line_no": "293",
+      "meter": 128
+    },
+    {
+      "line_no": "301",
+      "meter": 19030
+    },
+    {
+      "line_no": "301",
+      "meter": 19870
+    },
+    {
+      "line_no": "301",
+      "meter": 19875
+    }
+  ]
+}

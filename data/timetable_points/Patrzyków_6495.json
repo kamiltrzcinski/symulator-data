@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712479,
+  "type": "TIMETABLE_POINT",
+  "name": "Patrzyk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 195524
+    },
+    {
+      "line_no": "3",
+      "meter": 195648
+    }
+  ]
+}

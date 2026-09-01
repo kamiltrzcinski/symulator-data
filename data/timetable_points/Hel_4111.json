@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710095,
+  "type": "TIMETABLE_POINT",
+  "name": "Hel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 61669
+    },
+    {
+      "line_no": "213",
+      "meter": 61669
+    },
+    {
+      "line_no": "213",
+      "meter": 61669
+    }
+  ]
+}

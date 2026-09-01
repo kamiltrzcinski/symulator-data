@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709180,
+  "type": "TIMETABLE_POINT",
+  "name": "Ciepiel\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 56951
+    },
+    {
+      "line_no": "371",
+      "meter": 56951
+    }
+  ]
+}

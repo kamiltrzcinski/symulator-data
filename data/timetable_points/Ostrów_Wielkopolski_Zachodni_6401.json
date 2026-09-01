@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712385,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostr\u00f3w Wielkopolski Zachodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 138582
+    },
+    {
+      "line_no": "14",
+      "meter": 138582
+    }
+  ]
+}

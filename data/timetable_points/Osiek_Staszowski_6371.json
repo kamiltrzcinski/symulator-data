@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712355,
+  "type": "TIMETABLE_POINT",
+  "name": "Osiek Staszowski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 70438
+    }
+  ]
+}

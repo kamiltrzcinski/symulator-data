@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711284,
+  "type": "TIMETABLE_POINT",
+  "name": "Laski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 56050
+    },
+    {
+      "line_no": "30",
+      "meter": 56050
+    }
+  ]
+}

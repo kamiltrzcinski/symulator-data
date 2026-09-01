@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710841,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcielnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "337",
+      "meter": 2927
+    },
+    {
+      "line_no": "337",
+      "meter": 2927
+    },
+    {
+      "line_no": "337",
+      "meter": 2927
+    },
+    {
+      "line_no": "337",
+      "meter": 2927
+    },
+    {
+      "line_no": "337",
+      "meter": 2927
+    }
+  ]
+}

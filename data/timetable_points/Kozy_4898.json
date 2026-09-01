@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710882,
+  "type": "TIMETABLE_POINT",
+  "name": "Kozy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 50097
+    },
+    {
+      "line_no": "117",
+      "meter": 50097
+    },
+    {
+      "line_no": "117",
+      "meter": 50097
+    }
+  ]
+}

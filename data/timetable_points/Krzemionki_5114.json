@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711098,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzemionki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 52294
+    },
+    {
+      "line_no": "117",
+      "meter": 52294
+    }
+  ]
+}

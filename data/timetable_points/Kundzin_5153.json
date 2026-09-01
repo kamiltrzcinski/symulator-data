@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711137,
+  "type": "TIMETABLE_POINT",
+  "name": "Kundzin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 225511
+    },
+    {
+      "line_no": "6",
+      "meter": 225580
+    },
+    {
+      "line_no": "6",
+      "meter": 225580
+    },
+    {
+      "line_no": "6",
+      "meter": 225580
+    },
+    {
+      "line_no": "6",
+      "meter": 225580
+    }
+  ]
+}

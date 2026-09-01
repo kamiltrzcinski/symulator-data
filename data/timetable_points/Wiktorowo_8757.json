@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714741,
+  "type": "TIMETABLE_POINT",
+  "name": "Wiktorowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 33290
+    },
+    {
+      "line_no": "18",
+      "meter": 33310
+    },
+    {
+      "line_no": "18",
+      "meter": 33310
+    }
+  ]
+}

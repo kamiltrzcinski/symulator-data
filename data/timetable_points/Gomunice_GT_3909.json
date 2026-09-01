@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709893,
+  "type": "TIMETABLE_POINT",
+  "name": "Gomunice GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 177055
+    },
+    {
+      "line_no": "1",
+      "meter": 177055
+    },
+    {
+      "line_no": "1",
+      "meter": 177055
+    }
+  ]
+}

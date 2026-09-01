@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712414,
+  "type": "TIMETABLE_POINT",
+  "name": "Otok",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 191082
+    },
+    {
+      "line_no": "131",
+      "meter": 191082
+    },
+    {
+      "line_no": "131",
+      "meter": 191082
+    }
+  ]
+}

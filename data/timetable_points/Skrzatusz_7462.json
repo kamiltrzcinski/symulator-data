@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713446,
+  "type": "TIMETABLE_POINT",
+  "name": "Skrzatusz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 13964
+    },
+    {
+      "line_no": "403",
+      "meter": 13964
+    }
+  ]
+}

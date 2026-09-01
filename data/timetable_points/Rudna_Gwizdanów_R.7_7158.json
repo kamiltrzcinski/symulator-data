@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713142,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudna Gwizdan\u00f3w R.7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 77317
+    },
+    {
+      "line_no": "273",
+      "meter": 77317
+    },
+    {
+      "line_no": "289",
+      "meter": 39066
+    },
+    {
+      "line_no": "289",
+      "meter": 39066
+    },
+    {
+      "line_no": "289",
+      "meter": 39066
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712427,
+  "type": "TIMETABLE_POINT",
+  "name": "Ozork\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 36372
+    },
+    {
+      "line_no": "16",
+      "meter": 36372
+    },
+    {
+      "line_no": "16",
+      "meter": 36372
+    }
+  ]
+}

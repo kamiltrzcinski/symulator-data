@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713676,
+  "type": "TIMETABLE_POINT",
+  "name": "Staszic Roz. 1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "652",
+      "meter": 1383
+    },
+    {
+      "line_no": "652",
+      "meter": 1383
+    },
+    {
+      "line_no": "898",
+      "meter": 0
+    }
+  ]
+}

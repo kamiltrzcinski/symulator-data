@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711016,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Prokocim Prd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 16900
+    },
+    {
+      "line_no": "100",
+      "meter": 16900
+    },
+    {
+      "line_no": "100",
+      "meter": 16900
+    },
+    {
+      "line_no": "100",
+      "meter": 16900
+    },
+    {
+      "line_no": "603",
+      "meter": 1494
+    },
+    {
+      "line_no": "603",
+      "meter": 1494
+    },
+    {
+      "line_no": "945",
+      "meter": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711480,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Zad\u0119bie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 106136
+    },
+    {
+      "line_no": "30",
+      "meter": 106136
+    },
+    {
+      "line_no": "30",
+      "meter": 106136
+    }
+  ]
+}

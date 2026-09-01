@@ -1,0 +1,56 @@
+{
+  "uid": 3453153715138,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawada",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 53992
+    },
+    {
+      "line_no": "69",
+      "meter": 53992
+    },
+    {
+      "line_no": "69",
+      "meter": 53992
+    },
+    {
+      "line_no": "69",
+      "meter": 53992
+    },
+    {
+      "line_no": "69",
+      "meter": 53992
+    },
+    {
+      "line_no": "69",
+      "meter": 53992
+    },
+    {
+      "line_no": "72",
+      "meter": 424
+    },
+    {
+      "line_no": "72",
+      "meter": 424
+    },
+    {
+      "line_no": "72",
+      "meter": 424
+    },
+    {
+      "line_no": "83",
+      "meter": 569
+    },
+    {
+      "line_no": "83",
+      "meter": 569
+    },
+    {
+      "line_no": "83",
+      "meter": 569
+    }
+  ]
+}

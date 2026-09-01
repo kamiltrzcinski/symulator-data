@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708939,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzozowiec Gorzowski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "367",
+      "meter": 60596
+    },
+    {
+      "line_no": "367",
+      "meter": 60596
+    },
+    {
+      "line_no": "367",
+      "meter": 60596
+    },
+    {
+      "line_no": "367",
+      "meter": 60634
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709787,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice Ku\u017anica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "135",
+      "meter": 1900
+    },
+    {
+      "line_no": "135",
+      "meter": 1977
+    },
+    {
+      "line_no": "135",
+      "meter": 1977
+    }
+  ]
+}

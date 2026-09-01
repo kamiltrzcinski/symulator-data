@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715004,
+  "type": "TIMETABLE_POINT",
+  "name": "Wygoda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 86173
+    },
+    {
+      "line_no": "7",
+      "meter": 86173
+    },
+    {
+      "line_no": "7",
+      "meter": 87945
+    },
+    {
+      "line_no": "7",
+      "meter": 87945
+    },
+    {
+      "line_no": "7",
+      "meter": 87945
+    }
+  ]
+}

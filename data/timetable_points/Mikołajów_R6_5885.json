@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711869,
+  "type": "TIMETABLE_POINT",
+  "name": "Miko\u0142aj\u00f3w R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 33985
+    },
+    {
+      "line_no": "25",
+      "meter": 33985
+    },
+    {
+      "line_no": "25",
+      "meter": 33985
+    },
+    {
+      "line_no": "25",
+      "meter": 33985
+    },
+    {
+      "line_no": "534",
+      "meter": 5453
+    }
+  ]
+}

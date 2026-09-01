@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712025,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142owice MwA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "138",
+      "meter": 23550
+    },
+    {
+      "line_no": "138",
+      "meter": 23550
+    }
+  ]
+}

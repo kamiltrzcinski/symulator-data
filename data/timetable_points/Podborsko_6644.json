@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712628,
+  "type": "TIMETABLE_POINT",
+  "name": "Podborsko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 49408
+    }
+  ]
+}

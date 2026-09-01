@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712546,
+  "type": "TIMETABLE_POINT",
+  "name": "Pietrzykowice \u017bywieckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 72777
+    },
+    {
+      "line_no": "139",
+      "meter": 72777
+    }
+  ]
+}

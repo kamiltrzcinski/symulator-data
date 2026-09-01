@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708929,
+  "type": "TIMETABLE_POINT",
+  "name": "Brze\u017anica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 29945
+    },
+    {
+      "line_no": "94",
+      "meter": 29945
+    },
+    {
+      "line_no": "94",
+      "meter": 29945
+    },
+    {
+      "line_no": "94",
+      "meter": 29945
+    },
+    {
+      "line_no": "94",
+      "meter": 29945
+    }
+  ]
+}

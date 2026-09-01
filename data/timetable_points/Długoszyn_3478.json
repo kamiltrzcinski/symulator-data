@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709462,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0142ugoszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "134",
+      "meter": 2852
+    },
+    {
+      "line_no": "134",
+      "meter": 2852
+    },
+    {
+      "line_no": "134",
+      "meter": 2852
+    },
+    {
+      "line_no": "667",
+      "meter": 1863
+    },
+    {
+      "line_no": "667",
+      "meter": 1863
+    },
+    {
+      "line_no": "668",
+      "meter": 1824
+    },
+    {
+      "line_no": "668",
+      "meter": 1824
+    }
+  ]
+}

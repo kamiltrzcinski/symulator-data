@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712929,
+  "type": "TIMETABLE_POINT",
+  "name": "Rabka-Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 1712
+    },
+    {
+      "line_no": "104",
+      "meter": 1712
+    },
+    {
+      "line_no": "104",
+      "meter": 1939
+    },
+    {
+      "line_no": "104",
+      "meter": 1939
+    },
+    {
+      "line_no": "104",
+      "meter": 1939
+    },
+    {
+      "line_no": "104",
+      "meter": 1939
+    }
+  ]
+}

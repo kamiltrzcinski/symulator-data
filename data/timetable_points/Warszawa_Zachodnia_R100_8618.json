@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714602,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R100",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 4784
+    },
+    {
+      "line_no": "849",
+      "meter": 4789
+    },
+    {
+      "line_no": "849",
+      "meter": 4789
+    }
+  ]
+}

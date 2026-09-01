@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708883,
+  "type": "TIMETABLE_POINT",
+  "name": "Bratoszewice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 36847
+    },
+    {
+      "line_no": "15",
+      "meter": 36847
+    }
+  ]
+}

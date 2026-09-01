@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709290,
+  "type": "TIMETABLE_POINT",
+  "name": "Czersk \u015awiecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 7899
+    },
+    {
+      "line_no": "215",
+      "meter": 7899
+    }
+  ]
+}

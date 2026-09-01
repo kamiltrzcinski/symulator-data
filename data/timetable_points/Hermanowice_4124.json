@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710108,
+  "type": "TIMETABLE_POINT",
+  "name": "Hermanowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "102",
+      "meter": 9060
+    },
+    {
+      "line_no": "102",
+      "meter": 9060
+    },
+    {
+      "line_no": "102",
+      "meter": 9060
+    },
+    {
+      "line_no": "102",
+      "meter": 9068
+    },
+    {
+      "line_no": "102",
+      "meter": 9068
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710643,
+  "type": "TIMETABLE_POINT",
+  "name": "Kity",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 118077
+    },
+    {
+      "line_no": "6",
+      "meter": 118077
+    },
+    {
+      "line_no": "6",
+      "meter": 118077
+    },
+    {
+      "line_no": "6",
+      "meter": 118077
+    },
+    {
+      "line_no": "6",
+      "meter": 118107
+    }
+  ]
+}

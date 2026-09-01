@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708798,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogoniowice Ci\u0119\u017ckowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 36257
+    },
+    {
+      "line_no": "96",
+      "meter": 36257
+    },
+    {
+      "line_no": "96",
+      "meter": 36257
+    }
+  ]
+}

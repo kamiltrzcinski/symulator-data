@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710391,
+  "type": "TIMETABLE_POINT",
+  "name": "J\u0119zor Centralny JCA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "719",
+      "meter": 0
+    },
+    {
+      "line_no": "719",
+      "meter": 0
+    },
+    {
+      "line_no": "719",
+      "meter": 0
+    }
+  ]
+}

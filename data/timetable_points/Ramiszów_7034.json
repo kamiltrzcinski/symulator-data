@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713018,
+  "type": "TIMETABLE_POINT",
+  "name": "Ramisz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "326",
+      "meter": 5597
+    },
+    {
+      "line_no": "326",
+      "meter": 5597
+    }
+  ]
+}

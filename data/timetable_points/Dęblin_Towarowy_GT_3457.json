@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709441,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119blin Towarowy GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "770",
+      "meter": 3160
+    },
+    {
+      "line_no": "770",
+      "meter": 3160
+    }
+  ]
+}

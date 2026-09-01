@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714925,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Osobowic.R30",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "292",
+      "meter": 27076
+    },
+    {
+      "line_no": "292",
+      "meter": 27076
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709755,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Postojowa R152",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "960",
+      "meter": 4423
+    },
+    {
+      "line_no": "964",
+      "meter": 0
+    },
+    {
+      "line_no": "964",
+      "meter": 0
+    }
+  ]
+}

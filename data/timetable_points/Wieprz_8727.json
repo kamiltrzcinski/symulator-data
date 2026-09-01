@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714711,
+  "type": "TIMETABLE_POINT",
+  "name": "Wieprz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 106937
+    },
+    {
+      "line_no": "7",
+      "meter": 106937
+    },
+    {
+      "line_no": "7",
+      "meter": 107011
+    },
+    {
+      "line_no": "7",
+      "meter": 107011
+    },
+    {
+      "line_no": "7",
+      "meter": 107011
+    },
+    {
+      "line_no": "580",
+      "meter": 12
+    },
+    {
+      "line_no": "580",
+      "meter": 26
+    }
+  ]
+}

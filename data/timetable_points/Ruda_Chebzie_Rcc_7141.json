@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713125,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Chebzie Rcc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "187",
+      "meter": 7340
+    },
+    {
+      "line_no": "187",
+      "meter": 7340
+    },
+    {
+      "line_no": "187",
+      "meter": 7340
+    }
+  ]
+}

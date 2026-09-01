@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714762,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilk\u00f3w Namys\u0142owski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 111089
+    },
+    {
+      "line_no": "143",
+      "meter": 111090
+    },
+    {
+      "line_no": "143",
+      "meter": 111090
+    },
+    {
+      "line_no": "143",
+      "meter": 111090
+    }
+  ]
+}

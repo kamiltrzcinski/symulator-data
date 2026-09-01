@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712352,
+  "type": "TIMETABLE_POINT",
+  "name": "Osieck",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 89024
+    },
+    {
+      "line_no": "12",
+      "meter": 89024
+    },
+    {
+      "line_no": "12",
+      "meter": 89024
+    },
+    {
+      "line_no": "12",
+      "meter": 89024
+    },
+    {
+      "line_no": "12",
+      "meter": 89024
+    }
+  ]
+}

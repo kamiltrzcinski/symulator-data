@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714171,
+  "type": "TIMETABLE_POINT",
+  "name": "Tczew ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "732",
+      "meter": 420
+    }
+  ]
+}

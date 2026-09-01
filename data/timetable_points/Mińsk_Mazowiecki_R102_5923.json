@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711907,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0144sk Mazowiecki R102",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "13",
+      "meter": 32562
+    },
+    {
+      "line_no": "522",
+      "meter": 0
+    }
+  ]
+}

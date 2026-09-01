@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715029,
+  "type": "TIMETABLE_POINT",
+  "name": "Zab\u0142otczyzna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "59",
+      "meter": 18800
+    },
+    {
+      "line_no": "59",
+      "meter": 18800
+    },
+    {
+      "line_no": "59",
+      "meter": 18800
+    },
+    {
+      "line_no": "59",
+      "meter": 19057
+    },
+    {
+      "line_no": "59",
+      "meter": 19057
+    },
+    {
+      "line_no": "59",
+      "meter": 19057
+    },
+    {
+      "line_no": "912",
+      "meter": 0
+    },
+    {
+      "line_no": "912",
+      "meter": 0
+    }
+  ]
+}

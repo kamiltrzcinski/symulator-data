@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712069,
+  "type": "TIMETABLE_POINT",
+  "name": "N\u0119dza Wie\u015b Roz.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 65674
+    },
+    {
+      "line_no": "691",
+      "meter": -11
+    }
+  ]
+}

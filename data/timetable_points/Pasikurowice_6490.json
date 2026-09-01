@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712474,
+  "type": "TIMETABLE_POINT",
+  "name": "Pasikurowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "326",
+      "meter": 7526
+    },
+    {
+      "line_no": "326",
+      "meter": 7543
+    }
+  ]
+}

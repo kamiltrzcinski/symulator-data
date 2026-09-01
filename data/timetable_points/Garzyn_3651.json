@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709635,
+  "type": "TIMETABLE_POINT",
+  "name": "Garzyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 51251
+    },
+    {
+      "line_no": "360",
+      "meter": 51251
+    },
+    {
+      "line_no": "360",
+      "meter": 51251
+    },
+    {
+      "line_no": "360",
+      "meter": 51251
+    }
+  ]
+}

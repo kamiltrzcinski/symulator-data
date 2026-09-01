@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711945,
+  "type": "TIMETABLE_POINT",
+  "name": "Mokrzyca Wielka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 72545
+    },
+    {
+      "line_no": "401",
+      "meter": 72545
+    },
+    {
+      "line_no": "401",
+      "meter": 72545
+    },
+    {
+      "line_no": "401",
+      "meter": 72710
+    }
+  ]
+}

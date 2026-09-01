@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710245,
+  "type": "TIMETABLE_POINT",
+  "name": "Jarocin Skp1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 131701
+    }
+  ]
+}

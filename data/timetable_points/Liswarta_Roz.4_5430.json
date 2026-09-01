@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711414,
+  "type": "TIMETABLE_POINT",
+  "name": "Liswarta Roz.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 138538
+    },
+    {
+      "line_no": "61",
+      "meter": 138540
+    },
+    {
+      "line_no": "61",
+      "meter": 138540
+    },
+    {
+      "line_no": "61",
+      "meter": 138540
+    },
+    {
+      "line_no": "61",
+      "meter": 138540
+    },
+    {
+      "line_no": "686",
+      "meter": 2173
+    },
+    {
+      "line_no": "686",
+      "meter": 2173
+    }
+  ]
+}

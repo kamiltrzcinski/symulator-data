@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709065,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142mek Wo\u0142owski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 65577
+    },
+    {
+      "line_no": "273",
+      "meter": 65577
+    },
+    {
+      "line_no": "273",
+      "meter": 65577
+    }
+  ]
+}

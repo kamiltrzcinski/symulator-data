@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713989,
+  "type": "TIMETABLE_POINT",
+  "name": "Szobiszowice R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "167",
+      "meter": 1415
+    },
+    {
+      "line_no": "167",
+      "meter": 1415
+    },
+    {
+      "line_no": "167",
+      "meter": 1415
+    },
+    {
+      "line_no": "167",
+      "meter": 1415
+    },
+    {
+      "line_no": "168",
+      "meter": 1400
+    },
+    {
+      "line_no": "168",
+      "meter": 1400
+    },
+    {
+      "line_no": "168",
+      "meter": 1400
+    },
+    {
+      "line_no": "168",
+      "meter": 1400
+    }
+  ]
+}

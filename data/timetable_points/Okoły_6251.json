@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712235,
+  "type": "TIMETABLE_POINT",
+  "name": "Oko\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "301",
+      "meter": 33099
+    },
+    {
+      "line_no": "301",
+      "meter": 33099
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709559,
+  "type": "TIMETABLE_POINT",
+  "name": "Dzia\u0142dowo R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 1881
+    },
+    {
+      "line_no": "216",
+      "meter": 1881
+    },
+    {
+      "line_no": "216",
+      "meter": 1881
+    },
+    {
+      "line_no": "216",
+      "meter": 1881
+    },
+    {
+      "line_no": "216",
+      "meter": 1881
+    },
+    {
+      "line_no": "966",
+      "meter": 1619
+    },
+    {
+      "line_no": "966",
+      "meter": 1619
+    },
+    {
+      "line_no": "966",
+      "meter": 1619
+    }
+  ]
+}

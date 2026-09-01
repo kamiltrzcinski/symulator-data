@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713494,
+  "type": "TIMETABLE_POINT",
+  "name": "Smogorz\u00f3w Przysuski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 46942
+    },
+    {
+      "line_no": "22",
+      "meter": 46942
+    },
+    {
+      "line_no": "22",
+      "meter": 47002
+    },
+    {
+      "line_no": "22",
+      "meter": 47002
+    },
+    {
+      "line_no": "22",
+      "meter": 47002
+    }
+  ]
+}

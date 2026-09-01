@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713655,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary Broniszew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 14213
+    },
+    {
+      "line_no": "146",
+      "meter": 14225
+    },
+    {
+      "line_no": "146",
+      "meter": 14225
+    }
+  ]
+}

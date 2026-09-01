@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709831,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142ubczyce Las",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "294",
+      "meter": 5270
+    },
+    {
+      "line_no": "294",
+      "meter": 5270
+    },
+    {
+      "line_no": "294",
+      "meter": 5270
+    }
+  ]
+}

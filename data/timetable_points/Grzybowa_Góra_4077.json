@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710061,
+  "type": "TIMETABLE_POINT",
+  "name": "Grzybowa G\u00f3ra",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 149500
+    },
+    {
+      "line_no": "25",
+      "meter": 149631
+    }
+  ]
+}

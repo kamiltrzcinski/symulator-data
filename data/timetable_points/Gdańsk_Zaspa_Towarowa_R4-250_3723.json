@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709707,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Zaspa Towarowa R4-250",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "227",
+      "meter": 3770
+    },
+    {
+      "line_no": "249",
+      "meter": 3807
+    },
+    {
+      "line_no": "249",
+      "meter": 3807
+    }
+  ]
+}

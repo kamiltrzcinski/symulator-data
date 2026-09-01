@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713084,
+  "type": "TIMETABLE_POINT",
+  "name": "Rokitki Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 87658
+    },
+    {
+      "line_no": "303",
+      "meter": -1234
+    },
+    {
+      "line_no": "303",
+      "meter": -1234
+    },
+    {
+      "line_no": "303",
+      "meter": -1234
+    }
+  ]
+}

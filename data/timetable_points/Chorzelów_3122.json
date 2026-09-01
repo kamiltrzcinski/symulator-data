@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709106,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorzel\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 285942
+    },
+    {
+      "line_no": "25",
+      "meter": 285942
+    },
+    {
+      "line_no": "25",
+      "meter": 285993
+    },
+    {
+      "line_no": "25",
+      "meter": 286110
+    },
+    {
+      "line_no": "25",
+      "meter": 286110
+    },
+    {
+      "line_no": "25",
+      "meter": 286110
+    },
+    {
+      "line_no": "25",
+      "meter": 286213
+    },
+    {
+      "line_no": "25",
+      "meter": 286457
+    },
+    {
+      "line_no": "25",
+      "meter": 286457
+    }
+  ]
+}

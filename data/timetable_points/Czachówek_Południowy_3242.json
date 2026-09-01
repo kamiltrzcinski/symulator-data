@@ -1,0 +1,80 @@
+{
+  "uid": 3453153709226,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 36520
+    },
+    {
+      "line_no": "8",
+      "meter": 36520
+    },
+    {
+      "line_no": "8",
+      "meter": 36701
+    },
+    {
+      "line_no": "8",
+      "meter": 36701
+    },
+    {
+      "line_no": "8",
+      "meter": 36701
+    },
+    {
+      "line_no": "8",
+      "meter": 36701
+    },
+    {
+      "line_no": "525",
+      "meter": -67
+    },
+    {
+      "line_no": "525",
+      "meter": -67
+    },
+    {
+      "line_no": "525",
+      "meter": -67
+    },
+    {
+      "line_no": "525",
+      "meter": 19
+    },
+    {
+      "line_no": "526",
+      "meter": 1254
+    },
+    {
+      "line_no": "526",
+      "meter": 1254
+    },
+    {
+      "line_no": "527",
+      "meter": 2
+    },
+    {
+      "line_no": "527",
+      "meter": 2
+    },
+    {
+      "line_no": "528",
+      "meter": 1258
+    },
+    {
+      "line_no": "528",
+      "meter": 1287
+    },
+    {
+      "line_no": "528",
+      "meter": 1287
+    },
+    {
+      "line_no": "528",
+      "meter": 1287
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712261,
+  "type": "TIMETABLE_POINT",
+  "name": "Olpuch Wdzydze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 126168
+    },
+    {
+      "line_no": "201",
+      "meter": 126296
+    },
+    {
+      "line_no": "201",
+      "meter": 126296
+    }
+  ]
+}

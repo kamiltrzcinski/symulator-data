@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712905,
+  "type": "TIMETABLE_POINT",
+  "name": "Pustelnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "13",
+      "meter": 19768
+    },
+    {
+      "line_no": "13",
+      "meter": 19768
+    },
+    {
+      "line_no": "13",
+      "meter": 19775
+    }
+  ]
+}

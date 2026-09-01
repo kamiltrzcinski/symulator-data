@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714911,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Ku\u017aniki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 7184
+    },
+    {
+      "line_no": "273",
+      "meter": 7184
+    },
+    {
+      "line_no": "273",
+      "meter": 7184
+    },
+    {
+      "line_no": "349",
+      "meter": 18822
+    },
+    {
+      "line_no": "349",
+      "meter": 18822
+    }
+  ]
+}

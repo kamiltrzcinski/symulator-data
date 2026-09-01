@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710718,
+  "type": "TIMETABLE_POINT",
+  "name": "Kolbuszowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 36890
+    },
+    {
+      "line_no": "71",
+      "meter": 36890
+    },
+    {
+      "line_no": "71",
+      "meter": 36890
+    }
+  ]
+}

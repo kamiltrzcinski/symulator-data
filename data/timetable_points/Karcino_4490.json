@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710474,
+  "type": "TIMETABLE_POINT",
+  "name": "Karcino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 56920
+    },
+    {
+      "line_no": "402",
+      "meter": 56920
+    }
+  ]
+}

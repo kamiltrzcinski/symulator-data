@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712453,
+  "type": "TIMETABLE_POINT",
+  "name": "Panienka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "369",
+      "meter": 6361
+    },
+    {
+      "line_no": "369",
+      "meter": 6361
+    }
+  ]
+}

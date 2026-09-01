@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713295,
+  "type": "TIMETABLE_POINT",
+  "name": "Sanok Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 106874
+    },
+    {
+      "line_no": "108",
+      "meter": 106874
+    },
+    {
+      "line_no": "108",
+      "meter": 106874
+    },
+    {
+      "line_no": "108",
+      "meter": 106882
+    },
+    {
+      "line_no": "108",
+      "meter": 106882
+    }
+  ]
+}

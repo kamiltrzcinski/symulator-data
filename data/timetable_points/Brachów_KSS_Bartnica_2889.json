@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708873,
+  "type": "TIMETABLE_POINT",
+  "name": "Brach\u00f3w KSS Bartnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 269270
+    }
+  ]
+}

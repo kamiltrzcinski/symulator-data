@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713502,
+  "type": "TIMETABLE_POINT",
+  "name": "Smrok\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 287322
+    },
+    {
+      "line_no": "8",
+      "meter": 287322
+    },
+    {
+      "line_no": "8",
+      "meter": 287322
+    },
+    {
+      "line_no": "8",
+      "meter": 287322
+    },
+    {
+      "line_no": "8",
+      "meter": 287322
+    }
+  ]
+}

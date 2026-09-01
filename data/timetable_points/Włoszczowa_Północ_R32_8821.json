@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714805,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oszczowa P\u00f3\u0142noc R32",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 154739
+    },
+    {
+      "line_no": "582",
+      "meter": 3432
+    }
+  ]
+}

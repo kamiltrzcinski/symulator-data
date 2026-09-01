@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711130,
+  "type": "TIMETABLE_POINT",
+  "name": "Kucelinka R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 110258
+    },
+    {
+      "line_no": "61",
+      "meter": 110258
+    },
+    {
+      "line_no": "61",
+      "meter": 110258
+    },
+    {
+      "line_no": "61",
+      "meter": 110258
+    },
+    {
+      "line_no": "703",
+      "meter": 8
+    },
+    {
+      "line_no": "703",
+      "meter": 8
+    }
+  ]
+}

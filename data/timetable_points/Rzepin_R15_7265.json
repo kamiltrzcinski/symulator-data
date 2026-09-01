@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713249,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzepin R15",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 460455
+    },
+    {
+      "line_no": "3",
+      "meter": 460455
+    },
+    {
+      "line_no": "3",
+      "meter": 460455
+    },
+    {
+      "line_no": "981",
+      "meter": 0
+    },
+    {
+      "line_no": "981",
+      "meter": 0
+    },
+    {
+      "line_no": "981",
+      "meter": 0
+    }
+  ]
+}

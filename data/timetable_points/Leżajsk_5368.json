@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711352,
+  "type": "TIMETABLE_POINT",
+  "name": "Le\u017cajsk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 151186
+    },
+    {
+      "line_no": "68",
+      "meter": 151186
+    },
+    {
+      "line_no": "68",
+      "meter": 151411
+    },
+    {
+      "line_no": "68",
+      "meter": 151411
+    },
+    {
+      "line_no": "68",
+      "meter": 151418
+    },
+    {
+      "line_no": "68",
+      "meter": 151418
+    }
+  ]
+}

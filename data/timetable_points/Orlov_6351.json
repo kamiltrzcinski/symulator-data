@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712335,
+  "type": "TIMETABLE_POINT",
+  "name": "Orlov",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "487",
+      "meter": 70900
+    },
+    {
+      "line_no": "487",
+      "meter": 70900
+    },
+    {
+      "line_no": "487",
+      "meter": 71021
+    },
+    {
+      "line_no": "559",
+      "meter": 0
+    },
+    {
+      "line_no": "559",
+      "meter": 0
+    }
+  ]
+}

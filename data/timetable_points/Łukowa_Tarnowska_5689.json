@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711673,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141ukowa Tarnowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 9869
+    },
+    {
+      "line_no": "115",
+      "meter": 9869
+    }
+  ]
+}

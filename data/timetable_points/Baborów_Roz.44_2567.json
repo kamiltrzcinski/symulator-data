@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708551,
+  "type": "TIMETABLE_POINT",
+  "name": "Babor\u00f3w Roz.44",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 24526
+    },
+    {
+      "line_no": "325",
+      "meter": -240
+    },
+    {
+      "line_no": "325",
+      "meter": -240
+    },
+    {
+      "line_no": "325",
+      "meter": -154
+    }
+  ]
+}

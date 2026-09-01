@@ -1,0 +1,64 @@
+{
+  "uid": 3453153711308,
+  "type": "TIMETABLE_POINT",
+  "name": "Legnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 283905
+    },
+    {
+      "line_no": "137",
+      "meter": 283905
+    },
+    {
+      "line_no": "275",
+      "meter": 65113
+    },
+    {
+      "line_no": "275",
+      "meter": 65113
+    },
+    {
+      "line_no": "275",
+      "meter": 65113
+    },
+    {
+      "line_no": "275",
+      "meter": 65113
+    },
+    {
+      "line_no": "284",
+      "meter": 0
+    },
+    {
+      "line_no": "289",
+      "meter": 198
+    },
+    {
+      "line_no": "289",
+      "meter": 198
+    },
+    {
+      "line_no": "289",
+      "meter": 198
+    },
+    {
+      "line_no": "289",
+      "meter": 241
+    },
+    {
+      "line_no": "382",
+      "meter": 113304
+    },
+    {
+      "line_no": "749",
+      "meter": 2200
+    },
+    {
+      "line_no": "749",
+      "meter": 2200
+    }
+  ]
+}

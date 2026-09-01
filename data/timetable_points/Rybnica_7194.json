@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713178,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 136333
+    },
+    {
+      "line_no": "274",
+      "meter": 136333
+    },
+    {
+      "line_no": "274",
+      "meter": 136333
+    }
+  ]
+}

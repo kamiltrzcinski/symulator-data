@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713970,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczytna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "309",
+      "meter": 15977
+    },
+    {
+      "line_no": "309",
+      "meter": 15977
+    }
+  ]
+}

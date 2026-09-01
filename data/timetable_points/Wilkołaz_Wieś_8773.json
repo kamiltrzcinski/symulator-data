@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714757,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilko\u0142az Wie\u015b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 33265
+    },
+    {
+      "line_no": "68",
+      "meter": 33265
+    },
+    {
+      "line_no": "68",
+      "meter": 33265
+    },
+    {
+      "line_no": "68",
+      "meter": 33265
+    },
+    {
+      "line_no": "68",
+      "meter": 33266
+    },
+    {
+      "line_no": "68",
+      "meter": 33266
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710850,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcierzyna R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "211",
+      "meter": 70179
+    },
+    {
+      "line_no": "211",
+      "meter": 70179
+    }
+  ]
+}

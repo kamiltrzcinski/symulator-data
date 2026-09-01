@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711818,
+  "type": "TIMETABLE_POINT",
+  "name": "Miedwiecko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 181311
+    },
+    {
+      "line_no": "351",
+      "meter": 181311
+    },
+    {
+      "line_no": "351",
+      "meter": 181311
+    },
+    {
+      "line_no": "351",
+      "meter": 181311
+    }
+  ]
+}

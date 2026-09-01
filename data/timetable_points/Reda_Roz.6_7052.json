@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713036,
+  "type": "TIMETABLE_POINT",
+  "name": "Reda Roz.6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 34787
+    },
+    {
+      "line_no": "202",
+      "meter": 34787
+    },
+    {
+      "line_no": "202",
+      "meter": 34787
+    },
+    {
+      "line_no": "202",
+      "meter": 34787
+    },
+    {
+      "line_no": "213",
+      "meter": -749
+    },
+    {
+      "line_no": "213",
+      "meter": -749
+    }
+  ]
+}

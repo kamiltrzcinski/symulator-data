@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713059,
+  "type": "TIMETABLE_POINT",
+  "name": "Retkinia R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 2308
+    },
+    {
+      "line_no": "14",
+      "meter": 2319
+    },
+    {
+      "line_no": "14",
+      "meter": 2319
+    },
+    {
+      "line_no": "539",
+      "meter": 1715
+    },
+    {
+      "line_no": "539",
+      "meter": 1715
+    },
+    {
+      "line_no": "539",
+      "meter": 1752
+    }
+  ]
+}

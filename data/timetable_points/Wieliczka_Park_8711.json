@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714695,
+  "type": "TIMETABLE_POINT",
+  "name": "Wieliczka Park",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "109",
+      "meter": 4740
+    },
+    {
+      "line_no": "109",
+      "meter": 4741
+    },
+    {
+      "line_no": "109",
+      "meter": 4741
+    },
+    {
+      "line_no": "109",
+      "meter": 4741
+    },
+    {
+      "line_no": "109",
+      "meter": 4741
+    },
+    {
+      "line_no": "109",
+      "meter": 4741
+    }
+  ]
+}

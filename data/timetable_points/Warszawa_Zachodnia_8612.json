@@ -1,0 +1,312 @@
+{
+  "uid": 3453153714596,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 3082
+    },
+    {
+      "line_no": "1",
+      "meter": 3082
+    },
+    {
+      "line_no": "1",
+      "meter": 3082
+    },
+    {
+      "line_no": "1",
+      "meter": 3082
+    },
+    {
+      "line_no": "1",
+      "meter": 3082
+    },
+    {
+      "line_no": "1",
+      "meter": 3082
+    },
+    {
+      "line_no": "2",
+      "meter": -2619
+    },
+    {
+      "line_no": "2",
+      "meter": -2619
+    },
+    {
+      "line_no": "2",
+      "meter": -2619
+    },
+    {
+      "line_no": "2",
+      "meter": -2424
+    },
+    {
+      "line_no": "2",
+      "meter": -2424
+    },
+    {
+      "line_no": "3",
+      "meter": 3082
+    },
+    {
+      "line_no": "3",
+      "meter": 3082
+    },
+    {
+      "line_no": "3",
+      "meter": 3082
+    },
+    {
+      "line_no": "3",
+      "meter": 3082
+    },
+    {
+      "line_no": "8",
+      "meter": 3082
+    },
+    {
+      "line_no": "8",
+      "meter": 3082
+    },
+    {
+      "line_no": "8",
+      "meter": 3082
+    },
+    {
+      "line_no": "8",
+      "meter": 3082
+    },
+    {
+      "line_no": "8",
+      "meter": 3082
+    },
+    {
+      "line_no": "8",
+      "meter": 3082
+    },
+    {
+      "line_no": "20",
+      "meter": 4360
+    },
+    {
+      "line_no": "20",
+      "meter": 4360
+    },
+    {
+      "line_no": "20",
+      "meter": 4360
+    },
+    {
+      "line_no": "20",
+      "meter": 4360
+    },
+    {
+      "line_no": "23",
+      "meter": 2640
+    },
+    {
+      "line_no": "23",
+      "meter": 2640
+    },
+    {
+      "line_no": "23",
+      "meter": 2640
+    },
+    {
+      "line_no": "23",
+      "meter": 2650
+    },
+    {
+      "line_no": "23",
+      "meter": 2650
+    },
+    {
+      "line_no": "42",
+      "meter": 3083
+    },
+    {
+      "line_no": "42",
+      "meter": 3083
+    },
+    {
+      "line_no": "42",
+      "meter": 3324
+    },
+    {
+      "line_no": "42",
+      "meter": 3324
+    },
+    {
+      "line_no": "46",
+      "meter": 3082
+    },
+    {
+      "line_no": "46",
+      "meter": 3366
+    },
+    {
+      "line_no": "46",
+      "meter": 3366
+    },
+    {
+      "line_no": "46",
+      "meter": 3366
+    },
+    {
+      "line_no": "85",
+      "meter": 3082
+    },
+    {
+      "line_no": "85",
+      "meter": 3082
+    },
+    {
+      "line_no": "85",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "445",
+      "meter": 3082
+    },
+    {
+      "line_no": "447",
+      "meter": 3082
+    },
+    {
+      "line_no": "447",
+      "meter": 3082
+    },
+    {
+      "line_no": "447",
+      "meter": 3082
+    },
+    {
+      "line_no": "447",
+      "meter": 3082
+    },
+    {
+      "line_no": "447",
+      "meter": 3082
+    },
+    {
+      "line_no": "447",
+      "meter": 3082
+    },
+    {
+      "line_no": "448",
+      "meter": -2440
+    },
+    {
+      "line_no": "448",
+      "meter": -2440
+    },
+    {
+      "line_no": "448",
+      "meter": -2395
+    },
+    {
+      "line_no": "448",
+      "meter": -2395
+    },
+    {
+      "line_no": "448",
+      "meter": -2395
+    },
+    {
+      "line_no": "448",
+      "meter": -2395
+    },
+    {
+      "line_no": "784",
+      "meter": 4279
+    },
+    {
+      "line_no": "849",
+      "meter": 3710
+    },
+    {
+      "line_no": "849",
+      "meter": 3710
+    },
+    {
+      "line_no": "850",
+      "meter": 4290
+    },
+    {
+      "line_no": "918",
+      "meter": 3350
+    },
+    {
+      "line_no": "918",
+      "meter": 3350
+    },
+    {
+      "line_no": "918",
+      "meter": 3350
+    },
+    {
+      "line_no": "918",
+      "meter": 3350
+    },
+    {
+      "line_no": "919",
+      "meter": 3206
+    },
+    {
+      "line_no": "919",
+      "meter": 3208
+    },
+    {
+      "line_no": "919",
+      "meter": 3208
+    },
+    {
+      "line_no": "919",
+      "meter": 3208
+    },
+    {
+      "line_no": "919",
+      "meter": 3208
+    },
+    {
+      "line_no": "920",
+      "meter": 4381
+    },
+    {
+      "line_no": "920",
+      "meter": 4381
+    },
+    {
+      "line_no": "920",
+      "meter": 4381
+    }
+  ]
+}

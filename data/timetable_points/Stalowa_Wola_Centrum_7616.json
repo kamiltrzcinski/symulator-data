@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713600,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 105248
+    },
+    {
+      "line_no": "68",
+      "meter": 105248
+    },
+    {
+      "line_no": "68",
+      "meter": 105248
+    },
+    {
+      "line_no": "68",
+      "meter": 105350
+    },
+    {
+      "line_no": "68",
+      "meter": 105350
+    }
+  ]
+}

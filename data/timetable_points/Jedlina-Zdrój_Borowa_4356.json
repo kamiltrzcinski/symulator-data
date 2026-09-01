@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710340,
+  "type": "TIMETABLE_POINT",
+  "name": "Jedlina-Zdr\u00f3j Borowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "286",
+      "meter": 47636
+    },
+    {
+      "line_no": "286",
+      "meter": 47727
+    },
+    {
+      "line_no": "286",
+      "meter": 47727
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708641,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142a Podlaska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 172863
+    },
+    {
+      "line_no": "2",
+      "meter": 172863
+    },
+    {
+      "line_no": "2",
+      "meter": 172863
+    },
+    {
+      "line_no": "2",
+      "meter": 172863
+    },
+    {
+      "line_no": "2",
+      "meter": 172863
+    },
+    {
+      "line_no": "2",
+      "meter": 172863
+    }
+  ]
+}

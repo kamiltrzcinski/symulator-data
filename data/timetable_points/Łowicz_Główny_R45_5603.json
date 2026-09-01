@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711587,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141owicz G\u0142\u00f3wny R45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "11",
+      "meter": 21272
+    },
+    {
+      "line_no": "532",
+      "meter": 116
+    }
+  ]
+}

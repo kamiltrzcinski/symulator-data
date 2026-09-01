@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713046,
+  "type": "TIMETABLE_POINT",
+  "name": "Rejowiec Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 1909
+    },
+    {
+      "line_no": "69",
+      "meter": 1909
+    },
+    {
+      "line_no": "69",
+      "meter": 1909
+    },
+    {
+      "line_no": "69",
+      "meter": 1923
+    },
+    {
+      "line_no": "69",
+      "meter": 1923
+    },
+    {
+      "line_no": "563",
+      "meter": 1578
+    },
+    {
+      "line_no": "563",
+      "meter": 1578
+    },
+    {
+      "line_no": "563",
+      "meter": 1597
+    }
+  ]
+}

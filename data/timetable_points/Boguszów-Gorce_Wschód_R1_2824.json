@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708808,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogusz\u00f3w-Gorce Wsch\u00f3d R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 83568
+    },
+    {
+      "line_no": "274",
+      "meter": 83568
+    },
+    {
+      "line_no": "274",
+      "meter": 83568
+    },
+    {
+      "line_no": "274",
+      "meter": 83568
+    },
+    {
+      "line_no": "291",
+      "meter": 17433
+    },
+    {
+      "line_no": "291",
+      "meter": 17433
+    },
+    {
+      "line_no": "291",
+      "meter": 17433
+    }
+  ]
+}

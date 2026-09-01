@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710481,
+  "type": "TIMETABLE_POINT",
+  "name": "Karolin\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "81",
+      "meter": 7005
+    },
+    {
+      "line_no": "81",
+      "meter": 7078
+    }
+  ]
+}

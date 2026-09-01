@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713888,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Gum/Tan(Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "409",
+      "meter": 10069
+    },
+    {
+      "line_no": "409",
+      "meter": 10069
+    },
+    {
+      "line_no": "499",
+      "meter": 119500
+    },
+    {
+      "line_no": "499",
+      "meter": 119500
+    },
+    {
+      "line_no": "499",
+      "meter": 119585
+    }
+  ]
+}

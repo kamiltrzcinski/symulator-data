@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712779,
+  "type": "TIMETABLE_POINT",
+  "name": "Proboszczewice P\u0142ockie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 65558
+    },
+    {
+      "line_no": "33",
+      "meter": 65558
+    }
+  ]
+}

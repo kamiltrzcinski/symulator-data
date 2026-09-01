@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713746,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzegomek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 62583
+    },
+    {
+      "line_no": "70",
+      "meter": 62583
+    },
+    {
+      "line_no": "70",
+      "meter": 63090
+    },
+    {
+      "line_no": "70",
+      "meter": 63090
+    },
+    {
+      "line_no": "70",
+      "meter": 63090
+    },
+    {
+      "line_no": "70",
+      "meter": 63090
+    }
+  ]
+}

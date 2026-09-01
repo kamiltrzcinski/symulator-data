@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709996,
+  "type": "TIMETABLE_POINT",
+  "name": "Granica Pa\u0144stwa (HRADEK NAD NISOU)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "346",
+      "meter": 21769
+    },
+    {
+      "line_no": "346",
+      "meter": 21769
+    }
+  ]
+}

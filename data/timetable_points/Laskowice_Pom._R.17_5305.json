@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711289,
+  "type": "TIMETABLE_POINT",
+  "name": "Laskowice Pom. R.17",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 130990
+    },
+    {
+      "line_no": "208",
+      "meter": 130990
+    },
+    {
+      "line_no": "208",
+      "meter": 130990
+    },
+    {
+      "line_no": "208",
+      "meter": 130990
+    },
+    {
+      "line_no": "215",
+      "meter": -627
+    }
+  ]
+}

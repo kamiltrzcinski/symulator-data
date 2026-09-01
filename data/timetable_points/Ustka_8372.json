@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714356,
+  "type": "TIMETABLE_POINT",
+  "name": "Ustka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 192109
+    },
+    {
+      "line_no": "405",
+      "meter": 192109
+    },
+    {
+      "line_no": "405",
+      "meter": 192109
+    },
+    {
+      "line_no": "405",
+      "meter": 192250
+    },
+    {
+      "line_no": "405",
+      "meter": 192250
+    },
+    {
+      "line_no": "405",
+      "meter": 192250
+    }
+  ]
+}

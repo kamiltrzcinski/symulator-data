@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713229,
+  "type": "TIMETABLE_POINT",
+  "name": "Rynkowo Wiadukt",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 372550
+    },
+    {
+      "line_no": "131",
+      "meter": 372550
+    }
+  ]
+}

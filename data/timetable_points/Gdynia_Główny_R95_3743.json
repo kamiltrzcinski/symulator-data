@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709727,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia G\u0142\u00f3wny R95",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 22798
+    },
+    {
+      "line_no": "250",
+      "meter": 22798
+    },
+    {
+      "line_no": "250",
+      "meter": 22798
+    },
+    {
+      "line_no": "250",
+      "meter": 22798
+    },
+    {
+      "line_no": "250",
+      "meter": 22798
+    },
+    {
+      "line_no": "963",
+      "meter": 22810
+    },
+    {
+      "line_no": "963",
+      "meter": 22810
+    },
+    {
+      "line_no": "963",
+      "meter": 22810
+    }
+  ]
+}

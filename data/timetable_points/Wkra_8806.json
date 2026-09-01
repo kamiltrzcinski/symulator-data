@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714790,
+  "type": "TIMETABLE_POINT",
+  "name": "Wkra",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 14793
+    },
+    {
+      "line_no": "27",
+      "meter": 14793
+    }
+  ]
+}

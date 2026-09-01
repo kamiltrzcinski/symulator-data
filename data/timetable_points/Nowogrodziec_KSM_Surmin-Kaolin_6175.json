@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712159,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowogrodziec KSM Surmin-Kaolin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 53315
+    },
+    {
+      "line_no": "283",
+      "meter": 53315
+    },
+    {
+      "line_no": "283",
+      "meter": 53315
+    },
+    {
+      "line_no": "283",
+      "meter": 53315
+    },
+    {
+      "line_no": "283",
+      "meter": 53315
+    },
+    {
+      "line_no": "283",
+      "meter": 53315
+    }
+  ]
+}

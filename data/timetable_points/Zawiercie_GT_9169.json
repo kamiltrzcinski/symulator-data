@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715153,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawiercie GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "186",
+      "meter": 276000
+    },
+    {
+      "line_no": "186",
+      "meter": 276000
+    },
+    {
+      "line_no": "186",
+      "meter": 276000
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711432,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubart\u00f3w Lipowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 80900
+    },
+    {
+      "line_no": "30",
+      "meter": 80916
+    },
+    {
+      "line_no": "30",
+      "meter": 80916
+    },
+    {
+      "line_no": "30",
+      "meter": 80916
+    }
+  ]
+}

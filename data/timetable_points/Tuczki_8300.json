@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714284,
+  "type": "TIMETABLE_POINT",
+  "name": "Tuczki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 168668
+    },
+    {
+      "line_no": "9",
+      "meter": 168760
+    },
+    {
+      "line_no": "9",
+      "meter": 168760
+    }
+  ]
+}

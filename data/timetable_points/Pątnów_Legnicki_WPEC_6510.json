@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712494,
+  "type": "TIMETABLE_POINT",
+  "name": "P\u0105tn\u00f3w Legnicki WPEC",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "382",
+      "meter": 109521
+    }
+  ]
+}

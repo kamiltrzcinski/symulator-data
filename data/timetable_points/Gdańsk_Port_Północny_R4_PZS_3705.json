@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709689,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Port P\u00f3\u0142nocny R4 PZS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 12510
+    },
+    {
+      "line_no": "226",
+      "meter": 12510
+    },
+    {
+      "line_no": "226",
+      "meter": 12912
+    },
+    {
+      "line_no": "226",
+      "meter": 12912
+    },
+    {
+      "line_no": "226",
+      "meter": 12912
+    },
+    {
+      "line_no": "965",
+      "meter": 1
+    },
+    {
+      "line_no": "965",
+      "meter": 52
+    },
+    {
+      "line_no": "965",
+      "meter": 52
+    }
+  ]
+}

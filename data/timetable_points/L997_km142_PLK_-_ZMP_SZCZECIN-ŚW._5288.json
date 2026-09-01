@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711272,
+  "type": "TIMETABLE_POINT",
+  "name": "L997 km:,142 PLK - ZMP SZCZECIN-\u015aW.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "997",
+      "meter": 142
+    },
+    {
+      "line_no": "997",
+      "meter": 142
+    },
+    {
+      "line_no": "997",
+      "meter": 142
+    },
+    {
+      "line_no": "997",
+      "meter": 142
+    },
+    {
+      "line_no": "997",
+      "meter": 192
+    }
+  ]
+}

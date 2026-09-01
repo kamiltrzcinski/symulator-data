@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710124,
+  "type": "TIMETABLE_POINT",
+  "name": "Hucisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 61802
+    },
+    {
+      "line_no": "97",
+      "meter": 61802
+    },
+    {
+      "line_no": "97",
+      "meter": 61802
+    },
+    {
+      "line_no": "97",
+      "meter": 61802
+    }
+  ]
+}

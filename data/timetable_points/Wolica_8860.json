@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714844,
+  "type": "TIMETABLE_POINT",
+  "name": "Wolica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 207761
+    },
+    {
+      "line_no": "8",
+      "meter": 207761
+    },
+    {
+      "line_no": "8",
+      "meter": 207761
+    },
+    {
+      "line_no": "8",
+      "meter": 207761
+    },
+    {
+      "line_no": "8",
+      "meter": 207761
+    }
+  ]
+}

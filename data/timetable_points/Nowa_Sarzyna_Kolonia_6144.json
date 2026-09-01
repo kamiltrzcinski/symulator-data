@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712128,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Sarzyna Kolonia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 141390
+    },
+    {
+      "line_no": "68",
+      "meter": 141390
+    },
+    {
+      "line_no": "68",
+      "meter": 141390
+    },
+    {
+      "line_no": "68",
+      "meter": 141390
+    },
+    {
+      "line_no": "68",
+      "meter": 141390
+    },
+    {
+      "line_no": "68",
+      "meter": 141390
+    }
+  ]
+}

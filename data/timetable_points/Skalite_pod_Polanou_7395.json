@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713379,
+  "type": "TIMETABLE_POINT",
+  "name": "Skalite pod Polanou",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "489",
+      "meter": 15604
+    }
+  ]
+}

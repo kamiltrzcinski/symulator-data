@@ -1,0 +1,44 @@
+{
+  "uid": 3453153712857,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeworsk Towarowy R112",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 197130
+    },
+    {
+      "line_no": "91",
+      "meter": 197130
+    },
+    {
+      "line_no": "91",
+      "meter": 197130
+    },
+    {
+      "line_no": "91",
+      "meter": 197130
+    },
+    {
+      "line_no": "91",
+      "meter": 197130
+    },
+    {
+      "line_no": "91",
+      "meter": 197130
+    },
+    {
+      "line_no": "988",
+      "meter": 1890
+    },
+    {
+      "line_no": "988",
+      "meter": 1890
+    },
+    {
+      "line_no": "988",
+      "meter": 1890
+    }
+  ]
+}

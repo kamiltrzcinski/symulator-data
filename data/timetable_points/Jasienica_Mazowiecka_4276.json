@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710260,
+  "type": "TIMETABLE_POINT",
+  "name": "Jasienica Mazowiecka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 34814
+    },
+    {
+      "line_no": "6",
+      "meter": 34838
+    },
+    {
+      "line_no": "6",
+      "meter": 34838
+    },
+    {
+      "line_no": "6",
+      "meter": 34838
+    },
+    {
+      "line_no": "6",
+      "meter": 34838
+    }
+  ]
+}

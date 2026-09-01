@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714488,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Pow\u0105zki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 8928
+    }
+  ]
+}

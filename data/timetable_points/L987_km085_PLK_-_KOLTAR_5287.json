@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711271,
+  "type": "TIMETABLE_POINT",
+  "name": "L987 km:,085 PLK - KOLTAR",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "987",
+      "meter": 85
+    },
+    {
+      "line_no": "987",
+      "meter": 85
+    }
+  ]
+}

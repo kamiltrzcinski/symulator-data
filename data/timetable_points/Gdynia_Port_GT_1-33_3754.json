@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709738,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Port GT 1-33",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 208018
+    },
+    {
+      "line_no": "201",
+      "meter": 208604
+    },
+    {
+      "line_no": "201",
+      "meter": 208604
+    },
+    {
+      "line_no": "201",
+      "meter": 208604
+    },
+    {
+      "line_no": "961",
+      "meter": 1102
+    },
+    {
+      "line_no": "961",
+      "meter": 1102
+    },
+    {
+      "line_no": "961",
+      "meter": 1102
+    },
+    {
+      "line_no": "961",
+      "meter": 1102
+    }
+  ]
+}

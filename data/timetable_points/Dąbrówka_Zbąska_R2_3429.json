@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709413,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105br\u00f3wka Zb\u0105ska R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 387663
+    },
+    {
+      "line_no": "3",
+      "meter": 387663
+    },
+    {
+      "line_no": "820",
+      "meter": 4947
+    }
+  ]
+}

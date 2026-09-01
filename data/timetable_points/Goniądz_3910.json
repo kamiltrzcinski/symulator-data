@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709894,
+  "type": "TIMETABLE_POINT",
+  "name": "Goni\u0105dz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 52317
+    },
+    {
+      "line_no": "38",
+      "meter": 52317
+    },
+    {
+      "line_no": "38",
+      "meter": 52317
+    },
+    {
+      "line_no": "38",
+      "meter": 52350
+    },
+    {
+      "line_no": "38",
+      "meter": 52350
+    }
+  ]
+}

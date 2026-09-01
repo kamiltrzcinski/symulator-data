@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711227,
+  "type": "TIMETABLE_POINT",
+  "name": "L863 km:0 PLK - JSK Sp. z o.o.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "863",
+      "meter": 0
+    }
+  ]
+}

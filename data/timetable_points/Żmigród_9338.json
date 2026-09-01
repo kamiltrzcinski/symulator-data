@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715322,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017bmigr\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 47151
+    },
+    {
+      "line_no": "271",
+      "meter": 47151
+    },
+    {
+      "line_no": "271",
+      "meter": 47151
+    },
+    {
+      "line_no": "271",
+      "meter": 47151
+    }
+  ]
+}

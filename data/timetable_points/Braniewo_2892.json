@@ -1,0 +1,56 @@
+{
+  "uid": 3453153708876,
+  "type": "TIMETABLE_POINT",
+  "name": "Braniewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 83712
+    },
+    {
+      "line_no": "204",
+      "meter": 83712
+    },
+    {
+      "line_no": "204",
+      "meter": 83713
+    },
+    {
+      "line_no": "204",
+      "meter": 83713
+    },
+    {
+      "line_no": "217",
+      "meter": 54778
+    },
+    {
+      "line_no": "217",
+      "meter": 54778
+    },
+    {
+      "line_no": "217",
+      "meter": 54778
+    },
+    {
+      "line_no": "217",
+      "meter": 54778
+    },
+    {
+      "line_no": "221",
+      "meter": 87505
+    },
+    {
+      "line_no": "221",
+      "meter": 87505
+    },
+    {
+      "line_no": "221",
+      "meter": 87505
+    },
+    {
+      "line_no": "254",
+      "meter": 48201
+    }
+  ]
+}

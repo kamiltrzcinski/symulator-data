@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712400,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u015bwi\u0119cim PZS R15-19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "138",
+      "meter": 1115
+    },
+    {
+      "line_no": "138",
+      "meter": 1115
+    },
+    {
+      "line_no": "138",
+      "meter": 1115
+    },
+    {
+      "line_no": "138",
+      "meter": 1115
+    },
+    {
+      "line_no": "699",
+      "meter": 489
+    },
+    {
+      "line_no": "699",
+      "meter": 489
+    },
+    {
+      "line_no": "699",
+      "meter": 489
+    },
+    {
+      "line_no": "699",
+      "meter": 489
+    }
+  ]
+}

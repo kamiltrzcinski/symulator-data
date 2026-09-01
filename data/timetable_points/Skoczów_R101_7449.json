@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713433,
+  "type": "TIMETABLE_POINT",
+  "name": "Skocz\u00f3w R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 23721
+    },
+    {
+      "line_no": "157",
+      "meter": 23745
+    },
+    {
+      "line_no": "190",
+      "meter": 21506
+    },
+    {
+      "line_no": "190",
+      "meter": 21506
+    }
+  ]
+}

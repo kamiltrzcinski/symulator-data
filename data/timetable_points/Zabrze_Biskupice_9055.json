@@ -1,0 +1,88 @@
+{
+  "uid": 3453153715039,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Biskupice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 23160
+    },
+    {
+      "line_no": "132",
+      "meter": 23160
+    },
+    {
+      "line_no": "132",
+      "meter": 23160
+    },
+    {
+      "line_no": "132",
+      "meter": 23160
+    },
+    {
+      "line_no": "132",
+      "meter": 23160
+    },
+    {
+      "line_no": "147",
+      "meter": 0
+    },
+    {
+      "line_no": "147",
+      "meter": 0
+    },
+    {
+      "line_no": "147",
+      "meter": 0
+    },
+    {
+      "line_no": "147",
+      "meter": 0
+    },
+    {
+      "line_no": "147",
+      "meter": 0
+    },
+    {
+      "line_no": "147",
+      "meter": 0
+    },
+    {
+      "line_no": "188",
+      "meter": 23160
+    },
+    {
+      "line_no": "188",
+      "meter": 23160
+    },
+    {
+      "line_no": "188",
+      "meter": 23160
+    },
+    {
+      "line_no": "188",
+      "meter": 23160
+    },
+    {
+      "line_no": "188",
+      "meter": 23160
+    },
+    {
+      "line_no": "189",
+      "meter": 6210
+    },
+    {
+      "line_no": "189",
+      "meter": 6210
+    },
+    {
+      "line_no": "189",
+      "meter": 6210
+    },
+    {
+      "line_no": "189",
+      "meter": 6210
+    }
+  ]
+}

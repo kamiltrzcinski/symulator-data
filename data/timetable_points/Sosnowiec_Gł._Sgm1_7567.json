@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713551,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec G\u0142. Sgm1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 308347
+    },
+    {
+      "line_no": "1",
+      "meter": 308347
+    }
+  ]
+}

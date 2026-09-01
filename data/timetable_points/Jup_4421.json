@@ -1,0 +1,44 @@
+{
+  "uid": 3453153710405,
+  "type": "TIMETABLE_POINT",
+  "name": "Jup",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "145",
+      "meter": 9784
+    },
+    {
+      "line_no": "145",
+      "meter": 9784
+    },
+    {
+      "line_no": "145",
+      "meter": 9784
+    },
+    {
+      "line_no": "145",
+      "meter": 9900
+    },
+    {
+      "line_no": "145",
+      "meter": 9900
+    },
+    {
+      "line_no": "887",
+      "meter": 1
+    },
+    {
+      "line_no": "887",
+      "meter": 1
+    },
+    {
+      "line_no": "887",
+      "meter": 109
+    },
+    {
+      "line_no": "887",
+      "meter": 109
+    }
+  ]
+}

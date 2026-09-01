@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709349,
+  "type": "TIMETABLE_POINT",
+  "name": "Dal\u0119cino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 10548
+    }
+  ]
+}

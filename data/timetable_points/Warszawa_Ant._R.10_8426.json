@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714410,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ant. R.10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "546",
+      "meter": 7770
+    },
+    {
+      "line_no": "546",
+      "meter": 7770
+    },
+    {
+      "line_no": "546",
+      "meter": 7770
+    },
+    {
+      "line_no": "844",
+      "meter": 59
+    },
+    {
+      "line_no": "844",
+      "meter": 59
+    },
+    {
+      "line_no": "844",
+      "meter": 59
+    }
+  ]
+}

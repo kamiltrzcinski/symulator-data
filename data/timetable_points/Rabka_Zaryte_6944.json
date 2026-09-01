@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712928,
+  "type": "TIMETABLE_POINT",
+  "name": "Rabka Zaryte",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 5481
+    },
+    {
+      "line_no": "104",
+      "meter": 5481
+    },
+    {
+      "line_no": "104",
+      "meter": 5593
+    },
+    {
+      "line_no": "104",
+      "meter": 5593
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711806,
+  "type": "TIMETABLE_POINT",
+  "name": "Miasteczko \u015al\u0105skie Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "182",
+      "meter": 6500
+    },
+    {
+      "line_no": "182",
+      "meter": 6811
+    },
+    {
+      "line_no": "182",
+      "meter": 6811
+    }
+  ]
+}

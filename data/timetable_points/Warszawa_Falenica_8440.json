@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714424,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Falenica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 20581
+    },
+    {
+      "line_no": "7",
+      "meter": 20581
+    },
+    {
+      "line_no": "7",
+      "meter": 20581
+    },
+    {
+      "line_no": "7",
+      "meter": 21063
+    },
+    {
+      "line_no": "506",
+      "meter": 21063
+    }
+  ]
+}

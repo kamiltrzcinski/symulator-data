@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710383,
+  "type": "TIMETABLE_POINT",
+  "name": "Jeziorki Wa\u0142eckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 50835
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708851,
+  "type": "TIMETABLE_POINT",
+  "name": "Borowina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 16900
+    },
+    {
+      "line_no": "26",
+      "meter": 16900
+    },
+    {
+      "line_no": "26",
+      "meter": 16900
+    },
+    {
+      "line_no": "26",
+      "meter": 16900
+    },
+    {
+      "line_no": "26",
+      "meter": 16900
+    },
+    {
+      "line_no": "26",
+      "meter": 16922
+    }
+  ]
+}

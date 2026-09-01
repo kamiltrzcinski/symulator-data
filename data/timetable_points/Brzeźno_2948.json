@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708932,
+  "type": "TIMETABLE_POINT",
+  "name": "Brze\u017ano",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 257551
+    },
+    {
+      "line_no": "7",
+      "meter": 257551
+    },
+    {
+      "line_no": "7",
+      "meter": 257551
+    },
+    {
+      "line_no": "63",
+      "meter": 14000
+    },
+    {
+      "line_no": "63",
+      "meter": 14000
+    },
+    {
+      "line_no": "63",
+      "meter": 14000
+    }
+  ]
+}

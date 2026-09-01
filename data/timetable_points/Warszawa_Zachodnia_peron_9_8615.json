@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714599,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia peron 9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 4471
+    },
+    {
+      "line_no": "20",
+      "meter": 4600
+    },
+    {
+      "line_no": "20",
+      "meter": 4600
+    }
+  ]
+}

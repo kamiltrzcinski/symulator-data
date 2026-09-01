@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710587,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119pice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 146153
+    },
+    {
+      "line_no": "405",
+      "meter": 146252
+    },
+    {
+      "line_no": "405",
+      "meter": 146252
+    },
+    {
+      "line_no": "405",
+      "meter": 146252
+    }
+  ]
+}

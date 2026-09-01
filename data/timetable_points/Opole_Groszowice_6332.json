@@ -1,0 +1,48 @@
+{
+  "uid": 3453153712316,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Groszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 95769
+    },
+    {
+      "line_no": "132",
+      "meter": 95769
+    },
+    {
+      "line_no": "136",
+      "meter": 37510
+    },
+    {
+      "line_no": "136",
+      "meter": 37560
+    },
+    {
+      "line_no": "136",
+      "meter": 37560
+    },
+    {
+      "line_no": "277",
+      "meter": 0
+    },
+    {
+      "line_no": "277",
+      "meter": 0
+    },
+    {
+      "line_no": "277",
+      "meter": 0
+    },
+    {
+      "line_no": "280",
+      "meter": 0
+    },
+    {
+      "line_no": "280",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710475,
+  "type": "TIMETABLE_POINT",
+  "name": "Karczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 306285
+    },
+    {
+      "line_no": "131",
+      "meter": 306285
+    }
+  ]
+}

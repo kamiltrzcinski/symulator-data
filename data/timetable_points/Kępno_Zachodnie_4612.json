@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710596,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119pno Zachodnie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "307",
+      "meter": 39666
+    }
+  ]
+}

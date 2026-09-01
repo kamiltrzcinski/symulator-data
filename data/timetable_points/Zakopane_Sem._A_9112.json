@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715096,
+  "type": "TIMETABLE_POINT",
+  "name": "Zakopane Sem. A",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "99",
+      "meter": 41630
+    },
+    {
+      "line_no": "99",
+      "meter": 41630
+    },
+    {
+      "line_no": "99",
+      "meter": 41630
+    }
+  ]
+}

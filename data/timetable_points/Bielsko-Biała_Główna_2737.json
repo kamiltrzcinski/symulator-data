@@ -1,0 +1,60 @@
+{
+  "uid": 3453153708721,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielsko-Bia\u0142a G\u0142\u00f3wna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 58463
+    },
+    {
+      "line_no": "117",
+      "meter": 58463
+    },
+    {
+      "line_no": "117",
+      "meter": 58463
+    },
+    {
+      "line_no": "117",
+      "meter": 58463
+    },
+    {
+      "line_no": "139",
+      "meter": 55713
+    },
+    {
+      "line_no": "139",
+      "meter": 55713
+    },
+    {
+      "line_no": "139",
+      "meter": 55713
+    },
+    {
+      "line_no": "139",
+      "meter": 55713
+    },
+    {
+      "line_no": "190",
+      "meter": 0
+    },
+    {
+      "line_no": "190",
+      "meter": 0
+    },
+    {
+      "line_no": "190",
+      "meter": 0
+    },
+    {
+      "line_no": "190",
+      "meter": 0
+    },
+    {
+      "line_no": "190",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714269,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebinia TSB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "860",
+      "meter": 1543
+    }
+  ]
+}

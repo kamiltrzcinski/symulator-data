@@ -1,0 +1,64 @@
+{
+  "uid": 3453153712046,
+  "type": "TIMETABLE_POINT",
+  "name": "Nak\u0142o \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "127",
+      "meter": 30143
+    },
+    {
+      "line_no": "127",
+      "meter": 30143
+    },
+    {
+      "line_no": "127",
+      "meter": 30143
+    },
+    {
+      "line_no": "127",
+      "meter": 30143
+    },
+    {
+      "line_no": "127",
+      "meter": 30143
+    },
+    {
+      "line_no": "128",
+      "meter": 30143
+    },
+    {
+      "line_no": "128",
+      "meter": 30143
+    },
+    {
+      "line_no": "128",
+      "meter": 30143
+    },
+    {
+      "line_no": "128",
+      "meter": 30143
+    },
+    {
+      "line_no": "128",
+      "meter": 30143
+    },
+    {
+      "line_no": "131",
+      "meter": 30143
+    },
+    {
+      "line_no": "131",
+      "meter": 30143
+    },
+    {
+      "line_no": "131",
+      "meter": 30143
+    },
+    {
+      "line_no": "131",
+      "meter": 30143
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711951,
+  "type": "TIMETABLE_POINT",
+  "name": "Mordarka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 49118
+    },
+    {
+      "line_no": "104",
+      "meter": 49122
+    }
+  ]
+}

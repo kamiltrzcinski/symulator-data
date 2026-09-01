@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709417,
+  "type": "TIMETABLE_POINT",
+  "name": "Desna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "590",
+      "meter": 28822
+    },
+    {
+      "line_no": "590",
+      "meter": 28822
+    },
+    {
+      "line_no": "590",
+      "meter": 28822
+    },
+    {
+      "line_no": "590",
+      "meter": 28822
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710988,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 20408
+    },
+    {
+      "line_no": "95",
+      "meter": 20408
+    },
+    {
+      "line_no": "95",
+      "meter": 20408
+    },
+    {
+      "line_no": "95",
+      "meter": 20408
+    },
+    {
+      "line_no": "940",
+      "meter": 2531
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710658,
+  "type": "TIMETABLE_POINT",
+  "name": "Klonowo ko\u0142o Lidzbarka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 30175
+    },
+    {
+      "line_no": "208",
+      "meter": 30175
+    },
+    {
+      "line_no": "208",
+      "meter": 30175
+    },
+    {
+      "line_no": "208",
+      "meter": 30175
+    },
+    {
+      "line_no": "208",
+      "meter": 30175
+    }
+  ]
+}

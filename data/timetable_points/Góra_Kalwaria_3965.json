@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709949,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3ra Kalwaria",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 73563
+    },
+    {
+      "line_no": "12",
+      "meter": 73563
+    },
+    {
+      "line_no": "12",
+      "meter": 73563
+    },
+    {
+      "line_no": "12",
+      "meter": 73563
+    },
+    {
+      "line_no": "12",
+      "meter": 73563
+    }
+  ]
+}

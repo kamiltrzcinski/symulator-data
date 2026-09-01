@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708584,
+  "type": "TIMETABLE_POINT",
+  "name": "Bartnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "286",
+      "meter": 35210
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709497,
+  "type": "TIMETABLE_POINT",
+  "name": "Do\u0142uje",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "429",
+      "meter": 3769
+    },
+    {
+      "line_no": "429",
+      "meter": 3769
+    }
+  ]
+}

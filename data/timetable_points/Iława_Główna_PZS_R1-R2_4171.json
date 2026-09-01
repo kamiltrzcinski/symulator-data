@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710155,
+  "type": "TIMETABLE_POINT",
+  "name": "I\u0142awa G\u0142\u00f3wna PZS R1-R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 206765
+    },
+    {
+      "line_no": "967",
+      "meter": 10
+    },
+    {
+      "line_no": "968",
+      "meter": 11
+    }
+  ]
+}

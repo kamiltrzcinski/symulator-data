@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709653,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk G\u0142\u00f3wny R52",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "249",
+      "meter": 555
+    },
+    {
+      "line_no": "249",
+      "meter": 555
+    },
+    {
+      "line_no": "250",
+      "meter": 555
+    },
+    {
+      "line_no": "250",
+      "meter": 555
+    },
+    {
+      "line_no": "250",
+      "meter": 555
+    },
+    {
+      "line_no": "250",
+      "meter": 555
+    }
+  ]
+}

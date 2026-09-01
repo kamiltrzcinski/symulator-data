@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713818,
+  "type": "TIMETABLE_POINT",
+  "name": "Suszec Rudziczka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "148",
+      "meter": 17721
+    },
+    {
+      "line_no": "148",
+      "meter": 18096
+    },
+    {
+      "line_no": "148",
+      "meter": 18096
+    },
+    {
+      "line_no": "148",
+      "meter": 18096
+    },
+    {
+      "line_no": "878",
+      "meter": 21
+    },
+    {
+      "line_no": "878",
+      "meter": 21
+    },
+    {
+      "line_no": "878",
+      "meter": 21
+    }
+  ]
+}

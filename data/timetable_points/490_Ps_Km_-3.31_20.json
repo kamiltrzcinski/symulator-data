@@ -1,0 +1,12 @@
+{
+  "uid": 3453153706004,
+  "type": "TIMETABLE_POINT",
+  "name": "490 Ps Km -3.31",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "490",
+      "meter": -3310
+    }
+  ]
+}

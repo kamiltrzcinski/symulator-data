@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710518,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Mucho. Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 36431
+    }
+  ]
+}

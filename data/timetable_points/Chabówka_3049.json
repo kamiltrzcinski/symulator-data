@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709033,
+  "type": "TIMETABLE_POINT",
+  "name": "Chab\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 34737
+    },
+    {
+      "line_no": "98",
+      "meter": 34737
+    },
+    {
+      "line_no": "99",
+      "meter": 0
+    },
+    {
+      "line_no": "99",
+      "meter": 0
+    },
+    {
+      "line_no": "99",
+      "meter": 0
+    },
+    {
+      "line_no": "104",
+      "meter": 577
+    },
+    {
+      "line_no": "104",
+      "meter": 582
+    },
+    {
+      "line_no": "104",
+      "meter": 582
+    },
+    {
+      "line_no": "104",
+      "meter": 582
+    }
+  ]
+}

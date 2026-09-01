@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712062,
+  "type": "TIMETABLE_POINT",
+  "name": "Naterki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 289416
+    },
+    {
+      "line_no": "353",
+      "meter": 289416
+    },
+    {
+      "line_no": "353",
+      "meter": 289416
+    },
+    {
+      "line_no": "353",
+      "meter": 289416
+    }
+  ]
+}

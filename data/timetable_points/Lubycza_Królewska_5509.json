@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711493,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubycza Kr\u00f3lewska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 129900
+    },
+    {
+      "line_no": "69",
+      "meter": 129900
+    },
+    {
+      "line_no": "69",
+      "meter": 129900
+    }
+  ]
+}

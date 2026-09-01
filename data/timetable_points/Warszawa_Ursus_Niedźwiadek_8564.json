@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714548,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ursus Nied\u017awiadek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 10345
+    },
+    {
+      "line_no": "447",
+      "meter": 10345
+    },
+    {
+      "line_no": "447",
+      "meter": 10345
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709286,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerniewice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 38555
+    },
+    {
+      "line_no": "18",
+      "meter": 38555
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715242,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielonka R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 14400
+    },
+    {
+      "line_no": "6",
+      "meter": 14400
+    },
+    {
+      "line_no": "6",
+      "meter": 14411
+    },
+    {
+      "line_no": "6",
+      "meter": 14411
+    },
+    {
+      "line_no": "449",
+      "meter": 21451
+    },
+    {
+      "line_no": "449",
+      "meter": 21451
+    },
+    {
+      "line_no": "449",
+      "meter": 21462
+    },
+    {
+      "line_no": "449",
+      "meter": 21557
+    }
+  ]
+}

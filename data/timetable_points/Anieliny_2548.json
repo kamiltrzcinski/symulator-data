@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708532,
+  "type": "TIMETABLE_POINT",
+  "name": "Anieliny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 195140
+    },
+    {
+      "line_no": "18",
+      "meter": 195140
+    }
+  ]
+}

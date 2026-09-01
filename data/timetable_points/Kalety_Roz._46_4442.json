@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710426,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalety Roz. 46",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "129",
+      "meter": 49003
+    },
+    {
+      "line_no": "131",
+      "meter": 49003
+    },
+    {
+      "line_no": "131",
+      "meter": 49003
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709435,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119blin R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 59670
+    },
+    {
+      "line_no": "26",
+      "meter": 59676
+    },
+    {
+      "line_no": "26",
+      "meter": 59676
+    },
+    {
+      "line_no": "26",
+      "meter": 59676
+    },
+    {
+      "line_no": "26",
+      "meter": 59676
+    },
+    {
+      "line_no": "26",
+      "meter": 59768
+    },
+    {
+      "line_no": "770",
+      "meter": 0
+    },
+    {
+      "line_no": "770",
+      "meter": 0
+    }
+  ]
+}

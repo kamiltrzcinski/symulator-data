@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709275,
+  "type": "TIMETABLE_POINT",
+  "name": "Czepino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 338117
+    },
+    {
+      "line_no": "273",
+      "meter": 338117
+    },
+    {
+      "line_no": "273",
+      "meter": 338235
+    }
+  ]
+}

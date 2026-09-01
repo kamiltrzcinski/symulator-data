@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713602,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola Po\u0142udnie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 67554
+    },
+    {
+      "line_no": "66",
+      "meter": 67554
+    },
+    {
+      "line_no": "68",
+      "meter": 108638
+    },
+    {
+      "line_no": "68",
+      "meter": 108638
+    },
+    {
+      "line_no": "68",
+      "meter": 108638
+    },
+    {
+      "line_no": "68",
+      "meter": 108638
+    },
+    {
+      "line_no": "68",
+      "meter": 108638
+    }
+  ]
+}

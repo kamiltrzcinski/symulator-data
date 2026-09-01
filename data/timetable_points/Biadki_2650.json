@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708634,
+  "type": "TIMETABLE_POINT",
+  "name": "Biadki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 153880
+    },
+    {
+      "line_no": "14",
+      "meter": 153880
+    }
+  ]
+}

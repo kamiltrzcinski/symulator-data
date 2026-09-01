@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709165,
+  "type": "TIMETABLE_POINT",
+  "name": "Chybie R16",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "150",
+      "meter": 13459
+    },
+    {
+      "line_no": "150",
+      "meter": 13459
+    },
+    {
+      "line_no": "150",
+      "meter": 13459
+    },
+    {
+      "line_no": "157",
+      "meter": 11532
+    },
+    {
+      "line_no": "157",
+      "meter": 11532
+    }
+  ]
+}

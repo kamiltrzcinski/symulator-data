@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714557,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wile\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "21",
+      "meter": 62
+    },
+    {
+      "line_no": "21",
+      "meter": 62
+    },
+    {
+      "line_no": "21",
+      "meter": 63
+    },
+    {
+      "line_no": "21",
+      "meter": 63
+    },
+    {
+      "line_no": "21",
+      "meter": 63
+    }
+  ]
+}

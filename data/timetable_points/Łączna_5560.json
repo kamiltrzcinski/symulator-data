@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711544,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u0105czna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 160271
+    },
+    {
+      "line_no": "8",
+      "meter": 160271
+    },
+    {
+      "line_no": "8",
+      "meter": 160271
+    },
+    {
+      "line_no": "8",
+      "meter": 160274
+    },
+    {
+      "line_no": "8",
+      "meter": 160274
+    }
+  ]
+}

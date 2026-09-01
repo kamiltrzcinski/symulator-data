@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708891,
+  "type": "TIMETABLE_POINT",
+  "name": "Brodnica Roz.47",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 142124
+    },
+    {
+      "line_no": "33",
+      "meter": 142124
+    }
+  ]
+}

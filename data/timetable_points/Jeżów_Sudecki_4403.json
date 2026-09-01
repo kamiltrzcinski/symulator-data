@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710387,
+  "type": "TIMETABLE_POINT",
+  "name": "Je\u017c\u00f3w Sudecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 3519
+    },
+    {
+      "line_no": "283",
+      "meter": 3519
+    },
+    {
+      "line_no": "283",
+      "meter": 3519
+    },
+    {
+      "line_no": "283",
+      "meter": 3519
+    },
+    {
+      "line_no": "283",
+      "meter": 3560
+    },
+    {
+      "line_no": "283",
+      "meter": 3560
+    },
+    {
+      "line_no": "283",
+      "meter": 3560
+    }
+  ]
+}

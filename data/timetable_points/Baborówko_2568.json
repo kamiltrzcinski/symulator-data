@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708552,
+  "type": "TIMETABLE_POINT",
+  "name": "Babor\u00f3wko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 29000
+    },
+    {
+      "line_no": "351",
+      "meter": 29425
+    },
+    {
+      "line_no": "351",
+      "meter": 29425
+    },
+    {
+      "line_no": "351",
+      "meter": 29425
+    },
+    {
+      "line_no": "351",
+      "meter": 29425
+    }
+  ]
+}

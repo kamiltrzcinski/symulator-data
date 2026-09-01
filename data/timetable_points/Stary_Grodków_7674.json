@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713658,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary Grodk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "288",
+      "meter": 21438
+    },
+    {
+      "line_no": "288",
+      "meter": 21438
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713405,
+  "type": "TIMETABLE_POINT",
+  "name": "Skawina R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 14788
+    },
+    {
+      "line_no": "94",
+      "meter": 14788
+    },
+    {
+      "line_no": "94",
+      "meter": 14789
+    },
+    {
+      "line_no": "94",
+      "meter": 14789
+    },
+    {
+      "line_no": "94",
+      "meter": 14789
+    },
+    {
+      "line_no": "97",
+      "meter": -685
+    },
+    {
+      "line_no": "97",
+      "meter": -683
+    }
+  ]
+}

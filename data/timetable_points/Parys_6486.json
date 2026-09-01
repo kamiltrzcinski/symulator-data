@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712470,
+  "type": "TIMETABLE_POINT",
+  "name": "Parys",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 370661
+    },
+    {
+      "line_no": "353",
+      "meter": 370760
+    },
+    {
+      "line_no": "353",
+      "meter": 370760
+    }
+  ]
+}

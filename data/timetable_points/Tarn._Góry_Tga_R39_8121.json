@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714105,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn. G\u00f3ry Tga R39",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "950",
+      "meter": 667
+    },
+    {
+      "line_no": "950",
+      "meter": 667
+    },
+    {
+      "line_no": "950",
+      "meter": 667
+    },
+    {
+      "line_no": "951",
+      "meter": 0
+    },
+    {
+      "line_no": "951",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709281,
+  "type": "TIMETABLE_POINT",
+  "name": "Czermno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 103717
+    },
+    {
+      "line_no": "27",
+      "meter": 103717
+    }
+  ]
+}

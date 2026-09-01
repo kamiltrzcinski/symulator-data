@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713053,
+  "type": "TIMETABLE_POINT",
+  "name": "Rekowo L\u0119borskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 55107
+    },
+    {
+      "line_no": "230",
+      "meter": 55107
+    },
+    {
+      "line_no": "230",
+      "meter": 55107
+    }
+  ]
+}

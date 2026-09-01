@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715233,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielona G\u00f3ra Nowy Kisielin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 144848
+    },
+    {
+      "line_no": "273",
+      "meter": 144848
+    },
+    {
+      "line_no": "273",
+      "meter": 144848
+    },
+    {
+      "line_no": "273",
+      "meter": 144848
+    }
+  ]
+}

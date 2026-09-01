@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713156,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudziniec Gliwicki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 49056
+    },
+    {
+      "line_no": "137",
+      "meter": 49056
+    },
+    {
+      "line_no": "137",
+      "meter": 49056
+    },
+    {
+      "line_no": "153",
+      "meter": 19426
+    },
+    {
+      "line_no": "153",
+      "meter": 19426
+    },
+    {
+      "line_no": "153",
+      "meter": 19426
+    },
+    {
+      "line_no": "153",
+      "meter": 19426
+    },
+    {
+      "line_no": "199",
+      "meter": 49056
+    },
+    {
+      "line_no": "199",
+      "meter": 49056
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709444,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bostr\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 31305
+    },
+    {
+      "line_no": "406",
+      "meter": 31305
+    },
+    {
+      "line_no": "406",
+      "meter": 31305
+    }
+  ]
+}

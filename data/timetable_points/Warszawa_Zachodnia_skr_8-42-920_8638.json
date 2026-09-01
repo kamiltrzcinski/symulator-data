@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714622,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia skr 8-42-920",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 3617
+    },
+    {
+      "line_no": "42",
+      "meter": 3793
+    },
+    {
+      "line_no": "920",
+      "meter": 4145
+    }
+  ]
+}

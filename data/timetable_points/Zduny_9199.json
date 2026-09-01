@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715183,
+  "type": "TIMETABLE_POINT",
+  "name": "Zduny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 56606
+    },
+    {
+      "line_no": "281",
+      "meter": 56606
+    },
+    {
+      "line_no": "281",
+      "meter": 56606
+    }
+  ]
+}

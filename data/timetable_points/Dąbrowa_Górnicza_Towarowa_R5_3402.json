@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709386,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Towarowa R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "154",
+      "meter": 15182
+    },
+    {
+      "line_no": "154",
+      "meter": 15182
+    },
+    {
+      "line_no": "661",
+      "meter": 0
+    }
+  ]
+}

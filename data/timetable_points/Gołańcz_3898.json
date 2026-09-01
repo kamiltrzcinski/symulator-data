@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709882,
+  "type": "TIMETABLE_POINT",
+  "name": "Go\u0142a\u0144cz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 70904
+    },
+    {
+      "line_no": "356",
+      "meter": 70904
+    }
+  ]
+}

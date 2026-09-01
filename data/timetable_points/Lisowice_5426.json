@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711410,
+  "type": "TIMETABLE_POINT",
+  "name": "Lisowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 156680
+    },
+    {
+      "line_no": "61",
+      "meter": 156680
+    },
+    {
+      "line_no": "61",
+      "meter": 156795
+    },
+    {
+      "line_no": "61",
+      "meter": 156795
+    },
+    {
+      "line_no": "61",
+      "meter": 156795
+    }
+  ]
+}

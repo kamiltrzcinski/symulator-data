@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714294,
+  "type": "TIMETABLE_POINT",
+  "name": "Turczyn Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 172489
+    },
+    {
+      "line_no": "6",
+      "meter": 172489
+    },
+    {
+      "line_no": "6",
+      "meter": 172489
+    },
+    {
+      "line_no": "6",
+      "meter": 172489
+    },
+    {
+      "line_no": "516",
+      "meter": -11
+    }
+  ]
+}

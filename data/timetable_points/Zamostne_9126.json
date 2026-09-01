@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715110,
+  "type": "TIMETABLE_POINT",
+  "name": "Zamostne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 9939
+    },
+    {
+      "line_no": "230",
+      "meter": 9939
+    },
+    {
+      "line_no": "230",
+      "meter": 9939
+    }
+  ]
+}

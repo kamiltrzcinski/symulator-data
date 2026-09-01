@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714107,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn. G\u00f3ry Tge R895",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 39560
+    },
+    {
+      "line_no": "131",
+      "meter": 39560
+    },
+    {
+      "line_no": "131",
+      "meter": 39560
+    },
+    {
+      "line_no": "950",
+      "meter": 6020
+    },
+    {
+      "line_no": "950",
+      "meter": 6020
+    },
+    {
+      "line_no": "950",
+      "meter": 6020
+    }
+  ]
+}

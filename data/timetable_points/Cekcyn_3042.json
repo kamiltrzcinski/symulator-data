@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709026,
+  "type": "TIMETABLE_POINT",
+  "name": "Cekcyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 163980
+    },
+    {
+      "line_no": "208",
+      "meter": 163980
+    },
+    {
+      "line_no": "208",
+      "meter": 163980
+    },
+    {
+      "line_no": "208",
+      "meter": 163980
+    },
+    {
+      "line_no": "208",
+      "meter": 163980
+    }
+  ]
+}

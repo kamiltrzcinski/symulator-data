@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713098,
+  "type": "TIMETABLE_POINT",
+  "name": "Roszk\u00f3w Raciborski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "151",
+      "meter": 47974
+    },
+    {
+      "line_no": "151",
+      "meter": 48007
+    },
+    {
+      "line_no": "151",
+      "meter": 48007
+    },
+    {
+      "line_no": "151",
+      "meter": 48007
+    }
+  ]
+}

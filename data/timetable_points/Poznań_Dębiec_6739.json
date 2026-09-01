@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712723,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 D\u0119biec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 160758
+    },
+    {
+      "line_no": "271",
+      "meter": 160758
+    },
+    {
+      "line_no": "271",
+      "meter": 160758
+    }
+  ]
+}

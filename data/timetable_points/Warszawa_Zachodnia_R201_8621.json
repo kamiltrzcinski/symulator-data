@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714605,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R201",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 2384
+    },
+    {
+      "line_no": "448",
+      "meter": -2384
+    },
+    {
+      "line_no": "448",
+      "meter": -2384
+    }
+  ]
+}

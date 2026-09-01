@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714845,
+  "type": "TIMETABLE_POINT",
+  "name": "Wolin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 68729
+    },
+    {
+      "line_no": "401",
+      "meter": 68729
+    },
+    {
+      "line_no": "401",
+      "meter": 68729
+    }
+  ]
+}

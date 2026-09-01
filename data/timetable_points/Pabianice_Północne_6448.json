@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712432,
+  "type": "TIMETABLE_POINT",
+  "name": "Pabianice P\u00f3\u0142nocne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 12946
+    }
+  ]
+}

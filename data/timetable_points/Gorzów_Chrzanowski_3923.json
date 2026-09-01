@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709907,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorz\u00f3w Chrzanowski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 20510
+    },
+    {
+      "line_no": "93",
+      "meter": 20510
+    },
+    {
+      "line_no": "93",
+      "meter": 20510
+    }
+  ]
+}

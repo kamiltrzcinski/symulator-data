@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712054,
+  "type": "TIMETABLE_POINT",
+  "name": "Namy\u015blin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 266730
+    },
+    {
+      "line_no": "273",
+      "meter": 266730
+    }
+  ]
+}

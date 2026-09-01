@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709618,
+  "type": "TIMETABLE_POINT",
+  "name": "Gajewniki Roz.7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 39916
+    },
+    {
+      "line_no": "14",
+      "meter": 39916
+    },
+    {
+      "line_no": "543",
+      "meter": 74
+    }
+  ]
+}

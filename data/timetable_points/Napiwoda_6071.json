@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712055,
+  "type": "TIMETABLE_POINT",
+  "name": "Napiwoda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "225",
+      "meter": 7571
+    },
+    {
+      "line_no": "225",
+      "meter": 7571
+    },
+    {
+      "line_no": "225",
+      "meter": 7571
+    },
+    {
+      "line_no": "225",
+      "meter": 7571
+    },
+    {
+      "line_no": "225",
+      "meter": 7571
+    }
+  ]
+}

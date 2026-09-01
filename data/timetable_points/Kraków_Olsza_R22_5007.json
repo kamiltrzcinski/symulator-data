@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710991,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Olsza R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 8190
+    },
+    {
+      "line_no": "100",
+      "meter": 8190
+    },
+    {
+      "line_no": "100",
+      "meter": 8190
+    },
+    {
+      "line_no": "947",
+      "meter": -65
+    },
+    {
+      "line_no": "947",
+      "meter": -65
+    }
+  ]
+}

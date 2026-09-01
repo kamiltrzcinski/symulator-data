@@ -1,0 +1,16 @@
+{
+  "uid": 3453153706001,
+  "type": "TIMETABLE_POINT",
+  "name": "353 Ps Km. 97.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 97500
+    },
+    {
+      "line_no": "353",
+      "meter": 97500
+    }
+  ]
+}

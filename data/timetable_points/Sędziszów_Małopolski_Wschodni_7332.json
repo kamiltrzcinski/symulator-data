@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713316,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0119dzisz\u00f3w Ma\u0142opolski Wschodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 134330
+    }
+  ]
+}

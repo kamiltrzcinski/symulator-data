@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711540,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141azy \u0141b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "154",
+      "meter": -256
+    },
+    {
+      "line_no": "160",
+      "meter": 280655
+    },
+    {
+      "line_no": "160",
+      "meter": 280655
+    },
+    {
+      "line_no": "186",
+      "meter": 280450
+    }
+  ]
+}

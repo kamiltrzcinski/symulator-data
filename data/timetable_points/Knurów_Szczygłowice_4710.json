@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710694,
+  "type": "TIMETABLE_POINT",
+  "name": "Knur\u00f3w Szczyg\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "149",
+      "meter": 16090
+    },
+    {
+      "line_no": "149",
+      "meter": 16090
+    }
+  ]
+}

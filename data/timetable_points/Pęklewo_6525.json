@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712509,
+  "type": "TIMETABLE_POINT",
+  "name": "P\u0119klewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 19202
+    },
+    {
+      "line_no": "254",
+      "meter": 19202
+    }
+  ]
+}

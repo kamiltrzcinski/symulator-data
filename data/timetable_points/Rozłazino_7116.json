@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713100,
+  "type": "TIMETABLE_POINT",
+  "name": "Roz\u0142azino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 88878
+    },
+    {
+      "line_no": "229",
+      "meter": 88878
+    },
+    {
+      "line_no": "229",
+      "meter": 88878
+    }
+  ]
+}

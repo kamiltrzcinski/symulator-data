@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712304,
+  "type": "TIMETABLE_POINT",
+  "name": "Opoczno Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 92700
+    },
+    {
+      "line_no": "4",
+      "meter": 92700
+    }
+  ]
+}

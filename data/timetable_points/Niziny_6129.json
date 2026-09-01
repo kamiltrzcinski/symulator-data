@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712113,
+  "type": "TIMETABLE_POINT",
+  "name": "Niziny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 230376
+    },
+    {
+      "line_no": "91",
+      "meter": 230376
+    },
+    {
+      "line_no": "91",
+      "meter": 230376
+    },
+    {
+      "line_no": "91",
+      "meter": 230393
+    },
+    {
+      "line_no": "91",
+      "meter": 230393
+    },
+    {
+      "line_no": "91",
+      "meter": 230393
+    }
+  ]
+}

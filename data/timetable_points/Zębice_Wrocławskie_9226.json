@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715210,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0119bice Wroc\u0142awskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 167205
+    },
+    {
+      "line_no": "132",
+      "meter": 167205
+    },
+    {
+      "line_no": "132",
+      "meter": 167205
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715034,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaborze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 15059
+    },
+    {
+      "line_no": "157",
+      "meter": 15140
+    },
+    {
+      "line_no": "157",
+      "meter": 15140
+    },
+    {
+      "line_no": "157",
+      "meter": 15140
+    }
+  ]
+}

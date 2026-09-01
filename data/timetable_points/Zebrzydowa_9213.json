@@ -1,0 +1,56 @@
+{
+  "uid": 3453153715197,
+  "type": "TIMETABLE_POINT",
+  "name": "Zebrzydowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 49073
+    },
+    {
+      "line_no": "282",
+      "meter": 49073
+    },
+    {
+      "line_no": "282",
+      "meter": 49073
+    },
+    {
+      "line_no": "283",
+      "meter": 60376
+    },
+    {
+      "line_no": "283",
+      "meter": 60376
+    },
+    {
+      "line_no": "283",
+      "meter": 60376
+    },
+    {
+      "line_no": "283",
+      "meter": 61030
+    },
+    {
+      "line_no": "283",
+      "meter": 61030
+    },
+    {
+      "line_no": "283",
+      "meter": 61030
+    },
+    {
+      "line_no": "283",
+      "meter": 61030
+    },
+    {
+      "line_no": "283",
+      "meter": 61030
+    },
+    {
+      "line_no": "283",
+      "meter": 61030
+    }
+  ]
+}

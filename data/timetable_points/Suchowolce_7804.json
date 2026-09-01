@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713788,
+  "type": "TIMETABLE_POINT",
+  "name": "Suchowolce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 12940
+    },
+    {
+      "line_no": "32",
+      "meter": 12940
+    },
+    {
+      "line_no": "32",
+      "meter": 12940
+    },
+    {
+      "line_no": "32",
+      "meter": 12940
+    },
+    {
+      "line_no": "32",
+      "meter": 13007
+    },
+    {
+      "line_no": "32",
+      "meter": 13007
+    }
+  ]
+}

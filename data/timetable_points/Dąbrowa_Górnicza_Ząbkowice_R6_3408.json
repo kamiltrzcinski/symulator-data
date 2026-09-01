@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709392,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Z\u0105bkowice R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "133",
+      "meter": -1224
+    },
+    {
+      "line_no": "133",
+      "meter": -1224
+    },
+    {
+      "line_no": "133",
+      "meter": -1224
+    },
+    {
+      "line_no": "160",
+      "meter": 291680
+    },
+    {
+      "line_no": "160",
+      "meter": 291680
+    },
+    {
+      "line_no": "160",
+      "meter": 291680
+    }
+  ]
+}

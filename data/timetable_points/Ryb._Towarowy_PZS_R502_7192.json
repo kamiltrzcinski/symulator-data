@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713176,
+  "type": "TIMETABLE_POINT",
+  "name": "Ryb. Towarowy PZS R502",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 44755
+    },
+    {
+      "line_no": "140",
+      "meter": 44818
+    },
+    {
+      "line_no": "959",
+      "meter": 1329
+    }
+  ]
+}

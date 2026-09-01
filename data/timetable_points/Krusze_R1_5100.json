@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711084,
+  "type": "TIMETABLE_POINT",
+  "name": "Krusze R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "10",
+      "meter": 30763
+    },
+    {
+      "line_no": "10",
+      "meter": 30763
+    },
+    {
+      "line_no": "10",
+      "meter": 30763
+    },
+    {
+      "line_no": "13",
+      "meter": -269
+    },
+    {
+      "line_no": "13",
+      "meter": -269
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713324,
+  "type": "TIMETABLE_POINT",
+  "name": "Siechnice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 82380
+    },
+    {
+      "line_no": "277",
+      "meter": 82380
+    },
+    {
+      "line_no": "277",
+      "meter": 82380
+    },
+    {
+      "line_no": "277",
+      "meter": 82380
+    },
+    {
+      "line_no": "277",
+      "meter": 82380
+    },
+    {
+      "line_no": "277",
+      "meter": 82380
+    },
+    {
+      "line_no": "764",
+      "meter": 0
+    },
+    {
+      "line_no": "764",
+      "meter": 0
+    },
+    {
+      "line_no": "764",
+      "meter": 0
+    },
+    {
+      "line_no": "764",
+      "meter": 0
+    }
+  ]
+}

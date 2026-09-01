@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711212,
+  "type": "TIMETABLE_POINT",
+  "name": "L341 KM:5,118 PLK - Um W. Dolno\u015bl.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "341",
+      "meter": 5118
+    },
+    {
+      "line_no": "341",
+      "meter": 5118
+    }
+  ]
+}

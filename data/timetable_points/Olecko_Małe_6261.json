@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712245,
+  "type": "TIMETABLE_POINT",
+  "name": "Olecko Ma\u0142e",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 20213
+    },
+    {
+      "line_no": "41",
+      "meter": 20265
+    },
+    {
+      "line_no": "41",
+      "meter": 20265
+    },
+    {
+      "line_no": "41",
+      "meter": 20265
+    }
+  ]
+}

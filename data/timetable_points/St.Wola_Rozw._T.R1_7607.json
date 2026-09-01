@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713591,
+  "type": "TIMETABLE_POINT",
+  "name": "St.Wola Rozw. T.R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 22419
+    },
+    {
+      "line_no": "74",
+      "meter": 22419
+    },
+    {
+      "line_no": "565",
+      "meter": 955
+    },
+    {
+      "line_no": "565",
+      "meter": 955
+    }
+  ]
+}

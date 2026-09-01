@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709471,
+  "type": "TIMETABLE_POINT",
+  "name": "Doboszowice Bocznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 172382
+    }
+  ]
+}

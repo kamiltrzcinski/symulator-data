@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710962,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Mydlniki R21",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 882
+    },
+    {
+      "line_no": "95",
+      "meter": 882
+    },
+    {
+      "line_no": "100",
+      "meter": 881
+    },
+    {
+      "line_no": "100",
+      "meter": 881
+    },
+    {
+      "line_no": "100",
+      "meter": 881
+    }
+  ]
+}

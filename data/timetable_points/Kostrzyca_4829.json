@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710813,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "308",
+      "meter": 27766
+    },
+    {
+      "line_no": "308",
+      "meter": 27766
+    },
+    {
+      "line_no": "308",
+      "meter": 27766
+    }
+  ]
+}

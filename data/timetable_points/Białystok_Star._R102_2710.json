@@ -1,0 +1,52 @@
+{
+  "uid": 3453153708694,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok Star. R102",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "515",
+      "meter": 1813
+    },
+    {
+      "line_no": "515",
+      "meter": 1813
+    },
+    {
+      "line_no": "515",
+      "meter": 1813
+    },
+    {
+      "line_no": "515",
+      "meter": 1813
+    },
+    {
+      "line_no": "515",
+      "meter": 1848
+    },
+    {
+      "line_no": "516",
+      "meter": 1532
+    },
+    {
+      "line_no": "516",
+      "meter": 1546
+    },
+    {
+      "line_no": "516",
+      "meter": 1546
+    },
+    {
+      "line_no": "516",
+      "meter": 1917
+    },
+    {
+      "line_no": "516",
+      "meter": 1917
+    },
+    {
+      "line_no": "516",
+      "meter": 1917
+    }
+  ]
+}

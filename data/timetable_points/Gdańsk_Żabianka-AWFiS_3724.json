@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709708,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk \u017babianka-AWFiS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 9270
+    },
+    {
+      "line_no": "250",
+      "meter": 9270
+    },
+    {
+      "line_no": "250",
+      "meter": 9270
+    },
+    {
+      "line_no": "250",
+      "meter": 9270
+    },
+    {
+      "line_no": "250",
+      "meter": 9275
+    },
+    {
+      "line_no": "250",
+      "meter": 9275
+    }
+  ]
+}

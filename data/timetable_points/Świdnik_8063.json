@@ -1,0 +1,64 @@
+{
+  "uid": 3453153714047,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awidnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 185244
+    },
+    {
+      "line_no": "7",
+      "meter": 185244
+    },
+    {
+      "line_no": "7",
+      "meter": 185244
+    },
+    {
+      "line_no": "67",
+      "meter": 8099
+    },
+    {
+      "line_no": "67",
+      "meter": 8099
+    },
+    {
+      "line_no": "67",
+      "meter": 8099
+    },
+    {
+      "line_no": "67",
+      "meter": 8099
+    },
+    {
+      "line_no": "67",
+      "meter": 8100
+    },
+    {
+      "line_no": "67",
+      "meter": 8100
+    },
+    {
+      "line_no": "581",
+      "meter": 0
+    },
+    {
+      "line_no": "581",
+      "meter": 0
+    },
+    {
+      "line_no": "581",
+      "meter": 0
+    },
+    {
+      "line_no": "581",
+      "meter": 0
+    },
+    {
+      "line_no": "581",
+      "meter": 0
+    }
+  ]
+}

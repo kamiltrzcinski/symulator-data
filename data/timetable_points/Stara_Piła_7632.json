@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713616,
+  "type": "TIMETABLE_POINT",
+  "name": "Stara Pi\u0142a",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 24773
+    },
+    {
+      "line_no": "229",
+      "meter": 24773
+    },
+    {
+      "line_no": "229",
+      "meter": 24893
+    },
+    {
+      "line_no": "229",
+      "meter": 24893
+    },
+    {
+      "line_no": "234",
+      "meter": 19292
+    },
+    {
+      "line_no": "234",
+      "meter": 19340
+    },
+    {
+      "line_no": "234",
+      "meter": 19340
+    }
+  ]
+}

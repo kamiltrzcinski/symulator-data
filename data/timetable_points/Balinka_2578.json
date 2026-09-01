@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708562,
+  "type": "TIMETABLE_POINT",
+  "name": "Balinka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 54234
+    },
+    {
+      "line_no": "40",
+      "meter": 54242
+    },
+    {
+      "line_no": "40",
+      "meter": 54243
+    }
+  ]
+}

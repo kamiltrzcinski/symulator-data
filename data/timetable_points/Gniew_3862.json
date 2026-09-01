@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709846,
+  "type": "TIMETABLE_POINT",
+  "name": "Gniew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "244",
+      "meter": 11239
+    },
+    {
+      "line_no": "244",
+      "meter": 11239
+    }
+  ]
+}

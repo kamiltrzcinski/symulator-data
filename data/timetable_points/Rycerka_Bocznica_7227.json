@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713211,
+  "type": "TIMETABLE_POINT",
+  "name": "Rycerka Bocznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 101758
+    },
+    {
+      "line_no": "139",
+      "meter": 101758
+    },
+    {
+      "line_no": "139",
+      "meter": 101758
+    },
+    {
+      "line_no": "139",
+      "meter": 101758
+    }
+  ]
+}

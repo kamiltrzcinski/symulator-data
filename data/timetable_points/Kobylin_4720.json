@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710704,
+  "type": "TIMETABLE_POINT",
+  "name": "Kobylin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 180268
+    },
+    {
+      "line_no": "14",
+      "meter": 180268
+    },
+    {
+      "line_no": "362",
+      "meter": 666
+    },
+    {
+      "line_no": "362",
+      "meter": 666
+    },
+    {
+      "line_no": "362",
+      "meter": 719
+    }
+  ]
+}

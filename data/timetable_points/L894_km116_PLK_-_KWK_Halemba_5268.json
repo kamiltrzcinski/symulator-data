@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711252,
+  "type": "TIMETABLE_POINT",
+  "name": "L894 km:,116 PLK - KWK Halemba",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "894",
+      "meter": 116
+    },
+    {
+      "line_no": "894",
+      "meter": 116
+    }
+  ]
+}

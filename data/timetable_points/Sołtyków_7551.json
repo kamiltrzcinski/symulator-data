@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713535,
+  "type": "TIMETABLE_POINT",
+  "name": "So\u0142tyk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 128270
+    },
+    {
+      "line_no": "25",
+      "meter": 128460
+    },
+    {
+      "line_no": "25",
+      "meter": 128460
+    }
+  ]
+}

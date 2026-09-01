@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708784,
+  "type": "TIMETABLE_POINT",
+  "name": "Bocznica Kral",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 17440
+    },
+    {
+      "line_no": "213",
+      "meter": 17440
+    },
+    {
+      "line_no": "213",
+      "meter": 17440
+    }
+  ]
+}

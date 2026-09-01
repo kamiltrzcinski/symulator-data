@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711144,
+  "type": "TIMETABLE_POINT",
+  "name": "Kun\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 181990
+    },
+    {
+      "line_no": "25",
+      "meter": 181990
+    },
+    {
+      "line_no": "25",
+      "meter": 181990
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714271,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebionka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "114",
+      "meter": 2199
+    },
+    {
+      "line_no": "114",
+      "meter": 2199
+    },
+    {
+      "line_no": "114",
+      "meter": 2199
+    },
+    {
+      "line_no": "114",
+      "meter": 2199
+    }
+  ]
+}

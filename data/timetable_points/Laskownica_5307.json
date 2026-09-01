@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711291,
+  "type": "TIMETABLE_POINT",
+  "name": "Laskownica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 65624
+    }
+  ]
+}

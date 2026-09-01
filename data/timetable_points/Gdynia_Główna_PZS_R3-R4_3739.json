@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709723,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia G\u0142\u00f3wna PZS R3-R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 203687
+    },
+    {
+      "line_no": "201",
+      "meter": 203687
+    },
+    {
+      "line_no": "250",
+      "meter": 19920
+    }
+  ]
+}

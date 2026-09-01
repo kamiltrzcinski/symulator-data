@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709781,
+  "type": "TIMETABLE_POINT",
+  "name": "Glinnik Wie\u015b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 51480
+    },
+    {
+      "line_no": "15",
+      "meter": 51480
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153710604,
+  "type": "TIMETABLE_POINT",
+  "name": "Kiekrz R17",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 13386
+    },
+    {
+      "line_no": "351",
+      "meter": 13427
+    },
+    {
+      "line_no": "351",
+      "meter": 13427
+    },
+    {
+      "line_no": "351",
+      "meter": 13427
+    },
+    {
+      "line_no": "351",
+      "meter": 13427
+    },
+    {
+      "line_no": "351",
+      "meter": 13571
+    },
+    {
+      "line_no": "395",
+      "meter": 20837
+    },
+    {
+      "line_no": "395",
+      "meter": 20843
+    },
+    {
+      "line_no": "395",
+      "meter": 20886
+    },
+    {
+      "line_no": "395",
+      "meter": 21024
+    }
+  ]
+}

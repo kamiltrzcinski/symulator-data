@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708833,
+  "type": "TIMETABLE_POINT",
+  "name": "Boreczek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 26122
+    },
+    {
+      "line_no": "276",
+      "meter": 26122
+    }
+  ]
+}

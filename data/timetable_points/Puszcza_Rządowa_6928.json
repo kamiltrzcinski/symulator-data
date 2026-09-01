@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712912,
+  "type": "TIMETABLE_POINT",
+  "name": "Puszcza Rz\u0105dowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 108800
+    },
+    {
+      "line_no": "33",
+      "meter": 108800
+    }
+  ]
+}

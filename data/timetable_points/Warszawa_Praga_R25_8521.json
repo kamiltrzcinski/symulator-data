@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714505,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 13592
+    },
+    {
+      "line_no": "20",
+      "meter": 13592
+    },
+    {
+      "line_no": "20",
+      "meter": 13630
+    },
+    {
+      "line_no": "20",
+      "meter": 13630
+    },
+    {
+      "line_no": "504",
+      "meter": 80
+    },
+    {
+      "line_no": "504",
+      "meter": 80
+    },
+    {
+      "line_no": "504",
+      "meter": 13630
+    },
+    {
+      "line_no": "504",
+      "meter": 13630
+    }
+  ]
+}

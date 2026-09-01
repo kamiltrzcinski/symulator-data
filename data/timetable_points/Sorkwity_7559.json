@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713543,
+  "type": "TIMETABLE_POINT",
+  "name": "Sorkwity",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 22903
+    },
+    {
+      "line_no": "223",
+      "meter": 22903
+    },
+    {
+      "line_no": "223",
+      "meter": 22903
+    },
+    {
+      "line_no": "223",
+      "meter": 22938
+    },
+    {
+      "line_no": "223",
+      "meter": 22938
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710784,
+  "type": "TIMETABLE_POINT",
+  "name": "Kopalina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 62800
+    },
+    {
+      "line_no": "277",
+      "meter": 62800
+    },
+    {
+      "line_no": "277",
+      "meter": 62800
+    }
+  ]
+}

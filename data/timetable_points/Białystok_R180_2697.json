@@ -1,0 +1,44 @@
+{
+  "uid": 3453153708681,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok R180",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 177469
+    },
+    {
+      "line_no": "6",
+      "meter": 177469
+    },
+    {
+      "line_no": "6",
+      "meter": 177469
+    },
+    {
+      "line_no": "6",
+      "meter": 177469
+    },
+    {
+      "line_no": "6",
+      "meter": 177549
+    },
+    {
+      "line_no": "38",
+      "meter": -245
+    },
+    {
+      "line_no": "38",
+      "meter": -244
+    },
+    {
+      "line_no": "38",
+      "meter": -164
+    },
+    {
+      "line_no": "38",
+      "meter": -164
+    }
+  ]
+}

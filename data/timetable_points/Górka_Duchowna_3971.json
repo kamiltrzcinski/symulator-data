@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709955,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3rka Duchowna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 107885
+    },
+    {
+      "line_no": "271",
+      "meter": 107885
+    },
+    {
+      "line_no": "271",
+      "meter": 107885
+    },
+    {
+      "line_no": "271",
+      "meter": 107898
+    },
+    {
+      "line_no": "271",
+      "meter": 107898
+    }
+  ]
+}

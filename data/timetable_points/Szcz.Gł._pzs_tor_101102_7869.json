@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713853,
+  "type": "TIMETABLE_POINT",
+  "name": "Szcz.G\u0142. pzs tor 101,102",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 1257
+    },
+    {
+      "line_no": "406",
+      "meter": 1510
+    },
+    {
+      "line_no": "406",
+      "meter": 1510
+    },
+    {
+      "line_no": "433",
+      "meter": 95
+    },
+    {
+      "line_no": "433",
+      "meter": 240
+    },
+    {
+      "line_no": "433",
+      "meter": 240
+    }
+  ]
+}

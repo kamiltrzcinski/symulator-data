@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709361,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105bD\u0105browa G\u00f3rnicza Z\u0105bkowice R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 291750
+    },
+    {
+      "line_no": "1",
+      "meter": 291750
+    },
+    {
+      "line_no": "1",
+      "meter": 291750
+    },
+    {
+      "line_no": "183",
+      "meter": -1131
+    }
+  ]
+}

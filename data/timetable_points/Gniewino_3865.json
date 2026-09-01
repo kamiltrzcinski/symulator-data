@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709849,
+  "type": "TIMETABLE_POINT",
+  "name": "Gniewino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 23314
+    },
+    {
+      "line_no": "230",
+      "meter": 23314
+    },
+    {
+      "line_no": "230",
+      "meter": 23314
+    },
+    {
+      "line_no": "230",
+      "meter": 23314
+    }
+  ]
+}

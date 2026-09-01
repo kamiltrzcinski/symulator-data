@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714298,
+  "type": "TIMETABLE_POINT",
+  "name": "Turowo Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 64752
+    },
+    {
+      "line_no": "405",
+      "meter": 64752
+    },
+    {
+      "line_no": "405",
+      "meter": 64752
+    }
+  ]
+}

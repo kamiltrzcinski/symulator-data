@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711138,
+  "type": "TIMETABLE_POINT",
+  "name": "Kunice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 58980
+    },
+    {
+      "line_no": "275",
+      "meter": 58980
+    }
+  ]
+}

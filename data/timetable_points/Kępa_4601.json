@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710585,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119pa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 95305
+    },
+    {
+      "line_no": "68",
+      "meter": 95318
+    },
+    {
+      "line_no": "68",
+      "meter": 95318
+    },
+    {
+      "line_no": "68",
+      "meter": 95318
+    },
+    {
+      "line_no": "68",
+      "meter": 95318
+    }
+  ]
+}

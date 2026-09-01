@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710669,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142obuczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 295385
+    },
+    {
+      "line_no": "14",
+      "meter": 295385
+    },
+    {
+      "line_no": "14",
+      "meter": 295750
+    },
+    {
+      "line_no": "14",
+      "meter": 295750
+    },
+    {
+      "line_no": "14",
+      "meter": 295750
+    },
+    {
+      "line_no": "14",
+      "meter": 295750
+    }
+  ]
+}

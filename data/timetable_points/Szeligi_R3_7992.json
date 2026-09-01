@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713976,
+  "type": "TIMETABLE_POINT",
+  "name": "Szeligi R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 21697
+    },
+    {
+      "line_no": "4",
+      "meter": 21731
+    },
+    {
+      "line_no": "4",
+      "meter": 21731
+    },
+    {
+      "line_no": "4",
+      "meter": 23640
+    },
+    {
+      "line_no": "575",
+      "meter": -1916
+    },
+    {
+      "line_no": "575",
+      "meter": -167
+    },
+    {
+      "line_no": "575",
+      "meter": -142
+    }
+  ]
+}

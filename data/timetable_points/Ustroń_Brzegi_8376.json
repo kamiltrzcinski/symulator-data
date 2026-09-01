@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714360,
+  "type": "TIMETABLE_POINT",
+  "name": "Ustro\u0144 Brzegi",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "191",
+      "meter": 8024
+    },
+    {
+      "line_no": "191",
+      "meter": 8027
+    }
+  ]
+}

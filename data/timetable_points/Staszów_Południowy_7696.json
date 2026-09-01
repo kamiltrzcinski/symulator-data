@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713680,
+  "type": "TIMETABLE_POINT",
+  "name": "Stasz\u00f3w Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 230296
+    }
+  ]
+}

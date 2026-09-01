@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712725,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Fran.Pfd S-St",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "806",
+      "meter": 0
+    },
+    {
+      "line_no": "823",
+      "meter": 0
+    },
+    {
+      "line_no": "824",
+      "meter": 2480
+    },
+    {
+      "line_no": "824",
+      "meter": 2481
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709488,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobrzyniewo Du\u017ce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 15112
+    },
+    {
+      "line_no": "38",
+      "meter": 15112
+    },
+    {
+      "line_no": "38",
+      "meter": 15112
+    },
+    {
+      "line_no": "38",
+      "meter": 15147
+    },
+    {
+      "line_no": "38",
+      "meter": 15147
+    },
+    {
+      "line_no": "38",
+      "meter": 15147
+    }
+  ]
+}

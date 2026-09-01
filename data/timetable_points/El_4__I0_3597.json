@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709581,
+  "type": "TIMETABLE_POINT",
+  "name": "El 4 , {{I0}}",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "495",
+      "meter": 15000
+    }
+  ]
+}

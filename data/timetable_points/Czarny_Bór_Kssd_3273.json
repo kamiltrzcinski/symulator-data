@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709257,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarny B\u00f3r Kssd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "976",
+      "meter": 1499
+    },
+    {
+      "line_no": "976",
+      "meter": 1499
+    },
+    {
+      "line_no": "976",
+      "meter": 1499
+    }
+  ]
+}

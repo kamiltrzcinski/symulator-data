@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712233,
+  "type": "TIMETABLE_POINT",
+  "name": "Okle\u015bna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "103",
+      "meter": 17943
+    },
+    {
+      "line_no": "103",
+      "meter": 17943
+    },
+    {
+      "line_no": "103",
+      "meter": 17943
+    }
+  ]
+}

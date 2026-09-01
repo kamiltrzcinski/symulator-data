@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710745,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142obrzeg Ogrody",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 97499
+    },
+    {
+      "line_no": "404",
+      "meter": 97499
+    }
+  ]
+}

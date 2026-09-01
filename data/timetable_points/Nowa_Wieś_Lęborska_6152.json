@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712136,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b L\u0119borska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 105525
+    },
+    {
+      "line_no": "229",
+      "meter": 105588
+    },
+    {
+      "line_no": "229",
+      "meter": 105588
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid": 3453153712530,
+  "type": "TIMETABLE_POINT",
+  "name": "Piekary \u015al\u0105skie Szarlej",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "145",
+      "meter": 12265
+    },
+    {
+      "line_no": "145",
+      "meter": 12265
+    },
+    {
+      "line_no": "145",
+      "meter": 12265
+    },
+    {
+      "line_no": "145",
+      "meter": 12804
+    },
+    {
+      "line_no": "145",
+      "meter": 12804
+    },
+    {
+      "line_no": "145",
+      "meter": 12804
+    },
+    {
+      "line_no": "145",
+      "meter": 12804
+    },
+    {
+      "line_no": "716",
+      "meter": 526
+    },
+    {
+      "line_no": "716",
+      "meter": 526
+    },
+    {
+      "line_no": "716",
+      "meter": 527
+    },
+    {
+      "line_no": "716",
+      "meter": 527
+    },
+    {
+      "line_no": "716",
+      "meter": 527
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709484,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobrzech\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "106",
+      "meter": 35210
+    },
+    {
+      "line_no": "106",
+      "meter": 35329
+    },
+    {
+      "line_no": "106",
+      "meter": 35449
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714333,
+  "type": "TIMETABLE_POINT",
+  "name": "Ubocze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 165963
+    },
+    {
+      "line_no": "274",
+      "meter": 165963
+    }
+  ]
+}

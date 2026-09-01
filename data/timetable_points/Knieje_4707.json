@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710691,
+  "type": "TIMETABLE_POINT",
+  "name": "Knieje",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "156",
+      "meter": 8573
+    },
+    {
+      "line_no": "156",
+      "meter": 8573
+    }
+  ]
+}

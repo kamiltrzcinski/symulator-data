@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711091,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 42460
+    },
+    {
+      "line_no": "69",
+      "meter": 42460
+    },
+    {
+      "line_no": "69",
+      "meter": 42460
+    },
+    {
+      "line_no": "69",
+      "meter": 43012
+    },
+    {
+      "line_no": "69",
+      "meter": 43012
+    },
+    {
+      "line_no": "69",
+      "meter": 43012
+    },
+    {
+      "line_no": "69",
+      "meter": 43012
+    },
+    {
+      "line_no": "69",
+      "meter": 43012
+    }
+  ]
+}

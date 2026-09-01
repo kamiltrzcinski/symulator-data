@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708578,
+  "type": "TIMETABLE_POINT",
+  "name": "Bar\u0142ogi Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 165689
+    },
+    {
+      "line_no": "3",
+      "meter": 165689
+    },
+    {
+      "line_no": "737",
+      "meter": 3637
+    }
+  ]
+}

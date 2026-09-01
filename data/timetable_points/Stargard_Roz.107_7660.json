@@ -1,0 +1,56 @@
+{
+  "uid": 3453153713644,
+  "type": "TIMETABLE_POINT",
+  "name": "Stargard Roz.107",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 173596
+    },
+    {
+      "line_no": "351",
+      "meter": 173605
+    },
+    {
+      "line_no": "351",
+      "meter": 173605
+    },
+    {
+      "line_no": "351",
+      "meter": 173605
+    },
+    {
+      "line_no": "351",
+      "meter": 173605
+    },
+    {
+      "line_no": "351",
+      "meter": 173605
+    },
+    {
+      "line_no": "351",
+      "meter": 173605
+    },
+    {
+      "line_no": "411",
+      "meter": -302
+    },
+    {
+      "line_no": "411",
+      "meter": -300
+    },
+    {
+      "line_no": "411",
+      "meter": -300
+    },
+    {
+      "line_no": "411",
+      "meter": -300
+    },
+    {
+      "line_no": "411",
+      "meter": -300
+    }
+  ]
+}

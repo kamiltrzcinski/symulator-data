@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714983,
+  "type": "TIMETABLE_POINT",
+  "name": "Wrze\u015bnia R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 136581
+    },
+    {
+      "line_no": "281",
+      "meter": 136581
+    },
+    {
+      "line_no": "281",
+      "meter": 136581
+    },
+    {
+      "line_no": "808",
+      "meter": -1109
+    },
+    {
+      "line_no": "808",
+      "meter": -1109
+    }
+  ]
+}

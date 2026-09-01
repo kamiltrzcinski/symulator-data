@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708990,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz G\u0142\u00f3wna Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 161220
+    },
+    {
+      "line_no": "18",
+      "meter": 161220
+    },
+    {
+      "line_no": "131",
+      "meter": 369148
+    },
+    {
+      "line_no": "131",
+      "meter": 369148
+    },
+    {
+      "line_no": "356",
+      "meter": 126400
+    },
+    {
+      "line_no": "745",
+      "meter": 1379
+    }
+  ]
+}

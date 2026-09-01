@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709238,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek Zachodni R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 64520
+    },
+    {
+      "line_no": "12",
+      "meter": 64520
+    },
+    {
+      "line_no": "12",
+      "meter": 64520
+    },
+    {
+      "line_no": "528",
+      "meter": 180
+    },
+    {
+      "line_no": "528",
+      "meter": 180
+    }
+  ]
+}

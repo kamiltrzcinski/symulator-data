@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712496,
+  "type": "TIMETABLE_POINT",
+  "name": "Pelplin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 477619
+    },
+    {
+      "line_no": "131",
+      "meter": 477619
+    }
+  ]
+}

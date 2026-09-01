@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709759,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Stocznia-Uniwersytet Morski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 21819
+    },
+    {
+      "line_no": "250",
+      "meter": 21819
+    },
+    {
+      "line_no": "250",
+      "meter": 21819
+    },
+    {
+      "line_no": "250",
+      "meter": 21819
+    },
+    {
+      "line_no": "250",
+      "meter": 21834
+    },
+    {
+      "line_no": "250",
+      "meter": 21834
+    },
+    {
+      "line_no": "250",
+      "meter": 21834
+    }
+  ]
+}

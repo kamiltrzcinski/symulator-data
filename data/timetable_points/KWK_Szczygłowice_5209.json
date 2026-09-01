@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711193,
+  "type": "TIMETABLE_POINT",
+  "name": "KWK Szczyg\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "859",
+      "meter": 825
+    },
+    {
+      "line_no": "859",
+      "meter": 825
+    },
+    {
+      "line_no": "859",
+      "meter": 825
+    }
+  ]
+}

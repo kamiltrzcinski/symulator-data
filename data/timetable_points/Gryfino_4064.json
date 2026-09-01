@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710048,
+  "type": "TIMETABLE_POINT",
+  "name": "Gryfino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 334406
+    },
+    {
+      "line_no": "273",
+      "meter": 334406
+    }
+  ]
+}

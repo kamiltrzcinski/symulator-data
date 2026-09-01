@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713181,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Ko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "957",
+      "meter": 1937
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711719,
+  "type": "TIMETABLE_POINT",
+  "name": "Malichy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 14268
+    }
+  ]
+}

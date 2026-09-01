@@ -1,0 +1,48 @@
+{
+  "uid": 3453153708539,
+  "type": "TIMETABLE_POINT",
+  "name": "Asig",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "490",
+      "meter": 300
+    },
+    {
+      "line_no": "490",
+      "meter": 2400
+    },
+    {
+      "line_no": "490",
+      "meter": 3100
+    },
+    {
+      "line_no": "491",
+      "meter": 22100
+    },
+    {
+      "line_no": "492",
+      "meter": 81100
+    },
+    {
+      "line_no": "493",
+      "meter": 252400
+    },
+    {
+      "line_no": "494",
+      "meter": 600
+    },
+    {
+      "line_no": "495",
+      "meter": 20900
+    },
+    {
+      "line_no": "498",
+      "meter": 24600
+    },
+    {
+      "line_no": "499",
+      "meter": 111300
+    }
+  ]
+}

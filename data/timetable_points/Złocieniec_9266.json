@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715250,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0142ocieniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 113787
+    },
+    {
+      "line_no": "210",
+      "meter": 113787
+    },
+    {
+      "line_no": "210",
+      "meter": 113787
+    },
+    {
+      "line_no": "410",
+      "meter": 65341
+    },
+    {
+      "line_no": "410",
+      "meter": 65341
+    },
+    {
+      "line_no": "410",
+      "meter": 65341
+    },
+    {
+      "line_no": "410",
+      "meter": 65341
+    },
+    {
+      "line_no": "410",
+      "meter": 65341
+    }
+  ]
+}

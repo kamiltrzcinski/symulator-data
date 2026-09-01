@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714776,
+  "type": "TIMETABLE_POINT",
+  "name": "Wis\u0142a Uzdrowisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "191",
+      "meter": 14610
+    },
+    {
+      "line_no": "191",
+      "meter": 14610
+    },
+    {
+      "line_no": "191",
+      "meter": 14610
+    }
+  ]
+}

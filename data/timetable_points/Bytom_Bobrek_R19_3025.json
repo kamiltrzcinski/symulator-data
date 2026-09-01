@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709009,
+  "type": "TIMETABLE_POINT",
+  "name": "Bytom Bobrek R19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 20292
+    },
+    {
+      "line_no": "132",
+      "meter": 20300
+    },
+    {
+      "line_no": "132",
+      "meter": 20300
+    },
+    {
+      "line_no": "132",
+      "meter": 20300
+    },
+    {
+      "line_no": "188",
+      "meter": 20300
+    },
+    {
+      "line_no": "188",
+      "meter": 20300
+    },
+    {
+      "line_no": "188",
+      "meter": 20300
+    }
+  ]
+}

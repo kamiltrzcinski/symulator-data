@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711118,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzy\u017c",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 237939
+    },
+    {
+      "line_no": "203",
+      "meter": 237939
+    },
+    {
+      "line_no": "203",
+      "meter": 237939
+    },
+    {
+      "line_no": "351",
+      "meter": 83728
+    },
+    {
+      "line_no": "351",
+      "meter": 83728
+    },
+    {
+      "line_no": "351",
+      "meter": 83728
+    },
+    {
+      "line_no": "351",
+      "meter": 83728
+    }
+  ]
+}

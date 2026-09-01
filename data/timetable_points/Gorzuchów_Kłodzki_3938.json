@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709922,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorzuch\u00f3w K\u0142odzki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "286",
+      "meter": 7610
+    },
+    {
+      "line_no": "286",
+      "meter": 7610
+    }
+  ]
+}

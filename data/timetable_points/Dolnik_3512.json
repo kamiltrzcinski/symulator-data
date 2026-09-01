@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709496,
+  "type": "TIMETABLE_POINT",
+  "name": "Dolnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 161457
+    },
+    {
+      "line_no": "203",
+      "meter": 161457
+    }
+  ]
+}

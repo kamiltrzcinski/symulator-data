@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712408,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u015bwi\u0119cim Roz.130",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 26027
+    },
+    {
+      "line_no": "93",
+      "meter": 26216
+    },
+    {
+      "line_no": "93",
+      "meter": 26216
+    },
+    {
+      "line_no": "882",
+      "meter": -1588
+    },
+    {
+      "line_no": "882",
+      "meter": -1151
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715052,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze P\u00f3\u0142nocne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "147",
+      "meter": 3772
+    },
+    {
+      "line_no": "147",
+      "meter": 3772
+    }
+  ]
+}

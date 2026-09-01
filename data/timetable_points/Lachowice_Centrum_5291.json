@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711275,
+  "type": "TIMETABLE_POINT",
+  "name": "Lachowice Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 55200
+    },
+    {
+      "line_no": "97",
+      "meter": 55200
+    },
+    {
+      "line_no": "97",
+      "meter": 55219
+    }
+  ]
+}

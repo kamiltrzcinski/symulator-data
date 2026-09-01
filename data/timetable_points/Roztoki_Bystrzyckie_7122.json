@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713106,
+  "type": "TIMETABLE_POINT",
+  "name": "Roztoki Bystrzyckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 124705
+    },
+    {
+      "line_no": "276",
+      "meter": 124705
+    }
+  ]
+}

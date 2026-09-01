@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714419,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Cz. R.629",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "42",
+      "meter": 4553
+    },
+    {
+      "line_no": "42",
+      "meter": 4553
+    },
+    {
+      "line_no": "42",
+      "meter": 4553
+    },
+    {
+      "line_no": "46",
+      "meter": 4553
+    },
+    {
+      "line_no": "46",
+      "meter": 4553
+    }
+  ]
+}

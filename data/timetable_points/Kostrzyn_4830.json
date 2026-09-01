@@ -1,0 +1,52 @@
+{
+  "uid": 3453153710814,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 340362
+    },
+    {
+      "line_no": "203",
+      "meter": 340362
+    },
+    {
+      "line_no": "203",
+      "meter": 340562
+    },
+    {
+      "line_no": "273",
+      "meter": 255485
+    },
+    {
+      "line_no": "273",
+      "meter": 255485
+    },
+    {
+      "line_no": "273",
+      "meter": 255485
+    },
+    {
+      "line_no": "273",
+      "meter": 255485
+    },
+    {
+      "line_no": "430",
+      "meter": 240452
+    },
+    {
+      "line_no": "430",
+      "meter": 240452
+    },
+    {
+      "line_no": "827",
+      "meter": 1200
+    },
+    {
+      "line_no": "828",
+      "meter": 800
+    }
+  ]
+}

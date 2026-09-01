@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715214,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgierz Jaracza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 15612
+    },
+    {
+      "line_no": "16",
+      "meter": 15612
+    },
+    {
+      "line_no": "16",
+      "meter": 15612
+    }
+  ]
+}

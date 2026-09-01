@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708881,
+  "type": "TIMETABLE_POINT",
+  "name": "Bratk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 67405
+    },
+    {
+      "line_no": "25",
+      "meter": 67405
+    },
+    {
+      "line_no": "25",
+      "meter": 67405
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712415,
+  "type": "TIMETABLE_POINT",
+  "name": "Otomino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 27497
+    }
+  ]
+}

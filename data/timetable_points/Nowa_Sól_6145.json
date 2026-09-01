@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712129,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa S\u00f3l",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 130675
+    },
+    {
+      "line_no": "273",
+      "meter": 130675
+    },
+    {
+      "line_no": "273",
+      "meter": 130675
+    },
+    {
+      "line_no": "273",
+      "meter": 130675
+    },
+    {
+      "line_no": "371",
+      "meter": 52135
+    }
+  ]
+}

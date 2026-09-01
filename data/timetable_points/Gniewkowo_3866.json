@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709850,
+  "type": "TIMETABLE_POINT",
+  "name": "Gniewkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 115180
+    },
+    {
+      "line_no": "353",
+      "meter": 115180
+    }
+  ]
+}

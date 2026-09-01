@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715192,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdu\u0144ska Wola R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 41476
+    },
+    {
+      "line_no": "14",
+      "meter": 41476
+    },
+    {
+      "line_no": "810",
+      "meter": 884
+    }
+  ]
+}

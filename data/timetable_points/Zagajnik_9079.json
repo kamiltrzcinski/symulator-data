@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715063,
+  "type": "TIMETABLE_POINT",
+  "name": "Zagajnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 55780
+    },
+    {
+      "line_no": "282",
+      "meter": 55780
+    }
+  ]
+}

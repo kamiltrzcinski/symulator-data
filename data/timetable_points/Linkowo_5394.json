@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711378,
+  "type": "TIMETABLE_POINT",
+  "name": "Linkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 189243
+    },
+    {
+      "line_no": "38",
+      "meter": 189243
+    },
+    {
+      "line_no": "38",
+      "meter": 189243
+    },
+    {
+      "line_no": "38",
+      "meter": 189285
+    },
+    {
+      "line_no": "38",
+      "meter": 189285
+    },
+    {
+      "line_no": "38",
+      "meter": 189285
+    },
+    {
+      "line_no": "38",
+      "meter": 189287
+    }
+  ]
+}

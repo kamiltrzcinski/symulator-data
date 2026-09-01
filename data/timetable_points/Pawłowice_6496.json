@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712480,
+  "type": "TIMETABLE_POINT",
+  "name": "Paw\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 217270
+    },
+    {
+      "line_no": "14",
+      "meter": 217270
+    },
+    {
+      "line_no": "14",
+      "meter": 217270
+    }
+  ]
+}

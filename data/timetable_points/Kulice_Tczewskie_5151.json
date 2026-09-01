@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711135,
+  "type": "TIMETABLE_POINT",
+  "name": "Kulice Tczewskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 472106
+    },
+    {
+      "line_no": "131",
+      "meter": 472106
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715287,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017baga\u0144 R112",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 341092
+    },
+    {
+      "line_no": "14",
+      "meter": 341108
+    },
+    {
+      "line_no": "283",
+      "meter": 105286
+    },
+    {
+      "line_no": "283",
+      "meter": 105286
+    },
+    {
+      "line_no": "371",
+      "meter": 92402
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710406,
+  "type": "TIMETABLE_POINT",
+  "name": "Jup Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "145",
+      "meter": 9893
+    },
+    {
+      "line_no": "145",
+      "meter": 9893
+    },
+    {
+      "line_no": "145",
+      "meter": 9893
+    },
+    {
+      "line_no": "145",
+      "meter": 9893
+    },
+    {
+      "line_no": "887",
+      "meter": 0
+    },
+    {
+      "line_no": "887",
+      "meter": 0
+    },
+    {
+      "line_no": "887",
+      "meter": 0
+    }
+  ]
+}

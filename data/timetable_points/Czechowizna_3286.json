@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709270,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowizna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 37340
+    },
+    {
+      "line_no": "38",
+      "meter": 37340
+    },
+    {
+      "line_no": "38",
+      "meter": 37340
+    },
+    {
+      "line_no": "38",
+      "meter": 37351
+    },
+    {
+      "line_no": "38",
+      "meter": 37351
+    }
+  ]
+}

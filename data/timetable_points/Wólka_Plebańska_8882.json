@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714866,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u00f3lka Pleba\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 123417
+    },
+    {
+      "line_no": "25",
+      "meter": 123600
+    },
+    {
+      "line_no": "25",
+      "meter": 123600
+    }
+  ]
+}

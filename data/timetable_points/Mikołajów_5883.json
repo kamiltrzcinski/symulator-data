@@ -1,0 +1,56 @@
+{
+  "uid": 3453153711867,
+  "type": "TIMETABLE_POINT",
+  "name": "Miko\u0142aj\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 33967
+    },
+    {
+      "line_no": "25",
+      "meter": 33967
+    },
+    {
+      "line_no": "25",
+      "meter": 33967
+    },
+    {
+      "line_no": "25",
+      "meter": 33967
+    },
+    {
+      "line_no": "25",
+      "meter": 33967
+    },
+    {
+      "line_no": "44",
+      "meter": 1158
+    },
+    {
+      "line_no": "44",
+      "meter": 1158
+    },
+    {
+      "line_no": "44",
+      "meter": 1158
+    },
+    {
+      "line_no": "534",
+      "meter": 5435
+    },
+    {
+      "line_no": "534",
+      "meter": 5435
+    },
+    {
+      "line_no": "534",
+      "meter": 5435
+    },
+    {
+      "line_no": "534",
+      "meter": 5435
+    }
+  ]
+}

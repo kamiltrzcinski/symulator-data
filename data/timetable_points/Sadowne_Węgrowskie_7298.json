@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713282,
+  "type": "TIMETABLE_POINT",
+  "name": "Sadowne W\u0119growskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 72489
+    },
+    {
+      "line_no": "6",
+      "meter": 72489
+    },
+    {
+      "line_no": "6",
+      "meter": 72489
+    },
+    {
+      "line_no": "6",
+      "meter": 72978
+    },
+    {
+      "line_no": "6",
+      "meter": 72978
+    },
+    {
+      "line_no": "6",
+      "meter": 72978
+    }
+  ]
+}

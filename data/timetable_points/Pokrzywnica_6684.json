@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712668,
+  "type": "TIMETABLE_POINT",
+  "name": "Pokrzywnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 73772
+    }
+  ]
+}

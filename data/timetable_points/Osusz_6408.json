@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712392,
+  "type": "TIMETABLE_POINT",
+  "name": "Osusz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 167732
+    },
+    {
+      "line_no": "14",
+      "meter": 167732
+    },
+    {
+      "line_no": "14",
+      "meter": 167732
+    },
+    {
+      "line_no": "816",
+      "meter": 2966
+    },
+    {
+      "line_no": "816",
+      "meter": 2966
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712175,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy Jaros\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "418",
+      "meter": 26060
+    },
+    {
+      "line_no": "418",
+      "meter": 26060
+    }
+  ]
+}

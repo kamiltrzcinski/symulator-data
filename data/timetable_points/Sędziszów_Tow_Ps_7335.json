@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713319,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0119dzisz\u00f3w Tow Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 249223
+    },
+    {
+      "line_no": "8",
+      "meter": 249223
+    }
+  ]
+}

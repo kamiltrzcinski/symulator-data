@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710812,
+  "type": "TIMETABLE_POINT",
+  "name": "Kost\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 23258
+    },
+    {
+      "line_no": "272",
+      "meter": 23258
+    }
+  ]
+}

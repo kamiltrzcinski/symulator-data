@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712583,
+  "type": "TIMETABLE_POINT",
+  "name": "Piotrk\u00f3w Tryb Tow",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 145000
+    },
+    {
+      "line_no": "1",
+      "meter": 145000
+    },
+    {
+      "line_no": "1",
+      "meter": 145000
+    },
+    {
+      "line_no": "1",
+      "meter": 145000
+    }
+  ]
+}

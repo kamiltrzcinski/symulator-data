@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711151,
+  "type": "TIMETABLE_POINT",
+  "name": "Kurpie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 9453
+    },
+    {
+      "line_no": "36",
+      "meter": 9464
+    }
+  ]
+}

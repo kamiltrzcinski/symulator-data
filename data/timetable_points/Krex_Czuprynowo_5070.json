@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711054,
+  "type": "TIMETABLE_POINT",
+  "name": "Krex Czuprynowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 228320
+    },
+    {
+      "line_no": "6",
+      "meter": 228320
+    },
+    {
+      "line_no": "6",
+      "meter": 228320
+    },
+    {
+      "line_no": "6",
+      "meter": 228320
+    },
+    {
+      "line_no": "57",
+      "meter": 171968
+    },
+    {
+      "line_no": "57",
+      "meter": 171968
+    },
+    {
+      "line_no": "57",
+      "meter": 171968
+    }
+  ]
+}

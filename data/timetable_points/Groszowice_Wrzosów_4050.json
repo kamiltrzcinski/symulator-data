@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710034,
+  "type": "TIMETABLE_POINT",
+  "name": "Groszowice Wrzos\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 106780
+    },
+    {
+      "line_no": "26",
+      "meter": 106794
+    },
+    {
+      "line_no": "26",
+      "meter": 106794
+    }
+  ]
+}

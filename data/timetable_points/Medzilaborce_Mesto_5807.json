@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711791,
+  "type": "TIMETABLE_POINT",
+  "name": "Medzilaborce Mesto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "488",
+      "meter": 106936
+    }
+  ]
+}

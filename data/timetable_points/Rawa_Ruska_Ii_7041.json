@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713025,
+  "type": "TIMETABLE_POINT",
+  "name": "Rawa Ruska Ii",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "471",
+      "meter": 0
+    },
+    {
+      "line_no": "471",
+      "meter": 0
+    },
+    {
+      "line_no": "471",
+      "meter": 0
+    },
+    {
+      "line_no": "476",
+      "meter": 1944
+    },
+    {
+      "line_no": "476",
+      "meter": 1944
+    },
+    {
+      "line_no": "476",
+      "meter": 1944
+    },
+    {
+      "line_no": "476",
+      "meter": 1944
+    }
+  ]
+}

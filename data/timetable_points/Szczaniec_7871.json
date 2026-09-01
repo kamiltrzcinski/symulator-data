@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713855,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczaniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 396495
+    },
+    {
+      "line_no": "3",
+      "meter": 396495
+    },
+    {
+      "line_no": "3",
+      "meter": 396515
+    }
+  ]
+}

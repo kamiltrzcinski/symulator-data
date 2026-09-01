@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713733,
+  "type": "TIMETABLE_POINT",
+  "name": "Stryszawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 50400
+    },
+    {
+      "line_no": "97",
+      "meter": 50400
+    },
+    {
+      "line_no": "97",
+      "meter": 50400
+    },
+    {
+      "line_no": "97",
+      "meter": 50482
+    }
+  ]
+}

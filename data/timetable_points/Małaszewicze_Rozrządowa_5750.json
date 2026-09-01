@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711734,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142aszewicze Rozrz\u0105dowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "866",
+      "meter": 198240
+    },
+    {
+      "line_no": "866",
+      "meter": 198240
+    },
+    {
+      "line_no": "866",
+      "meter": 199300
+    }
+  ]
+}

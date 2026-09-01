@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713766,
+  "type": "TIMETABLE_POINT",
+  "name": "Studzieniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 208755
+    },
+    {
+      "line_no": "38",
+      "meter": 208755
+    },
+    {
+      "line_no": "38",
+      "meter": 208826
+    },
+    {
+      "line_no": "38",
+      "meter": 208826
+    },
+    {
+      "line_no": "38",
+      "meter": 208826
+    },
+    {
+      "line_no": "38",
+      "meter": 208826
+    }
+  ]
+}

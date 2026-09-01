@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710500,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Kostuchna R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "142",
+      "meter": 7413
+    },
+    {
+      "line_no": "142",
+      "meter": 7413
+    },
+    {
+      "line_no": "142",
+      "meter": 7413
+    },
+    {
+      "line_no": "697",
+      "meter": 0
+    },
+    {
+      "line_no": "697",
+      "meter": 0
+    },
+    {
+      "line_no": "697",
+      "meter": 0
+    }
+  ]
+}

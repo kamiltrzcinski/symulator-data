@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711332,
+  "type": "TIMETABLE_POINT",
+  "name": "Leszczyny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 31776
+    },
+    {
+      "line_no": "140",
+      "meter": 31776
+    },
+    {
+      "line_no": "149",
+      "meter": 22935
+    },
+    {
+      "line_no": "149",
+      "meter": 22935
+    }
+  ]
+}

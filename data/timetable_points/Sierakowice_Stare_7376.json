@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713360,
+  "type": "TIMETABLE_POINT",
+  "name": "Sierakowice Stare",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "11",
+      "meter": 6200
+    },
+    {
+      "line_no": "11",
+      "meter": 6200
+    },
+    {
+      "line_no": "11",
+      "meter": 6200
+    }
+  ]
+}

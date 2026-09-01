@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713920,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centralny SPA R10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 350421
+    },
+    {
+      "line_no": "273",
+      "meter": 350421
+    },
+    {
+      "line_no": "273",
+      "meter": 350449
+    },
+    {
+      "line_no": "991",
+      "meter": -160
+    },
+    {
+      "line_no": "991",
+      "meter": -134
+    }
+  ]
+}

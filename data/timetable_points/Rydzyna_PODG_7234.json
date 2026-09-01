@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713218,
+  "type": "TIMETABLE_POINT",
+  "name": "Rydzyna PODG",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 86113
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711405,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipusz Roz.31",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "211",
+      "meter": 54000
+    }
+  ]
+}

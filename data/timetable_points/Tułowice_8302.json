@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714286,
+  "type": "TIMETABLE_POINT",
+  "name": "Tu\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 19709
+    },
+    {
+      "line_no": "287",
+      "meter": 19720
+    },
+    {
+      "line_no": "287",
+      "meter": 19720
+    },
+    {
+      "line_no": "287",
+      "meter": 19720
+    },
+    {
+      "line_no": "287",
+      "meter": 19720
+    },
+    {
+      "line_no": "287",
+      "meter": 19720
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710430,
+  "type": "TIMETABLE_POINT",
+  "name": "Kaliska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 46926
+    },
+    {
+      "line_no": "203",
+      "meter": 46926
+    },
+    {
+      "line_no": "203",
+      "meter": 46926
+    },
+    {
+      "line_no": "203",
+      "meter": 46926
+    }
+  ]
+}

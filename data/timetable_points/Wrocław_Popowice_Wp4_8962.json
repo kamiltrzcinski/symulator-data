@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714946,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Popowice Wp4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 5383
+    },
+    {
+      "line_no": "271",
+      "meter": 5383
+    },
+    {
+      "line_no": "271",
+      "meter": 5383
+    },
+    {
+      "line_no": "754",
+      "meter": 1115
+    },
+    {
+      "line_no": "755",
+      "meter": 34
+    },
+    {
+      "line_no": "756",
+      "meter": 4527
+    }
+  ]
+}

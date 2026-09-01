@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713066,
+  "type": "TIMETABLE_POINT",
+  "name": "Rogiedle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 32393
+    },
+    {
+      "line_no": "221",
+      "meter": 32550
+    },
+    {
+      "line_no": "221",
+      "meter": 32550
+    },
+    {
+      "line_no": "221",
+      "meter": 32565
+    },
+    {
+      "line_no": "221",
+      "meter": 32565
+    }
+  ]
+}

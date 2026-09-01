@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713354,
+  "type": "TIMETABLE_POINT",
+  "name": "Siepietnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 31016
+    },
+    {
+      "line_no": "108",
+      "meter": 31016
+    },
+    {
+      "line_no": "108",
+      "meter": 31016
+    },
+    {
+      "line_no": "108",
+      "meter": 31016
+    },
+    {
+      "line_no": "108",
+      "meter": 31016
+    }
+  ]
+}

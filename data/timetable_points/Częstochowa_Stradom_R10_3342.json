@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709326,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Stradom R10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 116768
+    },
+    {
+      "line_no": "61",
+      "meter": 116768
+    },
+    {
+      "line_no": "61",
+      "meter": 116768
+    },
+    {
+      "line_no": "61",
+      "meter": 116768
+    },
+    {
+      "line_no": "702",
+      "meter": 1966
+    },
+    {
+      "line_no": "702",
+      "meter": 1966
+    }
+  ]
+}

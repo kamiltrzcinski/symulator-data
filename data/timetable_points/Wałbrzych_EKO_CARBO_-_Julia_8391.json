@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714375,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142brzych EKO CARBO - Julia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 72500
+    },
+    {
+      "line_no": "274",
+      "meter": 72500
+    },
+    {
+      "line_no": "274",
+      "meter": 72500
+    }
+  ]
+}

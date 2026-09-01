@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708977,
+  "type": "TIMETABLE_POINT",
+  "name": "Busko-Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 43300
+    },
+    {
+      "line_no": "73",
+      "meter": 43300
+    },
+    {
+      "line_no": "73",
+      "meter": 43300
+    },
+    {
+      "line_no": "73",
+      "meter": 44053
+    },
+    {
+      "line_no": "73",
+      "meter": 44053
+    },
+    {
+      "line_no": "73",
+      "meter": 44053
+    },
+    {
+      "line_no": "73",
+      "meter": 44053
+    }
+  ]
+}

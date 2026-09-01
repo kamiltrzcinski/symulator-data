@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712262,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsz. G\u0142 R220-R353",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 1408
+    },
+    {
+      "line_no": "353",
+      "meter": 297485
+    }
+  ]
+}

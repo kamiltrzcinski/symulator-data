@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708653,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ogard AMPOL",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 61581
+    }
+  ]
+}

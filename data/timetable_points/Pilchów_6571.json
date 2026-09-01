@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712555,
+  "type": "TIMETABLE_POINT",
+  "name": "Pilch\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 99450
+    },
+    {
+      "line_no": "68",
+      "meter": 99469
+    },
+    {
+      "line_no": "68",
+      "meter": 99469
+    },
+    {
+      "line_no": "68",
+      "meter": 99469
+    },
+    {
+      "line_no": "68",
+      "meter": 99469
+    }
+  ]
+}

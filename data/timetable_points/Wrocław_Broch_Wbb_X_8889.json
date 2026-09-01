@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714873,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Broch Wbb X",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 5890
+    },
+    {
+      "line_no": "349",
+      "meter": 5890
+    }
+  ]
+}

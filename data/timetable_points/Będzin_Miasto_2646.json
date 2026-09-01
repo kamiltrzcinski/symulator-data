@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708630,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0119dzin Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 304385
+    },
+    {
+      "line_no": "1",
+      "meter": 304385
+    },
+    {
+      "line_no": "1",
+      "meter": 304385
+    }
+  ]
+}

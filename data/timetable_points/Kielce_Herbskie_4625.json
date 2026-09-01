@@ -1,0 +1,60 @@
+{
+  "uid": 3453153710609,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce Herbskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 2254
+    },
+    {
+      "line_no": "61",
+      "meter": 2254
+    },
+    {
+      "line_no": "61",
+      "meter": 2254
+    },
+    {
+      "line_no": "61",
+      "meter": 2254
+    },
+    {
+      "line_no": "61",
+      "meter": 2254
+    },
+    {
+      "line_no": "567",
+      "meter": 1779
+    },
+    {
+      "line_no": "567",
+      "meter": 1779
+    },
+    {
+      "line_no": "567",
+      "meter": 1779
+    },
+    {
+      "line_no": "840",
+      "meter": 687
+    },
+    {
+      "line_no": "840",
+      "meter": 687
+    },
+    {
+      "line_no": "842",
+      "meter": 200
+    },
+    {
+      "line_no": "842",
+      "meter": 200
+    },
+    {
+      "line_no": "842",
+      "meter": 200
+    }
+  ]
+}

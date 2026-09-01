@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712820,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd I Podst. 2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 127300
+    }
+  ]
+}

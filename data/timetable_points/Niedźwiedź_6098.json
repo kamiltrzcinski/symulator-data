@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712082,
+  "type": "TIMETABLE_POINT",
+  "name": "Nied\u017awied\u017a",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 295782
+    },
+    {
+      "line_no": "8",
+      "meter": 295782
+    },
+    {
+      "line_no": "8",
+      "meter": 295782
+    },
+    {
+      "line_no": "8",
+      "meter": 295782
+    },
+    {
+      "line_no": "8",
+      "meter": 295782
+    }
+  ]
+}

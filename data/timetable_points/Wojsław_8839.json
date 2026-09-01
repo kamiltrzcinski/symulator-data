@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714823,
+  "type": "TIMETABLE_POINT",
+  "name": "Wojs\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 295680
+    },
+    {
+      "line_no": "25",
+      "meter": 295680
+    },
+    {
+      "line_no": "25",
+      "meter": 295700
+    },
+    {
+      "line_no": "25",
+      "meter": 295704
+    },
+    {
+      "line_no": "25",
+      "meter": 295704
+    }
+  ]
+}

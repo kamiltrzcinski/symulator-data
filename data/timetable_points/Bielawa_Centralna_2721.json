@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708705,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielawa Centralna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "341",
+      "meter": 1365
+    },
+    {
+      "line_no": "341",
+      "meter": 1365
+    },
+    {
+      "line_no": "341",
+      "meter": 1365
+    }
+  ]
+}

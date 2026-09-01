@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715141,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawada Pt 2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 187400
+    }
+  ]
+}

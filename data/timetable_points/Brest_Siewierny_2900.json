@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708884,
+  "type": "TIMETABLE_POINT",
+  "name": "Brest Siewierny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "594",
+      "meter": 493800
+    },
+    {
+      "line_no": "595",
+      "meter": 493800
+    }
+  ]
+}

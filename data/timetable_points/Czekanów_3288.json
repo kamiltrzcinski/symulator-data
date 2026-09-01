@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709272,
+  "type": "TIMETABLE_POINT",
+  "name": "Czekan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 129070
+    },
+    {
+      "line_no": "14",
+      "meter": 129070
+    },
+    {
+      "line_no": "14",
+      "meter": 129071
+    }
+  ]
+}

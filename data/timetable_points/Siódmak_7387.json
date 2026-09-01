@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713371,
+  "type": "TIMETABLE_POINT",
+  "name": "Si\u00f3dmak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 87060
+    },
+    {
+      "line_no": "35",
+      "meter": 87062
+    },
+    {
+      "line_no": "35",
+      "meter": 87095
+    }
+  ]
+}

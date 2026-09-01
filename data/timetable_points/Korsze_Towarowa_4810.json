@@ -1,0 +1,48 @@
+{
+  "uid": 3453153710794,
+  "type": "TIMETABLE_POINT",
+  "name": "Korsze Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 200300
+    },
+    {
+      "line_no": "38",
+      "meter": 200300
+    },
+    {
+      "line_no": "38",
+      "meter": 200300
+    },
+    {
+      "line_no": "38",
+      "meter": 200300
+    },
+    {
+      "line_no": "38",
+      "meter": 200300
+    },
+    {
+      "line_no": "353",
+      "meter": 367250
+    },
+    {
+      "line_no": "353",
+      "meter": 368170
+    },
+    {
+      "line_no": "353",
+      "meter": 368170
+    },
+    {
+      "line_no": "353",
+      "meter": 368170
+    },
+    {
+      "line_no": "353",
+      "meter": 368170
+    }
+  ]
+}

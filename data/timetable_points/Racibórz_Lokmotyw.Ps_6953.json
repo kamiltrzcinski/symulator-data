@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712937,
+  "type": "TIMETABLE_POINT",
+  "name": "Racib\u00f3rz Lokmotyw.Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 2050
+    }
+  ]
+}

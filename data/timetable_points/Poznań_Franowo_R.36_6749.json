@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712733,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Franowo R.36",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "352",
+      "meter": 3978
+    },
+    {
+      "line_no": "352",
+      "meter": 4330
+    },
+    {
+      "line_no": "984",
+      "meter": 2680
+    },
+    {
+      "line_no": "984",
+      "meter": 4366
+    }
+  ]
+}

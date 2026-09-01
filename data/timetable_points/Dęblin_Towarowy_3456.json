@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709440,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119blin Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 104308
+    },
+    {
+      "line_no": "7",
+      "meter": 104308
+    },
+    {
+      "line_no": "7",
+      "meter": 104308
+    },
+    {
+      "line_no": "26",
+      "meter": 62570
+    },
+    {
+      "line_no": "26",
+      "meter": 62570
+    },
+    {
+      "line_no": "26",
+      "meter": 62570
+    },
+    {
+      "line_no": "26",
+      "meter": 62570
+    },
+    {
+      "line_no": "26",
+      "meter": 62570
+    },
+    {
+      "line_no": "26",
+      "meter": 62570
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713344,
+  "type": "TIMETABLE_POINT",
+  "name": "Siemianowice \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "161",
+      "meter": 5509
+    },
+    {
+      "line_no": "161",
+      "meter": 6152
+    },
+    {
+      "line_no": "161",
+      "meter": 6152
+    },
+    {
+      "line_no": "161",
+      "meter": 6152
+    },
+    {
+      "line_no": "161",
+      "meter": 6152
+    }
+  ]
+}

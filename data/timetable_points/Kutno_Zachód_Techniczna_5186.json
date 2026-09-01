@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711170,
+  "type": "TIMETABLE_POINT",
+  "name": "Kutno Zach\u00f3d Techniczna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "921",
+      "meter": 127780
+    },
+    {
+      "line_no": "921",
+      "meter": 127780
+    },
+    {
+      "line_no": "921",
+      "meter": 127780
+    }
+  ]
+}

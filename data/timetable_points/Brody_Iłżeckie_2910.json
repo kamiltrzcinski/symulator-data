@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708894,
+  "type": "TIMETABLE_POINT",
+  "name": "Brody I\u0142\u017ceckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 172620
+    },
+    {
+      "line_no": "25",
+      "meter": 172620
+    },
+    {
+      "line_no": "25",
+      "meter": 172740
+    }
+  ]
+}

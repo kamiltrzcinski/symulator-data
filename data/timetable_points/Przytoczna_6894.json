@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712878,
+  "type": "TIMETABLE_POINT",
+  "name": "Przytoczna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "363",
+      "meter": 79809
+    },
+    {
+      "line_no": "363",
+      "meter": 79809
+    }
+  ]
+}

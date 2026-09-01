@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709801,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice So\u015bnica Gsa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "200",
+      "meter": 4338
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714513,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 7037
+    },
+    {
+      "line_no": "9",
+      "meter": 7037
+    },
+    {
+      "line_no": "9",
+      "meter": 7037
+    },
+    {
+      "line_no": "502",
+      "meter": 60
+    },
+    {
+      "line_no": "502",
+      "meter": 60
+    },
+    {
+      "line_no": "502",
+      "meter": 60
+    }
+  ]
+}

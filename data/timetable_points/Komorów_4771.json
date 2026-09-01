@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710755,
+  "type": "TIMETABLE_POINT",
+  "name": "Komor\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 18128
+    },
+    {
+      "line_no": "512",
+      "meter": 3020
+    }
+  ]
+}

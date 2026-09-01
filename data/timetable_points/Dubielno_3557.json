@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709541,
+  "type": "TIMETABLE_POINT",
+  "name": "Dubielno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 122848
+    },
+    {
+      "line_no": "208",
+      "meter": 122848
+    },
+    {
+      "line_no": "208",
+      "meter": 122848
+    },
+    {
+      "line_no": "208",
+      "meter": 122848
+    }
+  ]
+}

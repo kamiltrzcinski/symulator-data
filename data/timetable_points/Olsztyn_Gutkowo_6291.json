@@ -1,0 +1,44 @@
+{
+  "uid": 3453153712275,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn Gutkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 8048
+    },
+    {
+      "line_no": "220",
+      "meter": 8049
+    },
+    {
+      "line_no": "220",
+      "meter": 8049
+    },
+    {
+      "line_no": "220",
+      "meter": 8049
+    },
+    {
+      "line_no": "220",
+      "meter": 8049
+    },
+    {
+      "line_no": "221",
+      "meter": 0
+    },
+    {
+      "line_no": "221",
+      "meter": 0
+    },
+    {
+      "line_no": "221",
+      "meter": 0
+    },
+    {
+      "line_no": "221",
+      "meter": 0
+    }
+  ]
+}

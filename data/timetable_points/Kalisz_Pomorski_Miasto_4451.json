@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710435,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalisz Pomorski Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 103107
+    },
+    {
+      "line_no": "410",
+      "meter": 103107
+    },
+    {
+      "line_no": "410",
+      "meter": 103107
+    }
+  ]
+}

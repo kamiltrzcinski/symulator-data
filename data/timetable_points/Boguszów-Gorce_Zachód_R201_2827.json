@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708811,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogusz\u00f3w-Gorce Zach\u00f3d R201",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 88710
+    },
+    {
+      "line_no": "274",
+      "meter": 88710
+    },
+    {
+      "line_no": "274",
+      "meter": 88710
+    },
+    {
+      "line_no": "976",
+      "meter": 0
+    },
+    {
+      "line_no": "976",
+      "meter": 0
+    },
+    {
+      "line_no": "976",
+      "meter": 0
+    }
+  ]
+}

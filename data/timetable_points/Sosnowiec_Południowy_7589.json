@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713573,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 82732
+    },
+    {
+      "line_no": "62",
+      "meter": 82732
+    },
+    {
+      "line_no": "62",
+      "meter": 82732
+    },
+    {
+      "line_no": "62",
+      "meter": 82732
+    },
+    {
+      "line_no": "660",
+      "meter": 0
+    },
+    {
+      "line_no": "660",
+      "meter": 0
+    },
+    {
+      "line_no": "660",
+      "meter": 0
+    },
+    {
+      "line_no": "660",
+      "meter": 0
+    }
+  ]
+}

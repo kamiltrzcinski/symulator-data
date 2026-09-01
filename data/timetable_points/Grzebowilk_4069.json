@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710053,
+  "type": "TIMETABLE_POINT",
+  "name": "Grzebowilk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "13",
+      "meter": 38877
+    },
+    {
+      "line_no": "13",
+      "meter": 38877
+    },
+    {
+      "line_no": "13",
+      "meter": 38877
+    }
+  ]
+}

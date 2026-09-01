@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709370,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa Bia\u0142ostocka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 32586
+    },
+    {
+      "line_no": "40",
+      "meter": 32686
+    }
+  ]
+}

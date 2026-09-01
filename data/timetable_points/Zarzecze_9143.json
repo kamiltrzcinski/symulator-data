@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715127,
+  "type": "TIMETABLE_POINT",
+  "name": "Zarzecze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 28000
+    },
+    {
+      "line_no": "62",
+      "meter": 28000
+    },
+    {
+      "line_no": "62",
+      "meter": 28029
+    },
+    {
+      "line_no": "62",
+      "meter": 28029
+    },
+    {
+      "line_no": "65",
+      "meter": 362404
+    }
+  ]
+}

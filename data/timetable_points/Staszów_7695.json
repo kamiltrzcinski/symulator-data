@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713679,
+  "type": "TIMETABLE_POINT",
+  "name": "Stasz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 49356
+    },
+    {
+      "line_no": "70",
+      "meter": 49356
+    },
+    {
+      "line_no": "70",
+      "meter": 49356
+    },
+    {
+      "line_no": "70",
+      "meter": 49356
+    },
+    {
+      "line_no": "70",
+      "meter": 49356
+    },
+    {
+      "line_no": "70",
+      "meter": 49356
+    }
+  ]
+}

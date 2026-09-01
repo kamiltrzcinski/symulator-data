@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714187,
+  "type": "TIMETABLE_POINT",
+  "name": "Terespol Pomorski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 410863
+    },
+    {
+      "line_no": "131",
+      "meter": 410863
+    },
+    {
+      "line_no": "240",
+      "meter": 6785
+    }
+  ]
+}

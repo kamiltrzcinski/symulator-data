@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708688,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok R602",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 73709
+    },
+    {
+      "line_no": "32",
+      "meter": 73709
+    },
+    {
+      "line_no": "32",
+      "meter": 73709
+    },
+    {
+      "line_no": "32",
+      "meter": 73710
+    },
+    {
+      "line_no": "556",
+      "meter": 174013
+    },
+    {
+      "line_no": "556",
+      "meter": 174013
+    },
+    {
+      "line_no": "556",
+      "meter": 174084
+    }
+  ]
+}

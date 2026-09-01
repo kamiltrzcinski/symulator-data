@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714607,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R202",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 2396
+    },
+    {
+      "line_no": "447",
+      "meter": 2396
+    },
+    {
+      "line_no": "447",
+      "meter": 2441
+    },
+    {
+      "line_no": "448",
+      "meter": -2441
+    },
+    {
+      "line_no": "448",
+      "meter": -2441
+    },
+    {
+      "line_no": "448",
+      "meter": -2396
+    }
+  ]
+}

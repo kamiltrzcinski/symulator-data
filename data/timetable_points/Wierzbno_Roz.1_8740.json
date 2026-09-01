@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714724,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzbno Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "363",
+      "meter": 71389
+    },
+    {
+      "line_no": "363",
+      "meter": 71389
+    },
+    {
+      "line_no": "364",
+      "meter": -113
+    },
+    {
+      "line_no": "364",
+      "meter": -113
+    },
+    {
+      "line_no": "364",
+      "meter": -113
+    }
+  ]
+}

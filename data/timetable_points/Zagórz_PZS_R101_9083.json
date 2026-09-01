@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715067,
+  "type": "TIMETABLE_POINT",
+  "name": "Zag\u00f3rz PZS R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 114087
+    },
+    {
+      "line_no": "108",
+      "meter": 114087
+    },
+    {
+      "line_no": "617",
+      "meter": 618
+    }
+  ]
+}

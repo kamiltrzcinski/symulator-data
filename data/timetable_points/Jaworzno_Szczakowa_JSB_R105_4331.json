@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710315,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaworzno Szczakowa JSB R105",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "668",
+      "meter": -1
+    },
+    {
+      "line_no": "715",
+      "meter": 3515
+    }
+  ]
+}

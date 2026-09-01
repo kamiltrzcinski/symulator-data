@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708917,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeg R58-59",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 140880
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710119,
+  "type": "TIMETABLE_POINT",
+  "name": "Hrubiesz\u00f3w Cpn Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "72",
+      "meter": 60100
+    },
+    {
+      "line_no": "72",
+      "meter": 60100
+    }
+  ]
+}

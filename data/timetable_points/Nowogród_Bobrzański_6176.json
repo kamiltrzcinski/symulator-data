@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712160,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowogr\u00f3d Bobrza\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "370",
+      "meter": 27576
+    },
+    {
+      "line_no": "370",
+      "meter": 27582
+    },
+    {
+      "line_no": "370",
+      "meter": 27582
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714183,
+  "type": "TIMETABLE_POINT",
+  "name": "Templewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "364",
+      "meter": 37240
+    },
+    {
+      "line_no": "364",
+      "meter": 37240
+    },
+    {
+      "line_no": "364",
+      "meter": 37240
+    }
+  ]
+}

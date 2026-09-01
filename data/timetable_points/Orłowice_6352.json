@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712336,
+  "type": "TIMETABLE_POINT",
+  "name": "Or\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "317",
+      "meter": 13929
+    },
+    {
+      "line_no": "336",
+      "meter": 5260
+    }
+  ]
+}

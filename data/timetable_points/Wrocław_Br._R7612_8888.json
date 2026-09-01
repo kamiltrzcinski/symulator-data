@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714872,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Br. R761/2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "750",
+      "meter": 6028
+    },
+    {
+      "line_no": "750",
+      "meter": 6028
+    },
+    {
+      "line_no": "750",
+      "meter": 6028
+    },
+    {
+      "line_no": "750",
+      "meter": 6038
+    },
+    {
+      "line_no": "765",
+      "meter": 2069
+    },
+    {
+      "line_no": "765",
+      "meter": 2069
+    },
+    {
+      "line_no": "765",
+      "meter": 2079
+    }
+  ]
+}

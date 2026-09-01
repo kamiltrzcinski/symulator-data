@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714189,
+  "type": "TIMETABLE_POINT",
+  "name": "Terespol R59",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 209990
+    },
+    {
+      "line_no": "2",
+      "meter": 209990
+    },
+    {
+      "line_no": "2",
+      "meter": 209990
+    },
+    {
+      "line_no": "2",
+      "meter": 210075
+    },
+    {
+      "line_no": "2",
+      "meter": 210075
+    },
+    {
+      "line_no": "453",
+      "meter": 209990
+    },
+    {
+      "line_no": "453",
+      "meter": 209990
+    },
+    {
+      "line_no": "453",
+      "meter": 210075
+    }
+  ]
+}

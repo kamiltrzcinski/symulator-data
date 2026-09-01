@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710972,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta Nha",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 20480
+    },
+    {
+      "line_no": "95",
+      "meter": 20480
+    },
+    {
+      "line_no": "95",
+      "meter": 21176
+    },
+    {
+      "line_no": "95",
+      "meter": 21176
+    },
+    {
+      "line_no": "940",
+      "meter": 2438
+    },
+    {
+      "line_no": "940",
+      "meter": 2458
+    },
+    {
+      "line_no": "944",
+      "meter": 1107
+    }
+  ]
+}

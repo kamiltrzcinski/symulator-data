@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715212,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0119bowice pzs R13",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "175",
+      "meter": 65658
+    },
+    {
+      "line_no": "175",
+      "meter": 65658
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712191,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy \u015awi\u0119t\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 127228
+    },
+    {
+      "line_no": "297",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714715,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierna Rzeka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 23735
+    },
+    {
+      "line_no": "61",
+      "meter": 23735
+    },
+    {
+      "line_no": "61",
+      "meter": 23735
+    },
+    {
+      "line_no": "61",
+      "meter": 23735
+    },
+    {
+      "line_no": "61",
+      "meter": 23735
+    }
+  ]
+}

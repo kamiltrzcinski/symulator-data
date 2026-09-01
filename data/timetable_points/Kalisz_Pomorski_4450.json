@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710434,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalisz Pomorski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 67578
+    },
+    {
+      "line_no": "403",
+      "meter": 67578
+    },
+    {
+      "line_no": "410",
+      "meter": 105823
+    },
+    {
+      "line_no": "410",
+      "meter": 105823
+    },
+    {
+      "line_no": "410",
+      "meter": 105823
+    },
+    {
+      "line_no": "410",
+      "meter": 105823
+    },
+    {
+      "line_no": "410",
+      "meter": 105823
+    }
+  ]
+}

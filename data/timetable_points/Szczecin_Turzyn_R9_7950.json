@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713934,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Turzyn R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 3538
+    },
+    {
+      "line_no": "406",
+      "meter": 3538
+    },
+    {
+      "line_no": "432",
+      "meter": 4205
+    }
+  ]
+}

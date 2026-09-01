@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713277,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzoz\u00f3w Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 2700
+    },
+    {
+      "line_no": "97",
+      "meter": 2700
+    }
+  ]
+}

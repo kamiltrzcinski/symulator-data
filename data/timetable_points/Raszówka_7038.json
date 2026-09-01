@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713022,
+  "type": "TIMETABLE_POINT",
+  "name": "Rasz\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "289",
+      "meter": 11649
+    },
+    {
+      "line_no": "289",
+      "meter": 11649
+    },
+    {
+      "line_no": "289",
+      "meter": 11649
+    },
+    {
+      "line_no": "289",
+      "meter": 11649
+    },
+    {
+      "line_no": "289",
+      "meter": 11649
+    }
+  ]
+}

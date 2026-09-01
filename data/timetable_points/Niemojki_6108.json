@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712092,
+  "type": "TIMETABLE_POINT",
+  "name": "Niemojki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 33430
+    },
+    {
+      "line_no": "31",
+      "meter": 33430
+    },
+    {
+      "line_no": "31",
+      "meter": 33462
+    },
+    {
+      "line_no": "31",
+      "meter": 33462
+    },
+    {
+      "line_no": "31",
+      "meter": 33462
+    },
+    {
+      "line_no": "31",
+      "meter": 33462
+    },
+    {
+      "line_no": "31",
+      "meter": 33498
+    }
+  ]
+}

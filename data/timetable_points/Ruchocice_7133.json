@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713117,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruchocice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 60291
+    },
+    {
+      "line_no": "357",
+      "meter": 60386
+    },
+    {
+      "line_no": "357",
+      "meter": 60386
+    },
+    {
+      "line_no": "357",
+      "meter": 60386
+    },
+    {
+      "line_no": "357",
+      "meter": 60386
+    },
+    {
+      "line_no": "357",
+      "meter": 60386
+    }
+  ]
+}

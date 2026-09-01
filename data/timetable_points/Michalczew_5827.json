@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711811,
+  "type": "TIMETABLE_POINT",
+  "name": "Michalczew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 49560
+    },
+    {
+      "line_no": "8",
+      "meter": 49560
+    },
+    {
+      "line_no": "8",
+      "meter": 49707
+    },
+    {
+      "line_no": "8",
+      "meter": 49707
+    },
+    {
+      "line_no": "8",
+      "meter": 49709
+    },
+    {
+      "line_no": "8",
+      "meter": 49709
+    }
+  ]
+}

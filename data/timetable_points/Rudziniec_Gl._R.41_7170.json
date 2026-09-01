@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713154,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudziniec Gl. R.41",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 49179
+    },
+    {
+      "line_no": "153",
+      "meter": 19657
+    },
+    {
+      "line_no": "153",
+      "meter": 19657
+    }
+  ]
+}

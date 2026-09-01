@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711337,
+  "type": "TIMETABLE_POINT",
+  "name": "Leszno Grzybowo R51",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 229260
+    },
+    {
+      "line_no": "14",
+      "meter": 229260
+    }
+  ]
+}

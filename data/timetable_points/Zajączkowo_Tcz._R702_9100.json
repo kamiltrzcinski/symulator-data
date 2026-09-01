@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715084,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaj\u0105czkowo Tcz. R702",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "265",
+      "meter": 22
+    },
+    {
+      "line_no": "730",
+      "meter": -22
+    }
+  ]
+}

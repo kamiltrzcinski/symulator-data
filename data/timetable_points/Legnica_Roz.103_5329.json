@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711313,
+  "type": "TIMETABLE_POINT",
+  "name": "Legnica Roz.103",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 284190
+    },
+    {
+      "line_no": "275",
+      "meter": 65366
+    }
+  ]
+}

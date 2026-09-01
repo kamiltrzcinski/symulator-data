@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713851,
+  "type": "TIMETABLE_POINT",
+  "name": "Szar\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 24730
+    },
+    {
+      "line_no": "91",
+      "meter": 24730
+    },
+    {
+      "line_no": "91",
+      "meter": 24851
+    },
+    {
+      "line_no": "91",
+      "meter": 24851
+    },
+    {
+      "line_no": "91",
+      "meter": 24851
+    },
+    {
+      "line_no": "91",
+      "meter": 24851
+    }
+  ]
+}

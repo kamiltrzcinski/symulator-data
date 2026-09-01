@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709623,
+  "type": "TIMETABLE_POINT",
+  "name": "Gamerki Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 27486
+    },
+    {
+      "line_no": "220",
+      "meter": 27486
+    },
+    {
+      "line_no": "220",
+      "meter": 27486
+    }
+  ]
+}

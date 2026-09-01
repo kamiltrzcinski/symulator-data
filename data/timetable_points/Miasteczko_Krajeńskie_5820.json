@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711804,
+  "type": "TIMETABLE_POINT",
+  "name": "Miasteczko Kraje\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 226963
+    },
+    {
+      "line_no": "18",
+      "meter": 226963
+    }
+  ]
+}

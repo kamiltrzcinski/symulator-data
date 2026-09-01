@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710109,
+  "type": "TIMETABLE_POINT",
+  "name": "Hirschfelde",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "497",
+      "meter": 7734
+    },
+    {
+      "line_no": "497",
+      "meter": 7799
+    },
+    {
+      "line_no": "497",
+      "meter": 7799
+    }
+  ]
+}

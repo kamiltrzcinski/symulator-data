@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711837,
+  "type": "TIMETABLE_POINT",
+  "name": "Mierz\u0119cin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 100427
+    },
+    {
+      "line_no": "351",
+      "meter": 100427
+    },
+    {
+      "line_no": "351",
+      "meter": 100427
+    },
+    {
+      "line_no": "351",
+      "meter": 100427
+    },
+    {
+      "line_no": "351",
+      "meter": 100675
+    },
+    {
+      "line_no": "351",
+      "meter": 100675
+    },
+    {
+      "line_no": "351",
+      "meter": 100812
+    }
+  ]
+}

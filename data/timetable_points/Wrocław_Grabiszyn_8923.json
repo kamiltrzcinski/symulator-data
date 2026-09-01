@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714907,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Grabiszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 3405
+    },
+    {
+      "line_no": "274",
+      "meter": 3406
+    },
+    {
+      "line_no": "274",
+      "meter": 3406
+    }
+  ]
+}

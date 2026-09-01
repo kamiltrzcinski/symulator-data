@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710711,
+  "type": "TIMETABLE_POINT",
+  "name": "Kochanowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 145837
+    },
+    {
+      "line_no": "61",
+      "meter": 145837
+    },
+    {
+      "line_no": "61",
+      "meter": 145837
+    },
+    {
+      "line_no": "61",
+      "meter": 145837
+    },
+    {
+      "line_no": "61",
+      "meter": 145837
+    }
+  ]
+}

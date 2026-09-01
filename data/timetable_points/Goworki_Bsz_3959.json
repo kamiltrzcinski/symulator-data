@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709943,
+  "type": "TIMETABLE_POINT",
+  "name": "Goworki Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "900",
+      "meter": 3870
+    },
+    {
+      "line_no": "900",
+      "meter": 3870
+    }
+  ]
+}

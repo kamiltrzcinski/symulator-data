@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714384,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142cz Radu\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 25217
+    }
+  ]
+}

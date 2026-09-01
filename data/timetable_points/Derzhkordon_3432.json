@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709416,
+  "type": "TIMETABLE_POINT",
+  "name": "Derzhkordon",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "472",
+      "meter": 83675
+    },
+    {
+      "line_no": "473",
+      "meter": 83675
+    }
+  ]
+}

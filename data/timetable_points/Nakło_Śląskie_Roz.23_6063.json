@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712047,
+  "type": "TIMETABLE_POINT",
+  "name": "Nak\u0142o \u015al\u0105skie Roz.23",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "128",
+      "meter": 30659
+    },
+    {
+      "line_no": "128",
+      "meter": 30659
+    },
+    {
+      "line_no": "128",
+      "meter": 30659
+    },
+    {
+      "line_no": "131",
+      "meter": 30643
+    },
+    {
+      "line_no": "131",
+      "meter": 30659
+    },
+    {
+      "line_no": "131",
+      "meter": 30659
+    }
+  ]
+}

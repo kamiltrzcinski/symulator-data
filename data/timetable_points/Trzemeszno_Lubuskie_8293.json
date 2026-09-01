@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714277,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzemeszno Lubuskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "364",
+      "meter": 48001
+    },
+    {
+      "line_no": "364",
+      "meter": 48001
+    },
+    {
+      "line_no": "364",
+      "meter": 48001
+    }
+  ]
+}

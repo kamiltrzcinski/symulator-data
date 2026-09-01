@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712383,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostr\u00f3w Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 136121
+    },
+    {
+      "line_no": "14",
+      "meter": 136121
+    },
+    {
+      "line_no": "272",
+      "meter": 86254
+    },
+    {
+      "line_no": "272",
+      "meter": 86254
+    },
+    {
+      "line_no": "355",
+      "meter": 0
+    },
+    {
+      "line_no": "355",
+      "meter": 0
+    }
+  ]
+}

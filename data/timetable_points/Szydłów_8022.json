@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714006,
+  "type": "TIMETABLE_POINT",
+  "name": "Szyd\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 15484
+    },
+    {
+      "line_no": "287",
+      "meter": 15486
+    },
+    {
+      "line_no": "287",
+      "meter": 15486
+    },
+    {
+      "line_no": "329",
+      "meter": 0
+    },
+    {
+      "line_no": "329",
+      "meter": 0
+    },
+    {
+      "line_no": "329",
+      "meter": 0
+    }
+  ]
+}

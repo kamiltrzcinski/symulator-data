@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712405,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u015bwi\u0119cim R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 62908
+    },
+    {
+      "line_no": "94",
+      "meter": 62908
+    },
+    {
+      "line_no": "94",
+      "meter": 62908
+    },
+    {
+      "line_no": "94",
+      "meter": 62908
+    },
+    {
+      "line_no": "94",
+      "meter": 62913
+    },
+    {
+      "line_no": "699",
+      "meter": 0
+    },
+    {
+      "line_no": "699",
+      "meter": 0
+    },
+    {
+      "line_no": "699",
+      "meter": 0
+    }
+  ]
+}

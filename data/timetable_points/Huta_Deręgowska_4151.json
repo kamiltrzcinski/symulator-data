@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710135,
+  "type": "TIMETABLE_POINT",
+  "name": "Huta Der\u0119gowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 54100
+    },
+    {
+      "line_no": "66",
+      "meter": 54100
+    },
+    {
+      "line_no": "66",
+      "meter": 54125
+    }
+  ]
+}

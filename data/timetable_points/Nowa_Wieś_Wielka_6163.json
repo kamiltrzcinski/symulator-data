@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712147,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b Wielka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 346082
+    },
+    {
+      "line_no": "131",
+      "meter": 346082
+    },
+    {
+      "line_no": "201",
+      "meter": 0
+    },
+    {
+      "line_no": "201",
+      "meter": 0
+    }
+  ]
+}

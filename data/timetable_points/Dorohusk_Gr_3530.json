@@ -1,0 +1,60 @@
+{
+  "uid": 3453153709514,
+  "type": "TIMETABLE_POINT",
+  "name": "Dorohusk (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 271533
+    },
+    {
+      "line_no": "7",
+      "meter": 271533
+    },
+    {
+      "line_no": "7",
+      "meter": 271533
+    },
+    {
+      "line_no": "63",
+      "meter": 0
+    },
+    {
+      "line_no": "63",
+      "meter": 0
+    },
+    {
+      "line_no": "63",
+      "meter": 0
+    },
+    {
+      "line_no": "63",
+      "meter": 0
+    },
+    {
+      "line_no": "468",
+      "meter": 516800
+    },
+    {
+      "line_no": "468",
+      "meter": 516800
+    },
+    {
+      "line_no": "468",
+      "meter": 517880
+    },
+    {
+      "line_no": "469",
+      "meter": 0
+    },
+    {
+      "line_no": "469",
+      "meter": 0
+    },
+    {
+      "line_no": "469",
+      "meter": 517880
+    }
+  ]
+}

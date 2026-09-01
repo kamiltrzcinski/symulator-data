@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712659,
+  "type": "TIMETABLE_POINT",
+  "name": "Podzamcze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 192851
+    },
+    {
+      "line_no": "7",
+      "meter": 192890
+    },
+    {
+      "line_no": "7",
+      "meter": 192890
+    }
+  ]
+}

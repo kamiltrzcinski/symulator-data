@@ -1,0 +1,56 @@
+{
+  "uid": 3453153714550,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wawer",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 12569
+    },
+    {
+      "line_no": "7",
+      "meter": 12569
+    },
+    {
+      "line_no": "7",
+      "meter": 12569
+    },
+    {
+      "line_no": "7",
+      "meter": 12579
+    },
+    {
+      "line_no": "7",
+      "meter": 12579
+    },
+    {
+      "line_no": "506",
+      "meter": 4111
+    },
+    {
+      "line_no": "506",
+      "meter": 4111
+    },
+    {
+      "line_no": "506",
+      "meter": 4111
+    },
+    {
+      "line_no": "506",
+      "meter": 12579
+    },
+    {
+      "line_no": "506",
+      "meter": 12579
+    },
+    {
+      "line_no": "506",
+      "meter": 12579
+    },
+    {
+      "line_no": "506",
+      "meter": 12579
+    }
+  ]
+}

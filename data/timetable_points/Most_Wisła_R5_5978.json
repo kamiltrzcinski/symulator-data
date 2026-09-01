@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711962,
+  "type": "TIMETABLE_POINT",
+  "name": "Most Wis\u0142a R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 42237
+    },
+    {
+      "line_no": "139",
+      "meter": 42237
+    },
+    {
+      "line_no": "150",
+      "meter": 0
+    }
+  ]
+}

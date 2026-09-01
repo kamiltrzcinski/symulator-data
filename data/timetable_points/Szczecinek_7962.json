@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713946,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecinek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 61184
+    },
+    {
+      "line_no": "210",
+      "meter": 61184
+    },
+    {
+      "line_no": "404",
+      "meter": 0
+    },
+    {
+      "line_no": "404",
+      "meter": 0
+    },
+    {
+      "line_no": "405",
+      "meter": 70711
+    },
+    {
+      "line_no": "405",
+      "meter": 70711
+    },
+    {
+      "line_no": "405",
+      "meter": 70711
+    }
+  ]
+}

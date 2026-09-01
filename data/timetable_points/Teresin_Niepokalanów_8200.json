@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714184,
+  "type": "TIMETABLE_POINT",
+  "name": "Teresin Niepokalan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 41942
+    },
+    {
+      "line_no": "3",
+      "meter": 41942
+    },
+    {
+      "line_no": "3",
+      "meter": 41942
+    }
+  ]
+}

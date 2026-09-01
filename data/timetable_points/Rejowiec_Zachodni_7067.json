@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713051,
+  "type": "TIMETABLE_POINT",
+  "name": "Rejowiec Zachodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 226543
+    },
+    {
+      "line_no": "7",
+      "meter": 226543
+    },
+    {
+      "line_no": "7",
+      "meter": 226547
+    },
+    {
+      "line_no": "7",
+      "meter": 226547
+    },
+    {
+      "line_no": "563",
+      "meter": 36
+    },
+    {
+      "line_no": "563",
+      "meter": 36
+    },
+    {
+      "line_no": "563",
+      "meter": 93
+    }
+  ]
+}

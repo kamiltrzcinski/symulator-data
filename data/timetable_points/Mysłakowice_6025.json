@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712009,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142akowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "308",
+      "meter": 30377
+    },
+    {
+      "line_no": "308",
+      "meter": 30377
+    },
+    {
+      "line_no": "308",
+      "meter": 30377
+    },
+    {
+      "line_no": "308",
+      "meter": 30385
+    },
+    {
+      "line_no": "340",
+      "meter": 0
+    },
+    {
+      "line_no": "340",
+      "meter": 290
+    }
+  ]
+}

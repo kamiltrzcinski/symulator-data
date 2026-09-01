@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710663,
+  "type": "TIMETABLE_POINT",
+  "name": "Kluczbork R116",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 70304
+    },
+    {
+      "line_no": "143",
+      "meter": 70362
+    },
+    {
+      "line_no": "143",
+      "meter": 70362
+    },
+    {
+      "line_no": "143",
+      "meter": 70396
+    },
+    {
+      "line_no": "293",
+      "meter": 25271
+    },
+    {
+      "line_no": "293",
+      "meter": 25333
+    },
+    {
+      "line_no": "293",
+      "meter": 25366
+    }
+  ]
+}

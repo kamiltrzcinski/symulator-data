@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713485,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142upsk P\u00f3\u0142nocny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 176928
+    },
+    {
+      "line_no": "405",
+      "meter": 176928
+    }
+  ]
+}

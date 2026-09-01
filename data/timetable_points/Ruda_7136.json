@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713120,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 74054
+    },
+    {
+      "line_no": "38",
+      "meter": 74054
+    },
+    {
+      "line_no": "38",
+      "meter": 74054
+    },
+    {
+      "line_no": "38",
+      "meter": 74055
+    },
+    {
+      "line_no": "38",
+      "meter": 74055
+    }
+  ]
+}

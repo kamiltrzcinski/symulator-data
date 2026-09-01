@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711415,
+  "type": "TIMETABLE_POINT",
+  "name": "Lizawice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 161866
+    },
+    {
+      "line_no": "132",
+      "meter": 161866
+    },
+    {
+      "line_no": "132",
+      "meter": 161866
+    }
+  ]
+}

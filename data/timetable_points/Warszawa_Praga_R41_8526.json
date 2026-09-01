@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714510,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R41",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 13912
+    },
+    {
+      "line_no": "20",
+      "meter": 13912
+    },
+    {
+      "line_no": "833",
+      "meter": 9726
+    },
+    {
+      "line_no": "833",
+      "meter": 9726
+    },
+    {
+      "line_no": "833",
+      "meter": 9744
+    }
+  ]
+}

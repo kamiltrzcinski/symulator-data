@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713130,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Orzeg\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "187",
+      "meter": 8938
+    },
+    {
+      "line_no": "187",
+      "meter": 8938
+    },
+    {
+      "line_no": "187",
+      "meter": 8938
+    },
+    {
+      "line_no": "187",
+      "meter": 8938
+    },
+    {
+      "line_no": "189",
+      "meter": 1616
+    },
+    {
+      "line_no": "189",
+      "meter": 1616
+    },
+    {
+      "line_no": "189",
+      "meter": 1616
+    }
+  ]
+}

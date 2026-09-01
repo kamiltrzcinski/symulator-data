@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710790,
+  "type": "TIMETABLE_POINT",
+  "name": "Kornelin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 58725
+    },
+    {
+      "line_no": "3",
+      "meter": 58725
+    }
+  ]
+}

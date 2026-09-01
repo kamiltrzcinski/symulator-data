@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715196,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdzieszowice R34",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "136",
+      "meter": 10545
+    },
+    {
+      "line_no": "136",
+      "meter": 10545
+    },
+    {
+      "line_no": "136",
+      "meter": 10545
+    },
+    {
+      "line_no": "136",
+      "meter": 10550
+    },
+    {
+      "line_no": "891",
+      "meter": 4149
+    },
+    {
+      "line_no": "891",
+      "meter": 4153
+    }
+  ]
+}

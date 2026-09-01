@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710799,
+  "type": "TIMETABLE_POINT",
+  "name": "Korze\u0144sko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 55479
+    },
+    {
+      "line_no": "271",
+      "meter": 55580
+    },
+    {
+      "line_no": "271",
+      "meter": 55580
+    }
+  ]
+}

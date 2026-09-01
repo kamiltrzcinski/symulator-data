@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713925,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Sec Bocz.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "417",
+      "meter": 32330
+    },
+    {
+      "line_no": "417",
+      "meter": 32330
+    },
+    {
+      "line_no": "417",
+      "meter": 32330
+    }
+  ]
+}

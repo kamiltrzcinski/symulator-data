@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714477,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ok\u0119cie GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "937",
+      "meter": -1419
+    },
+    {
+      "line_no": "937",
+      "meter": -1419
+    }
+  ]
+}

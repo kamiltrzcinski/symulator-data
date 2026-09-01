@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713632,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Jab\u0142onki GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 269000
+    },
+    {
+      "line_no": "353",
+      "meter": 269000
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712462,
+  "type": "TIMETABLE_POINT",
+  "name": "Parcz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "259",
+      "meter": 9870
+    },
+    {
+      "line_no": "259",
+      "meter": 9870
+    },
+    {
+      "line_no": "259",
+      "meter": 9870
+    },
+    {
+      "line_no": "259",
+      "meter": 9870
+    }
+  ]
+}

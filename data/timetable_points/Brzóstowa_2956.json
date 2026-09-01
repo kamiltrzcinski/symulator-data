@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708940,
+  "type": "TIMETABLE_POINT",
+  "name": "Brz\u00f3stowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 197580
+    },
+    {
+      "line_no": "25",
+      "meter": 197585
+    },
+    {
+      "line_no": "25",
+      "meter": 197585
+    },
+    {
+      "line_no": "25",
+      "meter": 197624
+    },
+    {
+      "line_no": "25",
+      "meter": 197695
+    }
+  ]
+}

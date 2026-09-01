@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714802,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oszczowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 47735
+    },
+    {
+      "line_no": "61",
+      "meter": 47735
+    },
+    {
+      "line_no": "61",
+      "meter": 47735
+    },
+    {
+      "line_no": "61",
+      "meter": 47735
+    },
+    {
+      "line_no": "61",
+      "meter": 47735
+    }
+  ]
+}

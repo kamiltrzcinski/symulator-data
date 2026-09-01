@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709988,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 6004
+    },
+    {
+      "line_no": "35",
+      "meter": 6004
+    },
+    {
+      "line_no": "35",
+      "meter": 6004
+    },
+    {
+      "line_no": "35",
+      "meter": 6004
+    },
+    {
+      "line_no": "35",
+      "meter": 6246
+    }
+  ]
+}

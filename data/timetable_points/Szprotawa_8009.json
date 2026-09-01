@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713993,
+  "type": "TIMETABLE_POINT",
+  "name": "Szprotawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 324000
+    },
+    {
+      "line_no": "14",
+      "meter": 324000
+    },
+    {
+      "line_no": "14",
+      "meter": 324000
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid": 3453153710347,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelcz Mi\u0142oszyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 70261
+    },
+    {
+      "line_no": "277",
+      "meter": 70261
+    },
+    {
+      "line_no": "277",
+      "meter": 70308
+    },
+    {
+      "line_no": "277",
+      "meter": 70308
+    },
+    {
+      "line_no": "277",
+      "meter": 70308
+    },
+    {
+      "line_no": "277",
+      "meter": 70308
+    },
+    {
+      "line_no": "277",
+      "meter": 70749
+    },
+    {
+      "line_no": "277",
+      "meter": 70749
+    },
+    {
+      "line_no": "277",
+      "meter": 70749
+    },
+    {
+      "line_no": "277",
+      "meter": 70749
+    },
+    {
+      "line_no": "292",
+      "meter": 0
+    },
+    {
+      "line_no": "292",
+      "meter": 404
+    },
+    {
+      "line_no": "292",
+      "meter": 487
+    },
+    {
+      "line_no": "292",
+      "meter": 487
+    }
+  ]
+}

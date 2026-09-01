@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708919,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzesko Okocim GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 50010
+    },
+    {
+      "line_no": "91",
+      "meter": 50010
+    },
+    {
+      "line_no": "91",
+      "meter": 50010
+    }
+  ]
+}

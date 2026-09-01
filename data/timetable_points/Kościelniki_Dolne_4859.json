@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710843,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcielniki Dolne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "337",
+      "meter": 6057
+    },
+    {
+      "line_no": "337",
+      "meter": 6057
+    },
+    {
+      "line_no": "337",
+      "meter": 6057
+    },
+    {
+      "line_no": "337",
+      "meter": 6057
+    },
+    {
+      "line_no": "337",
+      "meter": 6057
+    }
+  ]
+}

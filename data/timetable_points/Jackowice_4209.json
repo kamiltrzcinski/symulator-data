@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710193,
+  "type": "TIMETABLE_POINT",
+  "name": "Jackowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 93380
+    },
+    {
+      "line_no": "3",
+      "meter": 93380
+    },
+    {
+      "line_no": "3",
+      "meter": 93380
+    }
+  ]
+}

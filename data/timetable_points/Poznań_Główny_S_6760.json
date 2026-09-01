@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712744,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 G\u0142\u00f3wny S",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 164455
+    },
+    {
+      "line_no": "351",
+      "meter": 0
+    }
+  ]
+}

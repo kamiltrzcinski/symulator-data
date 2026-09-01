@@ -1,0 +1,88 @@
+{
+  "uid": 3453153709782,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 27100
+    },
+    {
+      "line_no": "137",
+      "meter": 27100
+    },
+    {
+      "line_no": "137",
+      "meter": 27100
+    },
+    {
+      "line_no": "141",
+      "meter": 25564
+    },
+    {
+      "line_no": "141",
+      "meter": 25564
+    },
+    {
+      "line_no": "147",
+      "meter": 13063
+    },
+    {
+      "line_no": "147",
+      "meter": 13063
+    },
+    {
+      "line_no": "147",
+      "meter": 13063
+    },
+    {
+      "line_no": "168",
+      "meter": 501
+    },
+    {
+      "line_no": "168",
+      "meter": 501
+    },
+    {
+      "line_no": "168",
+      "meter": 501
+    },
+    {
+      "line_no": "168",
+      "meter": 501
+    },
+    {
+      "line_no": "200",
+      "meter": 0
+    },
+    {
+      "line_no": "200",
+      "meter": 400
+    },
+    {
+      "line_no": "200",
+      "meter": 400
+    },
+    {
+      "line_no": "200",
+      "meter": 400
+    },
+    {
+      "line_no": "200",
+      "meter": 400
+    },
+    {
+      "line_no": "671",
+      "meter": 2642
+    },
+    {
+      "line_no": "711",
+      "meter": 2034
+    },
+    {
+      "line_no": "711",
+      "meter": 2047
+    }
+  ]
+}

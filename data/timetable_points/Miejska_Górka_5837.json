@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711821,
+  "type": "TIMETABLE_POINT",
+  "name": "Miejska G\u00f3rka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "362",
+      "meter": 22837
+    },
+    {
+      "line_no": "362",
+      "meter": 22837
+    },
+    {
+      "line_no": "362",
+      "meter": 22837
+    },
+    {
+      "line_no": "362",
+      "meter": 22837
+    },
+    {
+      "line_no": "362",
+      "meter": 22837
+    }
+  ]
+}

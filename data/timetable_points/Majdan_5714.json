@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711698,
+  "type": "TIMETABLE_POINT",
+  "name": "Majdan",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 15027
+    },
+    {
+      "line_no": "68",
+      "meter": 15027
+    },
+    {
+      "line_no": "68",
+      "meter": 15027
+    },
+    {
+      "line_no": "68",
+      "meter": 15027
+    },
+    {
+      "line_no": "68",
+      "meter": 15050
+    }
+  ]
+}

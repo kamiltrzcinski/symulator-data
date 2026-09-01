@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712652,
+  "type": "TIMETABLE_POINT",
+  "name": "Podnie\u015bno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "55",
+      "meter": 106056
+    }
+  ]
+}

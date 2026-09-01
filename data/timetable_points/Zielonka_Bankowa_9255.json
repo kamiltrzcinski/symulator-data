@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715239,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielonka Bankowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "449",
+      "meter": 19129
+    },
+    {
+      "line_no": "449",
+      "meter": 19129
+    },
+    {
+      "line_no": "449",
+      "meter": 19240
+    },
+    {
+      "line_no": "449",
+      "meter": 19240
+    },
+    {
+      "line_no": "449",
+      "meter": 19240
+    },
+    {
+      "line_no": "449",
+      "meter": 19240
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714170,
+  "type": "TIMETABLE_POINT",
+  "name": "Tczew Po\u0142udnie Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 497152
+    },
+    {
+      "line_no": "131",
+      "meter": 497152
+    },
+    {
+      "line_no": "131",
+      "meter": 497152
+    },
+    {
+      "line_no": "732",
+      "meter": 0
+    },
+    {
+      "line_no": "732",
+      "meter": 0
+    }
+  ]
+}

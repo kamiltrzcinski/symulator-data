@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713638,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Olesno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 55201
+    },
+    {
+      "line_no": "143",
+      "meter": 55201
+    },
+    {
+      "line_no": "143",
+      "meter": 55201
+    }
+  ]
+}

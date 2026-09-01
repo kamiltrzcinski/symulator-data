@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713866,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin D.Roz.341",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 199127
+    },
+    {
+      "line_no": "351",
+      "meter": 199127
+    },
+    {
+      "line_no": "351",
+      "meter": 199127
+    },
+    {
+      "line_no": "351",
+      "meter": 199127
+    },
+    {
+      "line_no": "401",
+      "meter": -636
+    },
+    {
+      "line_no": "401",
+      "meter": -636
+    }
+  ]
+}

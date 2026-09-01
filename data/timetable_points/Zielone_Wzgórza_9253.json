@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715237,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielone Wzg\u00f3rza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 17650
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711824,
+  "type": "TIMETABLE_POINT",
+  "name": "Mielec Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 297500
+    },
+    {
+      "line_no": "25",
+      "meter": 297550
+    },
+    {
+      "line_no": "25",
+      "meter": 297550
+    }
+  ]
+}

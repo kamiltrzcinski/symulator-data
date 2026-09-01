@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714830,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Krzysztoporska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "24",
+      "meter": 11650
+    },
+    {
+      "line_no": "24",
+      "meter": 11650
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712286,
+  "type": "TIMETABLE_POINT",
+  "name": "Olszyna Luba\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 169720
+    },
+    {
+      "line_no": "274",
+      "meter": 169720
+    }
+  ]
+}

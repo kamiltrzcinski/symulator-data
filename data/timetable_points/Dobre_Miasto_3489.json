@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709473,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobre Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 22966
+    },
+    {
+      "line_no": "221",
+      "meter": 22966
+    },
+    {
+      "line_no": "221",
+      "meter": 22966
+    }
+  ]
+}

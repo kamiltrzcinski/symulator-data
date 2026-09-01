@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712410,
+  "type": "TIMETABLE_POINT",
+  "name": "Otmice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 80523
+    },
+    {
+      "line_no": "132",
+      "meter": 80523
+    },
+    {
+      "line_no": "132",
+      "meter": 80523
+    }
+  ]
+}

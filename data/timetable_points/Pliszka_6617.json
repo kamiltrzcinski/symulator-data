@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712601,
+  "type": "TIMETABLE_POINT",
+  "name": "Pliszka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 201898
+    },
+    {
+      "line_no": "273",
+      "meter": 201898
+    },
+    {
+      "line_no": "273",
+      "meter": 201930
+    }
+  ]
+}

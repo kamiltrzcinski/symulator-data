@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711658,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Widzew R56",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "17",
+      "meter": 6032
+    },
+    {
+      "line_no": "17",
+      "meter": 6302
+    },
+    {
+      "line_no": "17",
+      "meter": 6302
+    },
+    {
+      "line_no": "541",
+      "meter": 765
+    },
+    {
+      "line_no": "541",
+      "meter": 1033
+    }
+  ]
+}

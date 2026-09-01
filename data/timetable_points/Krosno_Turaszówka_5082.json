@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711066,
+  "type": "TIMETABLE_POINT",
+  "name": "Krosno Turasz\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 64332
+    },
+    {
+      "line_no": "108",
+      "meter": 64332
+    },
+    {
+      "line_no": "108",
+      "meter": 64333
+    },
+    {
+      "line_no": "108",
+      "meter": 64333
+    },
+    {
+      "line_no": "108",
+      "meter": 64333
+    }
+  ]
+}

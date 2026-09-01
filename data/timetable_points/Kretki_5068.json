@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711052,
+  "type": "TIMETABLE_POINT",
+  "name": "Kretki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 129010
+    },
+    {
+      "line_no": "33",
+      "meter": 129010
+    }
+  ]
+}

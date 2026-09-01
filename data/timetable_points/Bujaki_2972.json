@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708956,
+  "type": "TIMETABLE_POINT",
+  "name": "Bujaki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 37487
+    },
+    {
+      "line_no": "216",
+      "meter": 37487
+    },
+    {
+      "line_no": "216",
+      "meter": 38819
+    },
+    {
+      "line_no": "216",
+      "meter": 38820
+    },
+    {
+      "line_no": "216",
+      "meter": 38820
+    }
+  ]
+}

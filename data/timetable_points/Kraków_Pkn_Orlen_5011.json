@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710995,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Pkn Orlen",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 3450
+    },
+    {
+      "line_no": "118",
+      "meter": 10551
+    },
+    {
+      "line_no": "118",
+      "meter": 10551
+    },
+    {
+      "line_no": "118",
+      "meter": 10551
+    },
+    {
+      "line_no": "118",
+      "meter": 10551
+    }
+  ]
+}

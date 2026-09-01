@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714209,
+  "type": "TIMETABLE_POINT",
+  "name": "Topola-Osiedle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "355",
+      "meter": 5282
+    },
+    {
+      "line_no": "355",
+      "meter": 5282
+    },
+    {
+      "line_no": "355",
+      "meter": 5282
+    }
+  ]
+}

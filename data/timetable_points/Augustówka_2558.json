@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708542,
+  "type": "TIMETABLE_POINT",
+  "name": "August\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 50324
+    },
+    {
+      "line_no": "7",
+      "meter": 50452
+    },
+    {
+      "line_no": "7",
+      "meter": 50452
+    }
+  ]
+}

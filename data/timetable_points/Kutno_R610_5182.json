@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711166,
+  "type": "TIMETABLE_POINT",
+  "name": "Kutno R610",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 126241
+    },
+    {
+      "line_no": "3",
+      "meter": 126403
+    },
+    {
+      "line_no": "3",
+      "meter": 126403
+    },
+    {
+      "line_no": "16",
+      "meter": 71266
+    },
+    {
+      "line_no": "16",
+      "meter": 71563
+    },
+    {
+      "line_no": "16",
+      "meter": 71563
+    }
+  ]
+}

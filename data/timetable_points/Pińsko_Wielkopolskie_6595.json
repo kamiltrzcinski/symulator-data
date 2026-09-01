@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712579,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0144sko Wielkopolskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 98233
+    },
+    {
+      "line_no": "356",
+      "meter": 98233
+    }
+  ]
+}

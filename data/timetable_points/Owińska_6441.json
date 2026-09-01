@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712425,
+  "type": "TIMETABLE_POINT",
+  "name": "Owi\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 10810
+    }
+  ]
+}

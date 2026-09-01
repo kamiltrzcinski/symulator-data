@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711236,
+  "type": "TIMETABLE_POINT",
+  "name": "L878 km:,033 PLK - JSK Sp. z o.o.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "878",
+      "meter": 33
+    },
+    {
+      "line_no": "878",
+      "meter": 33
+    }
+  ]
+}

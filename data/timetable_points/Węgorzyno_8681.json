@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714665,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0119gorzyno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 145227
+    },
+    {
+      "line_no": "210",
+      "meter": 145507
+    },
+    {
+      "line_no": "210",
+      "meter": 145507
+    }
+  ]
+}

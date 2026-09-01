@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710560,
+  "type": "TIMETABLE_POINT",
+  "name": "Kcynia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 216444
+    },
+    {
+      "line_no": "281",
+      "meter": 216444
+    },
+    {
+      "line_no": "281",
+      "meter": 216444
+    },
+    {
+      "line_no": "281",
+      "meter": 216444
+    },
+    {
+      "line_no": "281",
+      "meter": 216444
+    },
+    {
+      "line_no": "356",
+      "meter": 85663
+    },
+    {
+      "line_no": "356",
+      "meter": 85663
+    },
+    {
+      "line_no": "356",
+      "meter": 85663
+    }
+  ]
+}

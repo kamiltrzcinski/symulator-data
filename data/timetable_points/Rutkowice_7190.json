@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713174,
+  "type": "TIMETABLE_POINT",
+  "name": "Rutkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 21134
+    },
+    {
+      "line_no": "18",
+      "meter": 21134
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713902,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Pogodno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 4840
+    },
+    {
+      "line_no": "406",
+      "meter": 4840
+    },
+    {
+      "line_no": "406",
+      "meter": 4840
+    },
+    {
+      "line_no": "406",
+      "meter": 4840
+    }
+  ]
+}

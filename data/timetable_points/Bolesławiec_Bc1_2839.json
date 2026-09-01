@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708823,
+  "type": "TIMETABLE_POINT",
+  "name": "Boles\u0142awiec Bc1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "973",
+      "meter": 1200
+    },
+    {
+      "line_no": "973",
+      "meter": 1200
+    }
+  ]
+}

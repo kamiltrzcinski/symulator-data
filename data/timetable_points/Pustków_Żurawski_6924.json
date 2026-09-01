@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712908,
+  "type": "TIMETABLE_POINT",
+  "name": "Pustk\u00f3w \u017burawski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 26033
+    },
+    {
+      "line_no": "285",
+      "meter": 26033
+    },
+    {
+      "line_no": "285",
+      "meter": 26097
+    },
+    {
+      "line_no": "285",
+      "meter": 26097
+    },
+    {
+      "line_no": "285",
+      "meter": 26097
+    },
+    {
+      "line_no": "285",
+      "meter": 26097
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712293,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u0142awa Zachodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 157100
+    },
+    {
+      "line_no": "132",
+      "meter": 157100
+    },
+    {
+      "line_no": "132",
+      "meter": 157100
+    },
+    {
+      "line_no": "132",
+      "meter": 157100
+    }
+  ]
+}

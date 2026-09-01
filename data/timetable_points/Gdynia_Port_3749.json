@@ -1,0 +1,116 @@
+{
+  "uid": 3453153709733,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Port",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 206018
+    },
+    {
+      "line_no": "201",
+      "meter": 206018
+    },
+    {
+      "line_no": "201",
+      "meter": 206018
+    },
+    {
+      "line_no": "201",
+      "meter": 206018
+    },
+    {
+      "line_no": "201",
+      "meter": 208115
+    },
+    {
+      "line_no": "228",
+      "meter": 5869
+    },
+    {
+      "line_no": "228",
+      "meter": 5869
+    },
+    {
+      "line_no": "228",
+      "meter": 5869
+    },
+    {
+      "line_no": "228",
+      "meter": 6000
+    },
+    {
+      "line_no": "228",
+      "meter": 6000
+    },
+    {
+      "line_no": "723",
+      "meter": 2029
+    },
+    {
+      "line_no": "723",
+      "meter": 2029
+    },
+    {
+      "line_no": "723",
+      "meter": 2076
+    },
+    {
+      "line_no": "723",
+      "meter": 2076
+    },
+    {
+      "line_no": "724",
+      "meter": 2155
+    },
+    {
+      "line_no": "724",
+      "meter": 2155
+    },
+    {
+      "line_no": "724",
+      "meter": 2155
+    },
+    {
+      "line_no": "724",
+      "meter": 2155
+    },
+    {
+      "line_no": "725",
+      "meter": 2245
+    },
+    {
+      "line_no": "725",
+      "meter": 2245
+    },
+    {
+      "line_no": "725",
+      "meter": 2245
+    },
+    {
+      "line_no": "725",
+      "meter": 2245
+    },
+    {
+      "line_no": "725",
+      "meter": 2245
+    },
+    {
+      "line_no": "725",
+      "meter": 2245
+    },
+    {
+      "line_no": "961",
+      "meter": 1101
+    },
+    {
+      "line_no": "961",
+      "meter": 1101
+    },
+    {
+      "line_no": "961",
+      "meter": 1101
+    }
+  ]
+}

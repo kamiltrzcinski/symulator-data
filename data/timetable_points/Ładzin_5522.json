@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711506,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141adzin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 76698
+    },
+    {
+      "line_no": "401",
+      "meter": 76698
+    }
+  ]
+}

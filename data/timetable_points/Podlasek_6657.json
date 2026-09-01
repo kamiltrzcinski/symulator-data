@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712641,
+  "type": "TIMETABLE_POINT",
+  "name": "Podlasek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 70379
+    },
+    {
+      "line_no": "38",
+      "meter": 70379
+    },
+    {
+      "line_no": "38",
+      "meter": 70379
+    },
+    {
+      "line_no": "38",
+      "meter": 70379
+    },
+    {
+      "line_no": "38",
+      "meter": 70379
+    }
+  ]
+}

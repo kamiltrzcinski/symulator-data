@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709271,
+  "type": "TIMETABLE_POINT",
+  "name": "Czech\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 291137
+    },
+    {
+      "line_no": "203",
+      "meter": 291137
+    },
+    {
+      "line_no": "203",
+      "meter": 291137
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712429,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u017car\u00f3w Cementownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 206230
+    },
+    {
+      "line_no": "25",
+      "meter": 206230
+    },
+    {
+      "line_no": "25",
+      "meter": 206230
+    }
+  ]
+}

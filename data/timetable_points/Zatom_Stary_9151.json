@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715135,
+  "type": "TIMETABLE_POINT",
+  "name": "Zatom Stary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 49160
+    },
+    {
+      "line_no": "368",
+      "meter": 49160
+    },
+    {
+      "line_no": "368",
+      "meter": 49160
+    }
+  ]
+}

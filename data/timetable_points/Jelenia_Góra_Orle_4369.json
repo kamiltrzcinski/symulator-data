@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710353,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenia G\u00f3ra Orle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 7636
+    },
+    {
+      "line_no": "311",
+      "meter": 7653
+    }
+  ]
+}

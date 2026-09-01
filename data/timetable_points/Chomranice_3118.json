@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709102,
+  "type": "TIMETABLE_POINT",
+  "name": "Chomranice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 59411
+    },
+    {
+      "line_no": "104",
+      "meter": 61979
+    },
+    {
+      "line_no": "104",
+      "meter": 61979
+    },
+    {
+      "line_no": "104",
+      "meter": 61979
+    }
+  ]
+}

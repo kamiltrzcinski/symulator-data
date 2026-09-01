@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711394,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipniak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "51",
+      "meter": 8665
+    },
+    {
+      "line_no": "51",
+      "meter": 8665
+    }
+  ]
+}

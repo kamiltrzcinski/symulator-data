@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710072,
+  "type": "TIMETABLE_POINT",
+  "name": "Gucin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "34",
+      "meter": 13002
+    },
+    {
+      "line_no": "34",
+      "meter": 13002
+    },
+    {
+      "line_no": "34",
+      "meter": 13039
+    }
+  ]
+}

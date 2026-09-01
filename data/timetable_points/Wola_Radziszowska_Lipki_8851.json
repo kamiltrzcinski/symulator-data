@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714835,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Radziszowska Lipki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 9083
+    },
+    {
+      "line_no": "97",
+      "meter": 9090
+    },
+    {
+      "line_no": "97",
+      "meter": 9100
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713479,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142owiki Nowe Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "76",
+      "meter": 5100
+    },
+    {
+      "line_no": "76",
+      "meter": 5100
+    },
+    {
+      "line_no": "76",
+      "meter": 5100
+    }
+  ]
+}

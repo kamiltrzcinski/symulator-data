@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714122,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G.Roz.582",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "127",
+      "meter": 37307
+    },
+    {
+      "line_no": "127",
+      "meter": 37307
+    },
+    {
+      "line_no": "131",
+      "meter": 37307
+    },
+    {
+      "line_no": "131",
+      "meter": 37307
+    },
+    {
+      "line_no": "131",
+      "meter": 37307
+    },
+    {
+      "line_no": "131",
+      "meter": 37307
+    },
+    {
+      "line_no": "856",
+      "meter": 37307
+    },
+    {
+      "line_no": "856",
+      "meter": 37307
+    }
+  ]
+}

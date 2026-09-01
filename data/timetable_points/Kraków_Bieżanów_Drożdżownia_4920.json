@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710904,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Bie\u017can\u00f3w Dro\u017cd\u017cownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "109",
+      "meter": 1598
+    },
+    {
+      "line_no": "109",
+      "meter": 1598
+    },
+    {
+      "line_no": "109",
+      "meter": 1598
+    }
+  ]
+}

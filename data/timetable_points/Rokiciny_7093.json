@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713077,
+  "type": "TIMETABLE_POINT",
+  "name": "Rokiciny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 114176
+    },
+    {
+      "line_no": "1",
+      "meter": 114176
+    },
+    {
+      "line_no": "1",
+      "meter": 114176
+    }
+  ]
+}

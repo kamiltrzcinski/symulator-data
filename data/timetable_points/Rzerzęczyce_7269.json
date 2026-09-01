@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713253,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzerz\u0119czyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 210606
+    },
+    {
+      "line_no": "1",
+      "meter": 210606
+    },
+    {
+      "line_no": "1",
+      "meter": 210606
+    },
+    {
+      "line_no": "1",
+      "meter": 210606
+    }
+  ]
+}

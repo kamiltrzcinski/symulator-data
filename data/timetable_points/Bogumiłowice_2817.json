@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708801,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogumi\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 69930
+    },
+    {
+      "line_no": "91",
+      "meter": 69930
+    },
+    {
+      "line_no": "91",
+      "meter": 69930
+    },
+    {
+      "line_no": "91",
+      "meter": 69930
+    },
+    {
+      "line_no": "91",
+      "meter": 69930
+    }
+  ]
+}

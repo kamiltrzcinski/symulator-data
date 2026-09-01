@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712177,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy \u0141upk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": 46438
+    },
+    {
+      "line_no": "107",
+      "meter": 46438
+    },
+    {
+      "line_no": "107",
+      "meter": 46438
+    },
+    {
+      "line_no": "107",
+      "meter": 46438
+    },
+    {
+      "line_no": "107",
+      "meter": 46858
+    },
+    {
+      "line_no": "107",
+      "meter": 46858
+    },
+    {
+      "line_no": "107",
+      "meter": 46858
+    }
+  ]
+}

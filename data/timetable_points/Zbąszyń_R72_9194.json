@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715178,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szy\u0144 R72",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 380113
+    },
+    {
+      "line_no": "3",
+      "meter": 380113
+    },
+    {
+      "line_no": "359",
+      "meter": 69654
+    }
+  ]
+}

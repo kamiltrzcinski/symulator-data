@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714096,
+  "type": "TIMETABLE_POINT",
+  "name": "Taczan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 107817
+    },
+    {
+      "line_no": "272",
+      "meter": 107817
+    },
+    {
+      "line_no": "272",
+      "meter": 107817
+    },
+    {
+      "line_no": "272",
+      "meter": 107817
+    },
+    {
+      "line_no": "272",
+      "meter": 107817
+    }
+  ]
+}

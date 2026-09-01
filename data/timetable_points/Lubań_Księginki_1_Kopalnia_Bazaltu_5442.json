@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711426,
+  "type": "TIMETABLE_POINT",
+  "name": "Luba\u0144 Ksi\u0119ginki 1 Kopalnia Bazaltu",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 180457
+    },
+    {
+      "line_no": "274",
+      "meter": 180457
+    },
+    {
+      "line_no": "274",
+      "meter": 180457
+    }
+  ]
+}

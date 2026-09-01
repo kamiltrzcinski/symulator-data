@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712208,
+  "type": "TIMETABLE_POINT",
+  "name": "Obora Wielkopolska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "377",
+      "meter": 5969
+    },
+    {
+      "line_no": "377",
+      "meter": 5969
+    },
+    {
+      "line_no": "377",
+      "meter": 5969
+    }
+  ]
+}

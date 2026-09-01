@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710605,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce Bia\u0142ogon",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 191742
+    },
+    {
+      "line_no": "8",
+      "meter": 191870
+    },
+    {
+      "line_no": "8",
+      "meter": 191870
+    },
+    {
+      "line_no": "8",
+      "meter": 191870
+    },
+    {
+      "line_no": "8",
+      "meter": 191870
+    },
+    {
+      "line_no": "8",
+      "meter": 191870
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712399,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u015bwi\u0119cim Owa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 24680
+    },
+    {
+      "line_no": "93",
+      "meter": 24680
+    },
+    {
+      "line_no": "93",
+      "meter": 24680
+    },
+    {
+      "line_no": "138",
+      "meter": 550
+    },
+    {
+      "line_no": "138",
+      "meter": 550
+    },
+    {
+      "line_no": "138",
+      "meter": 581
+    }
+  ]
+}

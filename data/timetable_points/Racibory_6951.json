@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712935,
+  "type": "TIMETABLE_POINT",
+  "name": "Racibory",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 140474
+    },
+    {
+      "line_no": "6",
+      "meter": 140474
+    },
+    {
+      "line_no": "6",
+      "meter": 140474
+    },
+    {
+      "line_no": "6",
+      "meter": 140474
+    },
+    {
+      "line_no": "6",
+      "meter": 140474
+    },
+    {
+      "line_no": "6",
+      "meter": 140474
+    },
+    {
+      "line_no": "6",
+      "meter": 140623
+    }
+  ]
+}

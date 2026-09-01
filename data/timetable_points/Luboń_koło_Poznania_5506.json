@@ -1,0 +1,56 @@
+{
+  "uid": 3453153711490,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubo\u0144 ko\u0142o Poznania",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 157933
+    },
+    {
+      "line_no": "271",
+      "meter": 157933
+    },
+    {
+      "line_no": "271",
+      "meter": 157933
+    },
+    {
+      "line_no": "271",
+      "meter": 157933
+    },
+    {
+      "line_no": "271",
+      "meter": 157933
+    },
+    {
+      "line_no": "357",
+      "meter": 111587
+    },
+    {
+      "line_no": "357",
+      "meter": 111587
+    },
+    {
+      "line_no": "357",
+      "meter": 112182
+    },
+    {
+      "line_no": "357",
+      "meter": 112182
+    },
+    {
+      "line_no": "802",
+      "meter": 4015
+    },
+    {
+      "line_no": "802",
+      "meter": 4015
+    },
+    {
+      "line_no": "802",
+      "meter": 4015
+    }
+  ]
+}

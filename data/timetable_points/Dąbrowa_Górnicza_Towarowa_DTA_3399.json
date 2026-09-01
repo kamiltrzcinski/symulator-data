@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709383,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Towarowa DTA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "154",
+      "meter": 17400
+    },
+    {
+      "line_no": "154",
+      "meter": 17400
+    },
+    {
+      "line_no": "154",
+      "meter": 17400
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712986,
+  "type": "TIMETABLE_POINT",
+  "name": "Radymno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 223155
+    },
+    {
+      "line_no": "91",
+      "meter": 223155
+    },
+    {
+      "line_no": "91",
+      "meter": 223155
+    },
+    {
+      "line_no": "91",
+      "meter": 223155
+    },
+    {
+      "line_no": "91",
+      "meter": 223155
+    }
+  ]
+}

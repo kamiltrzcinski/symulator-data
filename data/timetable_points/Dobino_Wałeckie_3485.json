@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709469,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobino Wa\u0142eckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 16882
+    }
+  ]
+}

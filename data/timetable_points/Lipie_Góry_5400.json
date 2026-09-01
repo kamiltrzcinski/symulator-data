@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711384,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipie G\u00f3ry",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 251281
+    },
+    {
+      "line_no": "131",
+      "meter": 251281
+    }
+  ]
+}

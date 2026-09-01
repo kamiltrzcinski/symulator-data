@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710469,
+  "type": "TIMETABLE_POINT",
+  "name": "Kana\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "153",
+      "meter": 12254
+    },
+    {
+      "line_no": "153",
+      "meter": 12273
+    },
+    {
+      "line_no": "153",
+      "meter": 12273
+    }
+  ]
+}

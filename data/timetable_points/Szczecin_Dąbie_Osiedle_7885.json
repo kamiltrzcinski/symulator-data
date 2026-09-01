@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713869,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin D\u0105bie Osiedle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 2320
+    },
+    {
+      "line_no": "401",
+      "meter": 2320
+    },
+    {
+      "line_no": "401",
+      "meter": 2320
+    }
+  ]
+}

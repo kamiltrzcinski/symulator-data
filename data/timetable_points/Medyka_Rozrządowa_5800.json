@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711784,
+  "type": "TIMETABLE_POINT",
+  "name": "Medyka Rozrz\u0105dowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 254264
+    },
+    {
+      "line_no": "91",
+      "meter": 254305
+    },
+    {
+      "line_no": "91",
+      "meter": 254305
+    },
+    {
+      "line_no": "91",
+      "meter": 254305
+    },
+    {
+      "line_no": "91",
+      "meter": 254305
+    }
+  ]
+}

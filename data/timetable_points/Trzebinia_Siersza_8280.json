@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714264,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebinia Siersza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "114",
+      "meter": 5482
+    },
+    {
+      "line_no": "114",
+      "meter": 5482
+    },
+    {
+      "line_no": "114",
+      "meter": 5482
+    },
+    {
+      "line_no": "114",
+      "meter": 5482
+    },
+    {
+      "line_no": "114",
+      "meter": 5482
+    },
+    {
+      "line_no": "718",
+      "meter": 25046
+    }
+  ]
+}

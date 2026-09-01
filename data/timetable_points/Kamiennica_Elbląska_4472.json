@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710456,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamiennica Elbl\u0105ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 14075
+    },
+    {
+      "line_no": "254",
+      "meter": 14075
+    }
+  ]
+}

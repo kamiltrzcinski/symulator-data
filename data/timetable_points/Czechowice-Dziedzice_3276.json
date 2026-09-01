@@ -1,0 +1,80 @@
+{
+  "uid": 3453153709260,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 46664
+    },
+    {
+      "line_no": "93",
+      "meter": 46664
+    },
+    {
+      "line_no": "93",
+      "meter": 46664
+    },
+    {
+      "line_no": "93",
+      "meter": 46664
+    },
+    {
+      "line_no": "93",
+      "meter": 46664
+    },
+    {
+      "line_no": "139",
+      "meter": 44203
+    },
+    {
+      "line_no": "139",
+      "meter": 44203
+    },
+    {
+      "line_no": "139",
+      "meter": 44203
+    },
+    {
+      "line_no": "139",
+      "meter": 44203
+    },
+    {
+      "line_no": "139",
+      "meter": 44203
+    },
+    {
+      "line_no": "150",
+      "meter": 2619
+    },
+    {
+      "line_no": "150",
+      "meter": 2952
+    },
+    {
+      "line_no": "150",
+      "meter": 2963
+    },
+    {
+      "line_no": "693",
+      "meter": 15
+    },
+    {
+      "line_no": "693",
+      "meter": 15
+    },
+    {
+      "line_no": "693",
+      "meter": 16
+    },
+    {
+      "line_no": "693",
+      "meter": 16
+    },
+    {
+      "line_no": "790",
+      "meter": 1600
+    }
+  ]
+}

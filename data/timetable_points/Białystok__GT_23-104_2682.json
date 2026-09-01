@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708666,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok  GT 23-104",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "836",
+      "meter": 175990
+    },
+    {
+      "line_no": "836",
+      "meter": 176300
+    },
+    {
+      "line_no": "836",
+      "meter": 176300
+    }
+  ]
+}

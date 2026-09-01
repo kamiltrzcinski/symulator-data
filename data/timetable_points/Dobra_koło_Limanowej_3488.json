@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709472,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobra ko\u0142o Limanowej",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 30840
+    },
+    {
+      "line_no": "104",
+      "meter": 30840
+    },
+    {
+      "line_no": "104",
+      "meter": 30840
+    }
+  ]
+}

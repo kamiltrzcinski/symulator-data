@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710341,
+  "type": "TIMETABLE_POINT",
+  "name": "Jedlina-Zdr\u00f3j Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "266",
+      "meter": 79194
+    },
+    {
+      "line_no": "285",
+      "meter": 79194
+    }
+  ]
+}

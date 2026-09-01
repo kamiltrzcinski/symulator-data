@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712796,
+  "type": "TIMETABLE_POINT",
+  "name": "Pruszcz Gda\u0144ski Cargill",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 3000
+    },
+    {
+      "line_no": "229",
+      "meter": 3000
+    },
+    {
+      "line_no": "229",
+      "meter": 3000
+    }
+  ]
+}

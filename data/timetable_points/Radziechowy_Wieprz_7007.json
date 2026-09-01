@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712991,
+  "type": "TIMETABLE_POINT",
+  "name": "Radziechowy Wieprz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 80435
+    },
+    {
+      "line_no": "139",
+      "meter": 80435
+    }
+  ]
+}

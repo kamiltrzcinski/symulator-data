@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710110,
+  "type": "TIMETABLE_POINT",
+  "name": "Ho\u0142\u00f3wki Du\u017ce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 56310
+    },
+    {
+      "line_no": "32",
+      "meter": 56310
+    },
+    {
+      "line_no": "32",
+      "meter": 56310
+    },
+    {
+      "line_no": "32",
+      "meter": 56310
+    },
+    {
+      "line_no": "32",
+      "meter": 56336
+    }
+  ]
+}

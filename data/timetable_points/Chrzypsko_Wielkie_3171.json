@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709155,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrzypsko Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 29679
+    },
+    {
+      "line_no": "368",
+      "meter": 29679
+    }
+  ]
+}

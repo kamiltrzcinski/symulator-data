@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713159,
+  "type": "TIMETABLE_POINT",
+  "name": "Rumia Janowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 30215
+    },
+    {
+      "line_no": "250",
+      "meter": 30215
+    },
+    {
+      "line_no": "250",
+      "meter": 30215
+    },
+    {
+      "line_no": "250",
+      "meter": 30215
+    },
+    {
+      "line_no": "250",
+      "meter": 30262
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715136,
+  "type": "TIMETABLE_POINT",
+  "name": "Zator",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 45601
+    },
+    {
+      "line_no": "94",
+      "meter": 45601
+    },
+    {
+      "line_no": "94",
+      "meter": 45710
+    },
+    {
+      "line_no": "94",
+      "meter": 45710
+    },
+    {
+      "line_no": "94",
+      "meter": 45710
+    },
+    {
+      "line_no": "94",
+      "meter": 45710
+    }
+  ]
+}

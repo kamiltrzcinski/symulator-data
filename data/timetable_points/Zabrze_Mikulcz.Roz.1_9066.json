@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715050,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Mikulcz.Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 28079
+    },
+    {
+      "line_no": "178",
+      "meter": -160
+    }
+  ]
+}

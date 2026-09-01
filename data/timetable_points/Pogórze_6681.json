@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712665,
+  "type": "TIMETABLE_POINT",
+  "name": "Pog\u00f3rze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 18653
+    },
+    {
+      "line_no": "190",
+      "meter": 18653
+    },
+    {
+      "line_no": "190",
+      "meter": 18653
+    },
+    {
+      "line_no": "190",
+      "meter": 18653
+    },
+    {
+      "line_no": "190",
+      "meter": 18653
+    }
+  ]
+}

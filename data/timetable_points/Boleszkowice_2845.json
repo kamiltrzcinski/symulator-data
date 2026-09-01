@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708829,
+  "type": "TIMETABLE_POINT",
+  "name": "Boleszkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 274231
+    },
+    {
+      "line_no": "273",
+      "meter": 274231
+    }
+  ]
+}

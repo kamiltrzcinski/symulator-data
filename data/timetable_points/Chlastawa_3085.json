@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709069,
+  "type": "TIMETABLE_POINT",
+  "name": "Chlastawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 382754
+    },
+    {
+      "line_no": "3",
+      "meter": 382754
+    },
+    {
+      "line_no": "3",
+      "meter": 382754
+    },
+    {
+      "line_no": "3",
+      "meter": 382754
+    },
+    {
+      "line_no": "819",
+      "meter": 87
+    },
+    {
+      "line_no": "819",
+      "meter": 87
+    },
+    {
+      "line_no": "820",
+      "meter": 87
+    },
+    {
+      "line_no": "820",
+      "meter": 87
+    }
+  ]
+}

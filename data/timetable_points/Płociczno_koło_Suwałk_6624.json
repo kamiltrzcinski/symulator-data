@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712608,
+  "type": "TIMETABLE_POINT",
+  "name": "P\u0142ociczno ko\u0142o Suwa\u0142k",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 90700
+    },
+    {
+      "line_no": "40",
+      "meter": 90851
+    },
+    {
+      "line_no": "40",
+      "meter": 90852
+    }
+  ]
+}

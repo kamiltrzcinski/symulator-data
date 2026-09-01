@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711458,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin G\u0142\u00f3wny PZS R3-19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 173645
+    },
+    {
+      "line_no": "68",
+      "meter": 1326
+    },
+    {
+      "line_no": "68",
+      "meter": 1326
+    },
+    {
+      "line_no": "935",
+      "meter": -1209
+    },
+    {
+      "line_no": "935",
+      "meter": 95
+    }
+  ]
+}

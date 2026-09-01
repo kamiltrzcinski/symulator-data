@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711755,
+  "type": "TIMETABLE_POINT",
+  "name": "Marcinkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 64648
+    },
+    {
+      "line_no": "104",
+      "meter": 67394
+    },
+    {
+      "line_no": "104",
+      "meter": 67394
+    },
+    {
+      "line_no": "104",
+      "meter": 67394
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709477,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobro\u0144 Podg",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 21170
+    },
+    {
+      "line_no": "14",
+      "meter": 21900
+    }
+  ]
+}

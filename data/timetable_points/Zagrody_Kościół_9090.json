@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715074,
+  "type": "TIMETABLE_POINT",
+  "name": "Zagrody Ko\u015bci\u00f3\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 6500
+    },
+    {
+      "line_no": "69",
+      "meter": 6500
+    },
+    {
+      "line_no": "69",
+      "meter": 6500
+    }
+  ]
+}

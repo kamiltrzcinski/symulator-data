@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712868,
+  "type": "TIMETABLE_POINT",
+  "name": "Przysieczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 43838
+    }
+  ]
+}

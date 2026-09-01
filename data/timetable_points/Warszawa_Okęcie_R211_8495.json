@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714479,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ok\u0119cie R211",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 10467
+    },
+    {
+      "line_no": "8",
+      "meter": 10467
+    },
+    {
+      "line_no": "8",
+      "meter": 10467
+    },
+    {
+      "line_no": "8",
+      "meter": 10467
+    },
+    {
+      "line_no": "8",
+      "meter": 10467
+    }
+  ]
+}

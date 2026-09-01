@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714181,
+  "type": "TIMETABLE_POINT",
+  "name": "Tczew Wis\u0142a R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 295212
+    },
+    {
+      "line_no": "9",
+      "meter": 295212
+    },
+    {
+      "line_no": "9",
+      "meter": 295212
+    },
+    {
+      "line_no": "732",
+      "meter": 848
+    },
+    {
+      "line_no": "732",
+      "meter": 848
+    }
+  ]
+}

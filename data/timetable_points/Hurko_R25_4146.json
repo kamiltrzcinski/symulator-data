@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710130,
+  "type": "TIMETABLE_POINT",
+  "name": "Hurko R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 250901
+    },
+    {
+      "line_no": "91",
+      "meter": 250901
+    },
+    {
+      "line_no": "91",
+      "meter": 250901
+    },
+    {
+      "line_no": "91",
+      "meter": 250901
+    },
+    {
+      "line_no": "989",
+      "meter": 0
+    }
+  ]
+}

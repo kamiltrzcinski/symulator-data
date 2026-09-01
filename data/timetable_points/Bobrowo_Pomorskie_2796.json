@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708780,
+  "type": "TIMETABLE_POINT",
+  "name": "Bobrowo Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 109829
+    },
+    {
+      "line_no": "210",
+      "meter": 109829
+    }
+  ]
+}

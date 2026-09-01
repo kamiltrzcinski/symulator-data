@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708700,
+  "type": "TIMETABLE_POINT",
+  "name": "Bieczyno Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 60240
+    },
+    {
+      "line_no": "402",
+      "meter": 60240
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709979,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabina \u015al\u0105ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "302",
+      "meter": 39906
+    },
+    {
+      "line_no": "302",
+      "meter": 39906
+    },
+    {
+      "line_no": "302",
+      "meter": 39906
+    },
+    {
+      "line_no": "302",
+      "meter": 39906
+    },
+    {
+      "line_no": "302",
+      "meter": 39906
+    }
+  ]
+}

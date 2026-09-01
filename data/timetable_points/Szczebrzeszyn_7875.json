@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713859,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczebrzeszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 64783
+    },
+    {
+      "line_no": "69",
+      "meter": 64783
+    },
+    {
+      "line_no": "69",
+      "meter": 66407
+    },
+    {
+      "line_no": "69",
+      "meter": 66407
+    },
+    {
+      "line_no": "69",
+      "meter": 66407
+    },
+    {
+      "line_no": "69",
+      "meter": 66407
+    }
+  ]
+}

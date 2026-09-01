@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714721,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzbice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 22829
+    },
+    {
+      "line_no": "285",
+      "meter": 22829
+    },
+    {
+      "line_no": "285",
+      "meter": 22887
+    },
+    {
+      "line_no": "285",
+      "meter": 22887
+    },
+    {
+      "line_no": "285",
+      "meter": 22887
+    }
+  ]
+}

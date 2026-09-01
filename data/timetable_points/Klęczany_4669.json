@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710653,
+  "type": "TIMETABLE_POINT",
+  "name": "Kl\u0119czany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 64384
+    },
+    {
+      "line_no": "104",
+      "meter": 64384
+    },
+    {
+      "line_no": "104",
+      "meter": 64384
+    },
+    {
+      "line_no": "104",
+      "meter": 64384
+    }
+  ]
+}

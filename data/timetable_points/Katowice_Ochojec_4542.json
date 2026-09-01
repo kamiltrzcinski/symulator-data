@@ -1,0 +1,96 @@
+{
+  "uid": 3453153710526,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Ochojec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "142",
+      "meter": 1810
+    },
+    {
+      "line_no": "142",
+      "meter": 1840
+    },
+    {
+      "line_no": "142",
+      "meter": 1840
+    },
+    {
+      "line_no": "142",
+      "meter": 1840
+    },
+    {
+      "line_no": "142",
+      "meter": 1840
+    },
+    {
+      "line_no": "142",
+      "meter": 1957
+    },
+    {
+      "line_no": "142",
+      "meter": 1966
+    },
+    {
+      "line_no": "653",
+      "meter": 1763
+    },
+    {
+      "line_no": "653",
+      "meter": 1763
+    },
+    {
+      "line_no": "653",
+      "meter": 1766
+    },
+    {
+      "line_no": "653",
+      "meter": 1928
+    },
+    {
+      "line_no": "653",
+      "meter": 1928
+    },
+    {
+      "line_no": "653",
+      "meter": 1928
+    },
+    {
+      "line_no": "653",
+      "meter": 1928
+    },
+    {
+      "line_no": "653",
+      "meter": 1928
+    },
+    {
+      "line_no": "653",
+      "meter": 2000
+    },
+    {
+      "line_no": "706",
+      "meter": 1080
+    },
+    {
+      "line_no": "706",
+      "meter": 1080
+    },
+    {
+      "line_no": "706",
+      "meter": 1080
+    },
+    {
+      "line_no": "706",
+      "meter": 1080
+    },
+    {
+      "line_no": "706",
+      "meter": 1081
+    },
+    {
+      "line_no": "706",
+      "meter": 1081
+    }
+  ]
+}

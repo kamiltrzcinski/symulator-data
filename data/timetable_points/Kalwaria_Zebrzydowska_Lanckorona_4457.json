@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710441,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalwaria Zebrzydowska Lanckorona",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 22252
+    },
+    {
+      "line_no": "97",
+      "meter": 22252
+    },
+    {
+      "line_no": "97",
+      "meter": 22254
+    },
+    {
+      "line_no": "97",
+      "meter": 22254
+    },
+    {
+      "line_no": "117",
+      "meter": 0
+    },
+    {
+      "line_no": "117",
+      "meter": 0
+    }
+  ]
+}

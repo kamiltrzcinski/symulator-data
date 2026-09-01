@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711214,
+  "type": "TIMETABLE_POINT",
+  "name": "L427 km:,285 PLK - PMT Linie Kol.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "427",
+      "meter": 285
+    }
+  ]
+}

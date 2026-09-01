@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712876,
+  "type": "TIMETABLE_POINT",
+  "name": "Przytkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 18777
+    },
+    {
+      "line_no": "97",
+      "meter": 18893
+    },
+    {
+      "line_no": "97",
+      "meter": 18898
+    },
+    {
+      "line_no": "97",
+      "meter": 18898
+    },
+    {
+      "line_no": "97",
+      "meter": 18898
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid": 3453153712368,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostro\u0142\u0119ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 74236
+    },
+    {
+      "line_no": "29",
+      "meter": 74236
+    },
+    {
+      "line_no": "29",
+      "meter": 74236
+    },
+    {
+      "line_no": "34",
+      "meter": 0
+    },
+    {
+      "line_no": "34",
+      "meter": 0
+    },
+    {
+      "line_no": "34",
+      "meter": 0
+    },
+    {
+      "line_no": "35",
+      "meter": 0
+    },
+    {
+      "line_no": "35",
+      "meter": 0
+    },
+    {
+      "line_no": "35",
+      "meter": 0
+    },
+    {
+      "line_no": "36",
+      "meter": 812
+    },
+    {
+      "line_no": "36",
+      "meter": 812
+    },
+    {
+      "line_no": "36",
+      "meter": 813
+    },
+    {
+      "line_no": "36",
+      "meter": 813
+    },
+    {
+      "line_no": "900",
+      "meter": 1
+    }
+  ]
+}

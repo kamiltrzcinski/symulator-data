@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715003,
+  "type": "TIMETABLE_POINT",
+  "name": "Wydminy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 132818
+    },
+    {
+      "line_no": "38",
+      "meter": 132818
+    },
+    {
+      "line_no": "38",
+      "meter": 132818
+    },
+    {
+      "line_no": "38",
+      "meter": 132818
+    },
+    {
+      "line_no": "38",
+      "meter": 132818
+    },
+    {
+      "line_no": "38",
+      "meter": 132818
+    },
+    {
+      "line_no": "38",
+      "meter": 132818
+    }
+  ]
+}

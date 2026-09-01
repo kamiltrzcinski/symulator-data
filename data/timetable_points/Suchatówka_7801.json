@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713785,
+  "type": "TIMETABLE_POINT",
+  "name": "Suchat\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 121007
+    },
+    {
+      "line_no": "353",
+      "meter": 121007
+    }
+  ]
+}

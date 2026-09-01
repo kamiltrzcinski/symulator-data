@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709928,
+  "type": "TIMETABLE_POINT",
+  "name": "Gosty\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 36071
+    },
+    {
+      "line_no": "360",
+      "meter": 36071
+    },
+    {
+      "line_no": "360",
+      "meter": 36071
+    },
+    {
+      "line_no": "360",
+      "meter": 36071
+    },
+    {
+      "line_no": "360",
+      "meter": 36071
+    }
+  ]
+}

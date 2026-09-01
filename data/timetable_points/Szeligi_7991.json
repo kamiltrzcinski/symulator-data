@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713975,
+  "type": "TIMETABLE_POINT",
+  "name": "Szeligi",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 23542
+    },
+    {
+      "line_no": "4",
+      "meter": 23542
+    },
+    {
+      "line_no": "4",
+      "meter": 23542
+    },
+    {
+      "line_no": "4",
+      "meter": 23542
+    },
+    {
+      "line_no": "4",
+      "meter": 23542
+    },
+    {
+      "line_no": "575",
+      "meter": -166
+    },
+    {
+      "line_no": "575",
+      "meter": -166
+    },
+    {
+      "line_no": "575",
+      "meter": -141
+    },
+    {
+      "line_no": "575",
+      "meter": 0
+    }
+  ]
+}

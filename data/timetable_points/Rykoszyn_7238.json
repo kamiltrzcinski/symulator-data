@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713222,
+  "type": "TIMETABLE_POINT",
+  "name": "Rykoszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 18235
+    },
+    {
+      "line_no": "61",
+      "meter": 18235
+    },
+    {
+      "line_no": "61",
+      "meter": 19017
+    },
+    {
+      "line_no": "61",
+      "meter": 19017
+    },
+    {
+      "line_no": "61",
+      "meter": 19017
+    },
+    {
+      "line_no": "61",
+      "meter": 19017
+    },
+    {
+      "line_no": "61",
+      "meter": 19024
+    },
+    {
+      "line_no": "61",
+      "meter": 19024
+    }
+  ]
+}

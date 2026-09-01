@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710844,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcielniki G\u00f3rne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "337",
+      "meter": 8081
+    },
+    {
+      "line_no": "337",
+      "meter": 8081
+    },
+    {
+      "line_no": "337",
+      "meter": 8081
+    },
+    {
+      "line_no": "337",
+      "meter": 8081
+    },
+    {
+      "line_no": "337",
+      "meter": 8081
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714819,
+  "type": "TIMETABLE_POINT",
+  "name": "Wojciechowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 14152
+    },
+    {
+      "line_no": "360",
+      "meter": 14152
+    },
+    {
+      "line_no": "360",
+      "meter": 14194
+    },
+    {
+      "line_no": "360",
+      "meter": 14194
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709261,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice GT Ochodza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 50603
+    },
+    {
+      "line_no": "150",
+      "meter": 3503
+    },
+    {
+      "line_no": "150",
+      "meter": 3503
+    },
+    {
+      "line_no": "150",
+      "meter": 3503
+    }
+  ]
+}

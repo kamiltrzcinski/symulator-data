@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712433,
+  "type": "TIMETABLE_POINT",
+  "name": "Pachol\u0119ta",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 324746
+    },
+    {
+      "line_no": "273",
+      "meter": 324746
+    },
+    {
+      "line_no": "273",
+      "meter": 324746
+    }
+  ]
+}

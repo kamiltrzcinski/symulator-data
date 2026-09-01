@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709274,
+  "type": "TIMETABLE_POINT",
+  "name": "Czempi\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 132946
+    },
+    {
+      "line_no": "271",
+      "meter": 132946
+    },
+    {
+      "line_no": "271",
+      "meter": 132946
+    },
+    {
+      "line_no": "271",
+      "meter": 132946
+    }
+  ]
+}

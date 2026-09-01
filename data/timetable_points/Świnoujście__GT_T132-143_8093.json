@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714077,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awinouj\u015bcie  GT T132-143",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "996",
+      "meter": 6887
+    },
+    {
+      "line_no": "996",
+      "meter": 6887
+    },
+    {
+      "line_no": "996",
+      "meter": 6887
+    }
+  ]
+}

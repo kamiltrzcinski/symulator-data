@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713012,
+  "type": "TIMETABLE_POINT",
+  "name": "Rakowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 195801
+    },
+    {
+      "line_no": "9",
+      "meter": 195801
+    },
+    {
+      "line_no": "9",
+      "meter": 195803
+    }
+  ]
+}

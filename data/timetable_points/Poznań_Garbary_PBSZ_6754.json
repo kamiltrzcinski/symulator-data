@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712738,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Garbary PBSZ",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 301470
+    }
+  ]
+}

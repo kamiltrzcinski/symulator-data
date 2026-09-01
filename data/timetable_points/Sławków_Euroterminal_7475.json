@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713459,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142awk\u00f3w Euroterminal",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "665",
+      "meter": 3800
+    },
+    {
+      "line_no": "665",
+      "meter": 3800
+    },
+    {
+      "line_no": "665",
+      "meter": 3800
+    },
+    {
+      "line_no": "665",
+      "meter": 3800
+    },
+    {
+      "line_no": "665",
+      "meter": 5493
+    },
+    {
+      "line_no": "665",
+      "meter": 5493
+    },
+    {
+      "line_no": "674",
+      "meter": 3250
+    },
+    {
+      "line_no": "674",
+      "meter": 3250
+    },
+    {
+      "line_no": "674",
+      "meter": 3250
+    }
+  ]
+}

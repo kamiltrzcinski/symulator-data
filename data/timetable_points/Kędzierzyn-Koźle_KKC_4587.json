@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710571,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119dzierzyn-Ko\u017ale KKC",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "199",
+      "meter": 63100
+    },
+    {
+      "line_no": "199",
+      "meter": 63100
+    },
+    {
+      "line_no": "956",
+      "meter": 87
+    },
+    {
+      "line_no": "956",
+      "meter": 87
+    },
+    {
+      "line_no": "956",
+      "meter": 87
+    }
+  ]
+}

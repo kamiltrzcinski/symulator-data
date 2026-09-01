@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709082,
+  "type": "TIMETABLE_POINT",
+  "name": "Chocicza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 149318
+    },
+    {
+      "line_no": "272",
+      "meter": 149318
+    },
+    {
+      "line_no": "272",
+      "meter": 149318
+    }
+  ]
+}

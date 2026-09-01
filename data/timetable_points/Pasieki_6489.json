@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712473,
+  "type": "TIMETABLE_POINT",
+  "name": "Pasieki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 50204
+    },
+    {
+      "line_no": "29",
+      "meter": 50204
+    },
+    {
+      "line_no": "29",
+      "meter": 50204
+    }
+  ]
+}

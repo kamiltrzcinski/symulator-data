@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710349,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelcz Mi\u0142oszyce Roz.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 69812
+    },
+    {
+      "line_no": "277",
+      "meter": 70665
+    },
+    {
+      "line_no": "292",
+      "meter": -450
+    },
+    {
+      "line_no": "292",
+      "meter": 403
+    }
+  ]
+}

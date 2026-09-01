@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711310,
+  "type": "TIMETABLE_POINT",
+  "name": "Legnica P\u00f3\u0142noc Nw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "382",
+      "meter": 113026
+    }
+  ]
+}

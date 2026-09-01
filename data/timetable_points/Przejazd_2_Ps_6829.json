@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712813,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd 2 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 95100
+    },
+    {
+      "line_no": "4",
+      "meter": 95100
+    },
+    {
+      "line_no": "4",
+      "meter": 95100
+    }
+  ]
+}

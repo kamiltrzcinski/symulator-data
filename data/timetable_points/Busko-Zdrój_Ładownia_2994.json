@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708978,
+  "type": "TIMETABLE_POINT",
+  "name": "Busko-Zdr\u00f3j \u0141adownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 43200
+    },
+    {
+      "line_no": "73",
+      "meter": 43200
+    },
+    {
+      "line_no": "73",
+      "meter": 43200
+    }
+  ]
+}

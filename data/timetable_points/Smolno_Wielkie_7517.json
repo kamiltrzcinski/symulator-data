@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713501,
+  "type": "TIMETABLE_POINT",
+  "name": "Smolno Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 13266
+    },
+    {
+      "line_no": "357",
+      "meter": 13266
+    }
+  ]
+}

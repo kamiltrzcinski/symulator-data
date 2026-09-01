@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710005,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr\u0119bosz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 100469
+    },
+    {
+      "line_no": "143",
+      "meter": 100469
+    },
+    {
+      "line_no": "143",
+      "meter": 100469
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709182,
+  "type": "TIMETABLE_POINT",
+  "name": "Ciep\u0142ownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "159",
+      "meter": 15813
+    },
+    {
+      "line_no": "159",
+      "meter": 15813
+    },
+    {
+      "line_no": "159",
+      "meter": 15813
+    },
+    {
+      "line_no": "159",
+      "meter": 15813
+    },
+    {
+      "line_no": "874",
+      "meter": 1621
+    },
+    {
+      "line_no": "874",
+      "meter": 1621
+    },
+    {
+      "line_no": "874",
+      "meter": 1624
+    }
+  ]
+}

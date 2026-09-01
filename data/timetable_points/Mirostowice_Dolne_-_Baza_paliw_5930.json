@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711914,
+  "type": "TIMETABLE_POINT",
+  "name": "Mirostowice Dolne - Baza paliw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "380",
+      "meter": 1091
+    },
+    {
+      "line_no": "380",
+      "meter": 1091
+    }
+  ]
+}

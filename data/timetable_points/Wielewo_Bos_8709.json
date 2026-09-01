@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714693,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielewo Bos",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "217",
+      "meter": 47680
+    },
+    {
+      "line_no": "217",
+      "meter": 47680
+    },
+    {
+      "line_no": "217",
+      "meter": 47680
+    }
+  ]
+}

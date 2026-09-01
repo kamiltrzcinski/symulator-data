@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713645,
+  "type": "TIMETABLE_POINT",
+  "name": "Stargard Rozrz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 174400
+    },
+    {
+      "line_no": "351",
+      "meter": 174400
+    },
+    {
+      "line_no": "351",
+      "meter": 174400
+    },
+    {
+      "line_no": "351",
+      "meter": 174400
+    },
+    {
+      "line_no": "351",
+      "meter": 174400
+    }
+  ]
+}

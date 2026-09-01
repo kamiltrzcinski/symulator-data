@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714636,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0105brze\u017ano",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "264",
+      "meter": 0
+    },
+    {
+      "line_no": "353",
+      "meter": 175038
+    },
+    {
+      "line_no": "353",
+      "meter": 175038
+    }
+  ]
+}

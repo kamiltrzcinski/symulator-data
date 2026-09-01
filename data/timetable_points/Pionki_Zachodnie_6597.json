@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712581,
+  "type": "TIMETABLE_POINT",
+  "name": "Pionki Zachodnie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 95702
+    },
+    {
+      "line_no": "26",
+      "meter": 95702
+    },
+    {
+      "line_no": "26",
+      "meter": 95702
+    },
+    {
+      "line_no": "26",
+      "meter": 95710
+    },
+    {
+      "line_no": "26",
+      "meter": 95710
+    },
+    {
+      "line_no": "26",
+      "meter": 95710
+    }
+  ]
+}

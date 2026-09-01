@@ -1,0 +1,100 @@
+{
+  "uid": 3453153710311,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaworzno Szczakowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "133",
+      "meter": 15810
+    },
+    {
+      "line_no": "133",
+      "meter": 15810
+    },
+    {
+      "line_no": "133",
+      "meter": 15810
+    },
+    {
+      "line_no": "133",
+      "meter": 15810
+    },
+    {
+      "line_no": "134",
+      "meter": 221
+    },
+    {
+      "line_no": "134",
+      "meter": 221
+    },
+    {
+      "line_no": "134",
+      "meter": 275
+    },
+    {
+      "line_no": "156",
+      "meter": 11299
+    },
+    {
+      "line_no": "156",
+      "meter": 11299
+    },
+    {
+      "line_no": "156",
+      "meter": 11299
+    },
+    {
+      "line_no": "156",
+      "meter": 11299
+    },
+    {
+      "line_no": "666",
+      "meter": 2000
+    },
+    {
+      "line_no": "666",
+      "meter": 2000
+    },
+    {
+      "line_no": "668",
+      "meter": -60
+    },
+    {
+      "line_no": "669",
+      "meter": 0
+    },
+    {
+      "line_no": "669",
+      "meter": 0
+    },
+    {
+      "line_no": "669",
+      "meter": 0
+    },
+    {
+      "line_no": "670",
+      "meter": 1596
+    },
+    {
+      "line_no": "714",
+      "meter": 1
+    },
+    {
+      "line_no": "714",
+      "meter": 1
+    },
+    {
+      "line_no": "714",
+      "meter": 1
+    },
+    {
+      "line_no": "715",
+      "meter": 3000
+    },
+    {
+      "line_no": "715",
+      "meter": 3000
+    }
+  ]
+}

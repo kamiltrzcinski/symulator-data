@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709027,
+  "type": "TIMETABLE_POINT",
+  "name": "Celestyn\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 38758
+    },
+    {
+      "line_no": "7",
+      "meter": 38758
+    },
+    {
+      "line_no": "7",
+      "meter": 38758
+    }
+  ]
+}

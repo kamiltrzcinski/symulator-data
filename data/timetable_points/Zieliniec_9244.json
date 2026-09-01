@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715228,
+  "type": "TIMETABLE_POINT",
+  "name": "Zieliniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "394",
+      "meter": 12200
+    },
+    {
+      "line_no": "395",
+      "meter": 0
+    },
+    {
+      "line_no": "395",
+      "meter": 0
+    },
+    {
+      "line_no": "395",
+      "meter": 0
+    },
+    {
+      "line_no": "395",
+      "meter": 0
+    }
+  ]
+}

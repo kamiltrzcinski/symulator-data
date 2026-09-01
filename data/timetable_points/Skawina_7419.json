@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713403,
+  "type": "TIMETABLE_POINT",
+  "name": "Skawina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 15473
+    },
+    {
+      "line_no": "94",
+      "meter": 15473
+    },
+    {
+      "line_no": "94",
+      "meter": 15473
+    },
+    {
+      "line_no": "94",
+      "meter": 15473
+    },
+    {
+      "line_no": "94",
+      "meter": 15473
+    },
+    {
+      "line_no": "94",
+      "meter": 15473
+    },
+    {
+      "line_no": "97",
+      "meter": 0
+    },
+    {
+      "line_no": "97",
+      "meter": 0
+    },
+    {
+      "line_no": "97",
+      "meter": 0
+    }
+  ]
+}

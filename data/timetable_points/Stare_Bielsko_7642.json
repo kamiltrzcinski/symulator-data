@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713626,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Bielsko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 1965
+    },
+    {
+      "line_no": "190",
+      "meter": 1965
+    },
+    {
+      "line_no": "190",
+      "meter": 1965
+    }
+  ]
+}

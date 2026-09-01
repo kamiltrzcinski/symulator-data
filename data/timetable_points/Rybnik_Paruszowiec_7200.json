@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713184,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Paruszowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 37679
+    }
+  ]
+}

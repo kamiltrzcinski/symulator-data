@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709817,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142og\u00f3w Ma\u0142opolski Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "626",
+      "meter": 2586
+    }
+  ]
+}

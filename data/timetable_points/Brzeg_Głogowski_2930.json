@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708914,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeg G\u0142ogowski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 110805
+    },
+    {
+      "line_no": "273",
+      "meter": 110805
+    }
+  ]
+}

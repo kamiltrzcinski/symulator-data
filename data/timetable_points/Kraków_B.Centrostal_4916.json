@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710900,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w B.Centrostal",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 318300
+    },
+    {
+      "line_no": "8",
+      "meter": 318300
+    },
+    {
+      "line_no": "8",
+      "meter": 318300
+    }
+  ]
+}

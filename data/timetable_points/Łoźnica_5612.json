@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711596,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141o\u017anica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 37734
+    },
+    {
+      "line_no": "401",
+      "meter": 37734
+    },
+    {
+      "line_no": "401",
+      "meter": 37734
+    },
+    {
+      "line_no": "401",
+      "meter": 37734
+    }
+  ]
+}

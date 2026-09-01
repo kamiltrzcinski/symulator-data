@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712823,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd Km 149.5 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 149500
+    }
+  ]
+}

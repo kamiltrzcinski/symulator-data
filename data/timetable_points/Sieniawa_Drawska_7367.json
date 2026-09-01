@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713351,
+  "type": "TIMETABLE_POINT",
+  "name": "Sieniawa Drawska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 114280
+    },
+    {
+      "line_no": "410",
+      "meter": 114280
+    },
+    {
+      "line_no": "410",
+      "meter": 114280
+    }
+  ]
+}

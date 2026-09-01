@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713741,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzebi\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 53965
+    },
+    {
+      "line_no": "131",
+      "meter": 53965
+    },
+    {
+      "line_no": "131",
+      "meter": 53976
+    },
+    {
+      "line_no": "131",
+      "meter": 53976
+    },
+    {
+      "line_no": "131",
+      "meter": 54060
+    }
+  ]
+}

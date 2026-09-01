@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708898,
+  "type": "TIMETABLE_POINT",
+  "name": "Brok\u0119cino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 53370
+    },
+    {
+      "line_no": "405",
+      "meter": 53370
+    }
+  ]
+}

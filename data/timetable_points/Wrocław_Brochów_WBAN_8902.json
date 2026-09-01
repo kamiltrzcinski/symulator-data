@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714886,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Broch\u00f3w WBAN",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 2298
+    },
+    {
+      "line_no": "349",
+      "meter": 2843
+    },
+    {
+      "line_no": "349",
+      "meter": 2843
+    },
+    {
+      "line_no": "764",
+      "meter": 3200
+    },
+    {
+      "line_no": "764",
+      "meter": 3200
+    },
+    {
+      "line_no": "764",
+      "meter": 3200
+    },
+    {
+      "line_no": "764",
+      "meter": 3259
+    }
+  ]
+}

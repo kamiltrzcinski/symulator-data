@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712384,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostr\u00f3w Wielkopolski Gorzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 142024
+    },
+    {
+      "line_no": "14",
+      "meter": 142024
+    },
+    {
+      "line_no": "14",
+      "meter": 142165
+    }
+  ]
+}

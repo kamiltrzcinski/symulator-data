@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712345,
+  "type": "TIMETABLE_POINT",
+  "name": "Orzesze Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "169",
+      "meter": 14668
+    }
+  ]
+}

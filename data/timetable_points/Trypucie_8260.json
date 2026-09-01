@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714244,
+  "type": "TIMETABLE_POINT",
+  "name": "Trypucie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 167060
+    },
+    {
+      "line_no": "6",
+      "meter": 167107
+    },
+    {
+      "line_no": "6",
+      "meter": 167107
+    },
+    {
+      "line_no": "6",
+      "meter": 167107
+    },
+    {
+      "line_no": "6",
+      "meter": 167107
+    }
+  ]
+}

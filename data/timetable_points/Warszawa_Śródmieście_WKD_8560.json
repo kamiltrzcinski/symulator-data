@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714544,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa \u015ar\u00f3dmie\u015bcie WKD",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 139
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710896,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak.Pra Gt. Przyj.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "603",
+      "meter": 3212
+    },
+    {
+      "line_no": "603",
+      "meter": 3212
+    },
+    {
+      "line_no": "603",
+      "meter": 3212
+    },
+    {
+      "line_no": "603",
+      "meter": 3212
+    }
+  ]
+}

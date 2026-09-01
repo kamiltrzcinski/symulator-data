@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713971,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczytno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 92460
+    },
+    {
+      "line_no": "219",
+      "meter": 44946
+    },
+    {
+      "line_no": "219",
+      "meter": 44946
+    },
+    {
+      "line_no": "219",
+      "meter": 44946
+    },
+    {
+      "line_no": "219",
+      "meter": 44946
+    }
+  ]
+}

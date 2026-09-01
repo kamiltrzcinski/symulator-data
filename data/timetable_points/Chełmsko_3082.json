@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709066,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142msko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "363",
+      "meter": 86859
+    },
+    {
+      "line_no": "363",
+      "meter": 86859
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709821,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142og\u00f3w Towarowy Gw3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 100710
+    },
+    {
+      "line_no": "273",
+      "meter": 100710
+    }
+  ]
+}

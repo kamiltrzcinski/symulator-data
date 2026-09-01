@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714348,
+  "type": "TIMETABLE_POINT",
+  "name": "Unieszewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 283917
+    },
+    {
+      "line_no": "353",
+      "meter": 283994
+    },
+    {
+      "line_no": "353",
+      "meter": 283994
+    }
+  ]
+}

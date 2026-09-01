@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710029,
+  "type": "TIMETABLE_POINT",
+  "name": "Grom",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 34190
+    },
+    {
+      "line_no": "219",
+      "meter": 34190
+    },
+    {
+      "line_no": "219",
+      "meter": 34190
+    }
+  ]
+}

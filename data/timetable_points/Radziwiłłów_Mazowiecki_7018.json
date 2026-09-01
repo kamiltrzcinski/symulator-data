@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713002,
+  "type": "TIMETABLE_POINT",
+  "name": "Radziwi\u0142\u0142\u00f3w Mazowiecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 54920
+    },
+    {
+      "line_no": "1",
+      "meter": 54920
+    },
+    {
+      "line_no": "1",
+      "meter": 54920
+    },
+    {
+      "line_no": "1",
+      "meter": 55403
+    },
+    {
+      "line_no": "1",
+      "meter": 55403
+    },
+    {
+      "line_no": "1",
+      "meter": 55404
+    },
+    {
+      "line_no": "1",
+      "meter": 55404
+    },
+    {
+      "line_no": "1",
+      "meter": 55405
+    }
+  ]
+}

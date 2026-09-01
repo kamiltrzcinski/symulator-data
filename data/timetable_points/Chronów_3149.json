@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709133,
+  "type": "TIMETABLE_POINT",
+  "name": "Chron\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 70566
+    },
+    {
+      "line_no": "22",
+      "meter": 70566
+    },
+    {
+      "line_no": "22",
+      "meter": 70575
+    },
+    {
+      "line_no": "22",
+      "meter": 70575
+    },
+    {
+      "line_no": "22",
+      "meter": 70575
+    }
+  ]
+}

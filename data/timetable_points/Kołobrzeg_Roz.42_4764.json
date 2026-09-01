@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710748,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142obrzeg Roz.42",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 42530
+    },
+    {
+      "line_no": "402",
+      "meter": 42530
+    },
+    {
+      "line_no": "404",
+      "meter": 99515
+    }
+  ]
+}

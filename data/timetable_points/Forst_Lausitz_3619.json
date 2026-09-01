@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709603,
+  "type": "TIMETABLE_POINT",
+  "name": "Forst Lausitz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "491",
+      "meter": -22000
+    },
+    {
+      "line_no": "491",
+      "meter": -22000
+    },
+    {
+      "line_no": "491",
+      "meter": 22000
+    }
+  ]
+}

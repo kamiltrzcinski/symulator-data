@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712790,
+  "type": "TIMETABLE_POINT",
+  "name": "Pruchna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 69807
+    },
+    {
+      "line_no": "93",
+      "meter": 69807
+    },
+    {
+      "line_no": "93",
+      "meter": 69807
+    }
+  ]
+}

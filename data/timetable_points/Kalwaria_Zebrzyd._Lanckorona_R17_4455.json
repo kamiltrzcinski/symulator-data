@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710439,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalwaria Zebrzyd. Lanckorona R17",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 22442
+    },
+    {
+      "line_no": "97",
+      "meter": 22442
+    },
+    {
+      "line_no": "117",
+      "meter": -188
+    },
+    {
+      "line_no": "117",
+      "meter": -188
+    }
+  ]
+}

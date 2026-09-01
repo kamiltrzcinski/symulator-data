@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709489,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobrzy\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 33339
+    },
+    {
+      "line_no": "216",
+      "meter": 33340
+    },
+    {
+      "line_no": "216",
+      "meter": 33340
+    },
+    {
+      "line_no": "216",
+      "meter": 33596
+    },
+    {
+      "line_no": "216",
+      "meter": 33596
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711879,
+  "type": "TIMETABLE_POINT",
+  "name": "Milcz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 77356
+    },
+    {
+      "line_no": "354",
+      "meter": 77356
+    },
+    {
+      "line_no": "354",
+      "meter": 77469
+    }
+  ]
+}

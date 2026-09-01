@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714370,
+  "type": "TIMETABLE_POINT",
+  "name": "Walawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 232330
+    },
+    {
+      "line_no": "91",
+      "meter": 232330
+    },
+    {
+      "line_no": "91",
+      "meter": 232330
+    },
+    {
+      "line_no": "91",
+      "meter": 232645
+    },
+    {
+      "line_no": "91",
+      "meter": 232645
+    },
+    {
+      "line_no": "91",
+      "meter": 232645
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708628,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0119dzin Ksawera",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 302077
+    },
+    {
+      "line_no": "1",
+      "meter": 302077
+    },
+    {
+      "line_no": "1",
+      "meter": 302077
+    }
+  ]
+}

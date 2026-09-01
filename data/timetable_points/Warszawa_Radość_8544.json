@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714528,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Rado\u015b\u0107",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 17550
+    },
+    {
+      "line_no": "7",
+      "meter": 17550
+    },
+    {
+      "line_no": "7",
+      "meter": 18027
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714411,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ant. R.14",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "506",
+      "meter": 146
+    },
+    {
+      "line_no": "506",
+      "meter": 146
+    },
+    {
+      "line_no": "902",
+      "meter": 7857
+    },
+    {
+      "line_no": "902",
+      "meter": 7857
+    }
+  ]
+}

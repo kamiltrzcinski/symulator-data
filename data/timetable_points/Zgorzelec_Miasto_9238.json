@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715222,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgorzelec Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "278",
+      "meter": 24555
+    },
+    {
+      "line_no": "278",
+      "meter": 24555
+    },
+    {
+      "line_no": "278",
+      "meter": 25125
+    },
+    {
+      "line_no": "278",
+      "meter": 25230
+    },
+    {
+      "line_no": "778",
+      "meter": -11
+    },
+    {
+      "line_no": "778",
+      "meter": -11
+    },
+    {
+      "line_no": "778",
+      "meter": 0
+    }
+  ]
+}

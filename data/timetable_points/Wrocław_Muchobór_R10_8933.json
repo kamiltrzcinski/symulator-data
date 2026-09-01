@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714917,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Muchob\u00f3r R10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 5276
+    },
+    {
+      "line_no": "757",
+      "meter": 4048
+    }
+  ]
+}

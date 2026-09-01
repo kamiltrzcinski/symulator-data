@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709152,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrz\u0105stowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 65432
+    },
+    {
+      "line_no": "144",
+      "meter": 65432
+    },
+    {
+      "line_no": "144",
+      "meter": 65432
+    }
+  ]
+}

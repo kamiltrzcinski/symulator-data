@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710883,
+  "type": "TIMETABLE_POINT",
+  "name": "Kozy Zagroda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 48007
+    },
+    {
+      "line_no": "117",
+      "meter": 48007
+    }
+  ]
+}

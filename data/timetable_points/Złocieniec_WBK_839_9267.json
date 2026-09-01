@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715251,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0142ocieniec WBK 839",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 61305
+    },
+    {
+      "line_no": "410",
+      "meter": 61305
+    },
+    {
+      "line_no": "410",
+      "meter": 61305
+    },
+    {
+      "line_no": "410",
+      "meter": 61305
+    },
+    {
+      "line_no": "410",
+      "meter": 61305
+    },
+    {
+      "line_no": "410",
+      "meter": 61305
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710602,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119ty Podlesie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 44095
+    },
+    {
+      "line_no": "117",
+      "meter": 44095
+    },
+    {
+      "line_no": "117",
+      "meter": 44095
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714988,
+  "type": "TIMETABLE_POINT",
+  "name": "Wschowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 254751
+    },
+    {
+      "line_no": "14",
+      "meter": 254751
+    }
+  ]
+}

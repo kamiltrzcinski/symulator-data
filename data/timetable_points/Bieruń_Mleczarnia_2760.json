@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708744,
+  "type": "TIMETABLE_POINT",
+  "name": "Bieru\u0144 Mleczarnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 10800
+    },
+    {
+      "line_no": "179",
+      "meter": 10800
+    }
+  ]
+}

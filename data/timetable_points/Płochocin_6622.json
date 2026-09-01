@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712606,
+  "type": "TIMETABLE_POINT",
+  "name": "P\u0142ochocin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 21978
+    },
+    {
+      "line_no": "3",
+      "meter": 21978
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712497,
+  "type": "TIMETABLE_POINT",
+  "name": "Pe\u0142kinie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 202912
+    },
+    {
+      "line_no": "91",
+      "meter": 202912
+    },
+    {
+      "line_no": "91",
+      "meter": 202912
+    },
+    {
+      "line_no": "91",
+      "meter": 202912
+    },
+    {
+      "line_no": "91",
+      "meter": 202914
+    },
+    {
+      "line_no": "91",
+      "meter": 202914
+    }
+  ]
+}

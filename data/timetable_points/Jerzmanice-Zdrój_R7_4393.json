@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710377,
+  "type": "TIMETABLE_POINT",
+  "name": "Jerzmanice-Zdr\u00f3j R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "284",
+      "meter": 23830
+    },
+    {
+      "line_no": "284",
+      "meter": 23830
+    },
+    {
+      "line_no": "284",
+      "meter": 23830
+    },
+    {
+      "line_no": "312",
+      "meter": 37144
+    },
+    {
+      "line_no": "312",
+      "meter": 37144
+    },
+    {
+      "line_no": "312",
+      "meter": 37144
+    }
+  ]
+}

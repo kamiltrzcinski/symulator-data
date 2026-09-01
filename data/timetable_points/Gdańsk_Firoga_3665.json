@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709649,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Firoga",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "248",
+      "meter": 12801
+    },
+    {
+      "line_no": "248",
+      "meter": 13101
+    }
+  ]
+}

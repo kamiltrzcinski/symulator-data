@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709808,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice So\u015bnica R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "200",
+      "meter": 5090
+    },
+    {
+      "line_no": "200",
+      "meter": 5091
+    },
+    {
+      "line_no": "200",
+      "meter": 5091
+    },
+    {
+      "line_no": "200",
+      "meter": 5091
+    },
+    {
+      "line_no": "676",
+      "meter": 1028
+    },
+    {
+      "line_no": "676",
+      "meter": 1030
+    },
+    {
+      "line_no": "676",
+      "meter": 1030
+    },
+    {
+      "line_no": "676",
+      "meter": 1030
+    }
+  ]
+}

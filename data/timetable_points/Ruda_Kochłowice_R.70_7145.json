@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713129,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Koch\u0142owice R.70",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 7240
+    },
+    {
+      "line_no": "164",
+      "meter": 5966
+    }
+  ]
+}

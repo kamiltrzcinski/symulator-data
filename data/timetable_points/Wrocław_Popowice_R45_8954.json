@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714938,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Popowice R45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 162495
+    },
+    {
+      "line_no": "143",
+      "meter": 162495
+    },
+    {
+      "line_no": "143",
+      "meter": 162495
+    },
+    {
+      "line_no": "143",
+      "meter": 162495
+    },
+    {
+      "line_no": "752",
+      "meter": 2762
+    },
+    {
+      "line_no": "752",
+      "meter": 2762
+    },
+    {
+      "line_no": "752",
+      "meter": 2762
+    }
+  ]
+}

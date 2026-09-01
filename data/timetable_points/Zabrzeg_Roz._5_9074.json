@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715058,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrzeg Roz. 5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 51292
+    },
+    {
+      "line_no": "93",
+      "meter": 51292
+    },
+    {
+      "line_no": "93",
+      "meter": 51292
+    },
+    {
+      "line_no": "693",
+      "meter": 0
+    },
+    {
+      "line_no": "693",
+      "meter": 0
+    }
+  ]
+}

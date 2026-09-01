@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712932,
+  "type": "TIMETABLE_POINT",
+  "name": "Raciborowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 310832
+    },
+    {
+      "line_no": "8",
+      "meter": 310832
+    },
+    {
+      "line_no": "8",
+      "meter": 310832
+    },
+    {
+      "line_no": "8",
+      "meter": 310832
+    },
+    {
+      "line_no": "607",
+      "meter": 199
+    },
+    {
+      "line_no": "607",
+      "meter": 199
+    }
+  ]
+}

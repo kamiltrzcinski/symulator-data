@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709675,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Osowa Grupa O\u017car\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "235",
+      "meter": 8147
+    },
+    {
+      "line_no": "235",
+      "meter": 8147
+    }
+  ]
+}

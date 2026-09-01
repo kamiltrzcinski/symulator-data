@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714250,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzciniec Zgorzelecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "348",
+      "meter": 30
+    },
+    {
+      "line_no": "348",
+      "meter": 30
+    },
+    {
+      "line_no": "786",
+      "meter": 26142
+    },
+    {
+      "line_no": "786",
+      "meter": 26142
+    },
+    {
+      "line_no": "786",
+      "meter": 26142
+    }
+  ]
+}

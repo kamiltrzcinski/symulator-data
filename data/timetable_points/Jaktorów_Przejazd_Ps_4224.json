@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710208,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaktor\u00f3w Przejazd Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 3400
+    },
+    {
+      "line_no": "4",
+      "meter": 3400
+    },
+    {
+      "line_no": "4",
+      "meter": 3400
+    }
+  ]
+}

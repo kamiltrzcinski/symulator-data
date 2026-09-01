@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709429,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 2320
+    },
+    {
+      "line_no": "157",
+      "meter": 2320
+    },
+    {
+      "line_no": "157",
+      "meter": 2320
+    },
+    {
+      "line_no": "689",
+      "meter": 2437
+    },
+    {
+      "line_no": "689",
+      "meter": 2437
+    }
+  ]
+}

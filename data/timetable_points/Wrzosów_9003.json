@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714987,
+  "type": "TIMETABLE_POINT",
+  "name": "Wrzos\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 35800
+    },
+    {
+      "line_no": "2",
+      "meter": 35800
+    },
+    {
+      "line_no": "2",
+      "meter": 35800
+    },
+    {
+      "line_no": "2",
+      "meter": 35800
+    },
+    {
+      "line_no": "2",
+      "meter": 35800
+    }
+  ]
+}

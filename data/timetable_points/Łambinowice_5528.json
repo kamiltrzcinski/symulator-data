@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711512,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141ambinowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 29144
+    },
+    {
+      "line_no": "287",
+      "meter": 29149
+    },
+    {
+      "line_no": "287",
+      "meter": 29149
+    }
+  ]
+}

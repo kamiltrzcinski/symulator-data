@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711471,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Rury PZS R12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 3405
+    },
+    {
+      "line_no": "68",
+      "meter": 3405
+    },
+    {
+      "line_no": "68",
+      "meter": 3405
+    },
+    {
+      "line_no": "588",
+      "meter": 976
+    }
+  ]
+}

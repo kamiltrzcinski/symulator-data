@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714341,
+  "type": "TIMETABLE_POINT",
+  "name": "Uhrusk Przystanek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "81",
+      "meter": 20019
+    },
+    {
+      "line_no": "81",
+      "meter": 20034
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710548,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Towarowa R415",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 2954
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714582,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R46",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "506",
+      "meter": -58
+    },
+    {
+      "line_no": "506",
+      "meter": 7002
+    },
+    {
+      "line_no": "901",
+      "meter": 7817
+    }
+  ]
+}

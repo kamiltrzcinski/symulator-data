@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714230,
+  "type": "TIMETABLE_POINT",
+  "name": "Toszek P\u00f3\u0142noc R.24",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "152",
+      "meter": 10896
+    },
+    {
+      "line_no": "152",
+      "meter": 10896
+    },
+    {
+      "line_no": "152",
+      "meter": 10896
+    },
+    {
+      "line_no": "153",
+      "meter": -83
+    },
+    {
+      "line_no": "153",
+      "meter": -83
+    }
+  ]
+}

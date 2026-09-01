@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711072,
+  "type": "TIMETABLE_POINT",
+  "name": "Kro\u015bnice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 32812
+    },
+    {
+      "line_no": "281",
+      "meter": 32812
+    },
+    {
+      "line_no": "281",
+      "meter": 32812
+    },
+    {
+      "line_no": "281",
+      "meter": 32812
+    },
+    {
+      "line_no": "281",
+      "meter": 32812
+    },
+    {
+      "line_no": "281",
+      "meter": 32812
+    }
+  ]
+}

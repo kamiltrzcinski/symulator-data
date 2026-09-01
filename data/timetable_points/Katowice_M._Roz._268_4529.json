@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710513,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice M. Roz. 268",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 37849
+    },
+    {
+      "line_no": "171",
+      "meter": 37849
+    },
+    {
+      "line_no": "171",
+      "meter": 37849
+    },
+    {
+      "line_no": "706",
+      "meter": 0
+    },
+    {
+      "line_no": "706",
+      "meter": 0
+    }
+  ]
+}

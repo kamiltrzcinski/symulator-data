@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714508,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R30",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 13804
+    },
+    {
+      "line_no": "20",
+      "meter": 13804
+    },
+    {
+      "line_no": "20",
+      "meter": 13804
+    },
+    {
+      "line_no": "505",
+      "meter": 80
+    },
+    {
+      "line_no": "505",
+      "meter": 80
+    },
+    {
+      "line_no": "505",
+      "meter": 13804
+    },
+    {
+      "line_no": "505",
+      "meter": 13804
+    }
+  ]
+}

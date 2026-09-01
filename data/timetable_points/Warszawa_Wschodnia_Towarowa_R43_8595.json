@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714579,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R43",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "506",
+      "meter": 6900
+    },
+    {
+      "line_no": "506",
+      "meter": 6900
+    },
+    {
+      "line_no": "547",
+      "meter": 7703
+    },
+    {
+      "line_no": "547",
+      "meter": 7703
+    },
+    {
+      "line_no": "844",
+      "meter": -244
+    }
+  ]
+}

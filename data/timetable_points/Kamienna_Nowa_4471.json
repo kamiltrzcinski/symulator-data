@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710455,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamienna Nowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 41947
+    },
+    {
+      "line_no": "40",
+      "meter": 41947
+    },
+    {
+      "line_no": "40",
+      "meter": 41947
+    },
+    {
+      "line_no": "40",
+      "meter": 41993
+    }
+  ]
+}

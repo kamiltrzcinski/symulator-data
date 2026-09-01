@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713325,
+  "type": "TIMETABLE_POINT",
+  "name": "Siechnice Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 82074
+    },
+    {
+      "line_no": "277",
+      "meter": 82201
+    },
+    {
+      "line_no": "277",
+      "meter": 82201
+    },
+    {
+      "line_no": "277",
+      "meter": 82201
+    },
+    {
+      "line_no": "764",
+      "meter": -305
+    },
+    {
+      "line_no": "764",
+      "meter": -179
+    },
+    {
+      "line_no": "764",
+      "meter": -179
+    }
+  ]
+}

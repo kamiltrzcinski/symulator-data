@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714178,
+  "type": "TIMETABLE_POINT",
+  "name": "Tczew R87",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "726",
+      "meter": 953
+    },
+    {
+      "line_no": "726",
+      "meter": 953
+    },
+    {
+      "line_no": "727",
+      "meter": 953
+    },
+    {
+      "line_no": "727",
+      "meter": 953
+    }
+  ]
+}

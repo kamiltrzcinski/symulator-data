@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714402,
+  "type": "TIMETABLE_POINT",
+  "name": "Warlubie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 438565
+    },
+    {
+      "line_no": "131",
+      "meter": 438565
+    }
+  ]
+}

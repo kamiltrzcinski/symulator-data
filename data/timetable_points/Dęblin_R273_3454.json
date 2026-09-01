@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709438,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119blin R273",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 105383
+    },
+    {
+      "line_no": "7",
+      "meter": 105453
+    },
+    {
+      "line_no": "7",
+      "meter": 105453
+    },
+    {
+      "line_no": "7",
+      "meter": 105453
+    },
+    {
+      "line_no": "7",
+      "meter": 105453
+    },
+    {
+      "line_no": "770",
+      "meter": 4146
+    },
+    {
+      "line_no": "770",
+      "meter": 4238
+    }
+  ]
+}

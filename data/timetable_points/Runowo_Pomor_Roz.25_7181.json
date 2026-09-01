@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713165,
+  "type": "TIMETABLE_POINT",
+  "name": "Runowo Pomor Roz.25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 289083
+    },
+    {
+      "line_no": "202",
+      "meter": 289083
+    },
+    {
+      "line_no": "202",
+      "meter": 289083
+    },
+    {
+      "line_no": "202",
+      "meter": 289083
+    },
+    {
+      "line_no": "210",
+      "meter": 149730
+    },
+    {
+      "line_no": "210",
+      "meter": 149730
+    }
+  ]
+}

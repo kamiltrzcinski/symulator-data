@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709717,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Elektr. P.S\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 28710
+    },
+    {
+      "line_no": "250",
+      "meter": 28710
+    },
+    {
+      "line_no": "250",
+      "meter": 28710
+    },
+    {
+      "line_no": "250",
+      "meter": 28710
+    },
+    {
+      "line_no": "250",
+      "meter": 28929
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712248,
+  "type": "TIMETABLE_POINT",
+  "name": "Olekszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "377",
+      "meter": 21477
+    },
+    {
+      "line_no": "377",
+      "meter": 21477
+    },
+    {
+      "line_no": "377",
+      "meter": 21477
+    }
+  ]
+}
