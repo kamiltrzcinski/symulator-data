@@ -1,9 +1,8 @@
-﻿import json
+import json
 import os
 import sys
+import argparse
 from pathlib import Path
-
-ROOT = Path('c:/Users/tymon/Desktop/SUSRK/symulator-data')
 
 DOMAIN_OPERATIONS = 0x03
 KIND_TIMETABLE_CONNECTION = 0x25
@@ -12,8 +11,14 @@ def make_uid(domain, kind, scope, instance):
     return (domain << 40) | (kind << 32) | (scope << 16) | instance
 
 def main():
-    print("Loading kalkulacja dictionaries...")
-    with open('c:/Users/tymon/Desktop/kalkulacja_dictionaries.json', 'r', encoding='utf-8-sig') as f:
+    parser = argparse.ArgumentParser(description="Import SKRJ Kalkulacja topology")
+    parser.add_argument("-i", "--input", required=True, help="Path to kalkulacja_dictionaries.json")
+    args = parser.parse_args()
+    
+    ROOT = Path(__file__).resolve().parent.parent
+
+    print(f"Loading kalkulacja dictionaries from {args.input}...")
+    with open(args.input, 'r', encoding='utf-8-sig') as f:
         data = json.load(f)
         
     kalkulacja_objs = {obj['id']: obj['name'] for obj in data.get('railwayObjects', [])}

@@ -28,12 +28,12 @@ THEN it MAY have:
 
 GIVEN a stop object in `route`
 THEN it MUST have:
-- `stationName`: non-empty string — MUST match a registered `name` in `data/operating_points/operating_points.json`
+- `stationName`: non-empty string — MUST match a registered `name` in `data/timetable_points/*.json`
 - `arrival`: string (time "HH:MM,s") or null
 - `departure`: string (time "HH:MM,s") or null
 
 THEN it MAY have:
-- `point_uid`: integer — optional UID referencing the operating point from `data/operating_points/operating_points.json`
+- `point_uid`: integer — optional UID referencing a point from `data/timetable_points/*.json`
 - `platform`: string or null
 - `track`: integer or null
 - `stopType`: string or null

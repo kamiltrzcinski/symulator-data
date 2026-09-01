@@ -1,5 +1,6 @@
-﻿import json
+import json
 import sys
+import argparse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,7 +19,11 @@ def sanitize_filename(name: str) -> str:
     return s.replace(" ", "_")
 
 def main():
-    source_path = Path(r"C:\Users\tymon\Desktop\posterunki_i_punkty_konstrukcyjne_wszystkie_kategorie.txt")
+    parser = argparse.ArgumentParser(description="Import timetable points from a txt file")
+    parser.add_argument("-i", "--input", required=True, help="Path to posterunki.txt")
+    args = parser.parse_args()
+    
+    source_path = Path(args.input)
     if not source_path.exists():
         print(f"File not found: {source_path}", file=sys.stderr)
         return 1

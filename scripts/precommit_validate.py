@@ -1,4 +1,4 @@
-﻿import json
+import json
 import sys
 from pathlib import Path
 
@@ -23,6 +23,9 @@ def validate_uid(uid: int, field_name: str, rel_path: str) -> bool:
         return False
     if uid == 0:
         err(rel_path, f"'{field_name}' cannot be 0")
+        return False
+    if uid < 0 or uid > 9007199254740991:
+        err(rel_path, f"'{field_name}' out of range: {uid} (must be 0 < uid <= 2^53-1)")
         return False
     return True
 
@@ -148,7 +151,7 @@ def validate_timetable_connections(points: dict[str, int]) -> None:
         count += 1
     print(f"  Checked {count} timetable connection(s)")
 
-def validate_schedules(timetable_points: dict[str, int]) -> None:
+def validate_schedules(timetable_points: dict[str, int], vehicles: dict[int, str]) -> None:
     schedule_dirs = [ROOT / "data" / "schedules", ROOT / "schedules"]
     files = []
     for s_dir in schedule_dirs:
@@ -168,6 +171,13 @@ def validate_schedules(timetable_points: dict[str, int]) -> None:
             else:
                 seen[u] = rel
                 register_global(u, rel)
+                
+        if "vehicle_uids" in obj and isinstance(obj["vehicle_uids"], list):
+            for i, vu in enumerate(obj["vehicle_uids"]):
+                if validate_uid(vu, f"vehicle_uids[{i}]", rel):
+                    if vu not in vehicles:
+                        err(rel, f"vehicle_uids[{i}] {vu:#x} not found in vehicles catalog")
+                        
         if "route" in obj and isinstance(obj["route"], list):
             for i, stop in enumerate(obj["route"]):
                 if not isinstance(stop, dict): continue
@@ -193,7 +203,7 @@ def main() -> int:
     validate_vehicle_types()
     veh = validate_vehicles()
     validate_trains(veh)
-    validate_schedules(points)
+    validate_schedules(points, veh)
     print(f"\n-- Global cross-file check: {len(global_uids)} unique UIDs total --")
     if errors:
         print(f"FAILED: {len(errors)} error(s) found.", file=sys.stderr)
