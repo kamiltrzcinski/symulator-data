@@ -72,7 +72,7 @@
     { "stationName": "Mogilno",                "arrival": "20:45,0", "departure": "20:46,0", "platform": null, "track": null, "stopType": "PH" },
     { "stationName": "Wydartowo",              "arrival": "20:50,0", "departure": "20:50,0", "platform": null, "track": null, "stopType": null },
     { "stationName": "Trzemeszno",             "arrival": "20:54,0", "departure": "20:54,0", "platform": null, "track": null, "stopType": null },
-    { "stationName": "Trzemeszno  GT T 1-6",   "arrival": "20:54,0", "departure": "20:54,0", "platform": null, "track": null, "stopType": null },
+    { "stationName": "Trzemeszno GT T 1-6",   "arrival": "20:54,0", "departure": "20:54,0", "platform": null, "track": null, "stopType": null },
     { "stationName": "Jankowo Dolne ODST",     "arrival": "20:57,0", "departure": "20:57,0", "platform": null, "track": null, "stopType": null },
     { "stationName": "Wierzbiczany",           "arrival": "20:59,0", "departure": "20:59,0", "platform": null, "track": null, "stopType": null },
     { "stationName": "Gniezno GT 101-107",     "arrival": "21:00,0", "departure": "21:01,0", "platform": null, "track": null, "stopType": null },
