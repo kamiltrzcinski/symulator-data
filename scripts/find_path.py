@@ -30,9 +30,10 @@ def build_cache():
                 obj = json.load(f)
                 fr = obj["from_uid"]
                 to = obj["to_uid"]
+                dist = sum(abs(l.get("to_meter", 0) - l.get("from_meter", 0)) for l in obj.get("lines", []))
                 if fr not in connections:
                     connections[fr] = []
-                connections[fr].append(to)
+                connections[fr].append((to, dist))
                 
     cache_data = (points, points_by_name, connections)
     try:
@@ -52,23 +53,23 @@ def load_catalog():
     return build_cache()
 
 def bfs_segment(start_uid, end_uid, connections, excluded_uids):
-    """Finds shortest path between two points avoiding excluded points."""
+    """Finds shortest path between two points avoiding excluded points (returns tuple: path, distance)."""
     if start_uid == end_uid:
-        return [start_uid]
+        return [start_uid], 0
         
-    queue = deque([(start_uid, [start_uid])])
+    queue = deque([(start_uid, [start_uid], 0)])
     visited = {start_uid} | (excluded_uids - {start_uid, end_uid})
     
     while queue:
-        current, path = queue.popleft()
+        current, path, dist = queue.popleft()
         if current == end_uid:
-            return path
+            return path, dist
             
-        for neighbor in connections.get(current, []):
+        for neighbor, edge_dist in connections.get(current, []):
             if neighbor not in visited:
                 visited.add(neighbor)
-                queue.append((neighbor, path + [neighbor]))
-    return None
+                queue.append((neighbor, path + [neighbor], dist + edge_dist))
+    return None, 0
 
 def resolve_point(name, points_by_name, role="Punkt"):
     key = name.strip().lower()
@@ -135,15 +136,17 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None):
     print(f"Szukanie trasy: {start_orig} -> {end_orig}{via_str}{ex_str}...", flush=True)
 
     full_path = []
+    total_distance = 0
     for i in range(len(waypoints) - 1):
         seg_start_uid, seg_start_name = waypoints[i]
         seg_end_uid, seg_end_name = waypoints[i + 1]
         
-        seg_path = bfs_segment(seg_start_uid, seg_end_uid, connections, excluded_uids)
+        seg_path, seg_dist = bfs_segment(seg_start_uid, seg_end_uid, connections, excluded_uids)
         if not seg_path:
             print(f"\nNie znaleziono polaczenia na odcinku: {seg_start_name} -> {seg_end_name} z uwzglednieniem podanych kryteriow.")
             return
             
+        total_distance += seg_dist
         if not full_path:
             full_path.extend(seg_path)
         else:
@@ -161,6 +164,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None):
         print(f" {idx+1:3d}. {points.get(p, str(p))}{tag}")
         
     print(f"\nLaczna liczba punktow konstrukcyjnych na trasie: {len(full_path)}")
+    print(f"Laczny dystans: {total_distance / 1000.0:.3f} km")
 
 def main():
     parser = argparse.ArgumentParser(
