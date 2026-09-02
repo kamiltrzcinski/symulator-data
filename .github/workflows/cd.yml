@@ -51,6 +51,10 @@ jobs:
             path: data/schedules
           - name: carriers
             path: data/carriers
+          - name: timetable-points
+            path: data/timetable_points
+          - name: timetable-connections
+            path: data/timetable_connections
     steps:
       - uses: actions/checkout@v4
       - name: Package ${{ matrix.name }}
