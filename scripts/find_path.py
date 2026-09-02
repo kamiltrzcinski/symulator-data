@@ -30,7 +30,11 @@ def build_cache():
                 obj = json.load(f)
                 fr = obj["from_uid"]
                 to = obj["to_uid"]
-                dist = sum(abs(l.get("to_meter", 0) - l.get("from_meter", 0)) for l in obj.get("lines", []))
+                lines_data = obj.get("lines", [])
+                dist = 0
+                if lines_data:
+                    dist = abs(lines_data[0].get("to_meter", 0) - lines_data[0].get("from_meter", 0))
+                
                 if fr not in connections:
                     connections[fr] = []
                 connections[fr].append((to, dist))
@@ -40,7 +44,7 @@ def build_cache():
         with open(CACHE_FILE, "wb") as f:
             pickle.dump(cache_data, f)
     except Exception:
-        pass
+        CACHE_FILE.unlink(missing_ok=True)
     return cache_data
 
 def load_catalog():
@@ -49,26 +53,32 @@ def load_catalog():
             with open(CACHE_FILE, "rb") as f:
                 return pickle.load(f)
         except Exception:
-            pass
+            CACHE_FILE.unlink(missing_ok=True)
     return build_cache()
 
-def bfs_segment(start_uid, end_uid, connections, excluded_uids):
-    """Finds shortest path between two points avoiding excluded points (returns tuple: path, distance)."""
+import heapq
+
+def dijkstra_segment(start_uid, end_uid, connections, excluded_uids):
+    """Finds shortest path between two points using Dijkstra avoiding excluded points (returns tuple: path, distance)."""
     if start_uid == end_uid:
         return [start_uid], 0
         
-    queue = deque([(start_uid, [start_uid], 0)])
-    visited = {start_uid} | (excluded_uids - {start_uid, end_uid})
+    pq = [(0, start_uid, [start_uid])]
+    visited = excluded_uids.copy()
     
-    while queue:
-        current, path, dist = queue.popleft()
+    while pq:
+        dist, current, path = heapq.heappop(pq)
+        
         if current == end_uid:
             return path, dist
             
+        if current in visited and current != start_uid:
+            continue
+        visited.add(current)
+            
         for neighbor, edge_dist in connections.get(current, []):
             if neighbor not in visited:
-                visited.add(neighbor)
-                queue.append((neighbor, path + [neighbor], dist + edge_dist))
+                heapq.heappush(pq, (dist + edge_dist, neighbor, path + [neighbor]))
     return None, 0
 
 def resolve_point(name, points_by_name, role="Punkt"):
@@ -141,7 +151,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None):
         seg_start_uid, seg_start_name = waypoints[i]
         seg_end_uid, seg_end_name = waypoints[i + 1]
         
-        seg_path, seg_dist = bfs_segment(seg_start_uid, seg_end_uid, connections, excluded_uids)
+        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids)
         if not seg_path:
             print(f"\nNie znaleziono polaczenia na odcinku: {seg_start_name} -> {seg_end_name} z uwzglednieniem podanych kryteriow.")
             return

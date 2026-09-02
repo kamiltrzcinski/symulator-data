@@ -69,12 +69,12 @@ def main():
         }
         
         with open(out_path, "w", encoding="utf-8") as out_f:
-            json.dump(record, out_f, indent=2, ensure_ascii=False)
+            out_f.write(json.dumps(record, indent=2, ensure_ascii=False) + "\n")
             
         created_count += 1
 
     with open(REGISTRY_FILE, "w", encoding="utf-8") as f:
-        json.dump(registry, f, indent=2, ensure_ascii=False)
+        f.write(json.dumps(registry, indent=2, ensure_ascii=False) + "\n")
         
     print(f"Successfully generated {created_count} timetable points.")
     return 0

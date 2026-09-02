@@ -90,17 +90,15 @@ def main():
 
     print("Updating points with kilometer data...")
     updated_points = 0
+    points_by_uid = {pinfo["uid"]: pinfo for pinfo in internal_points.values()}
+    
     for uid, locs in point_locations.items():
-        # find point file
-        # this is slow to search, but we have path in internal_points
-        # find pinfo
-        for pinfo in internal_points.values():
-            if pinfo["uid"] == uid:
-                pinfo["data"]["line_locations"] = locs
-                with open(pinfo["path"], "w", encoding="utf-8") as f:
-                    json.dump(pinfo["data"], f, indent=2)
-                updated_points += 1
-                break
+        pinfo = points_by_uid.get(uid)
+        if pinfo:
+            pinfo["data"]["line_locations"] = locs
+            with open(pinfo["path"], "w", encoding="utf-8") as f:
+                f.write(json.dumps(pinfo["data"], indent=2, ensure_ascii=False) + "\n")
+            updated_points += 1
                 
     print(f"Updated {updated_points} points.")
     
@@ -121,7 +119,7 @@ def main():
             "lines": lines_info
         }
         with open(conn_dir / f"connection_{instance}.json", "w", encoding="utf-8") as f:
-            json.dump(obj, f, indent=2)
+            f.write(json.dumps(obj, indent=2, ensure_ascii=False) + "\n")
             
     print("Done! Topology constructed with kilometers.")
 

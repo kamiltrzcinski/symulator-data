@@ -91,6 +91,12 @@ def validate_trains(vehicles: dict[int, str]) -> None:
             else:
                 seen[u] = rel
                 register_global(u, rel)
+                
+        if "vehicle_uids" in obj and isinstance(obj["vehicle_uids"], list):
+            for i, vu in enumerate(obj["vehicle_uids"]):
+                if validate_uid(vu, f"vehicle_uids[{i}]", rel):
+                    if vu not in vehicles:
+                        err(rel, f"vehicle_uids[{i}] {vu:#x} not found in vehicles catalog")
 
 def validate_timetable_points() -> dict[str, int]:
     d = ROOT / "data" / "timetable_points"
@@ -157,6 +163,7 @@ def validate_schedules(timetable_points: dict[str, int], vehicles: dict[int, str
     for s_dir in schedule_dirs:
         if s_dir.exists(): files.extend(s_dir.rglob("*.json"))
     seen: dict[int, str] = {}
+    valid_point_uids = set(timetable_points.values())
     count = 0
     for path in sorted(set(files)):
         with open(path, "r", encoding="utf-8") as f:
@@ -186,7 +193,7 @@ def validate_schedules(timetable_points: dict[str, int], vehicles: dict[int, str
                 
                 if p_uid:
                     if validate_uid(p_uid, f"route[{i}].point_uid", rel):
-                        if p_uid not in timetable_points.values():
+                        if p_uid not in valid_point_uids:
                             err(rel, f"route[{i}] point_uid {p_uid:#x} not found in catalog")
                 elif st_name:
                     if st_name not in timetable_points:
