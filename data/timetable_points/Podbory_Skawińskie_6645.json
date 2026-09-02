@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712629,
+  "type": "TIMETABLE_POINT",
+  "name": "Podbory Skawi\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 19420
+    },
+    {
+      "line_no": "94",
+      "meter": 19420
+    },
+    {
+      "line_no": "94",
+      "meter": 19420
+    },
+    {
+      "line_no": "94",
+      "meter": 19420
+    },
+    {
+      "line_no": "94",
+      "meter": 19420
+    }
+  ]
+}

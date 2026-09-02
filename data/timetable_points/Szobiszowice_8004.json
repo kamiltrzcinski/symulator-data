@@ -1,0 +1,72 @@
+{
+  "uid": 3453153713988,
+  "type": "TIMETABLE_POINT",
+  "name": "Szobiszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 28530
+    },
+    {
+      "line_no": "137",
+      "meter": 28530
+    },
+    {
+      "line_no": "167",
+      "meter": 1425
+    },
+    {
+      "line_no": "167",
+      "meter": 1425
+    },
+    {
+      "line_no": "167",
+      "meter": 1425
+    },
+    {
+      "line_no": "167",
+      "meter": 1425
+    },
+    {
+      "line_no": "167",
+      "meter": 1425
+    },
+    {
+      "line_no": "168",
+      "meter": 1425
+    },
+    {
+      "line_no": "168",
+      "meter": 1425
+    },
+    {
+      "line_no": "168",
+      "meter": 1425
+    },
+    {
+      "line_no": "168",
+      "meter": 1425
+    },
+    {
+      "line_no": "675",
+      "meter": 1
+    },
+    {
+      "line_no": "675",
+      "meter": 1
+    },
+    {
+      "line_no": "675",
+      "meter": 1
+    },
+    {
+      "line_no": "675",
+      "meter": 1
+    },
+    {
+      "line_no": "675",
+      "meter": 1
+    }
+  ]
+}

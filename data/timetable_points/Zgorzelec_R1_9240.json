@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715224,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgorzelec R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "278",
+      "meter": 25229
+    },
+    {
+      "line_no": "778",
+      "meter": -12
+    }
+  ]
+}

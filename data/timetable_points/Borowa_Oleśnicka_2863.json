@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708847,
+  "type": "TIMETABLE_POINT",
+  "name": "Borowa Ole\u015bnicka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 141717
+    },
+    {
+      "line_no": "143",
+      "meter": 141717
+    },
+    {
+      "line_no": "143",
+      "meter": 141717
+    },
+    {
+      "line_no": "143",
+      "meter": 141717
+    },
+    {
+      "line_no": "143",
+      "meter": 141717
+    }
+  ]
+}

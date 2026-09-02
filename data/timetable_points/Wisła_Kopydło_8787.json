@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714771,
+  "type": "TIMETABLE_POINT",
+  "name": "Wis\u0142a Kopyd\u0142o",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "191",
+      "meter": 17922
+    },
+    {
+      "line_no": "191",
+      "meter": 17960
+    }
+  ]
+}

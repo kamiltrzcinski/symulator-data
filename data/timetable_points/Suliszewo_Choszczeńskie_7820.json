@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713804,
+  "type": "TIMETABLE_POINT",
+  "name": "Suliszewo Choszcze\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 128892
+    },
+    {
+      "line_no": "410",
+      "meter": 128892
+    },
+    {
+      "line_no": "410",
+      "meter": 128892
+    }
+  ]
+}

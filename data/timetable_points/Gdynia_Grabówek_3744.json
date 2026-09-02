@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709728,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Grab\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 23643
+    },
+    {
+      "line_no": "250",
+      "meter": 23643
+    },
+    {
+      "line_no": "250",
+      "meter": 23729
+    },
+    {
+      "line_no": "250",
+      "meter": 23729
+    },
+    {
+      "line_no": "250",
+      "meter": 23729
+    },
+    {
+      "line_no": "250",
+      "meter": 23729
+    }
+  ]
+}

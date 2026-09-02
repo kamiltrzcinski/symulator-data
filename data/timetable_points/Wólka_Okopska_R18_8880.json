@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714864,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u00f3lka Okopska R18",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 264606
+    },
+    {
+      "line_no": "7",
+      "meter": 264606
+    },
+    {
+      "line_no": "788",
+      "meter": 0
+    },
+    {
+      "line_no": "788",
+      "meter": 0
+    }
+  ]
+}

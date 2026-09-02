@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711014,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Prokocim Prb R339",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "605",
+      "meter": 2890
+    },
+    {
+      "line_no": "605",
+      "meter": 2890
+    },
+    {
+      "line_no": "605",
+      "meter": 2890
+    },
+    {
+      "line_no": "605",
+      "meter": 2890
+    },
+    {
+      "line_no": "606",
+      "meter": 0
+    },
+    {
+      "line_no": "606",
+      "meter": 0
+    }
+  ]
+}

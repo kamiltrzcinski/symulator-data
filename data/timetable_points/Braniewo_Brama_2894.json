@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708878,
+  "type": "TIMETABLE_POINT",
+  "name": "Braniewo Brama",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 45734
+    },
+    {
+      "line_no": "254",
+      "meter": 45734
+    }
+  ]
+}

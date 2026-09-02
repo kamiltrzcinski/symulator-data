@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713039,
+  "type": "TIMETABLE_POINT",
+  "name": "Regalica Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 204055
+    },
+    {
+      "line_no": "351",
+      "meter": 204055
+    },
+    {
+      "line_no": "351",
+      "meter": 204055
+    },
+    {
+      "line_no": "351",
+      "meter": 204055
+    },
+    {
+      "line_no": "855",
+      "meter": -23
+    },
+    {
+      "line_no": "855",
+      "meter": -23
+    }
+  ]
+}

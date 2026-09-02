@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712679,
+  "type": "TIMETABLE_POINT",
+  "name": "Police Zak\u0142ad",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 25990
+    },
+    {
+      "line_no": "406",
+      "meter": 25990
+    },
+    {
+      "line_no": "406",
+      "meter": 25990
+    }
+  ]
+}

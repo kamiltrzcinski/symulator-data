@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710013,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "460",
+      "meter": 139146
+    },
+    {
+      "line_no": "460",
+      "meter": 260860
+    },
+    {
+      "line_no": "460",
+      "meter": 260860
+    },
+    {
+      "line_no": "464",
+      "meter": 120000
+    },
+    {
+      "line_no": "464",
+      "meter": 120000
+    }
+  ]
+}

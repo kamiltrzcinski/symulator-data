@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710161,
+  "type": "TIMETABLE_POINT",
+  "name": "Imbramowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 35848
+    },
+    {
+      "line_no": "274",
+      "meter": 35848
+    },
+    {
+      "line_no": "274",
+      "meter": 35848
+    }
+  ]
+}

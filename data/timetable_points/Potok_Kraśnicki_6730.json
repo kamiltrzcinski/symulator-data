@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712714,
+  "type": "TIMETABLE_POINT",
+  "name": "Potok Kra\u015bnicki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 72475
+    },
+    {
+      "line_no": "68",
+      "meter": 72475
+    },
+    {
+      "line_no": "68",
+      "meter": 72475
+    },
+    {
+      "line_no": "68",
+      "meter": 72475
+    },
+    {
+      "line_no": "68",
+      "meter": 72576
+    }
+  ]
+}

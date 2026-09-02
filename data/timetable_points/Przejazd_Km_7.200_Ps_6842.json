@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712826,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd Km 7.200 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "76",
+      "meter": 7200
+    },
+    {
+      "line_no": "76",
+      "meter": 7200
+    },
+    {
+      "line_no": "76",
+      "meter": 7200
+    }
+  ]
+}

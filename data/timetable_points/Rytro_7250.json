@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713234,
+  "type": "TIMETABLE_POINT",
+  "name": "Rytro",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 104755
+    },
+    {
+      "line_no": "96",
+      "meter": 104755
+    },
+    {
+      "line_no": "96",
+      "meter": 104755
+    }
+  ]
+}

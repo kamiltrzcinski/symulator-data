@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710374,
+  "type": "TIMETABLE_POINT",
+  "name": "Jerzmanice-Zd.Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "284",
+      "meter": 23718
+    },
+    {
+      "line_no": "284",
+      "meter": 23718
+    },
+    {
+      "line_no": "284",
+      "meter": 23718
+    },
+    {
+      "line_no": "342",
+      "meter": -557
+    },
+    {
+      "line_no": "342",
+      "meter": -557
+    },
+    {
+      "line_no": "342",
+      "meter": -557
+    },
+    {
+      "line_no": "342",
+      "meter": -557
+    }
+  ]
+}

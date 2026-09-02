@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708197,
+  "type": "TIMETABLE_POINT",
+  "name": "A292 026,977",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "292",
+      "meter": 26977
+    }
+  ]
+}

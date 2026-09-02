@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713252,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzepin R77",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 462368
+    },
+    {
+      "line_no": "852",
+      "meter": 738
+    }
+  ]
+}

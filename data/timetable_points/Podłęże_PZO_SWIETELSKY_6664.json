@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712648,
+  "type": "TIMETABLE_POINT",
+  "name": "Pod\u0142\u0119\u017ce PZO SWIETELSKY",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 18831
+    },
+    {
+      "line_no": "91",
+      "meter": 19026
+    },
+    {
+      "line_no": "95",
+      "meter": 33857
+    },
+    {
+      "line_no": "95",
+      "meter": 33857
+    },
+    {
+      "line_no": "95",
+      "meter": 34161
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714320,
+  "type": "TIMETABLE_POINT",
+  "name": "Tychy Grota Roweckiego",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 3282
+    }
+  ]
+}

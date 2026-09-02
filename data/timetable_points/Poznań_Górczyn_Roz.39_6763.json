@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712747,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 G\u00f3rczyn Roz.39",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 310582
+    },
+    {
+      "line_no": "3",
+      "meter": 310582
+    },
+    {
+      "line_no": "801",
+      "meter": 4126
+    }
+  ]
+}

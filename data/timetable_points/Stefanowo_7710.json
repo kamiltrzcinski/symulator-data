@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713694,
+  "type": "TIMETABLE_POINT",
+  "name": "Stefanowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "359",
+      "meter": 62775
+    }
+  ]
+}

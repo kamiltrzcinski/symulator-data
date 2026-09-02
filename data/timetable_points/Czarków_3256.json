@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709240,
+  "type": "TIMETABLE_POINT",
+  "name": "Czark\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "152",
+      "meter": 22210
+    },
+    {
+      "line_no": "152",
+      "meter": 22210
+    },
+    {
+      "line_no": "152",
+      "meter": 22210
+    },
+    {
+      "line_no": "152",
+      "meter": 22210
+    },
+    {
+      "line_no": "152",
+      "meter": 22210
+    },
+    {
+      "line_no": "152",
+      "meter": 22210
+    }
+  ]
+}

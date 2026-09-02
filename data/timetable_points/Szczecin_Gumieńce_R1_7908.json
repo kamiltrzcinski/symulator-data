@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713892,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Gumie\u0144ce R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "408",
+      "meter": 3792
+    },
+    {
+      "line_no": "408",
+      "meter": 3792
+    },
+    {
+      "line_no": "408",
+      "meter": 3829
+    },
+    {
+      "line_no": "433",
+      "meter": 3161
+    },
+    {
+      "line_no": "433",
+      "meter": 3198
+    },
+    {
+      "line_no": "433",
+      "meter": 3198
+    }
+  ]
+}

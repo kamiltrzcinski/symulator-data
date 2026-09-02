@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715223,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgorzelec R.59",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 202034
+    },
+    {
+      "line_no": "274",
+      "meter": 202034
+    },
+    {
+      "line_no": "274",
+      "meter": 202038
+    },
+    {
+      "line_no": "278",
+      "meter": 27127
+    },
+    {
+      "line_no": "278",
+      "meter": 27130
+    }
+  ]
+}

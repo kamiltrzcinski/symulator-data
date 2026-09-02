@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709678,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Osowa R23",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 189374
+    },
+    {
+      "line_no": "201",
+      "meter": 189375
+    },
+    {
+      "line_no": "201",
+      "meter": 189375
+    },
+    {
+      "line_no": "235",
+      "meter": 10057
+    },
+    {
+      "line_no": "235",
+      "meter": 10058
+    }
+  ]
+}

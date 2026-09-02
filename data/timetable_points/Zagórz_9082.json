@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715066,
+  "type": "TIMETABLE_POINT",
+  "name": "Zag\u00f3rz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": 1130
+    },
+    {
+      "line_no": "107",
+      "meter": 1130
+    },
+    {
+      "line_no": "107",
+      "meter": 1130
+    },
+    {
+      "line_no": "108",
+      "meter": 114200
+    },
+    {
+      "line_no": "617",
+      "meter": 0
+    },
+    {
+      "line_no": "617",
+      "meter": 0
+    },
+    {
+      "line_no": "617",
+      "meter": 0
+    }
+  ]
+}

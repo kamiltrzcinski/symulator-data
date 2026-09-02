@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713105,
+  "type": "TIMETABLE_POINT",
+  "name": "Roztoka Roz.10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "302",
+      "meter": 46500
+    },
+    {
+      "line_no": "302",
+      "meter": 46500
+    }
+  ]
+}

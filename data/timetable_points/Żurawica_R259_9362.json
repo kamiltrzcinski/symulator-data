@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715346,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017burawica R259",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 238181
+    },
+    {
+      "line_no": "91",
+      "meter": 238181
+    },
+    {
+      "line_no": "91",
+      "meter": 238181
+    },
+    {
+      "line_no": "91",
+      "meter": 238181
+    },
+    {
+      "line_no": "613",
+      "meter": 0
+    }
+  ]
+}

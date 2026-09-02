@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713038,
+  "type": "TIMETABLE_POINT",
+  "name": "Regalica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 204079
+    },
+    {
+      "line_no": "351",
+      "meter": 204079
+    },
+    {
+      "line_no": "351",
+      "meter": 204079
+    },
+    {
+      "line_no": "351",
+      "meter": 204079
+    },
+    {
+      "line_no": "855",
+      "meter": 0
+    },
+    {
+      "line_no": "855",
+      "meter": 0
+    },
+    {
+      "line_no": "855",
+      "meter": 0
+    },
+    {
+      "line_no": "855",
+      "meter": 0
+    }
+  ]
+}

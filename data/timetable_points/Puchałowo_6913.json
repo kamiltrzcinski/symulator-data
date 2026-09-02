@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712897,
+  "type": "TIMETABLE_POINT",
+  "name": "Pucha\u0142owo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "225",
+      "meter": 26463
+    },
+    {
+      "line_no": "225",
+      "meter": 26463
+    },
+    {
+      "line_no": "225",
+      "meter": 26463
+    },
+    {
+      "line_no": "225",
+      "meter": 26463
+    },
+    {
+      "line_no": "225",
+      "meter": 26463
+    }
+  ]
+}

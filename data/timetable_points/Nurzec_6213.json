@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712197,
+  "type": "TIMETABLE_POINT",
+  "name": "Nurzec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 69971
+    },
+    {
+      "line_no": "31",
+      "meter": 69971
+    },
+    {
+      "line_no": "31",
+      "meter": 70030
+    },
+    {
+      "line_no": "31",
+      "meter": 70030
+    },
+    {
+      "line_no": "31",
+      "meter": 70030
+    }
+  ]
+}

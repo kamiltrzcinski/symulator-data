@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712318,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Groszowice OGB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 494
+    },
+    {
+      "line_no": "277",
+      "meter": 494
+    },
+    {
+      "line_no": "280",
+      "meter": 494
+    },
+    {
+      "line_no": "280",
+      "meter": 494
+    }
+  ]
+}

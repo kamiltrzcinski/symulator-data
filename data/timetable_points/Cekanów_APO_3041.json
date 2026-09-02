@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709025,
+  "type": "TIMETABLE_POINT",
+  "name": "Cekan\u00f3w APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 51973
+    }
+  ]
+}

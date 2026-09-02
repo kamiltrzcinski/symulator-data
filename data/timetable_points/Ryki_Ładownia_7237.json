@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713221,
+  "type": "TIMETABLE_POINT",
+  "name": "Ryki \u0141adownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 51512
+    },
+    {
+      "line_no": "26",
+      "meter": 51512
+    },
+    {
+      "line_no": "26",
+      "meter": 51512
+    },
+    {
+      "line_no": "26",
+      "meter": 51512
+    },
+    {
+      "line_no": "26",
+      "meter": 51512
+    },
+    {
+      "line_no": "26",
+      "meter": 51512
+    }
+  ]
+}

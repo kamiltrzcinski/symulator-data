@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712589,
+  "type": "TIMETABLE_POINT",
+  "name": "Pisz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 101991
+    },
+    {
+      "line_no": "219",
+      "meter": 101997
+    },
+    {
+      "line_no": "219",
+      "meter": 101997
+    },
+    {
+      "line_no": "219",
+      "meter": 102101
+    },
+    {
+      "line_no": "219",
+      "meter": 102101
+    }
+  ]
+}

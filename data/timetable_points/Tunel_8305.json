@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714289,
+  "type": "TIMETABLE_POINT",
+  "name": "Tunel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 267778
+    },
+    {
+      "line_no": "8",
+      "meter": 267778
+    },
+    {
+      "line_no": "8",
+      "meter": 267778
+    },
+    {
+      "line_no": "8",
+      "meter": 267778
+    },
+    {
+      "line_no": "8",
+      "meter": 267778
+    },
+    {
+      "line_no": "62",
+      "meter": 744
+    },
+    {
+      "line_no": "62",
+      "meter": 750
+    }
+  ]
+}

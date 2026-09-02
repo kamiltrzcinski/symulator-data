@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713960,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczport Cent. Spd31",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "995",
+      "meter": 0
+    },
+    {
+      "line_no": "995",
+      "meter": 0
+    },
+    {
+      "line_no": "995",
+      "meter": 0
+    }
+  ]
+}

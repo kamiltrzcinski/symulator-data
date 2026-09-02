@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709390,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Z\u0105bkowice DZB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 293440
+    },
+    {
+      "line_no": "1",
+      "meter": 293440
+    },
+    {
+      "line_no": "1",
+      "meter": 293440
+    },
+    {
+      "line_no": "133",
+      "meter": 480
+    },
+    {
+      "line_no": "133",
+      "meter": 480
+    },
+    {
+      "line_no": "133",
+      "meter": 480
+    },
+    {
+      "line_no": "133",
+      "meter": 480
+    },
+    {
+      "line_no": "183",
+      "meter": 430
+    }
+  ]
+}

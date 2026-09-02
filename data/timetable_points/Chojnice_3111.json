@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709095,
+  "type": "TIMETABLE_POINT",
+  "name": "Chojnice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 96227
+    },
+    {
+      "line_no": "203",
+      "meter": 96227
+    },
+    {
+      "line_no": "203",
+      "meter": 96227
+    },
+    {
+      "line_no": "208",
+      "meter": 200292
+    },
+    {
+      "line_no": "208",
+      "meter": 200292
+    },
+    {
+      "line_no": "208",
+      "meter": 200377
+    },
+    {
+      "line_no": "208",
+      "meter": 200377
+    },
+    {
+      "line_no": "210",
+      "meter": 0
+    },
+    {
+      "line_no": "210",
+      "meter": 0
+    },
+    {
+      "line_no": "211",
+      "meter": 673
+    },
+    {
+      "line_no": "211",
+      "meter": 673
+    },
+    {
+      "line_no": "211",
+      "meter": 673
+    },
+    {
+      "line_no": "281",
+      "meter": 310040
+    },
+    {
+      "line_no": "281",
+      "meter": 310040
+    },
+    {
+      "line_no": "281",
+      "meter": 310040
+    }
+  ]
+}

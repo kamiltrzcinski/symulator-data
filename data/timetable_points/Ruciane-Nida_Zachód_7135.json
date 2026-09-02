@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713119,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruciane-Nida Zach\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 82436
+    },
+    {
+      "line_no": "219",
+      "meter": 82436
+    },
+    {
+      "line_no": "219",
+      "meter": 82436
+    },
+    {
+      "line_no": "219",
+      "meter": 82493
+    },
+    {
+      "line_no": "219",
+      "meter": 82493
+    }
+  ]
+}

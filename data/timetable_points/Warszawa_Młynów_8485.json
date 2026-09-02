@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714469,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa M\u0142yn\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 6484
+    },
+    {
+      "line_no": "20",
+      "meter": 6500
+    }
+  ]
+}

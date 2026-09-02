@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708758,
+  "type": "TIMETABLE_POINT",
+  "name": "Biskupice O\u0142awskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 54257
+    },
+    {
+      "line_no": "277",
+      "meter": 54257
+    },
+    {
+      "line_no": "277",
+      "meter": 54257
+    },
+    {
+      "line_no": "277",
+      "meter": 54257
+    }
+  ]
+}

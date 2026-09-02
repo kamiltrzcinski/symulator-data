@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712948,
+  "type": "TIMETABLE_POINT",
+  "name": "Raczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 24600
+    },
+    {
+      "line_no": "70",
+      "meter": 24600
+    },
+    {
+      "line_no": "70",
+      "meter": 24600
+    },
+    {
+      "line_no": "70",
+      "meter": 24600
+    },
+    {
+      "line_no": "70",
+      "meter": 25280
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711486,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubo\u0144 k.Poznania R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 157243
+    },
+    {
+      "line_no": "271",
+      "meter": 157243
+    },
+    {
+      "line_no": "271",
+      "meter": 157243
+    },
+    {
+      "line_no": "271",
+      "meter": 157243
+    },
+    {
+      "line_no": "357",
+      "meter": 111745
+    },
+    {
+      "line_no": "357",
+      "meter": 111745
+    },
+    {
+      "line_no": "802",
+      "meter": 4453
+    },
+    {
+      "line_no": "802",
+      "meter": 4705
+    },
+    {
+      "line_no": "802",
+      "meter": 4705
+    }
+  ]
+}

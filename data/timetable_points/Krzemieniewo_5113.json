@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711097,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzemieniewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 47585
+    },
+    {
+      "line_no": "360",
+      "meter": 47585
+    },
+    {
+      "line_no": "360",
+      "meter": 47585
+    },
+    {
+      "line_no": "360",
+      "meter": 47585
+    },
+    {
+      "line_no": "360",
+      "meter": 47585
+    }
+  ]
+}

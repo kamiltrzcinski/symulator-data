@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715095,
+  "type": "TIMETABLE_POINT",
+  "name": "Zakopane",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "99",
+      "meter": 42260
+    },
+    {
+      "line_no": "99",
+      "meter": 43334
+    },
+    {
+      "line_no": "99",
+      "meter": 43334
+    },
+    {
+      "line_no": "99",
+      "meter": 43334
+    },
+    {
+      "line_no": "99",
+      "meter": 43334
+    }
+  ]
+}

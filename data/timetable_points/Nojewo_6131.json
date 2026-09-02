@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712115,
+  "type": "TIMETABLE_POINT",
+  "name": "Nojewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 21429
+    },
+    {
+      "line_no": "368",
+      "meter": 21429
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711367,
+  "type": "TIMETABLE_POINT",
+  "name": "Lichkov",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "481",
+      "meter": 110817
+    },
+    {
+      "line_no": "481",
+      "meter": 111000
+    },
+    {
+      "line_no": "481",
+      "meter": 111000
+    }
+  ]
+}

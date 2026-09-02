@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713057,
+  "type": "TIMETABLE_POINT",
+  "name": "Reskowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 54858
+    },
+    {
+      "line_no": "229",
+      "meter": 54858
+    },
+    {
+      "line_no": "229",
+      "meter": 54858
+    }
+  ]
+}

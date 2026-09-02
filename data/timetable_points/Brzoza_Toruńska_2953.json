@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708937,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzoza Toru\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 101493
+    },
+    {
+      "line_no": "18",
+      "meter": 101493
+    }
+  ]
+}

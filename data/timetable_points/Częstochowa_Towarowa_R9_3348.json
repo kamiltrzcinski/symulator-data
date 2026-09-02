@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709332,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Towarowa R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "702",
+      "meter": 157
+    },
+    {
+      "line_no": "702",
+      "meter": 217
+    },
+    {
+      "line_no": "703",
+      "meter": 4373
+    },
+    {
+      "line_no": "703",
+      "meter": 4373
+    },
+    {
+      "line_no": "703",
+      "meter": 4392
+    }
+  ]
+}

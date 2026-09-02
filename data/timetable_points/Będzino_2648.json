@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708632,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0119dzino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 14149
+    },
+    {
+      "line_no": "402",
+      "meter": 14149
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714926,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Osobowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 9718
+    },
+    {
+      "line_no": "271",
+      "meter": 9718
+    },
+    {
+      "line_no": "271",
+      "meter": 9718
+    },
+    {
+      "line_no": "271",
+      "meter": 9718
+    },
+    {
+      "line_no": "271",
+      "meter": 9718
+    },
+    {
+      "line_no": "271",
+      "meter": 9718
+    },
+    {
+      "line_no": "292",
+      "meter": 28773
+    },
+    {
+      "line_no": "292",
+      "meter": 28773
+    },
+    {
+      "line_no": "292",
+      "meter": 28773
+    },
+    {
+      "line_no": "292",
+      "meter": 28773
+    }
+  ]
+}

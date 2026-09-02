@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714637,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0105brze\u017ano Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "264",
+      "meter": 2488
+    },
+    {
+      "line_no": "264",
+      "meter": 2488
+    }
+  ]
+}

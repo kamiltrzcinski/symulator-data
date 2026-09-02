@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710082,
+  "type": "TIMETABLE_POINT",
+  "name": "Hajduki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "164",
+      "meter": 2820
+    },
+    {
+      "line_no": "164",
+      "meter": 2820
+    },
+    {
+      "line_no": "651",
+      "meter": 1443
+    },
+    {
+      "line_no": "651",
+      "meter": 1443
+    },
+    {
+      "line_no": "651",
+      "meter": 1443
+    }
+  ]
+}

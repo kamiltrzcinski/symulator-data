@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708534,
+  "type": "TIMETABLE_POINT",
+  "name": "Antonin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 70562
+    },
+    {
+      "line_no": "272",
+      "meter": 70562
+    }
+  ]
+}

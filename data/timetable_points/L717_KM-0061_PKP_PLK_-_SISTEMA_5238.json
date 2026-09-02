@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711222,
+  "type": "TIMETABLE_POINT",
+  "name": "L717 KM:-0,061 PKP PLK - SISTEMA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "717",
+      "meter": -61
+    }
+  ]
+}

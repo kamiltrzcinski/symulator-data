@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711854,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0119dzylesie W10b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 136060
+    },
+    {
+      "line_no": "276",
+      "meter": 136060
+    }
+  ]
+}

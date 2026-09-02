@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709813,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142og\u00f3w Huta",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 105425
+    },
+    {
+      "line_no": "273",
+      "meter": 105425
+    }
+  ]
+}

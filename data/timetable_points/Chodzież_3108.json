@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709092,
+  "type": "TIMETABLE_POINT",
+  "name": "Chodzie\u017c",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 70439
+    },
+    {
+      "line_no": "354",
+      "meter": 70439
+    },
+    {
+      "line_no": "354",
+      "meter": 70442
+    }
+  ]
+}

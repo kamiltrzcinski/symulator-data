@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714198,
+  "type": "TIMETABLE_POINT",
+  "name": "T\u0142uszcz R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "10",
+      "meter": 35846
+    },
+    {
+      "line_no": "29",
+      "meter": -510
+    },
+    {
+      "line_no": "513",
+      "meter": 3260
+    },
+    {
+      "line_no": "513",
+      "meter": 3260
+    },
+    {
+      "line_no": "513",
+      "meter": 3260
+    },
+    {
+      "line_no": "513",
+      "meter": 3282
+    }
+  ]
+}

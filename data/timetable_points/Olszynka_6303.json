@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712287,
+  "type": "TIMETABLE_POINT",
+  "name": "Olszynka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "169",
+      "meter": 15477
+    },
+    {
+      "line_no": "169",
+      "meter": 15477
+    }
+  ]
+}

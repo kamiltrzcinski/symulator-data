@@ -1,0 +1,64 @@
+{
+  "uid": 3453153711474,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Tatary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "67",
+      "meter": 3715
+    },
+    {
+      "line_no": "67",
+      "meter": 3715
+    },
+    {
+      "line_no": "67",
+      "meter": 3715
+    },
+    {
+      "line_no": "67",
+      "meter": 3715
+    },
+    {
+      "line_no": "67",
+      "meter": 3715
+    },
+    {
+      "line_no": "67",
+      "meter": 3715
+    },
+    {
+      "line_no": "562",
+      "meter": 934
+    },
+    {
+      "line_no": "562",
+      "meter": 934
+    },
+    {
+      "line_no": "562",
+      "meter": 934
+    },
+    {
+      "line_no": "930",
+      "meter": 2237
+    },
+    {
+      "line_no": "930",
+      "meter": 2383
+    },
+    {
+      "line_no": "930",
+      "meter": 2383
+    },
+    {
+      "line_no": "930",
+      "meter": 2383
+    },
+    {
+      "line_no": "930",
+      "meter": 2383
+    }
+  ]
+}

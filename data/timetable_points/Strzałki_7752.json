@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713736,
+  "type": "TIMETABLE_POINT",
+  "name": "Strza\u0142ki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 57381
+    },
+    {
+      "line_no": "4",
+      "meter": 57381
+    },
+    {
+      "line_no": "4",
+      "meter": 57381
+    },
+    {
+      "line_no": "4",
+      "meter": 57381
+    },
+    {
+      "line_no": "4",
+      "meter": 57381
+    },
+    {
+      "line_no": "4",
+      "meter": 57381
+    }
+  ]
+}

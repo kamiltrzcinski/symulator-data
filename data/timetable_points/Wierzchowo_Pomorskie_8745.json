@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714729,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzchowo Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 75904
+    },
+    {
+      "line_no": "410",
+      "meter": 75904
+    },
+    {
+      "line_no": "410",
+      "meter": 75904
+    }
+  ]
+}

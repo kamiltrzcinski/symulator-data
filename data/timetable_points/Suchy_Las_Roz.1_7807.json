@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713791,
+  "type": "TIMETABLE_POINT",
+  "name": "Suchy Las Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 68425
+    },
+    {
+      "line_no": "35",
+      "meter": 68425
+    },
+    {
+      "line_no": "733",
+      "meter": 0
+    },
+    {
+      "line_no": "733",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714606,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R201-4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": -2378
+    },
+    {
+      "line_no": "2",
+      "meter": -2378
+    },
+    {
+      "line_no": "448",
+      "meter": -2384
+    },
+    {
+      "line_no": "448",
+      "meter": -2374
+    },
+    {
+      "line_no": "448",
+      "meter": -2374
+    }
+  ]
+}

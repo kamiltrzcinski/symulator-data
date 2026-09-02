@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714051,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awidnik Wsch\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 187480
+    },
+    {
+      "line_no": "7",
+      "meter": 187480
+    }
+  ]
+}

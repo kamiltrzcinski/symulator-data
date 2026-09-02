@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713118,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruciane-Nida",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 85785
+    },
+    {
+      "line_no": "219",
+      "meter": 85785
+    },
+    {
+      "line_no": "219",
+      "meter": 85785
+    },
+    {
+      "line_no": "219",
+      "meter": 85892
+    },
+    {
+      "line_no": "219",
+      "meter": 85892
+    },
+    {
+      "line_no": "219",
+      "meter": 85892
+    }
+  ]
+}

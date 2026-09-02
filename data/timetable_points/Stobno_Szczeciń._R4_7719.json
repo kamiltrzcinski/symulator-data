@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713703,
+  "type": "TIMETABLE_POINT",
+  "name": "Stobno Szczeci\u0144. R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "408",
+      "meter": 8095
+    },
+    {
+      "line_no": "408",
+      "meter": 8095
+    },
+    {
+      "line_no": "408",
+      "meter": 8095
+    },
+    {
+      "line_no": "429",
+      "meter": -799
+    },
+    {
+      "line_no": "429",
+      "meter": -799
+    }
+  ]
+}

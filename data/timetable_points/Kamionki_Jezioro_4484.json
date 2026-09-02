@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710468,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamionki Jezioro",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 154297
+    },
+    {
+      "line_no": "353",
+      "meter": 154297
+    }
+  ]
+}

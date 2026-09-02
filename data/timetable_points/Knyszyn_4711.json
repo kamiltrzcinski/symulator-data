@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710695,
+  "type": "TIMETABLE_POINT",
+  "name": "Knyszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 28437
+    },
+    {
+      "line_no": "38",
+      "meter": 28437
+    },
+    {
+      "line_no": "38",
+      "meter": 28437
+    },
+    {
+      "line_no": "38",
+      "meter": 28437
+    },
+    {
+      "line_no": "38",
+      "meter": 28437
+    }
+  ]
+}

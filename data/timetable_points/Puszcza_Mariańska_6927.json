@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712911,
+  "type": "TIMETABLE_POINT",
+  "name": "Puszcza Maria\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 13732
+    },
+    {
+      "line_no": "12",
+      "meter": 13732
+    },
+    {
+      "line_no": "12",
+      "meter": 13732
+    },
+    {
+      "line_no": "12",
+      "meter": 13732
+    },
+    {
+      "line_no": "12",
+      "meter": 13732
+    },
+    {
+      "line_no": "12",
+      "meter": 13732
+    }
+  ]
+}

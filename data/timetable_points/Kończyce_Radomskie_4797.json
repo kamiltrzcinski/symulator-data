@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710781,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0144czyce Radomskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 78572
+    },
+    {
+      "line_no": "22",
+      "meter": 78572
+    },
+    {
+      "line_no": "22",
+      "meter": 78701
+    },
+    {
+      "line_no": "22",
+      "meter": 78701
+    },
+    {
+      "line_no": "22",
+      "meter": 78701
+    }
+  ]
+}

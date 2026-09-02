@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714977,
+  "type": "TIMETABLE_POINT",
+  "name": "Wronki Zamo\u015b\u0107",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 52823
+    },
+    {
+      "line_no": "351",
+      "meter": 52955
+    }
+  ]
+}

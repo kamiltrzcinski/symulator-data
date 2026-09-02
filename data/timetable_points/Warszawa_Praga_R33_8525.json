@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714509,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R33",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 13699
+    },
+    {
+      "line_no": "20",
+      "meter": 13699
+    },
+    {
+      "line_no": "834",
+      "meter": 9513
+    },
+    {
+      "line_no": "834",
+      "meter": 9516
+    },
+    {
+      "line_no": "834",
+      "meter": 9516
+    },
+    {
+      "line_no": "834",
+      "meter": 9531
+    },
+    {
+      "line_no": "834",
+      "meter": 9531
+    }
+  ]
+}

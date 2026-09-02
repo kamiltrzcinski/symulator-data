@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711309,
+  "type": "TIMETABLE_POINT",
+  "name": "Legnica Piekary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 280494
+    }
+  ]
+}

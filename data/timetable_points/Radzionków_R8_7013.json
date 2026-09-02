@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712997,
+  "type": "TIMETABLE_POINT",
+  "name": "Radzionk\u00f3w R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "128",
+      "meter": 26782
+    },
+    {
+      "line_no": "128",
+      "meter": 26782
+    },
+    {
+      "line_no": "128",
+      "meter": 26939
+    },
+    {
+      "line_no": "131",
+      "meter": 26782
+    },
+    {
+      "line_no": "131",
+      "meter": 26939
+    },
+    {
+      "line_no": "131",
+      "meter": 26939
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711400,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipowa Wschodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 40607
+    }
+  ]
+}

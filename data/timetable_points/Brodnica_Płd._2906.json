@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708890,
+  "type": "TIMETABLE_POINT",
+  "name": "Brodnica P\u0142d.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 137113
+    }
+  ]
+}

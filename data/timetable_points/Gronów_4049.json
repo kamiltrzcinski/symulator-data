@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710033,
+  "type": "TIMETABLE_POINT",
+  "name": "Gron\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "375",
+      "meter": 37075
+    },
+    {
+      "line_no": "375",
+      "meter": 37075
+    },
+    {
+      "line_no": "375",
+      "meter": 37075
+    },
+    {
+      "line_no": "375",
+      "meter": 37075
+    }
+  ]
+}

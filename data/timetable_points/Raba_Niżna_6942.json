@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712926,
+  "type": "TIMETABLE_POINT",
+  "name": "Raba Ni\u017cna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 8500
+    },
+    {
+      "line_no": "104",
+      "meter": 8500
+    },
+    {
+      "line_no": "104",
+      "meter": 8500
+    }
+  ]
+}

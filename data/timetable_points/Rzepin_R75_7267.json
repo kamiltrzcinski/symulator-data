@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713251,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzepin R75",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 461120
+    },
+    {
+      "line_no": "3",
+      "meter": 462371
+    },
+    {
+      "line_no": "3",
+      "meter": 462371
+    },
+    {
+      "line_no": "3",
+      "meter": 462371
+    },
+    {
+      "line_no": "364",
+      "meter": 89319
+    },
+    {
+      "line_no": "364",
+      "meter": 90605
+    },
+    {
+      "line_no": "364",
+      "meter": 90605
+    }
+  ]
+}

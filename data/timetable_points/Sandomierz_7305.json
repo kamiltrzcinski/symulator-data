@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713289,
+  "type": "TIMETABLE_POINT",
+  "name": "Sandomierz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 240957
+    },
+    {
+      "line_no": "25",
+      "meter": 240957
+    },
+    {
+      "line_no": "25",
+      "meter": 240957
+    },
+    {
+      "line_no": "25",
+      "meter": 240957
+    },
+    {
+      "line_no": "78",
+      "meter": 1329
+    },
+    {
+      "line_no": "78",
+      "meter": 1387
+    },
+    {
+      "line_no": "78",
+      "meter": 1387
+    }
+  ]
+}

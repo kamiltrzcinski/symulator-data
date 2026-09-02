@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711348,
+  "type": "TIMETABLE_POINT",
+  "name": "Lewin K\u0142odzki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "309",
+      "meter": 36096
+    },
+    {
+      "line_no": "309",
+      "meter": 36101
+    }
+  ]
+}

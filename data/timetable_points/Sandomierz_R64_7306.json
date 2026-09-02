@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713290,
+  "type": "TIMETABLE_POINT",
+  "name": "Sandomierz R64",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 242269
+    },
+    {
+      "line_no": "25",
+      "meter": 242269
+    },
+    {
+      "line_no": "25",
+      "meter": 242269
+    },
+    {
+      "line_no": "78",
+      "meter": 1328
+    },
+    {
+      "line_no": "78",
+      "meter": 1386
+    }
+  ]
+}

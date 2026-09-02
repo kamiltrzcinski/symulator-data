@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711846,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0119dzybor\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 40437
+    },
+    {
+      "line_no": "1",
+      "meter": 40437
+    },
+    {
+      "line_no": "1",
+      "meter": 40437
+    },
+    {
+      "line_no": "1",
+      "meter": 40468
+    },
+    {
+      "line_no": "1",
+      "meter": 40468
+    }
+  ]
+}

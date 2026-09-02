@@ -1,0 +1,88 @@
+{
+  "uid": 3453153714194,
+  "type": "TIMETABLE_POINT",
+  "name": "T\u0142uszcz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 37802
+    },
+    {
+      "line_no": "6",
+      "meter": 37802
+    },
+    {
+      "line_no": "6",
+      "meter": 37802
+    },
+    {
+      "line_no": "6",
+      "meter": 37912
+    },
+    {
+      "line_no": "6",
+      "meter": 37912
+    },
+    {
+      "line_no": "6",
+      "meter": 37912
+    },
+    {
+      "line_no": "10",
+      "meter": 35910
+    },
+    {
+      "line_no": "10",
+      "meter": 35910
+    },
+    {
+      "line_no": "10",
+      "meter": 36422
+    },
+    {
+      "line_no": "10",
+      "meter": 36443
+    },
+    {
+      "line_no": "29",
+      "meter": 0
+    },
+    {
+      "line_no": "29",
+      "meter": 111
+    },
+    {
+      "line_no": "29",
+      "meter": 117
+    },
+    {
+      "line_no": "29",
+      "meter": 117
+    },
+    {
+      "line_no": "513",
+      "meter": 3259
+    },
+    {
+      "line_no": "513",
+      "meter": 3259
+    },
+    {
+      "line_no": "513",
+      "meter": 3259
+    },
+    {
+      "line_no": "513",
+      "meter": 3259
+    },
+    {
+      "line_no": "513",
+      "meter": 3281
+    },
+    {
+      "line_no": "513",
+      "meter": 3281
+    }
+  ]
+}

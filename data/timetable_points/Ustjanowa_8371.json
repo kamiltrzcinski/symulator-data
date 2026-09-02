@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714355,
+  "type": "TIMETABLE_POINT",
+  "name": "Ustjanowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 141679
+    },
+    {
+      "line_no": "108",
+      "meter": 141679
+    },
+    {
+      "line_no": "108",
+      "meter": 141679
+    },
+    {
+      "line_no": "108",
+      "meter": 141679
+    },
+    {
+      "line_no": "108",
+      "meter": 141679
+    }
+  ]
+}

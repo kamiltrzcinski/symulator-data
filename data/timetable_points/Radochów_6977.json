@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712961,
+  "type": "TIMETABLE_POINT",
+  "name": "Radoch\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "322",
+      "meter": 15349
+    },
+    {
+      "line_no": "322",
+      "meter": 15349
+    }
+  ]
+}

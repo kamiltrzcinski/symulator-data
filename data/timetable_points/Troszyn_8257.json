@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714241,
+  "type": "TIMETABLE_POINT",
+  "name": "Troszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 61461
+    },
+    {
+      "line_no": "401",
+      "meter": 61461
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714392,
+  "type": "TIMETABLE_POINT",
+  "name": "Wapienno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "206",
+      "meter": 20090
+    },
+    {
+      "line_no": "206",
+      "meter": 20090
+    }
+  ]
+}

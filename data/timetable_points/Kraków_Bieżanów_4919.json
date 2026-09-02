@@ -1,0 +1,80 @@
+{
+  "uid": 3453153710903,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Bie\u017can\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 8400
+    },
+    {
+      "line_no": "91",
+      "meter": 8400
+    },
+    {
+      "line_no": "91",
+      "meter": 8400
+    },
+    {
+      "line_no": "91",
+      "meter": 8400
+    },
+    {
+      "line_no": "91",
+      "meter": 8400
+    },
+    {
+      "line_no": "91",
+      "meter": 8400
+    },
+    {
+      "line_no": "100",
+      "meter": 19811
+    },
+    {
+      "line_no": "100",
+      "meter": 19811
+    },
+    {
+      "line_no": "100",
+      "meter": 19811
+    },
+    {
+      "line_no": "109",
+      "meter": 375
+    },
+    {
+      "line_no": "109",
+      "meter": 375
+    },
+    {
+      "line_no": "109",
+      "meter": 375
+    },
+    {
+      "line_no": "606",
+      "meter": 1250
+    },
+    {
+      "line_no": "629",
+      "meter": 7675
+    },
+    {
+      "line_no": "629",
+      "meter": 8400
+    },
+    {
+      "line_no": "629",
+      "meter": 8400
+    },
+    {
+      "line_no": "629",
+      "meter": 8400
+    },
+    {
+      "line_no": "629",
+      "meter": 8400
+    }
+  ]
+}

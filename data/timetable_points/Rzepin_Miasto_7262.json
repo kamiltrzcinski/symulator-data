@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713246,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzepin Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "821",
+      "meter": 4730
+    },
+    {
+      "line_no": "821",
+      "meter": 4730
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710879,
+  "type": "TIMETABLE_POINT",
+  "name": "Koz\u0142\u00f3w R27",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 262607
+    },
+    {
+      "line_no": "8",
+      "meter": 262675
+    },
+    {
+      "line_no": "8",
+      "meter": 262675
+    },
+    {
+      "line_no": "8",
+      "meter": 262675
+    },
+    {
+      "line_no": "8",
+      "meter": 262675
+    },
+    {
+      "line_no": "64",
+      "meter": -526
+    },
+    {
+      "line_no": "64",
+      "meter": -509
+    }
+  ]
+}

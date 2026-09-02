@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708806,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogusz\u00f3w-Gorce Tow",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "773",
+      "meter": 1820
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711518,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141apy GT 501-503",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "783",
+      "meter": 151790
+    },
+    {
+      "line_no": "783",
+      "meter": 151790
+    }
+  ]
+}

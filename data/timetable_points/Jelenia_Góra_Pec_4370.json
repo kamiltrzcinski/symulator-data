@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710354,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenia G\u00f3ra Pec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 1866
+    },
+    {
+      "line_no": "283",
+      "meter": 1866
+    },
+    {
+      "line_no": "283",
+      "meter": 1866
+    },
+    {
+      "line_no": "283",
+      "meter": 1866
+    },
+    {
+      "line_no": "283",
+      "meter": 1866
+    },
+    {
+      "line_no": "283",
+      "meter": 1866
+    },
+    {
+      "line_no": "283",
+      "meter": 1866
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714782,
+  "type": "TIMETABLE_POINT",
+  "name": "Witkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 166605
+    },
+    {
+      "line_no": "351",
+      "meter": 166605
+    },
+    {
+      "line_no": "351",
+      "meter": 166605
+    },
+    {
+      "line_no": "351",
+      "meter": 166605
+    },
+    {
+      "line_no": "351",
+      "meter": 166605
+    }
+  ]
+}

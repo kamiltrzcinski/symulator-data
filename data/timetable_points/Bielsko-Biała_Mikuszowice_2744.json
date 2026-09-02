@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708728,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielsko-Bia\u0142a Mikuszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 61476
+    },
+    {
+      "line_no": "139",
+      "meter": 61476
+    }
+  ]
+}

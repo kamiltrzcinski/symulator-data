@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712598,
+  "type": "TIMETABLE_POINT",
+  "name": "Plavec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "559",
+      "meter": 1760
+    },
+    {
+      "line_no": "559",
+      "meter": 1760
+    },
+    {
+      "line_no": "559",
+      "meter": 1760
+    }
+  ]
+}

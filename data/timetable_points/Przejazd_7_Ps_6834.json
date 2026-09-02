@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712818,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd 7 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 142850
+    },
+    {
+      "line_no": "4",
+      "meter": 142851
+    }
+  ]
+}

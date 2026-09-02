@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710688,
+  "type": "TIMETABLE_POINT",
+  "name": "Km 5.70 L.75",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "75",
+      "meter": 5700
+    }
+  ]
+}

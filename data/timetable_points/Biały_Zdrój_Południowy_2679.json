@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708663,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142y Zdr\u00f3j Po\u0142udniowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 62008
+    }
+  ]
+}

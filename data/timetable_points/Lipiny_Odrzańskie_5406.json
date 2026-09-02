@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711390,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipiny Odrza\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 37967
+    },
+    {
+      "line_no": "371",
+      "meter": 37967
+    }
+  ]
+}

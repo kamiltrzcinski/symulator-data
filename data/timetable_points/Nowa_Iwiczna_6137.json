@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712121,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Iwiczna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 20655
+    },
+    {
+      "line_no": "8",
+      "meter": 20655
+    },
+    {
+      "line_no": "8",
+      "meter": 20655
+    },
+    {
+      "line_no": "8",
+      "meter": 20799
+    },
+    {
+      "line_no": "8",
+      "meter": 20799
+    },
+    {
+      "line_no": "8",
+      "meter": 20906
+    }
+  ]
+}

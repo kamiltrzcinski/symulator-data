@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713999,
+  "type": "TIMETABLE_POINT",
+  "name": "Szubin Przejazd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 103730
+    }
+  ]
+}

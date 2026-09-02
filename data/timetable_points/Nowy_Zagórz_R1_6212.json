@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712196,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy Zag\u00f3rz R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "107",
+      "meter": -201
+    },
+    {
+      "line_no": "107",
+      "meter": -201
+    },
+    {
+      "line_no": "107",
+      "meter": -201
+    },
+    {
+      "line_no": "108",
+      "meter": 113055
+    },
+    {
+      "line_no": "108",
+      "meter": 113055
+    },
+    {
+      "line_no": "108",
+      "meter": 113055
+    },
+    {
+      "line_no": "108",
+      "meter": 113055
+    }
+  ]
+}

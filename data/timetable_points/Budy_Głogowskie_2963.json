@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708947,
+  "type": "TIMETABLE_POINT",
+  "name": "Budy G\u0142ogowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 50350
+    },
+    {
+      "line_no": "71",
+      "meter": 50350
+    },
+    {
+      "line_no": "71",
+      "meter": 50350
+    }
+  ]
+}

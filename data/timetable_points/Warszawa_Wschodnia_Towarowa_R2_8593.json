@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714577,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "502",
+      "meter": 1577
+    },
+    {
+      "line_no": "502",
+      "meter": 1577
+    },
+    {
+      "line_no": "502",
+      "meter": 1577
+    },
+    {
+      "line_no": "546",
+      "meter": 6166
+    },
+    {
+      "line_no": "546",
+      "meter": 6166
+    },
+    {
+      "line_no": "546",
+      "meter": 6166
+    },
+    {
+      "line_no": "546",
+      "meter": 6166
+    },
+    {
+      "line_no": "546",
+      "meter": 6194
+    }
+  ]
+}

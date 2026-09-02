@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710656,
+  "type": "TIMETABLE_POINT",
+  "name": "Klimont\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 256243
+    },
+    {
+      "line_no": "8",
+      "meter": 256243
+    },
+    {
+      "line_no": "8",
+      "meter": 256243
+    },
+    {
+      "line_no": "8",
+      "meter": 256243
+    },
+    {
+      "line_no": "8",
+      "meter": 256243
+    },
+    {
+      "line_no": "8",
+      "meter": 256304
+    }
+  ]
+}

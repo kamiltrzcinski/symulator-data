@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708849,
+  "type": "TIMETABLE_POINT",
+  "name": "Borowiany R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 21057
+    },
+    {
+      "line_no": "144",
+      "meter": 21057
+    },
+    {
+      "line_no": "684",
+      "meter": 144
+    },
+    {
+      "line_no": "684",
+      "meter": 144
+    }
+  ]
+}

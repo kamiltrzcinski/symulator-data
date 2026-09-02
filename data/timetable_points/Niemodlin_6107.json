@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712091,
+  "type": "TIMETABLE_POINT",
+  "name": "Niemodlin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "329",
+      "meter": 6866
+    },
+    {
+      "line_no": "329",
+      "meter": 6866
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709910,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorz\u00f3w Wielkopolski Centroz\u0142om",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "367",
+      "meter": 71766
+    },
+    {
+      "line_no": "367",
+      "meter": 71766
+    },
+    {
+      "line_no": "367",
+      "meter": 71766
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710884,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u017ala Ko\u017cuchowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "370",
+      "meter": 18732
+    },
+    {
+      "line_no": "370",
+      "meter": 18732
+    },
+    {
+      "line_no": "370",
+      "meter": 18778
+    }
+  ]
+}

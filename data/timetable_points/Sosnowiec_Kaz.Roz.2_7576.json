@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713560,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Kaz.Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 73283
+    },
+    {
+      "line_no": "62",
+      "meter": 73283
+    },
+    {
+      "line_no": "163",
+      "meter": -331
+    }
+  ]
+}

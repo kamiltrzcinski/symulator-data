@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711722,
+  "type": "TIMETABLE_POINT",
+  "name": "Malinowo Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 2314
+    },
+    {
+      "line_no": "203",
+      "meter": 2314
+    },
+    {
+      "line_no": "727",
+      "meter": 2185
+    }
+  ]
+}

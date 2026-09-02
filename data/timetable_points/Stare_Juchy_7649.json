@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713633,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Juchy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 121862
+    },
+    {
+      "line_no": "38",
+      "meter": 121862
+    },
+    {
+      "line_no": "38",
+      "meter": 121862
+    },
+    {
+      "line_no": "38",
+      "meter": 121862
+    },
+    {
+      "line_no": "38",
+      "meter": 121863
+    },
+    {
+      "line_no": "38",
+      "meter": 121863
+    }
+  ]
+}

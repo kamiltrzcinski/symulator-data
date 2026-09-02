@@ -1,0 +1,13 @@
+{
+  "uid": 3457448688798,
+  "type": "TIMETABLE_CONNECTION",
+  "from_uid": 3453153711257,
+  "to_uid": 3453153712368,
+  "lines": [
+    {
+      "line_no": "900",
+      "from_meter": 295,
+      "to_meter": 1
+    }
+  ]
+}

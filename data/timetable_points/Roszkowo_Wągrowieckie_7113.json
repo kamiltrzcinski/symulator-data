@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713097,
+  "type": "TIMETABLE_POINT",
+  "name": "Roszkowo W\u0105growieckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 38786
+    },
+    {
+      "line_no": "356",
+      "meter": 38786
+    }
+  ]
+}

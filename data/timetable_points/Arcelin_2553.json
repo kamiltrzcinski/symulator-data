@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708537,
+  "type": "TIMETABLE_POINT",
+  "name": "Arcelin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 35840
+    },
+    {
+      "line_no": "27",
+      "meter": 35840
+    }
+  ]
+}

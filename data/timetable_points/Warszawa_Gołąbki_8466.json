@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714450,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Go\u0142\u0105bki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 10719
+    },
+    {
+      "line_no": "3",
+      "meter": 10719
+    },
+    {
+      "line_no": "3",
+      "meter": 10719
+    },
+    {
+      "line_no": "3",
+      "meter": 10719
+    },
+    {
+      "line_no": "507",
+      "meter": 2351
+    },
+    {
+      "line_no": "507",
+      "meter": 2351
+    }
+  ]
+}

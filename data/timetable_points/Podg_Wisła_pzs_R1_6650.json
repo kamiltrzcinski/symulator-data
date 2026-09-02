@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712634,
+  "type": "TIMETABLE_POINT",
+  "name": "Podg Wis\u0142a pzs R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 107020
+    },
+    {
+      "line_no": "580",
+      "meter": 0
+    }
+  ]
+}

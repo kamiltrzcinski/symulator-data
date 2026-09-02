@@ -1,0 +1,40 @@
+{
+  "uid": 3453153708605,
+  "type": "TIMETABLE_POINT",
+  "name": "Bednary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 72327
+    },
+    {
+      "line_no": "3",
+      "meter": 72327
+    },
+    {
+      "line_no": "3",
+      "meter": 72327
+    },
+    {
+      "line_no": "3",
+      "meter": 72327
+    },
+    {
+      "line_no": "15",
+      "meter": 0
+    },
+    {
+      "line_no": "15",
+      "meter": 0
+    },
+    {
+      "line_no": "15",
+      "meter": 0
+    },
+    {
+      "line_no": "15",
+      "meter": 0
+    }
+  ]
+}

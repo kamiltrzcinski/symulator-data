@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713959,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczepki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 82325
+    },
+    {
+      "line_no": "40",
+      "meter": 82325
+    },
+    {
+      "line_no": "40",
+      "meter": 82354
+    },
+    {
+      "line_no": "40",
+      "meter": 82354
+    },
+    {
+      "line_no": "40",
+      "meter": 82354
+    }
+  ]
+}

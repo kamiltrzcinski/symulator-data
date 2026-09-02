@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709108,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorzew Siemkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "131",
+      "meter": 124172
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    },
+    {
+      "line_no": "146",
+      "meter": 48392
+    }
+  ]
+}

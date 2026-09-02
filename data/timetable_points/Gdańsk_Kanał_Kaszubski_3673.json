@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709657,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Kana\u0142 Kaszubski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "965",
+      "meter": 1248
+    },
+    {
+      "line_no": "965",
+      "meter": 1248
+    },
+    {
+      "line_no": "965",
+      "meter": 1248
+    }
+  ]
+}

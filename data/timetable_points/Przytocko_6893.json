@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712877,
+  "type": "TIMETABLE_POINT",
+  "name": "Przytocko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 132066
+    },
+    {
+      "line_no": "405",
+      "meter": 132098
+    },
+    {
+      "line_no": "405",
+      "meter": 132107
+    },
+    {
+      "line_no": "405",
+      "meter": 132107
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712683,
+  "type": "TIMETABLE_POINT",
+  "name": "Polna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 3615
+    },
+    {
+      "line_no": "108",
+      "meter": 3615
+    },
+    {
+      "line_no": "108",
+      "meter": 3615
+    }
+  ]
+}

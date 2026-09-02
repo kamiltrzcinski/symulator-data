@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710009,
+  "type": "TIMETABLE_POINT",
+  "name": "Grocholin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 81766
+    },
+    {
+      "line_no": "356",
+      "meter": 81766
+    }
+  ]
+}

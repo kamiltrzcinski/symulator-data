@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714752,
+  "type": "TIMETABLE_POINT",
+  "name": "WILKA PZS R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "344",
+      "meter": 766
+    },
+    {
+      "line_no": "344",
+      "meter": 766
+    },
+    {
+      "line_no": "344",
+      "meter": 766
+    },
+    {
+      "line_no": "780",
+      "meter": 10
+    },
+    {
+      "line_no": "780",
+      "meter": 10
+    },
+    {
+      "line_no": "780",
+      "meter": 10
+    }
+  ]
+}

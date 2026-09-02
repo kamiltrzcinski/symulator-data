@@ -1,0 +1,68 @@
+{
+  "uid": 3453153712269,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn G\u0142\u00f3wny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 83283
+    },
+    {
+      "line_no": "216",
+      "meter": 83283
+    },
+    {
+      "line_no": "216",
+      "meter": 83283
+    },
+    {
+      "line_no": "216",
+      "meter": 83283
+    },
+    {
+      "line_no": "219",
+      "meter": 0
+    },
+    {
+      "line_no": "219",
+      "meter": 0
+    },
+    {
+      "line_no": "219",
+      "meter": 919
+    },
+    {
+      "line_no": "219",
+      "meter": 919
+    },
+    {
+      "line_no": "220",
+      "meter": 0
+    },
+    {
+      "line_no": "220",
+      "meter": 0
+    },
+    {
+      "line_no": "220",
+      "meter": 0
+    },
+    {
+      "line_no": "353",
+      "meter": 298893
+    },
+    {
+      "line_no": "353",
+      "meter": 298893
+    },
+    {
+      "line_no": "353",
+      "meter": 298893
+    },
+    {
+      "line_no": "353",
+      "meter": 298893
+    }
+  ]
+}

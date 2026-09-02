@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712830,
+  "type": "TIMETABLE_POINT",
+  "name": "Prze\u0142\u0119k",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 132000
+    },
+    {
+      "line_no": "137",
+      "meter": 132000
+    }
+  ]
+}

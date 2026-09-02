@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710749,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142obrzeg Stadion",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 43606
+    },
+    {
+      "line_no": "402",
+      "meter": 43606
+    }
+  ]
+}

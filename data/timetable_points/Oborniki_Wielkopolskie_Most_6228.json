@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712212,
+  "type": "TIMETABLE_POINT",
+  "name": "Oborniki Wielkopolskie Most",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 25395
+    },
+    {
+      "line_no": "354",
+      "meter": 25395
+    },
+    {
+      "line_no": "354",
+      "meter": 25395
+    },
+    {
+      "line_no": "354",
+      "meter": 25395
+    }
+  ]
+}

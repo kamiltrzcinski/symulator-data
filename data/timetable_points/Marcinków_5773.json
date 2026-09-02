@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711757,
+  "type": "TIMETABLE_POINT",
+  "name": "Marcink\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 152399
+    },
+    {
+      "line_no": "25",
+      "meter": 152401
+    },
+    {
+      "line_no": "25",
+      "meter": 152401
+    },
+    {
+      "line_no": "25",
+      "meter": 152425
+    }
+  ]
+}

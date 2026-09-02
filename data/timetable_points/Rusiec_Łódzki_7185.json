@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713169,
+  "type": "TIMETABLE_POINT",
+  "name": "Rusiec \u0141\u00f3dzki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 136365
+    },
+    {
+      "line_no": "131",
+      "meter": 136465
+    },
+    {
+      "line_no": "131",
+      "meter": 136465
+    },
+    {
+      "line_no": "131",
+      "meter": 136465
+    },
+    {
+      "line_no": "131",
+      "meter": 136465
+    },
+    {
+      "line_no": "131",
+      "meter": 136465
+    }
+  ]
+}

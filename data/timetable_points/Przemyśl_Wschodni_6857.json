@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712841,
+  "type": "TIMETABLE_POINT",
+  "name": "Przemy\u015bl Wschodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 246351
+    },
+    {
+      "line_no": "91",
+      "meter": 246500
+    }
+  ]
+}

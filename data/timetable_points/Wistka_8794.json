@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714778,
+  "type": "TIMETABLE_POINT",
+  "name": "Wistka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 33337
+    },
+    {
+      "line_no": "146",
+      "meter": 33348
+    },
+    {
+      "line_no": "146",
+      "meter": 33348
+    },
+    {
+      "line_no": "146",
+      "meter": 34695
+    },
+    {
+      "line_no": "146",
+      "meter": 34695
+    },
+    {
+      "line_no": "146",
+      "meter": 34695
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709791,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice \u0141ab\u0119dy R39",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "135",
+      "meter": -180
+    },
+    {
+      "line_no": "135",
+      "meter": -180
+    },
+    {
+      "line_no": "168",
+      "meter": 5603
+    },
+    {
+      "line_no": "168",
+      "meter": 5603
+    },
+    {
+      "line_no": "168",
+      "meter": 5603
+    }
+  ]
+}

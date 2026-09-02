@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711319,
+  "type": "TIMETABLE_POINT",
+  "name": "Lekomin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 168023
+    },
+    {
+      "line_no": "8",
+      "meter": 168023
+    },
+    {
+      "line_no": "8",
+      "meter": 168023
+    },
+    {
+      "line_no": "8",
+      "meter": 168023
+    }
+  ]
+}

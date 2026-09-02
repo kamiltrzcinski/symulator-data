@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713816,
+  "type": "TIMETABLE_POINT",
+  "name": "Suszec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "148",
+      "meter": 14770
+    },
+    {
+      "line_no": "148",
+      "meter": 14770
+    }
+  ]
+}

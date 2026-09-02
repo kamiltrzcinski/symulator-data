@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710558,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0105ty Wroc\u0142awskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 20365
+    },
+    {
+      "line_no": "274",
+      "meter": 20365
+    },
+    {
+      "line_no": "274",
+      "meter": 20365
+    }
+  ]
+}

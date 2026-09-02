@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708589,
+  "type": "TIMETABLE_POINT",
+  "name": "Barwa\u0142d G\u00f3rny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 5887
+    },
+    {
+      "line_no": "117",
+      "meter": 5887
+    }
+  ]
+}

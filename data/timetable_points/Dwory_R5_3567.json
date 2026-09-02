@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709551,
+  "type": "TIMETABLE_POINT",
+  "name": "Dwory R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 56600
+    },
+    {
+      "line_no": "94",
+      "meter": 56600
+    },
+    {
+      "line_no": "94",
+      "meter": 56600
+    },
+    {
+      "line_no": "94",
+      "meter": 56600
+    },
+    {
+      "line_no": "94",
+      "meter": 56600
+    },
+    {
+      "line_no": "94",
+      "meter": 56600
+    },
+    {
+      "line_no": "886",
+      "meter": 0
+    },
+    {
+      "line_no": "886",
+      "meter": 0
+    }
+  ]
+}

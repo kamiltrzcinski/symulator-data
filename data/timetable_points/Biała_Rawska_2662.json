@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708646,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142a Rawska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 40122
+    },
+    {
+      "line_no": "4",
+      "meter": 40122
+    },
+    {
+      "line_no": "4",
+      "meter": 40122
+    },
+    {
+      "line_no": "4",
+      "meter": 40122
+    },
+    {
+      "line_no": "4",
+      "meter": 40149
+    }
+  ]
+}

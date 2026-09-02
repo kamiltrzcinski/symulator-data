@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713380,
+  "type": "TIMETABLE_POINT",
+  "name": "Skalite Serafinov",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "489",
+      "meter": 19559
+    }
+  ]
+}

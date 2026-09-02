@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712568,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0142a Ko\u015bcielecka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "103",
+      "meter": 3111
+    },
+    {
+      "line_no": "103",
+      "meter": 3111
+    },
+    {
+      "line_no": "103",
+      "meter": 3111
+    }
+  ]
+}

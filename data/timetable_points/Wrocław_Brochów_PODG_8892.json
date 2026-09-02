@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714876,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Broch\u00f3w PODG",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 173124
+    },
+    {
+      "line_no": "132",
+      "meter": 173124
+    },
+    {
+      "line_no": "132",
+      "meter": 173124
+    },
+    {
+      "line_no": "132",
+      "meter": 173124
+    },
+    {
+      "line_no": "132",
+      "meter": 173124
+    },
+    {
+      "line_no": "277",
+      "meter": 85576
+    },
+    {
+      "line_no": "277",
+      "meter": 85576
+    },
+    {
+      "line_no": "277",
+      "meter": 85576
+    },
+    {
+      "line_no": "277",
+      "meter": 85576
+    },
+    {
+      "line_no": "277",
+      "meter": 85576
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709411,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105br\u00f3wka Zab\u0142otnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 116780
+    },
+    {
+      "line_no": "8",
+      "meter": 116780
+    }
+  ]
+}

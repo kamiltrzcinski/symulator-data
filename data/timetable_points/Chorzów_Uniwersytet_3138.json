@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709122,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Uniwersytet",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 8176
+    },
+    {
+      "line_no": "131",
+      "meter": 8179
+    }
+  ]
+}

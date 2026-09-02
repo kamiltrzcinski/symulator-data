@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710810,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 16679
+    },
+    {
+      "line_no": "230",
+      "meter": 16679
+    },
+    {
+      "line_no": "230",
+      "meter": 16679
+    },
+    {
+      "line_no": "230",
+      "meter": 16679
+    }
+  ]
+}

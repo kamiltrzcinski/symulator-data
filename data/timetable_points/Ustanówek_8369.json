@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714353,
+  "type": "TIMETABLE_POINT",
+  "name": "Ustan\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 32162
+    },
+    {
+      "line_no": "8",
+      "meter": 32162
+    },
+    {
+      "line_no": "8",
+      "meter": 32162
+    },
+    {
+      "line_no": "8",
+      "meter": 32340
+    },
+    {
+      "line_no": "8",
+      "meter": 32340
+    }
+  ]
+}

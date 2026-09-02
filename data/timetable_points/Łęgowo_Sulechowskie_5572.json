@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711556,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u0119gowo Sulechowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 20375
+    },
+    {
+      "line_no": "358",
+      "meter": 20375
+    },
+    {
+      "line_no": "358",
+      "meter": 20375
+    },
+    {
+      "line_no": "358",
+      "meter": 20442
+    }
+  ]
+}

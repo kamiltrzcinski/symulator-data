@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710982,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta R358",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "940",
+      "meter": 0
+    },
+    {
+      "line_no": "942",
+      "meter": 1341
+    },
+    {
+      "line_no": "942",
+      "meter": 1341
+    },
+    {
+      "line_no": "942",
+      "meter": 1341
+    },
+    {
+      "line_no": "943",
+      "meter": 4936
+    },
+    {
+      "line_no": "943",
+      "meter": 4936
+    },
+    {
+      "line_no": "943",
+      "meter": 4936
+    }
+  ]
+}

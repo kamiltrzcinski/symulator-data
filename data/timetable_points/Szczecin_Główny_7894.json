@@ -1,0 +1,88 @@
+{
+  "uid": 3453153713878,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin G\u0142\u00f3wny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 355818
+    },
+    {
+      "line_no": "273",
+      "meter": 355903
+    },
+    {
+      "line_no": "351",
+      "meter": 213264
+    },
+    {
+      "line_no": "351",
+      "meter": 213499
+    },
+    {
+      "line_no": "351",
+      "meter": 213499
+    },
+    {
+      "line_no": "351",
+      "meter": 213499
+    },
+    {
+      "line_no": "351",
+      "meter": 213499
+    },
+    {
+      "line_no": "351",
+      "meter": 213499
+    },
+    {
+      "line_no": "406",
+      "meter": 0
+    },
+    {
+      "line_no": "406",
+      "meter": 0
+    },
+    {
+      "line_no": "406",
+      "meter": 0
+    },
+    {
+      "line_no": "406",
+      "meter": 238
+    },
+    {
+      "line_no": "408",
+      "meter": 63
+    },
+    {
+      "line_no": "408",
+      "meter": 63
+    },
+    {
+      "line_no": "408",
+      "meter": 63
+    },
+    {
+      "line_no": "408",
+      "meter": 239
+    },
+    {
+      "line_no": "408",
+      "meter": 239
+    },
+    {
+      "line_no": "433",
+      "meter": 86
+    },
+    {
+      "line_no": "433",
+      "meter": 86
+    },
+    {
+      "line_no": "433",
+      "meter": 86
+    }
+  ]
+}

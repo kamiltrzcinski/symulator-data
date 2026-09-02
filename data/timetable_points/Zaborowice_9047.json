@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715031,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaborowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "372",
+      "meter": 5350
+    }
+  ]
+}

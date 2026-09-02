@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715128,
+  "type": "TIMETABLE_POINT",
+  "name": "Zarzecze APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 29127
+    }
+  ]
+}

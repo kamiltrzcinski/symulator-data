@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714834,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Radziszowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 10340
+    },
+    {
+      "line_no": "97",
+      "meter": 10453
+    },
+    {
+      "line_no": "97",
+      "meter": 10458
+    },
+    {
+      "line_no": "97",
+      "meter": 10458
+    },
+    {
+      "line_no": "97",
+      "meter": 10458
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709702,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Zaspa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 5390
+    },
+    {
+      "line_no": "250",
+      "meter": 5390
+    },
+    {
+      "line_no": "250",
+      "meter": 5390
+    },
+    {
+      "line_no": "250",
+      "meter": 5390
+    },
+    {
+      "line_no": "250",
+      "meter": 5437
+    },
+    {
+      "line_no": "250",
+      "meter": 5437
+    }
+  ]
+}

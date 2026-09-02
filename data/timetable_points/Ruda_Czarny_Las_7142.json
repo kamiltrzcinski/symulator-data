@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713126,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Czarny Las",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "187",
+      "meter": 3600
+    },
+    {
+      "line_no": "187",
+      "meter": 3600
+    },
+    {
+      "line_no": "187",
+      "meter": 3600
+    },
+    {
+      "line_no": "187",
+      "meter": 3600
+    },
+    {
+      "line_no": "187",
+      "meter": 3600
+    },
+    {
+      "line_no": "187",
+      "meter": 4267
+    }
+  ]
+}

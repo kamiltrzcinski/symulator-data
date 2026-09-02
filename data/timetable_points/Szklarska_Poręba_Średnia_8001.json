@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713985,
+  "type": "TIMETABLE_POINT",
+  "name": "Szklarska Por\u0119ba \u015arednia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 25797
+    },
+    {
+      "line_no": "311",
+      "meter": 25889
+    },
+    {
+      "line_no": "311",
+      "meter": 25923
+    }
+  ]
+}

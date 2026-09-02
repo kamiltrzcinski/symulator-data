@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711257,
+  "type": "TIMETABLE_POINT",
+  "name": "L900 km:,295 PLK - ZE Ostro\u0142\u0119ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "900",
+      "meter": 295
+    },
+    {
+      "line_no": "900",
+      "meter": 295
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid": 3453153709076,
+  "type": "TIMETABLE_POINT",
+  "name": "Chmiel\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "25",
+      "meter": 260209
+    },
+    {
+      "line_no": "70",
+      "meter": 87116
+    },
+    {
+      "line_no": "70",
+      "meter": 87116
+    },
+    {
+      "line_no": "70",
+      "meter": 87116
+    },
+    {
+      "line_no": "70",
+      "meter": 87116
+    },
+    {
+      "line_no": "70",
+      "meter": 87116
+    },
+    {
+      "line_no": "70",
+      "meter": 87116
+    },
+    {
+      "line_no": "933",
+      "meter": 0
+    },
+    {
+      "line_no": "933",
+      "meter": 0
+    },
+    {
+      "line_no": "933",
+      "meter": 0
+    }
+  ]
+}

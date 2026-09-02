@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709993,
+  "type": "TIMETABLE_POINT",
+  "name": "Grajewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 82477
+    },
+    {
+      "line_no": "38",
+      "meter": 82477
+    },
+    {
+      "line_no": "38",
+      "meter": 82477
+    },
+    {
+      "line_no": "38",
+      "meter": 82477
+    },
+    {
+      "line_no": "38",
+      "meter": 82477
+    }
+  ]
+}

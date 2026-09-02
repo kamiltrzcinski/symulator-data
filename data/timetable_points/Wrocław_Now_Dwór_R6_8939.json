@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714923,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Now Dw\u00f3r R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 7085
+    },
+    {
+      "line_no": "275",
+      "meter": 7151
+    },
+    {
+      "line_no": "759",
+      "meter": 1686
+    },
+    {
+      "line_no": "759",
+      "meter": 1686
+    },
+    {
+      "line_no": "759",
+      "meter": 1751
+    }
+  ]
+}

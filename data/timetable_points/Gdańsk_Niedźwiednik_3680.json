@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709664,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Nied\u017awiednik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "248",
+      "meter": 3830
+    }
+  ]
+}

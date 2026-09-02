@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708805,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogusz\u00f3w-Gorce R19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 85802
+    },
+    {
+      "line_no": "274",
+      "meter": 85802
+    },
+    {
+      "line_no": "274",
+      "meter": 85802
+    },
+    {
+      "line_no": "773",
+      "meter": -284
+    },
+    {
+      "line_no": "773",
+      "meter": -284
+    }
+  ]
+}

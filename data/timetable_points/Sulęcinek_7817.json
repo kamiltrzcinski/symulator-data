@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713801,
+  "type": "TIMETABLE_POINT",
+  "name": "Sul\u0119cinek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 157564
+    },
+    {
+      "line_no": "272",
+      "meter": 157564
+    }
+  ]
+}

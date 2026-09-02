@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713877,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Elektrownia Pomorzany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "998",
+      "meter": 632
+    },
+    {
+      "line_no": "998",
+      "meter": 632
+    }
+  ]
+}

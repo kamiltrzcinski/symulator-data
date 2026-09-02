@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711124,
+  "type": "TIMETABLE_POINT",
+  "name": "Ksi\u0105\u017cno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 126154
+    },
+    {
+      "line_no": "281",
+      "meter": 126154
+    },
+    {
+      "line_no": "281",
+      "meter": 126154
+    },
+    {
+      "line_no": "281",
+      "meter": 126186
+    }
+  ]
+}

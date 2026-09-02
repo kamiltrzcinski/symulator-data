@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714568,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wsch. R109",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 4062
+    },
+    {
+      "line_no": "7",
+      "meter": 4062
+    },
+    {
+      "line_no": "448",
+      "meter": 4062
+    },
+    {
+      "line_no": "448",
+      "meter": 4062
+    },
+    {
+      "line_no": "448",
+      "meter": 4062
+    }
+  ]
+}

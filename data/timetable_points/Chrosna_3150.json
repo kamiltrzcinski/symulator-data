@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709134,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrosna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 43256
+    },
+    {
+      "line_no": "7",
+      "meter": 43676
+    },
+    {
+      "line_no": "7",
+      "meter": 43676
+    }
+  ]
+}

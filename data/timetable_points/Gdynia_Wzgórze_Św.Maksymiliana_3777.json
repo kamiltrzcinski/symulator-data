@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709761,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Wzg\u00f3rze \u015aw.Maksymiliana",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 19370
+    },
+    {
+      "line_no": "250",
+      "meter": 19370
+    },
+    {
+      "line_no": "250",
+      "meter": 19400
+    },
+    {
+      "line_no": "250",
+      "meter": 19400
+    },
+    {
+      "line_no": "250",
+      "meter": 19400
+    },
+    {
+      "line_no": "250",
+      "meter": 19400
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709284,
+  "type": "TIMETABLE_POINT",
+  "name": "Czernica Wroc\u0142awska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 75126
+    },
+    {
+      "line_no": "277",
+      "meter": 75126
+    },
+    {
+      "line_no": "277",
+      "meter": 75126
+    },
+    {
+      "line_no": "277",
+      "meter": 75126
+    },
+    {
+      "line_no": "277",
+      "meter": 75126
+    }
+  ]
+}

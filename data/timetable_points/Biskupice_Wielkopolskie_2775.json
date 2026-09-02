@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708759,
+  "type": "TIMETABLE_POINT",
+  "name": "Biskupice Wielkopolskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 14392
+    },
+    {
+      "line_no": "353",
+      "meter": 14392
+    },
+    {
+      "line_no": "353",
+      "meter": 14392
+    }
+  ]
+}

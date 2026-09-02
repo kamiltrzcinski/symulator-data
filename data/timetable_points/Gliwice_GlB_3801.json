@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709785,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice GlB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "200",
+      "meter": 1600
+    },
+    {
+      "line_no": "200",
+      "meter": 1600
+    },
+    {
+      "line_no": "200",
+      "meter": 1600
+    },
+    {
+      "line_no": "200",
+      "meter": 1600
+    }
+  ]
+}

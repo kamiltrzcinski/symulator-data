@@ -1,0 +1,60 @@
+{
+  "uid": 3453153714804,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oszczowa P\u00f3\u0142noc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 153650
+    },
+    {
+      "line_no": "4",
+      "meter": 153650
+    },
+    {
+      "line_no": "4",
+      "meter": 154390
+    },
+    {
+      "line_no": "4",
+      "meter": 154390
+    },
+    {
+      "line_no": "4",
+      "meter": 154390
+    },
+    {
+      "line_no": "4",
+      "meter": 154390
+    },
+    {
+      "line_no": "572",
+      "meter": -740
+    },
+    {
+      "line_no": "572",
+      "meter": 0
+    },
+    {
+      "line_no": "572",
+      "meter": 0
+    },
+    {
+      "line_no": "572",
+      "meter": 0
+    },
+    {
+      "line_no": "572",
+      "meter": 0
+    },
+    {
+      "line_no": "582",
+      "meter": 3431
+    },
+    {
+      "line_no": "582",
+      "meter": 4521
+    }
+  ]
+}

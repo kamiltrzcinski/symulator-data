@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711724,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142a Karczma",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "238",
+      "meter": 68899
+    },
+    {
+      "line_no": "238",
+      "meter": 68899
+    }
+  ]
+}

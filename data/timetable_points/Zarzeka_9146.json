@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715130,
+  "type": "TIMETABLE_POINT",
+  "name": "Zarzeka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 108469
+    },
+    {
+      "line_no": "7",
+      "meter": 109086
+    },
+    {
+      "line_no": "7",
+      "meter": 109103
+    },
+    {
+      "line_no": "7",
+      "meter": 109103
+    }
+  ]
+}

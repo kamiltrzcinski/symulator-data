@@ -1,0 +1,88 @@
+{
+  "uid": 3453153714455,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Groch\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 6600
+    },
+    {
+      "line_no": "45",
+      "meter": 2296
+    },
+    {
+      "line_no": "45",
+      "meter": 2296
+    },
+    {
+      "line_no": "45",
+      "meter": 2296
+    },
+    {
+      "line_no": "45",
+      "meter": 3083
+    },
+    {
+      "line_no": "45",
+      "meter": 3083
+    },
+    {
+      "line_no": "452",
+      "meter": 7499
+    },
+    {
+      "line_no": "452",
+      "meter": 7499
+    },
+    {
+      "line_no": "452",
+      "meter": 7500
+    },
+    {
+      "line_no": "452",
+      "meter": 7500
+    },
+    {
+      "line_no": "545",
+      "meter": 2234
+    },
+    {
+      "line_no": "545",
+      "meter": 2234
+    },
+    {
+      "line_no": "545",
+      "meter": 2234
+    },
+    {
+      "line_no": "839",
+      "meter": 3333
+    },
+    {
+      "line_no": "839",
+      "meter": 3333
+    },
+    {
+      "line_no": "839",
+      "meter": 3333
+    },
+    {
+      "line_no": "903",
+      "meter": 2899
+    },
+    {
+      "line_no": "903",
+      "meter": 2899
+    },
+    {
+      "line_no": "903",
+      "meter": 2900
+    },
+    {
+      "line_no": "903",
+      "meter": 2900
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711554,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u0119g Tarnowski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 12004
+    },
+    {
+      "line_no": "115",
+      "meter": 12020
+    },
+    {
+      "line_no": "115",
+      "meter": 12020
+    },
+    {
+      "line_no": "115",
+      "meter": 12040
+    }
+  ]
+}

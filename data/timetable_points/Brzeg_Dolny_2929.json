@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708913,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeg Dolny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 30321
+    },
+    {
+      "line_no": "273",
+      "meter": 30321
+    },
+    {
+      "line_no": "273",
+      "meter": 30321
+    }
+  ]
+}

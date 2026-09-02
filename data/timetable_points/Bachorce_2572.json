@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708556,
+  "type": "TIMETABLE_POINT",
+  "name": "Bachorce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 300904
+    },
+    {
+      "line_no": "131",
+      "meter": 300904
+    }
+  ]
+}

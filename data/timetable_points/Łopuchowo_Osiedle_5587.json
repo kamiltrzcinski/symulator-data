@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711571,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141opuchowo Osiedle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 27050
+    }
+  ]
+}

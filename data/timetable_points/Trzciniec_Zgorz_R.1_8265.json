@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714249,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzciniec Zgorz R.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "348",
+      "meter": -10
+    },
+    {
+      "line_no": "348",
+      "meter": -10
+    },
+    {
+      "line_no": "786",
+      "meter": 26102
+    },
+    {
+      "line_no": "786",
+      "meter": 26102
+    }
+  ]
+}

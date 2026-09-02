@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709117,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 8984
+    },
+    {
+      "line_no": "131",
+      "meter": 8984
+    },
+    {
+      "line_no": "131",
+      "meter": 8984
+    },
+    {
+      "line_no": "131",
+      "meter": 9085
+    },
+    {
+      "line_no": "131",
+      "meter": 9085
+    },
+    {
+      "line_no": "708",
+      "meter": 3102
+    },
+    {
+      "line_no": "708",
+      "meter": 3102
+    },
+    {
+      "line_no": "708",
+      "meter": 3102
+    }
+  ]
+}

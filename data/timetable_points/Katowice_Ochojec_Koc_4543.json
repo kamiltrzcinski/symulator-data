@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710527,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Ochojec Koc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "653",
+      "meter": 1404
+    },
+    {
+      "line_no": "706",
+      "meter": 1081
+    }
+  ]
+}

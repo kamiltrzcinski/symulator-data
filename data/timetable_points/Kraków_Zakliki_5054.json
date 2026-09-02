@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711038,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Zakliki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 8274
+    },
+    {
+      "line_no": "118",
+      "meter": 8274
+    },
+    {
+      "line_no": "118",
+      "meter": 8274
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715181,
+  "type": "TIMETABLE_POINT",
+  "name": "Zbydni\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 14466
+    },
+    {
+      "line_no": "74",
+      "meter": 14466
+    },
+    {
+      "line_no": "74",
+      "meter": 14466
+    },
+    {
+      "line_no": "74",
+      "meter": 15547
+    }
+  ]
+}

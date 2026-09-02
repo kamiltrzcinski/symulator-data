@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713487,
+  "type": "TIMETABLE_POINT",
+  "name": "Smardy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 73919
+    },
+    {
+      "line_no": "143",
+      "meter": 73919
+    },
+    {
+      "line_no": "143",
+      "meter": 73919
+    },
+    {
+      "line_no": "143",
+      "meter": 74708
+    },
+    {
+      "line_no": "143",
+      "meter": 74708
+    },
+    {
+      "line_no": "143",
+      "meter": 74708
+    },
+    {
+      "line_no": "143",
+      "meter": 74708
+    }
+  ]
+}

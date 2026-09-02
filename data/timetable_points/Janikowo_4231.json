@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710215,
+  "type": "TIMETABLE_POINT",
+  "name": "Janikowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 89844
+    },
+    {
+      "line_no": "353",
+      "meter": 89844
+    }
+  ]
+}

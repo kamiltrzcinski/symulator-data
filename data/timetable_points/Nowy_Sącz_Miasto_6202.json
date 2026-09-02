@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712186,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy S\u0105cz Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 71822
+    },
+    {
+      "line_no": "104",
+      "meter": 73600
+    },
+    {
+      "line_no": "104",
+      "meter": 74391
+    },
+    {
+      "line_no": "104",
+      "meter": 74391
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713439,
+  "type": "TIMETABLE_POINT",
+  "name": "Sko\u0142yszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 34927
+    },
+    {
+      "line_no": "108",
+      "meter": 34927
+    },
+    {
+      "line_no": "108",
+      "meter": 34927
+    },
+    {
+      "line_no": "108",
+      "meter": 35012
+    },
+    {
+      "line_no": "108",
+      "meter": 35012
+    },
+    {
+      "line_no": "108",
+      "meter": 35012
+    }
+  ]
+}

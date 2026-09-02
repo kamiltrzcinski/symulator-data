@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709305,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwionka R20",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 28009
+    },
+    {
+      "line_no": "880",
+      "meter": 1639
+    }
+  ]
+}

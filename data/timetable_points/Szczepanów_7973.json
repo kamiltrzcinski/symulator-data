@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713957,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczepan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 46245
+    },
+    {
+      "line_no": "285",
+      "meter": 46245
+    },
+    {
+      "line_no": "285",
+      "meter": 46288
+    },
+    {
+      "line_no": "285",
+      "meter": 46288
+    },
+    {
+      "line_no": "285",
+      "meter": 46288
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711795,
+  "type": "TIMETABLE_POINT",
+  "name": "Mezimesti",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "482",
+      "meter": 90836
+    },
+    {
+      "line_no": "482",
+      "meter": 90836
+    },
+    {
+      "line_no": "482",
+      "meter": 90836
+    }
+  ]
+}

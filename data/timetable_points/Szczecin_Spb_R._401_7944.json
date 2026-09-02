@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713928,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Spb R. 401",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "854",
+      "meter": 2162
+    },
+    {
+      "line_no": "854",
+      "meter": 2162
+    },
+    {
+      "line_no": "854",
+      "meter": 2162
+    },
+    {
+      "line_no": "993",
+      "meter": 2118
+    },
+    {
+      "line_no": "993",
+      "meter": 2118
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710179,
+  "type": "TIMETABLE_POINT",
+  "name": "Inwroc\u0142aw Warsz.Kol.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "742",
+      "meter": 5100
+    }
+  ]
+}

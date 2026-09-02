@@ -1,0 +1,68 @@
+{
+  "uid": 3453153712847,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeworsk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 177172
+    },
+    {
+      "line_no": "68",
+      "meter": 177172
+    },
+    {
+      "line_no": "68",
+      "meter": 177172
+    },
+    {
+      "line_no": "68",
+      "meter": 177172
+    },
+    {
+      "line_no": "68",
+      "meter": 177172
+    },
+    {
+      "line_no": "91",
+      "meter": 194396
+    },
+    {
+      "line_no": "91",
+      "meter": 194396
+    },
+    {
+      "line_no": "91",
+      "meter": 194396
+    },
+    {
+      "line_no": "91",
+      "meter": 194396
+    },
+    {
+      "line_no": "91",
+      "meter": 194396
+    },
+    {
+      "line_no": "91",
+      "meter": 194396
+    },
+    {
+      "line_no": "612",
+      "meter": 1
+    },
+    {
+      "line_no": "612",
+      "meter": 1
+    },
+    {
+      "line_no": "988",
+      "meter": 1
+    },
+    {
+      "line_no": "988",
+      "meter": 1
+    }
+  ]
+}

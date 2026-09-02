@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711437,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubawka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "299",
+      "meter": 10148
+    },
+    {
+      "line_no": "299",
+      "meter": 10148
+    },
+    {
+      "line_no": "299",
+      "meter": 10148
+    }
+  ]
+}

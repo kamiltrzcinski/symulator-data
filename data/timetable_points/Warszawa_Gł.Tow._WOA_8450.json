@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714434,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142.Tow. WOA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "19",
+      "meter": 1095
+    },
+    {
+      "line_no": "20",
+      "meter": 0
+    },
+    {
+      "line_no": "507",
+      "meter": 967
+    },
+    {
+      "line_no": "507",
+      "meter": 967
+    },
+    {
+      "line_no": "509",
+      "meter": 0
+    },
+    {
+      "line_no": "509",
+      "meter": 0
+    }
+  ]
+}

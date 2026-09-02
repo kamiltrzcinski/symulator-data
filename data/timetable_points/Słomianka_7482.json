@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713466,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142omianka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 76015
+    },
+    {
+      "line_no": "25",
+      "meter": 76015
+    },
+    {
+      "line_no": "25",
+      "meter": 76074
+    }
+  ]
+}

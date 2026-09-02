@@ -1,0 +1,56 @@
+{
+  "uid": 3453153709909,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorz\u00f3w Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 297071
+    },
+    {
+      "line_no": "203",
+      "meter": 297071
+    },
+    {
+      "line_no": "203",
+      "meter": 297071
+    },
+    {
+      "line_no": "203",
+      "meter": 297071
+    },
+    {
+      "line_no": "367",
+      "meter": 73634
+    },
+    {
+      "line_no": "367",
+      "meter": 73635
+    },
+    {
+      "line_no": "367",
+      "meter": 73635
+    },
+    {
+      "line_no": "367",
+      "meter": 73635
+    },
+    {
+      "line_no": "415",
+      "meter": 1
+    },
+    {
+      "line_no": "415",
+      "meter": 488
+    },
+    {
+      "line_no": "415",
+      "meter": 488
+    },
+    {
+      "line_no": "415",
+      "meter": 1763
+    }
+  ]
+}

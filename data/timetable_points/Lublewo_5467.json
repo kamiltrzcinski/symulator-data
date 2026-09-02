@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711451,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "230",
+      "meter": 32417
+    },
+    {
+      "line_no": "230",
+      "meter": 32417
+    },
+    {
+      "line_no": "230",
+      "meter": 32417
+    }
+  ]
+}

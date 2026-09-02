@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709351,
+  "type": "TIMETABLE_POINT",
+  "name": "Damazy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "789",
+      "meter": 3258
+    },
+    {
+      "line_no": "789",
+      "meter": 3272
+    },
+    {
+      "line_no": "789",
+      "meter": 3600
+    },
+    {
+      "line_no": "932",
+      "meter": 755
+    },
+    {
+      "line_no": "932",
+      "meter": 1500
+    }
+  ]
+}

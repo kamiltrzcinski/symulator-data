@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713148,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudnik nad Sanem",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 126192
+    },
+    {
+      "line_no": "68",
+      "meter": 126192
+    },
+    {
+      "line_no": "68",
+      "meter": 126192
+    },
+    {
+      "line_no": "68",
+      "meter": 126192
+    },
+    {
+      "line_no": "68",
+      "meter": 126192
+    }
+  ]
+}

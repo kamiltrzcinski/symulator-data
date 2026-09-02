@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713404,
+  "type": "TIMETABLE_POINT",
+  "name": "Skawina Jagielnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 13971
+    },
+    {
+      "line_no": "94",
+      "meter": 13971
+    },
+    {
+      "line_no": "94",
+      "meter": 13971
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708835,
+  "type": "TIMETABLE_POINT",
+  "name": "Borek Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 19885
+    },
+    {
+      "line_no": "360",
+      "meter": 19885
+    },
+    {
+      "line_no": "360",
+      "meter": 19885
+    },
+    {
+      "line_no": "360",
+      "meter": 19885
+    },
+    {
+      "line_no": "360",
+      "meter": 19885
+    },
+    {
+      "line_no": "360",
+      "meter": 19885
+    },
+    {
+      "line_no": "360",
+      "meter": 19885
+    }
+  ]
+}

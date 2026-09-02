@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713337,
+  "type": "TIMETABLE_POINT",
+  "name": "Siedl\u0119cin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7237
+    },
+    {
+      "line_no": "283",
+      "meter": 7321
+    }
+  ]
+}

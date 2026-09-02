@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714826,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Barnowska LHS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 195781
+    }
+  ]
+}

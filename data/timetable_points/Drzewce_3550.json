@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709534,
+  "type": "TIMETABLE_POINT",
+  "name": "Drzewce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 434253
+    },
+    {
+      "line_no": "3",
+      "meter": 434673
+    },
+    {
+      "line_no": "3",
+      "meter": 434673
+    }
+  ]
+}

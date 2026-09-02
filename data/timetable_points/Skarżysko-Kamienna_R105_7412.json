@@ -1,0 +1,56 @@
+{
+  "uid": 3453153713396,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kamienna R105",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 139140
+    },
+    {
+      "line_no": "8",
+      "meter": 139140
+    },
+    {
+      "line_no": "8",
+      "meter": 139140
+    },
+    {
+      "line_no": "8",
+      "meter": 139140
+    },
+    {
+      "line_no": "8",
+      "meter": 139140
+    },
+    {
+      "line_no": "8",
+      "meter": 139140
+    },
+    {
+      "line_no": "841",
+      "meter": 0
+    },
+    {
+      "line_no": "841",
+      "meter": 0
+    },
+    {
+      "line_no": "841",
+      "meter": 0
+    },
+    {
+      "line_no": "841",
+      "meter": 0
+    },
+    {
+      "line_no": "841",
+      "meter": 0
+    },
+    {
+      "line_no": "841",
+      "meter": 0
+    }
+  ]
+}

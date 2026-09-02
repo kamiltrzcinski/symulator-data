@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709118,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Miasto R24",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 9427
+    },
+    {
+      "line_no": "131",
+      "meter": 9433
+    },
+    {
+      "line_no": "708",
+      "meter": 3531
+    }
+  ]
+}

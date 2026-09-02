@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708966,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowno LHS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 386435
+    }
+  ]
+}

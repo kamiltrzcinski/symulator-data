@@ -1,0 +1,80 @@
+{
+  "uid": 3453153710493,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 318378
+    },
+    {
+      "line_no": "1",
+      "meter": 318378
+    },
+    {
+      "line_no": "1",
+      "meter": 318378
+    },
+    {
+      "line_no": "1",
+      "meter": 318378
+    },
+    {
+      "line_no": "137",
+      "meter": 381
+    },
+    {
+      "line_no": "137",
+      "meter": 381
+    },
+    {
+      "line_no": "138",
+      "meter": 32970
+    },
+    {
+      "line_no": "138",
+      "meter": 32970
+    },
+    {
+      "line_no": "138",
+      "meter": 32970
+    },
+    {
+      "line_no": "139",
+      "meter": 379
+    },
+    {
+      "line_no": "139",
+      "meter": 379
+    },
+    {
+      "line_no": "139",
+      "meter": 379
+    },
+    {
+      "line_no": "656",
+      "meter": 381
+    },
+    {
+      "line_no": "656",
+      "meter": 381
+    },
+    {
+      "line_no": "659",
+      "meter": 13503
+    },
+    {
+      "line_no": "713",
+      "meter": 1
+    },
+    {
+      "line_no": "713",
+      "meter": 1
+    },
+    {
+      "line_no": "713",
+      "meter": 1
+    }
+  ]
+}

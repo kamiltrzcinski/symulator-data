@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709636,
+  "type": "TIMETABLE_POINT",
+  "name": "Gaworzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 299498
+    },
+    {
+      "line_no": "14",
+      "meter": 299498
+    },
+    {
+      "line_no": "14",
+      "meter": 299498
+    }
+  ]
+}

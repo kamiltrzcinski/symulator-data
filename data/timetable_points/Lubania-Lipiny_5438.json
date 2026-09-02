@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711422,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubania-Lipiny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 53450
+    },
+    {
+      "line_no": "201",
+      "meter": 53450
+    },
+    {
+      "line_no": "201",
+      "meter": 53450
+    }
+  ]
+}

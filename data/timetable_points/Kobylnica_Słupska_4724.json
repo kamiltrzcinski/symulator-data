@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710708,
+  "type": "TIMETABLE_POINT",
+  "name": "Kobylnica S\u0142upska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 134871
+    },
+    {
+      "line_no": "405",
+      "meter": 171274
+    },
+    {
+      "line_no": "405",
+      "meter": 171274
+    },
+    {
+      "line_no": "405",
+      "meter": 171370
+    },
+    {
+      "line_no": "405",
+      "meter": 171407
+    }
+  ]
+}

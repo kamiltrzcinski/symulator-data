@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710577,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119dzierzyn-Ko\u017ale Przystanek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 68370
+    },
+    {
+      "line_no": "137",
+      "meter": 68370
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715041,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Maciej\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "147",
+      "meter": 7315
+    },
+    {
+      "line_no": "147",
+      "meter": 7336
+    }
+  ]
+}

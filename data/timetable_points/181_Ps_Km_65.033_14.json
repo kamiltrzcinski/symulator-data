@@ -1,0 +1,16 @@
+{
+  "uid": 3453153705998,
+  "type": "TIMETABLE_POINT",
+  "name": "181 Ps Km 65.033",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 65033
+    },
+    {
+      "line_no": "181",
+      "meter": 65033
+    }
+  ]
+}

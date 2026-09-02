@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715273,
+  "type": "TIMETABLE_POINT",
+  "name": "Zwierzyniec Tow.R113",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 57
+    },
+    {
+      "line_no": "66",
+      "meter": 57
+    },
+    {
+      "line_no": "69",
+      "meter": 76428
+    },
+    {
+      "line_no": "69",
+      "meter": 76428
+    },
+    {
+      "line_no": "69",
+      "meter": 76428
+    }
+  ]
+}

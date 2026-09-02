@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710230,
+  "type": "TIMETABLE_POINT",
+  "name": "Janowiec Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 189014
+    },
+    {
+      "line_no": "281",
+      "meter": 189014
+    },
+    {
+      "line_no": "281",
+      "meter": 189014
+    },
+    {
+      "line_no": "281",
+      "meter": 189014
+    },
+    {
+      "line_no": "281",
+      "meter": 189014
+    }
+  ]
+}

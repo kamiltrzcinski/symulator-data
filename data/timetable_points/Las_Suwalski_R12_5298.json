@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711282,
+  "type": "TIMETABLE_POINT",
+  "name": "Las Suwalski R12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 91874
+    },
+    {
+      "line_no": "517",
+      "meter": 2664
+    }
+  ]
+}

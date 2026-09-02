@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713455,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142awa Wielkopolska R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 30422
+    },
+    {
+      "line_no": "356",
+      "meter": 30568
+    },
+    {
+      "line_no": "377",
+      "meter": 39589
+    },
+    {
+      "line_no": "377",
+      "meter": 39735
+    }
+  ]
+}

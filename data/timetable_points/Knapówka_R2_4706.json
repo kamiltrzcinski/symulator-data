@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710690,
+  "type": "TIMETABLE_POINT",
+  "name": "Knap\u00f3wka R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 160495
+    },
+    {
+      "line_no": "4",
+      "meter": 160495
+    },
+    {
+      "line_no": "4",
+      "meter": 160495
+    },
+    {
+      "line_no": "571",
+      "meter": 3742
+    },
+    {
+      "line_no": "571",
+      "meter": 3742
+    }
+  ]
+}

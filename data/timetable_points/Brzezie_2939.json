@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708923,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzezie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 62943
+    },
+    {
+      "line_no": "18",
+      "meter": 62943
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708749,
+  "type": "TIMETABLE_POINT",
+  "name": "Biesowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 140676
+    },
+    {
+      "line_no": "405",
+      "meter": 140717
+    },
+    {
+      "line_no": "405",
+      "meter": 140717
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710939,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w G\u0142\u00f3wny Rampa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 4072
+    },
+    {
+      "line_no": "118",
+      "meter": 4072
+    },
+    {
+      "line_no": "118",
+      "meter": 4072
+    }
+  ]
+}

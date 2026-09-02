@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711729,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142aszewicze P\u0142d R191",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 202185
+    },
+    {
+      "line_no": "2",
+      "meter": 202185
+    },
+    {
+      "line_no": "2",
+      "meter": 202189
+    },
+    {
+      "line_no": "867",
+      "meter": 202185
+    },
+    {
+      "line_no": "867",
+      "meter": 202185
+    },
+    {
+      "line_no": "867",
+      "meter": 202189
+    }
+  ]
+}

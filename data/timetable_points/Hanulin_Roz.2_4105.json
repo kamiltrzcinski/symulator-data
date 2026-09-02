@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710089,
+  "type": "TIMETABLE_POINT",
+  "name": "Hanulin Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 41714
+    },
+    {
+      "line_no": "272",
+      "meter": 41714
+    },
+    {
+      "line_no": "272",
+      "meter": 41714
+    },
+    {
+      "line_no": "814",
+      "meter": 1419
+    },
+    {
+      "line_no": "814",
+      "meter": 1419
+    }
+  ]
+}

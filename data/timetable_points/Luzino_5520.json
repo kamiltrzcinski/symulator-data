@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711504,
+  "type": "TIMETABLE_POINT",
+  "name": "Luzino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 54566
+    },
+    {
+      "line_no": "202",
+      "meter": 54566
+    },
+    {
+      "line_no": "202",
+      "meter": 54566
+    },
+    {
+      "line_no": "202",
+      "meter": 54566
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709362,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105bie ko\u0142o D\u0119bicy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 307595
+    },
+    {
+      "line_no": "25",
+      "meter": 307626
+    },
+    {
+      "line_no": "25",
+      "meter": 307626
+    },
+    {
+      "line_no": "25",
+      "meter": 307626
+    },
+    {
+      "line_no": "25",
+      "meter": 307786
+    },
+    {
+      "line_no": "25",
+      "meter": 307786
+    }
+  ]
+}

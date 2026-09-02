@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709282,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 113442
+    },
+    {
+      "line_no": "273",
+      "meter": 113442
+    },
+    {
+      "line_no": "273",
+      "meter": 113442
+    }
+  ]
+}

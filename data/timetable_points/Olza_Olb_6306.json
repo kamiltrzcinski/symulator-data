@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712290,
+  "type": "TIMETABLE_POINT",
+  "name": "Olza Olb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "158",
+      "meter": 21387
+    },
+    {
+      "line_no": "158",
+      "meter": 21387
+    },
+    {
+      "line_no": "158",
+      "meter": 21387
+    }
+  ]
+}

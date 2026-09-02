@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715120,
+  "type": "TIMETABLE_POINT",
+  "name": "Zar\u0119bki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 33620
+    },
+    {
+      "line_no": "71",
+      "meter": 33620
+    }
+  ]
+}

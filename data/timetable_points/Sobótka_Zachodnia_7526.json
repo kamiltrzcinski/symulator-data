@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713510,
+  "type": "TIMETABLE_POINT",
+  "name": "Sob\u00f3tka Zachodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 40314
+    },
+    {
+      "line_no": "285",
+      "meter": 40314
+    },
+    {
+      "line_no": "285",
+      "meter": 40314
+    },
+    {
+      "line_no": "285",
+      "meter": 40314
+    },
+    {
+      "line_no": "285",
+      "meter": 40314
+    }
+  ]
+}

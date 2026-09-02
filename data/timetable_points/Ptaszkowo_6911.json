@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712895,
+  "type": "TIMETABLE_POINT",
+  "name": "Ptaszkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 74623
+    },
+    {
+      "line_no": "357",
+      "meter": 74623
+    },
+    {
+      "line_no": "357",
+      "meter": 74623
+    },
+    {
+      "line_no": "357",
+      "meter": 74623
+    }
+  ]
+}

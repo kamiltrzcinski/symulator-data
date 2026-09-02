@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712314,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole G\u0142\u00f3wne Tow. OT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "280",
+      "meter": 2878
+    },
+    {
+      "line_no": "280",
+      "meter": 2878
+    },
+    {
+      "line_no": "300",
+      "meter": 1280
+    },
+    {
+      "line_no": "300",
+      "meter": 1280
+    },
+    {
+      "line_no": "300",
+      "meter": 1280
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710505,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Ligota R56",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 6740
+    },
+    {
+      "line_no": "139",
+      "meter": 6740
+    },
+    {
+      "line_no": "140",
+      "meter": 659
+    }
+  ]
+}

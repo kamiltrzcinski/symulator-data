@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712838,
+  "type": "TIMETABLE_POINT",
+  "name": "Przemy\u015bl G\u0142\u00f3wny R68",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 245704
+    },
+    {
+      "line_no": "91",
+      "meter": 245704
+    },
+    {
+      "line_no": "91",
+      "meter": 245704
+    },
+    {
+      "line_no": "91",
+      "meter": 245704
+    },
+    {
+      "line_no": "91",
+      "meter": 245704
+    },
+    {
+      "line_no": "615",
+      "meter": 0
+    },
+    {
+      "line_no": "615",
+      "meter": 0
+    },
+    {
+      "line_no": "615",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714325,
+  "type": "TIMETABLE_POINT",
+  "name": "Tychy R45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 17617
+    },
+    {
+      "line_no": "139",
+      "meter": 17617
+    },
+    {
+      "line_no": "179",
+      "meter": 647
+    }
+  ]
+}

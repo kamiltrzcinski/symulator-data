@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710578,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119dzierzyn-Ko\u017ale R115",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "136",
+      "meter": 434
+    },
+    {
+      "line_no": "136",
+      "meter": 434
+    },
+    {
+      "line_no": "136",
+      "meter": 434
+    },
+    {
+      "line_no": "136",
+      "meter": 434
+    },
+    {
+      "line_no": "709",
+      "meter": -434
+    },
+    {
+      "line_no": "709",
+      "meter": -434
+    },
+    {
+      "line_no": "709",
+      "meter": -434
+    }
+  ]
+}

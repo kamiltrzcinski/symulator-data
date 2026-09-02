@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710735,
+  "type": "TIMETABLE_POINT",
+  "name": "Koluszki R145",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "17",
+      "meter": 24260
+    },
+    {
+      "line_no": "17",
+      "meter": 24260
+    },
+    {
+      "line_no": "17",
+      "meter": 24260
+    },
+    {
+      "line_no": "538",
+      "meter": -131
+    },
+    {
+      "line_no": "538",
+      "meter": -131
+    }
+  ]
+}

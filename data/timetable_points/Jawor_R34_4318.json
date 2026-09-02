@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710302,
+  "type": "TIMETABLE_POINT",
+  "name": "Jawor R34",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 262460
+    },
+    {
+      "line_no": "331",
+      "meter": -123
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715311,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017begiest\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 126110
+    },
+    {
+      "line_no": "96",
+      "meter": 126110
+    },
+    {
+      "line_no": "96",
+      "meter": 126110
+    }
+  ]
+}

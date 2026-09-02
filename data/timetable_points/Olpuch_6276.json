@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712260,
+  "type": "TIMETABLE_POINT",
+  "name": "Olpuch",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 124080
+    },
+    {
+      "line_no": "201",
+      "meter": 124540
+    },
+    {
+      "line_no": "201",
+      "meter": 124540
+    }
+  ]
+}

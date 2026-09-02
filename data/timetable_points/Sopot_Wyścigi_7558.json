@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713542,
+  "type": "TIMETABLE_POINT",
+  "name": "Sopot Wy\u015bcigi",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 10410
+    },
+    {
+      "line_no": "250",
+      "meter": 10410
+    },
+    {
+      "line_no": "250",
+      "meter": 10410
+    },
+    {
+      "line_no": "250",
+      "meter": 10410
+    },
+    {
+      "line_no": "250",
+      "meter": 10528
+    },
+    {
+      "line_no": "250",
+      "meter": 10528
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715157,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawiercie R15",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 223484
+    },
+    {
+      "line_no": "4",
+      "meter": 223484
+    },
+    {
+      "line_no": "4",
+      "meter": 223484
+    },
+    {
+      "line_no": "182",
+      "meter": 45502
+    },
+    {
+      "line_no": "182",
+      "meter": 45502
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709434,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119blin R105",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 102842
+    },
+    {
+      "line_no": "7",
+      "meter": 102842
+    },
+    {
+      "line_no": "770",
+      "meter": 1542
+    },
+    {
+      "line_no": "770",
+      "meter": 1542
+    }
+  ]
+}

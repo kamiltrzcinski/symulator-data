@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713308,
+  "type": "TIMETABLE_POINT",
+  "name": "Sestokai",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "477",
+      "meter": 56921
+    }
+  ]
+}

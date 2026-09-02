@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713238,
+  "type": "TIMETABLE_POINT",
+  "name": "Rz\u0105sawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 2837
+    },
+    {
+      "line_no": "146",
+      "meter": 2837
+    },
+    {
+      "line_no": "146",
+      "meter": 2837
+    },
+    {
+      "line_no": "146",
+      "meter": 2837
+    },
+    {
+      "line_no": "146",
+      "meter": 2837
+    },
+    {
+      "line_no": "146",
+      "meter": 3066
+    },
+    {
+      "line_no": "146",
+      "meter": 3066
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713922,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centralny SPA R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 350415
+    },
+    {
+      "line_no": "273",
+      "meter": 350415
+    },
+    {
+      "line_no": "273",
+      "meter": 350415
+    },
+    {
+      "line_no": "273",
+      "meter": 350695
+    },
+    {
+      "line_no": "855",
+      "meter": 855
+    },
+    {
+      "line_no": "855",
+      "meter": 855
+    },
+    {
+      "line_no": "855",
+      "meter": 1134
+    },
+    {
+      "line_no": "990",
+      "meter": -166
+    }
+  ]
+}

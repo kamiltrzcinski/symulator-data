@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708815,
+  "type": "TIMETABLE_POINT",
+  "name": "Bohumin Vrbice R606",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "592",
+      "meter": 0
+    },
+    {
+      "line_no": "592",
+      "meter": 0
+    },
+    {
+      "line_no": "592",
+      "meter": 0
+    },
+    {
+      "line_no": "592",
+      "meter": 0
+    },
+    {
+      "line_no": "593",
+      "meter": 273157
+    },
+    {
+      "line_no": "593",
+      "meter": 273157
+    },
+    {
+      "line_no": "593",
+      "meter": 273172
+    }
+  ]
+}

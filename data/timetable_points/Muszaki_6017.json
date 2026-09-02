@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712001,
+  "type": "TIMETABLE_POINT",
+  "name": "Muszaki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "225",
+      "meter": 17701
+    },
+    {
+      "line_no": "225",
+      "meter": 17701
+    },
+    {
+      "line_no": "225",
+      "meter": 17701
+    },
+    {
+      "line_no": "225",
+      "meter": 17701
+    },
+    {
+      "line_no": "225",
+      "meter": 17701
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid": 3453153712956,
+  "type": "TIMETABLE_POINT",
+  "name": "Radlin Obszary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "158",
+      "meter": 3147
+    },
+    {
+      "line_no": "158",
+      "meter": 3147
+    },
+    {
+      "line_no": "158",
+      "meter": 3147
+    },
+    {
+      "line_no": "158",
+      "meter": 3684
+    },
+    {
+      "line_no": "158",
+      "meter": 3684
+    },
+    {
+      "line_no": "158",
+      "meter": 3684
+    },
+    {
+      "line_no": "158",
+      "meter": 3697
+    },
+    {
+      "line_no": "158",
+      "meter": 3698
+    },
+    {
+      "line_no": "158",
+      "meter": 3860
+    },
+    {
+      "line_no": "862",
+      "meter": 3048
+    },
+    {
+      "line_no": "877",
+      "meter": 126
+    },
+    {
+      "line_no": "877",
+      "meter": 126
+    }
+  ]
+}

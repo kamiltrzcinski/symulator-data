@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709599,
+  "type": "TIMETABLE_POINT",
+  "name": "Fiuk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 20013
+    },
+    {
+      "line_no": "115",
+      "meter": 20013
+    },
+    {
+      "line_no": "115",
+      "meter": 20013
+    }
+  ]
+}

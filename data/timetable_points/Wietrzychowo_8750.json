@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714734,
+  "type": "TIMETABLE_POINT",
+  "name": "Wietrzychowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 31355
+    },
+    {
+      "line_no": "216",
+      "meter": 31355
+    },
+    {
+      "line_no": "216",
+      "meter": 31355
+    }
+  ]
+}

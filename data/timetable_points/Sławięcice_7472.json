@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713456,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142awi\u0119cice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 55700
+    },
+    {
+      "line_no": "137",
+      "meter": 55700
+    },
+    {
+      "line_no": "137",
+      "meter": 55702
+    },
+    {
+      "line_no": "199",
+      "meter": 55702
+    },
+    {
+      "line_no": "199",
+      "meter": 55702
+    },
+    {
+      "line_no": "199",
+      "meter": 55702
+    }
+  ]
+}

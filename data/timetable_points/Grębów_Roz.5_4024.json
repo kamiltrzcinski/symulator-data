@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710008,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr\u0119b\u00f3w Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 7185
+    },
+    {
+      "line_no": "74",
+      "meter": 7185
+    },
+    {
+      "line_no": "78",
+      "meter": 10783
+    },
+    {
+      "line_no": "78",
+      "meter": 10783
+    }
+  ]
+}

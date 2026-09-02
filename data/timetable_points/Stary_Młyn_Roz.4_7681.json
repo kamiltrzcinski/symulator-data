@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713665,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary M\u0142yn Roz.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "394",
+      "meter": 10558
+    },
+    {
+      "line_no": "394",
+      "meter": 10558
+    },
+    {
+      "line_no": "805",
+      "meter": 1453
+    },
+    {
+      "line_no": "805",
+      "meter": 1453
+    }
+  ]
+}

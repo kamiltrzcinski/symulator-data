@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714446,
+  "type": "TIMETABLE_POINT",
+  "name": "WARSZAWA G\u0141\u00d3WNA TOWAROWA R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "19",
+      "meter": 1341
+    },
+    {
+      "line_no": "509",
+      "meter": -1341
+    }
+  ]
+}

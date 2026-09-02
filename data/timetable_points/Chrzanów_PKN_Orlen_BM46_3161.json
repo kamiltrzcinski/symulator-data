@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709145,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrzan\u00f3w PKN Orlen BM46",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "126",
+      "meter": 1928
+    },
+    {
+      "line_no": "126",
+      "meter": 1928
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713601,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola Charzewice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "565",
+      "meter": 594
+    },
+    {
+      "line_no": "565",
+      "meter": 594
+    }
+  ]
+}

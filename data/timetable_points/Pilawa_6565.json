@@ -1,0 +1,56 @@
+{
+  "uid": 3453153712549,
+  "type": "TIMETABLE_POINT",
+  "name": "Pilawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 54020
+    },
+    {
+      "line_no": "7",
+      "meter": 54020
+    },
+    {
+      "line_no": "7",
+      "meter": 54345
+    },
+    {
+      "line_no": "7",
+      "meter": 54345
+    },
+    {
+      "line_no": "12",
+      "meter": 99285
+    },
+    {
+      "line_no": "12",
+      "meter": 99285
+    },
+    {
+      "line_no": "12",
+      "meter": 99285
+    },
+    {
+      "line_no": "12",
+      "meter": 99285
+    },
+    {
+      "line_no": "12",
+      "meter": 99603
+    },
+    {
+      "line_no": "13",
+      "meter": 56334
+    },
+    {
+      "line_no": "13",
+      "meter": 56334
+    },
+    {
+      "line_no": "13",
+      "meter": 56334
+    }
+  ]
+}

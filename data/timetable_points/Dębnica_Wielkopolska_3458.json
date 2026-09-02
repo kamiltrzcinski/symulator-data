@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709442,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bnica Wielkopolska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "377",
+      "meter": 9400
+    },
+    {
+      "line_no": "377",
+      "meter": 9400
+    },
+    {
+      "line_no": "377",
+      "meter": 9400
+    }
+  ]
+}

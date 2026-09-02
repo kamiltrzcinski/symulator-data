@@ -1,0 +1,64 @@
+{
+  "uid": 3453153710351,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenia G\u00f3ra",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 125808
+    },
+    {
+      "line_no": "274",
+      "meter": 125808
+    },
+    {
+      "line_no": "274",
+      "meter": 125808
+    },
+    {
+      "line_no": "283",
+      "meter": 70
+    },
+    {
+      "line_no": "283",
+      "meter": 104
+    },
+    {
+      "line_no": "283",
+      "meter": 104
+    },
+    {
+      "line_no": "283",
+      "meter": 104
+    },
+    {
+      "line_no": "283",
+      "meter": 104
+    },
+    {
+      "line_no": "283",
+      "meter": 104
+    },
+    {
+      "line_no": "283",
+      "meter": 104
+    },
+    {
+      "line_no": "308",
+      "meter": 39986
+    },
+    {
+      "line_no": "308",
+      "meter": 39986
+    },
+    {
+      "line_no": "308",
+      "meter": 39986
+    },
+    {
+      "line_no": "311",
+      "meter": -3123
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713806,
+  "type": "TIMETABLE_POINT",
+  "name": "Sul\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 48759
+    },
+    {
+      "line_no": "68",
+      "meter": 48759
+    },
+    {
+      "line_no": "68",
+      "meter": 48759
+    },
+    {
+      "line_no": "68",
+      "meter": 48759
+    },
+    {
+      "line_no": "68",
+      "meter": 49173
+    },
+    {
+      "line_no": "68",
+      "meter": 49173
+    }
+  ]
+}

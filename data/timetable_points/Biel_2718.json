@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708702,
+  "type": "TIMETABLE_POINT",
+  "name": "Biel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "34",
+      "meter": 41375
+    },
+    {
+      "line_no": "34",
+      "meter": 41375
+    }
+  ]
+}

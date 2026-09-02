@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715040,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Biskupice R4/5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 22457
+    },
+    {
+      "line_no": "132",
+      "meter": 22457
+    },
+    {
+      "line_no": "132",
+      "meter": 22659
+    },
+    {
+      "line_no": "147",
+      "meter": -702
+    },
+    {
+      "line_no": "147",
+      "meter": -501
+    }
+  ]
+}

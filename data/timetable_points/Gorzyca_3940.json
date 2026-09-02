@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709924,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorzyca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "364",
+      "meter": 30292
+    },
+    {
+      "line_no": "364",
+      "meter": 30292
+    },
+    {
+      "line_no": "364",
+      "meter": 30292
+    }
+  ]
+}

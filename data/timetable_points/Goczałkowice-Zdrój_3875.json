@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709859,
+  "type": "TIMETABLE_POINT",
+  "name": "Gocza\u0142kowice-Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 40865
+    },
+    {
+      "line_no": "139",
+      "meter": 40865
+    },
+    {
+      "line_no": "139",
+      "meter": 40865
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711835,
+  "type": "TIMETABLE_POINT",
+  "name": "Mierz\u0119cice APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "182",
+      "meter": 23356
+    },
+    {
+      "line_no": "182",
+      "meter": 23356
+    }
+  ]
+}

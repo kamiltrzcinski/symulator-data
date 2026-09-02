@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708965,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 53538
+    },
+    {
+      "line_no": "62",
+      "meter": 53538
+    },
+    {
+      "line_no": "62",
+      "meter": 53538
+    },
+    {
+      "line_no": "156",
+      "meter": 0
+    },
+    {
+      "line_no": "156",
+      "meter": 0
+    },
+    {
+      "line_no": "156",
+      "meter": 0
+    },
+    {
+      "line_no": "156",
+      "meter": 0
+    }
+  ]
+}

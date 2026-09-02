@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711747,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142oszyce 2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 69600
+    },
+    {
+      "line_no": "4",
+      "meter": 69600
+    },
+    {
+      "line_no": "4",
+      "meter": 69600
+    },
+    {
+      "line_no": "4",
+      "meter": 69600
+    },
+    {
+      "line_no": "4",
+      "meter": 69600
+    }
+  ]
+}

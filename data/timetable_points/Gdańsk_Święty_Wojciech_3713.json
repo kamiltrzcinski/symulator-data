@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709697,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk \u015awi\u0119ty Wojciech",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 4170
+    },
+    {
+      "line_no": "226",
+      "meter": 4170
+    },
+    {
+      "line_no": "226",
+      "meter": 4983
+    },
+    {
+      "line_no": "226",
+      "meter": 4983
+    },
+    {
+      "line_no": "226",
+      "meter": 4983
+    },
+    {
+      "line_no": "226",
+      "meter": 4983
+    },
+    {
+      "line_no": "226",
+      "meter": 4983
+    }
+  ]
+}

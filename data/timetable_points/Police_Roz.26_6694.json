@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712678,
+  "type": "TIMETABLE_POINT",
+  "name": "Police Roz.26",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 23774
+    },
+    {
+      "line_no": "406",
+      "meter": 23774
+    },
+    {
+      "line_no": "431",
+      "meter": 377
+    }
+  ]
+}

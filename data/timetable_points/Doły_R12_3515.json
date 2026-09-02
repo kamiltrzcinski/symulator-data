@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709499,
+  "type": "TIMETABLE_POINT",
+  "name": "Do\u0142y R12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 3944
+    },
+    {
+      "line_no": "31",
+      "meter": 3944
+    },
+    {
+      "line_no": "520",
+      "meter": 1251
+    },
+    {
+      "line_no": "520",
+      "meter": 1251
+    },
+    {
+      "line_no": "520",
+      "meter": 1251
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708979,
+  "type": "TIMETABLE_POINT",
+  "name": "Buszkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "241",
+      "meter": 36097
+    },
+    {
+      "line_no": "241",
+      "meter": 36097
+    }
+  ]
+}

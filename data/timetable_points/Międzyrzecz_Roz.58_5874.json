@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711858,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0119dzyrzecz Roz.58",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "364",
+      "meter": 23296
+    },
+    {
+      "line_no": "364",
+      "meter": 23296
+    },
+    {
+      "line_no": "375",
+      "meter": -416
+    },
+    {
+      "line_no": "375",
+      "meter": -416
+    },
+    {
+      "line_no": "375",
+      "meter": -416
+    }
+  ]
+}

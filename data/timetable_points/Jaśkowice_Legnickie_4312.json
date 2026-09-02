@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710296,
+  "type": "TIMETABLE_POINT",
+  "name": "Ja\u015bkowice Legnickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 54950
+    }
+  ]
+}

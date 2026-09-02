@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711265,
+  "type": "TIMETABLE_POINT",
+  "name": "L971 km:,802 PLK - PMT Linie Kol.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "971",
+      "meter": 695
+    },
+    {
+      "line_no": "971",
+      "meter": 695
+    },
+    {
+      "line_no": "971",
+      "meter": 695
+    },
+    {
+      "line_no": "971",
+      "meter": 802
+    }
+  ]
+}

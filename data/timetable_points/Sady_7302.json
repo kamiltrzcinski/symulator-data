@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713286,
+  "type": "TIMETABLE_POINT",
+  "name": "Sady",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "329",
+      "meter": 4443
+    },
+    {
+      "line_no": "329",
+      "meter": 4443
+    }
+  ]
+}

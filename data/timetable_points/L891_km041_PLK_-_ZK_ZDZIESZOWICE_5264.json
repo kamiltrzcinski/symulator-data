@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711248,
+  "type": "TIMETABLE_POINT",
+  "name": "L891 km:,041 PLK - ZK ZDZIESZOWICE",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "891",
+      "meter": 41
+    },
+    {
+      "line_no": "891",
+      "meter": 41
+    },
+    {
+      "line_no": "891",
+      "meter": 41
+    }
+  ]
+}

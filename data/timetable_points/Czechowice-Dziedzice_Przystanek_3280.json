@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709264,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice Przystanek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 46955
+    },
+    {
+      "line_no": "139",
+      "meter": 46955
+    }
+  ]
+}

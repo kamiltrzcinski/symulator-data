@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715129,
+  "type": "TIMETABLE_POINT",
+  "name": "Zarzecze KWB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "24",
+      "meter": 34350
+    },
+    {
+      "line_no": "848",
+      "meter": 34350
+    }
+  ]
+}

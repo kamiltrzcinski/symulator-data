@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713507,
+  "type": "TIMETABLE_POINT",
+  "name": "Sobni\u00f3w R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 48248
+    },
+    {
+      "line_no": "108",
+      "meter": 48248
+    },
+    {
+      "line_no": "108",
+      "meter": 48248
+    },
+    {
+      "line_no": "618",
+      "meter": 4471
+    }
+  ]
+}

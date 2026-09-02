@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709211,
+  "type": "TIMETABLE_POINT",
+  "name": "Ciosmy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 33624
+    },
+    {
+      "line_no": "66",
+      "meter": 33624
+    },
+    {
+      "line_no": "66",
+      "meter": 33625
+    }
+  ]
+}

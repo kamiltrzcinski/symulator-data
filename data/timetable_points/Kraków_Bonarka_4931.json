@@ -1,0 +1,64 @@
+{
+  "uid": 3453153710915,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Bonarka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 3128
+    },
+    {
+      "line_no": "94",
+      "meter": 3128
+    },
+    {
+      "line_no": "94",
+      "meter": 3128
+    },
+    {
+      "line_no": "94",
+      "meter": 3128
+    },
+    {
+      "line_no": "94",
+      "meter": 3128
+    },
+    {
+      "line_no": "94",
+      "meter": 3128
+    },
+    {
+      "line_no": "603",
+      "meter": 7103
+    },
+    {
+      "line_no": "603",
+      "meter": 7361
+    },
+    {
+      "line_no": "603",
+      "meter": 7361
+    },
+    {
+      "line_no": "603",
+      "meter": 7908
+    },
+    {
+      "line_no": "624",
+      "meter": 2678
+    },
+    {
+      "line_no": "624",
+      "meter": 2678
+    },
+    {
+      "line_no": "624",
+      "meter": 2678
+    },
+    {
+      "line_no": "624",
+      "meter": 2678
+    }
+  ]
+}

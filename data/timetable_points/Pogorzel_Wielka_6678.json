@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712662,
+  "type": "TIMETABLE_POINT",
+  "name": "Pogorzel Wielka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 134528
+    },
+    {
+      "line_no": "219",
+      "meter": 134532
+    },
+    {
+      "line_no": "219",
+      "meter": 134532
+    },
+    {
+      "line_no": "219",
+      "meter": 134532
+    }
+  ]
+}

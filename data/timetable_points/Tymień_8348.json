@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714332,
+  "type": "TIMETABLE_POINT",
+  "name": "Tymie\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 23890
+    },
+    {
+      "line_no": "402",
+      "meter": 23890
+    }
+  ]
+}

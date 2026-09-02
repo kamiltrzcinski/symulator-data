@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712440,
+  "type": "TIMETABLE_POINT",
+  "name": "Padew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 275025
+    },
+    {
+      "line_no": "25",
+      "meter": 275025
+    },
+    {
+      "line_no": "79",
+      "meter": 1
+    },
+    {
+      "line_no": "79",
+      "meter": 1
+    },
+    {
+      "line_no": "79",
+      "meter": 1
+    },
+    {
+      "line_no": "79",
+      "meter": 1
+    }
+  ]
+}

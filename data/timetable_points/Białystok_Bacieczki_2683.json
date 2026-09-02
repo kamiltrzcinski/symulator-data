@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708667,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok Bacieczki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 8013
+    },
+    {
+      "line_no": "38",
+      "meter": 8013
+    },
+    {
+      "line_no": "38",
+      "meter": 8013
+    },
+    {
+      "line_no": "38",
+      "meter": 8013
+    },
+    {
+      "line_no": "38",
+      "meter": 8013
+    },
+    {
+      "line_no": "38",
+      "meter": 8013
+    }
+  ]
+}

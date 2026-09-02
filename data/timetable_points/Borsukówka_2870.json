@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708854,
+  "type": "TIMETABLE_POINT",
+  "name": "Borsuk\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 21270
+    },
+    {
+      "line_no": "38",
+      "meter": 21270
+    },
+    {
+      "line_no": "38",
+      "meter": 21286
+    },
+    {
+      "line_no": "38",
+      "meter": 21286
+    },
+    {
+      "line_no": "38",
+      "meter": 21286
+    }
+  ]
+}

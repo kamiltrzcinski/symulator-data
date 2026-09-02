@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712347,
+  "type": "TIMETABLE_POINT",
+  "name": "Orzeszkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 112557
+    },
+    {
+      "line_no": "31",
+      "meter": 112557
+    },
+    {
+      "line_no": "31",
+      "meter": 112557
+    },
+    {
+      "line_no": "31",
+      "meter": 112626
+    },
+    {
+      "line_no": "31",
+      "meter": 112626
+    }
+  ]
+}

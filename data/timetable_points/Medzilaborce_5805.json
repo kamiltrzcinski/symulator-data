@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711789,
+  "type": "TIMETABLE_POINT",
+  "name": "Medzilaborce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "488",
+      "meter": 105387
+    },
+    {
+      "line_no": "488",
+      "meter": 105387
+    },
+    {
+      "line_no": "488",
+      "meter": 105387
+    }
+  ]
+}

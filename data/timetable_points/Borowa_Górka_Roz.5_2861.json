@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708845,
+  "type": "TIMETABLE_POINT",
+  "name": "Borowa G\u00f3rka Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "156",
+      "meter": 9649
+    },
+    {
+      "line_no": "156",
+      "meter": 9649
+    },
+    {
+      "line_no": "156",
+      "meter": 9649
+    },
+    {
+      "line_no": "156",
+      "meter": 9649
+    },
+    {
+      "line_no": "670",
+      "meter": -92
+    },
+    {
+      "line_no": "670",
+      "meter": -92
+    }
+  ]
+}

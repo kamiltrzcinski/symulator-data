@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713949,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecinek Roz.63",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": -288
+    },
+    {
+      "line_no": "405",
+      "meter": 70432
+    },
+    {
+      "line_no": "405",
+      "meter": 70432
+    }
+  ]
+}

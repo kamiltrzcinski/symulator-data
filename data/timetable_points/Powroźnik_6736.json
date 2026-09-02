@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712720,
+  "type": "TIMETABLE_POINT",
+  "name": "Powro\u017anik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "105",
+      "meter": 5356
+    },
+    {
+      "line_no": "105",
+      "meter": 5356
+    },
+    {
+      "line_no": "105",
+      "meter": 5356
+    },
+    {
+      "line_no": "105",
+      "meter": 5356
+    }
+  ]
+}

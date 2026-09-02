@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710881,
+  "type": "TIMETABLE_POINT",
+  "name": "Kozuby",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 157112
+    },
+    {
+      "line_no": "131",
+      "meter": 157112
+    },
+    {
+      "line_no": "131",
+      "meter": 157112
+    },
+    {
+      "line_no": "131",
+      "meter": 157230
+    },
+    {
+      "line_no": "131",
+      "meter": 157230
+    }
+  ]
+}

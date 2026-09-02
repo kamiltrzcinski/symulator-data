@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715219,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgorzelec (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 202455
+    },
+    {
+      "line_no": "274",
+      "meter": 202535
+    },
+    {
+      "line_no": "274",
+      "meter": 202535
+    },
+    {
+      "line_no": "493",
+      "meter": 251715
+    },
+    {
+      "line_no": "493",
+      "meter": 251770
+    },
+    {
+      "line_no": "493",
+      "meter": 251770
+    }
+  ]
+}

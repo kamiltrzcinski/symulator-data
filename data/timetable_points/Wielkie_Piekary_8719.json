@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714703,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielkie Piekary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 61254
+    },
+    {
+      "line_no": "275",
+      "meter": 61254
+    },
+    {
+      "line_no": "275",
+      "meter": 61298
+    },
+    {
+      "line_no": "296",
+      "meter": 1
+    },
+    {
+      "line_no": "296",
+      "meter": 1
+    }
+  ]
+}

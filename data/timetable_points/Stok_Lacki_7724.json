@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713708,
+  "type": "TIMETABLE_POINT",
+  "name": "Stok Lacki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 9412
+    },
+    {
+      "line_no": "31",
+      "meter": 9412
+    },
+    {
+      "line_no": "31",
+      "meter": 9412
+    },
+    {
+      "line_no": "31",
+      "meter": 9412
+    },
+    {
+      "line_no": "31",
+      "meter": 9412
+    }
+  ]
+}

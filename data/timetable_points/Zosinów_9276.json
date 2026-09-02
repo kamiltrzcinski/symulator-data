@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715260,
+  "type": "TIMETABLE_POINT",
+  "name": "Zosin\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 99700
+    },
+    {
+      "line_no": "3",
+      "meter": 99700
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708714,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielawy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "206",
+      "meter": 16901
+    }
+  ]
+}

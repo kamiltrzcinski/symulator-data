@@ -1,0 +1,44 @@
+{
+  "uid": 3453153714158,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarn\u00f3w Mo\u015bcice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 73896
+    },
+    {
+      "line_no": "91",
+      "meter": 73896
+    },
+    {
+      "line_no": "91",
+      "meter": 73896
+    },
+    {
+      "line_no": "91",
+      "meter": 73896
+    },
+    {
+      "line_no": "91",
+      "meter": 73896
+    },
+    {
+      "line_no": "91",
+      "meter": 73896
+    },
+    {
+      "line_no": "987",
+      "meter": 0
+    },
+    {
+      "line_no": "987",
+      "meter": 0
+    },
+    {
+      "line_no": "987",
+      "meter": 1
+    }
+  ]
+}

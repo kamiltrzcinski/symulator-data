@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712138,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b Pozn.Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "352",
+      "meter": 2748
+    },
+    {
+      "line_no": "352",
+      "meter": 2748
+    },
+    {
+      "line_no": "804",
+      "meter": 1822
+    }
+  ]
+}

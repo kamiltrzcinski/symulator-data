@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710015,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodziec Ma\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 277195
+    },
+    {
+      "line_no": "14",
+      "meter": 277195
+    },
+    {
+      "line_no": "14",
+      "meter": 277195
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714796,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oc\u0142awek Brzezie Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 59900
+    },
+    {
+      "line_no": "18",
+      "meter": 59900
+    }
+  ]
+}

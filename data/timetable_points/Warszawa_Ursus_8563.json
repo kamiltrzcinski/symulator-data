@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714547,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ursus",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 9165
+    },
+    {
+      "line_no": "447",
+      "meter": 9165
+    },
+    {
+      "line_no": "447",
+      "meter": 9217
+    },
+    {
+      "line_no": "447",
+      "meter": 9217
+    }
+  ]
+}

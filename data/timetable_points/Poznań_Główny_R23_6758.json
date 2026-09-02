@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712742,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 G\u0142\u00f3wny R23",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 304034
+    },
+    {
+      "line_no": "3",
+      "meter": 304142
+    },
+    {
+      "line_no": "3",
+      "meter": 304142
+    },
+    {
+      "line_no": "272",
+      "meter": 201361
+    },
+    {
+      "line_no": "272",
+      "meter": 201525
+    }
+  ]
+}

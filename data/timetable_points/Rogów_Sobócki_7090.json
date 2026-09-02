@@ -1,0 +1,52 @@
+{
+  "uid": 3453153713074,
+  "type": "TIMETABLE_POINT",
+  "name": "Rog\u00f3w Sob\u00f3cki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 33127
+    },
+    {
+      "line_no": "285",
+      "meter": 33127
+    },
+    {
+      "line_no": "285",
+      "meter": 33127
+    },
+    {
+      "line_no": "285",
+      "meter": 33127
+    },
+    {
+      "line_no": "285",
+      "meter": 33127
+    },
+    {
+      "line_no": "285",
+      "meter": 33127
+    },
+    {
+      "line_no": "285",
+      "meter": 33341
+    },
+    {
+      "line_no": "285",
+      "meter": 33341
+    },
+    {
+      "line_no": "285",
+      "meter": 33341
+    },
+    {
+      "line_no": "285",
+      "meter": 33408
+    },
+    {
+      "line_no": "285",
+      "meter": 33408
+    }
+  ]
+}

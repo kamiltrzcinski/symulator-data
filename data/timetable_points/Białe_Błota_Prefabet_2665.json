@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708649,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142e B\u0142ota Prefabet",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 120720
+    }
+  ]
+}

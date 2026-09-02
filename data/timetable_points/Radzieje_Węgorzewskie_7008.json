@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712992,
+  "type": "TIMETABLE_POINT",
+  "name": "Radzieje W\u0119gorzewskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "259",
+      "meter": 16154
+    },
+    {
+      "line_no": "259",
+      "meter": 16154
+    },
+    {
+      "line_no": "259",
+      "meter": 16154
+    },
+    {
+      "line_no": "259",
+      "meter": 16154
+    }
+  ]
+}

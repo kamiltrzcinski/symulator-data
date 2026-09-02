@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711502,
+  "type": "TIMETABLE_POINT",
+  "name": "Lutol Suchy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "367",
+      "meter": 13360
+    },
+    {
+      "line_no": "367",
+      "meter": 13360
+    },
+    {
+      "line_no": "367",
+      "meter": 13360
+    }
+  ]
+}

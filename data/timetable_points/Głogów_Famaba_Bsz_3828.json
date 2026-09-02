@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709812,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142og\u00f3w Famaba Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 96768
+    },
+    {
+      "line_no": "273",
+      "meter": 96768
+    }
+  ]
+}

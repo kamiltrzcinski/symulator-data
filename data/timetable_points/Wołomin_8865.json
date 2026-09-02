@@ -1,0 +1,44 @@
+{
+  "uid": 3453153714849,
+  "type": "TIMETABLE_POINT",
+  "name": "Wo\u0142omin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 21410
+    },
+    {
+      "line_no": "6",
+      "meter": 21410
+    },
+    {
+      "line_no": "6",
+      "meter": 21480
+    },
+    {
+      "line_no": "6",
+      "meter": 21480
+    },
+    {
+      "line_no": "6",
+      "meter": 21480
+    },
+    {
+      "line_no": "21",
+      "meter": 17166
+    },
+    {
+      "line_no": "21",
+      "meter": 17166
+    },
+    {
+      "line_no": "21",
+      "meter": 17668
+    },
+    {
+      "line_no": "21",
+      "meter": 17668
+    }
+  ]
+}

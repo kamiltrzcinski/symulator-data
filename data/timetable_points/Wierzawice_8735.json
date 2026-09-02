@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714719,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzawice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 155683
+    },
+    {
+      "line_no": "68",
+      "meter": 155683
+    },
+    {
+      "line_no": "68",
+      "meter": 155683
+    },
+    {
+      "line_no": "68",
+      "meter": 155725
+    },
+    {
+      "line_no": "68",
+      "meter": 155725
+    },
+    {
+      "line_no": "68",
+      "meter": 155725
+    },
+    {
+      "line_no": "68",
+      "meter": 155725
+    }
+  ]
+}

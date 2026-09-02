@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708885,
+  "type": "TIMETABLE_POINT",
+  "name": "Brest Zapadnyj",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "459",
+      "meter": 95070
+    },
+    {
+      "line_no": "459",
+      "meter": 95070
+    },
+    {
+      "line_no": "467",
+      "meter": 95070
+    }
+  ]
+}

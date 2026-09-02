@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713904,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port C. Lok",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "991",
+      "meter": 3986
+    },
+    {
+      "line_no": "991",
+      "meter": 3991
+    },
+    {
+      "line_no": "991",
+      "meter": 3991
+    }
+  ]
+}

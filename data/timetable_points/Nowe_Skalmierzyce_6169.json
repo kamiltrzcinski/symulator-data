@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712153,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowe Skalmierzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 118643
+    },
+    {
+      "line_no": "14",
+      "meter": 118643
+    },
+    {
+      "line_no": "14",
+      "meter": 118643
+    }
+  ]
+}

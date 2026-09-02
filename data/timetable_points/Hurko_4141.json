@@ -1,0 +1,132 @@
+{
+  "uid": 3453153710125,
+  "type": "TIMETABLE_POINT",
+  "name": "Hurko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 250588
+    },
+    {
+      "line_no": "91",
+      "meter": 250588
+    },
+    {
+      "line_no": "91",
+      "meter": 250588
+    },
+    {
+      "line_no": "91",
+      "meter": 250588
+    },
+    {
+      "line_no": "91",
+      "meter": 250588
+    },
+    {
+      "line_no": "91",
+      "meter": 250588
+    },
+    {
+      "line_no": "91",
+      "meter": 250589
+    },
+    {
+      "line_no": "92",
+      "meter": 6258
+    },
+    {
+      "line_no": "92",
+      "meter": 6258
+    },
+    {
+      "line_no": "92",
+      "meter": 6258
+    },
+    {
+      "line_no": "92",
+      "meter": 6258
+    },
+    {
+      "line_no": "92",
+      "meter": 6258
+    },
+    {
+      "line_no": "92",
+      "meter": 6258
+    },
+    {
+      "line_no": "120",
+      "meter": 1
+    },
+    {
+      "line_no": "120",
+      "meter": 1
+    },
+    {
+      "line_no": "120",
+      "meter": 1
+    },
+    {
+      "line_no": "120",
+      "meter": 1
+    },
+    {
+      "line_no": "123",
+      "meter": 1
+    },
+    {
+      "line_no": "123",
+      "meter": 1
+    },
+    {
+      "line_no": "123",
+      "meter": 1
+    },
+    {
+      "line_no": "123",
+      "meter": 1
+    },
+    {
+      "line_no": "123",
+      "meter": 1
+    },
+    {
+      "line_no": "613",
+      "meter": 5807
+    },
+    {
+      "line_no": "613",
+      "meter": 5807
+    },
+    {
+      "line_no": "613",
+      "meter": 5808
+    },
+    {
+      "line_no": "614",
+      "meter": 7616
+    },
+    {
+      "line_no": "614",
+      "meter": 7616
+    },
+    {
+      "line_no": "614",
+      "meter": 7616
+    },
+    {
+      "line_no": "989",
+      "meter": 1
+    },
+    {
+      "line_no": "989",
+      "meter": 1
+    },
+    {
+      "line_no": "989",
+      "meter": 1
+    }
+  ]
+}

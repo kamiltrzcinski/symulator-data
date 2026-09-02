@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711122,
+  "type": "TIMETABLE_POINT",
+  "name": "Ksi\u0105\u017c Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "369",
+      "meter": 15992
+    },
+    {
+      "line_no": "369",
+      "meter": 15992
+    },
+    {
+      "line_no": "369",
+      "meter": 15992
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712226,
+  "type": "TIMETABLE_POINT",
+  "name": "Odolan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "355",
+      "meter": 13122
+    },
+    {
+      "line_no": "355",
+      "meter": 13122
+    },
+    {
+      "line_no": "355",
+      "meter": 13122
+    }
+  ]
+}

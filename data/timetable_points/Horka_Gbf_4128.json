@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710112,
+  "type": "TIMETABLE_POINT",
+  "name": "Horka Gbf",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "495",
+      "meter": 21167
+    },
+    {
+      "line_no": "495",
+      "meter": 21765
+    },
+    {
+      "line_no": "495",
+      "meter": 21765
+    }
+  ]
+}

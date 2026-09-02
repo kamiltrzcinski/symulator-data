@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710774,
+  "type": "TIMETABLE_POINT",
+  "name": "Konopat",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "240",
+      "meter": 4531
+    },
+    {
+      "line_no": "847",
+      "meter": 0
+    }
+  ]
+}

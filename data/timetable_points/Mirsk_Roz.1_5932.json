@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711916,
+  "type": "TIMETABLE_POINT",
+  "name": "Mirsk Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "317",
+      "meter": 80055
+    },
+    {
+      "line_no": "317",
+      "meter": 80055
+    },
+    {
+      "line_no": "317",
+      "meter": 80055
+    },
+    {
+      "line_no": "317",
+      "meter": 80055
+    },
+    {
+      "line_no": "317",
+      "meter": 80055
+    },
+    {
+      "line_no": "336",
+      "meter": -182
+    }
+  ]
+}

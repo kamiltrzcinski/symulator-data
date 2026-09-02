@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713070,
+  "type": "TIMETABLE_POINT",
+  "name": "Rogo\u017anica ko\u0142o Rzeszowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 57640
+    },
+    {
+      "line_no": "71",
+      "meter": 57640
+    }
+  ]
+}

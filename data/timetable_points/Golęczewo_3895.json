@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709879,
+  "type": "TIMETABLE_POINT",
+  "name": "Gol\u0119czewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 13907
+    },
+    {
+      "line_no": "354",
+      "meter": 13907
+    },
+    {
+      "line_no": "354",
+      "meter": 13907
+    }
+  ]
+}

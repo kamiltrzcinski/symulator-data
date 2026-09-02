@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713349,
+  "type": "TIMETABLE_POINT",
+  "name": "Siemiatycze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 56898
+    },
+    {
+      "line_no": "31",
+      "meter": 56898
+    },
+    {
+      "line_no": "31",
+      "meter": 56898
+    },
+    {
+      "line_no": "31",
+      "meter": 57027
+    },
+    {
+      "line_no": "31",
+      "meter": 57027
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710773,
+  "type": "TIMETABLE_POINT",
+  "name": "Konojady",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 71089
+    },
+    {
+      "line_no": "208",
+      "meter": 71089
+    },
+    {
+      "line_no": "208",
+      "meter": 71089
+    },
+    {
+      "line_no": "208",
+      "meter": 71089
+    }
+  ]
+}

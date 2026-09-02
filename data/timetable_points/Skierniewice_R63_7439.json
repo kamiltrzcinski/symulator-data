@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713423,
+  "type": "TIMETABLE_POINT",
+  "name": "Skierniewice R63",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "11",
+      "meter": 405
+    },
+    {
+      "line_no": "11",
+      "meter": 405
+    },
+    {
+      "line_no": "11",
+      "meter": 407
+    },
+    {
+      "line_no": "11",
+      "meter": 407
+    },
+    {
+      "line_no": "12",
+      "meter": -407
+    },
+    {
+      "line_no": "12",
+      "meter": -405
+    },
+    {
+      "line_no": "12",
+      "meter": -405
+    },
+    {
+      "line_no": "12",
+      "meter": -405
+    }
+  ]
+}

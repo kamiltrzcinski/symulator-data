@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713930,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Sto\u0142czyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 15665
+    },
+    {
+      "line_no": "406",
+      "meter": 15665
+    },
+    {
+      "line_no": "406",
+      "meter": 15665
+    },
+    {
+      "line_no": "406",
+      "meter": 15665
+    },
+    {
+      "line_no": "406",
+      "meter": 15665
+    },
+    {
+      "line_no": "406",
+      "meter": 15665
+    }
+  ]
+}

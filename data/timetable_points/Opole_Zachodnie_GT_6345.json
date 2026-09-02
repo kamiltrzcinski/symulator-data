@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712329,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Zachodnie GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 102085
+    },
+    {
+      "line_no": "132",
+      "meter": 102085
+    }
+  ]
+}

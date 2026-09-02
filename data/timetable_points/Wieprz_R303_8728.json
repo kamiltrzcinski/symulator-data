@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714712,
+  "type": "TIMETABLE_POINT",
+  "name": "Wieprz R303",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 106963
+    },
+    {
+      "line_no": "7",
+      "meter": 107023
+    },
+    {
+      "line_no": "7",
+      "meter": 107023
+    },
+    {
+      "line_no": "580",
+      "meter": 0
+    },
+    {
+      "line_no": "580",
+      "meter": 0
+    }
+  ]
+}

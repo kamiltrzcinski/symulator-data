@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714686,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielanowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 34733
+    },
+    {
+      "line_no": "404",
+      "meter": 34733
+    }
+  ]
+}

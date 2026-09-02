@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713918,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centralny R807",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "990",
+      "meter": 4494
+    },
+    {
+      "line_no": "990",
+      "meter": 4494
+    },
+    {
+      "line_no": "990",
+      "meter": 4572
+    },
+    {
+      "line_no": "995",
+      "meter": -74
+    },
+    {
+      "line_no": "995",
+      "meter": -17
+    },
+    {
+      "line_no": "995",
+      "meter": -17
+    }
+  ]
+}

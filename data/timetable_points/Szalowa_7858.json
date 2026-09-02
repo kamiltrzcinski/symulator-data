@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713842,
+  "type": "TIMETABLE_POINT",
+  "name": "Szalowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 5860
+    },
+    {
+      "line_no": "108",
+      "meter": 5860
+    },
+    {
+      "line_no": "108",
+      "meter": 5860
+    }
+  ]
+}

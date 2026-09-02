@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711156,
+  "type": "TIMETABLE_POINT",
+  "name": "Kustrin-Kietz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "492",
+      "meter": 80990
+    },
+    {
+      "line_no": "492",
+      "meter": 80990
+    }
+  ]
+}

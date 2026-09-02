@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711200,
+  "type": "TIMETABLE_POINT",
+  "name": "L248 track 2 km:17,985 PKM SA - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "248",
+      "meter": 17985
+    },
+    {
+      "line_no": "248",
+      "meter": 17985
+    }
+  ]
+}

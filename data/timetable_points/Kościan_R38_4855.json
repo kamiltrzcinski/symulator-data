@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710839,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u015bcian R38",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 123044
+    },
+    {
+      "line_no": "271",
+      "meter": 123044
+    },
+    {
+      "line_no": "271",
+      "meter": 123044
+    }
+  ]
+}

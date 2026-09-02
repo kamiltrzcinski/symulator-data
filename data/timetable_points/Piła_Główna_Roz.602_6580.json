@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712564,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0142a G\u0142\u00f3wna Roz.602",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 247430
+    },
+    {
+      "line_no": "354",
+      "meter": 92788
+    },
+    {
+      "line_no": "354",
+      "meter": 92788
+    },
+    {
+      "line_no": "405",
+      "meter": 251
+    },
+    {
+      "line_no": "405",
+      "meter": 251
+    },
+    {
+      "line_no": "405",
+      "meter": 251
+    }
+  ]
+}

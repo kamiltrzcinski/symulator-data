@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711269,
+  "type": "TIMETABLE_POINT",
+  "name": "L976 km:,316 PLK - Kop.CZARNY B\u00d3R",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "976",
+      "meter": 316
+    },
+    {
+      "line_no": "976",
+      "meter": 316
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712506,
+  "type": "TIMETABLE_POINT",
+  "name": "Pewel Wielka Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 67468
+    },
+    {
+      "line_no": "97",
+      "meter": 67485
+    },
+    {
+      "line_no": "97",
+      "meter": 67485
+    }
+  ]
+}

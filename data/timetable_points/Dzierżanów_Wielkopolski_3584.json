@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709568,
+  "type": "TIMETABLE_POINT",
+  "name": "Dzier\u017can\u00f3w Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 171104
+    },
+    {
+      "line_no": "14",
+      "meter": 171120
+    },
+    {
+      "line_no": "14",
+      "meter": 171120
+    }
+  ]
+}

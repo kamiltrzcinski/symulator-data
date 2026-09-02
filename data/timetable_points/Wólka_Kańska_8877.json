@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714861,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u00f3lka Ka\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 216955
+    },
+    {
+      "line_no": "7",
+      "meter": 216955
+    },
+    {
+      "line_no": "7",
+      "meter": 216971
+    }
+  ]
+}

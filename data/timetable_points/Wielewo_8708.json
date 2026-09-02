@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714692,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "205",
+      "meter": 50267
+    },
+    {
+      "line_no": "353",
+      "meter": 386637
+    }
+  ]
+}

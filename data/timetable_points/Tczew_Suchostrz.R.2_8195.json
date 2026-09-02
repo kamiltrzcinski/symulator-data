@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714179,
+  "type": "TIMETABLE_POINT",
+  "name": "Tczew Suchostrz.R.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 3568
+    },
+    {
+      "line_no": "203",
+      "meter": 3568
+    },
+    {
+      "line_no": "730",
+      "meter": 6562
+    }
+  ]
+}

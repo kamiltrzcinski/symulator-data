@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711704,
+  "type": "TIMETABLE_POINT",
+  "name": "Mak\u00f3w Podhala\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 7613
+    },
+    {
+      "line_no": "98",
+      "meter": 7613
+    },
+    {
+      "line_no": "98",
+      "meter": 7613
+    }
+  ]
+}

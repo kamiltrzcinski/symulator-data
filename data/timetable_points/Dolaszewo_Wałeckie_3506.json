@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709490,
+  "type": "TIMETABLE_POINT",
+  "name": "Dolaszewo Wa\u0142eckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 3854
+    },
+    {
+      "line_no": "403",
+      "meter": 3854
+    }
+  ]
+}

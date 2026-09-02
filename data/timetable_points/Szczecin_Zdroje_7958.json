@@ -1,0 +1,64 @@
+{
+  "uid": 3453153713942,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Zdroje",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 201165
+    },
+    {
+      "line_no": "351",
+      "meter": 201165
+    },
+    {
+      "line_no": "351",
+      "meter": 201165
+    },
+    {
+      "line_no": "351",
+      "meter": 201165
+    },
+    {
+      "line_no": "351",
+      "meter": 201929
+    },
+    {
+      "line_no": "351",
+      "meter": 201929
+    },
+    {
+      "line_no": "351",
+      "meter": 201929
+    },
+    {
+      "line_no": "351",
+      "meter": 201929
+    },
+    {
+      "line_no": "351",
+      "meter": 201929
+    },
+    {
+      "line_no": "428",
+      "meter": 2670
+    },
+    {
+      "line_no": "428",
+      "meter": 2670
+    },
+    {
+      "line_no": "428",
+      "meter": 3439
+    },
+    {
+      "line_no": "428",
+      "meter": 3439
+    },
+    {
+      "line_no": "428",
+      "meter": 3439
+    }
+  ]
+}

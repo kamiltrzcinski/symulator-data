@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713468,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142omniki Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 292211
+    },
+    {
+      "line_no": "8",
+      "meter": 292211
+    },
+    {
+      "line_no": "8",
+      "meter": 292211
+    },
+    {
+      "line_no": "8",
+      "meter": 292211
+    },
+    {
+      "line_no": "8",
+      "meter": 292211
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714128,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 33420
+    },
+    {
+      "line_no": "131",
+      "meter": 33426
+    },
+    {
+      "line_no": "131",
+      "meter": 33426
+    },
+    {
+      "line_no": "182",
+      "meter": -577
+    },
+    {
+      "line_no": "182",
+      "meter": -571
+    }
+  ]
+}

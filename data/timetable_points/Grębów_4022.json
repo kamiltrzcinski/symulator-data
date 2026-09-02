@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710006,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr\u0119b\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 7389
+    },
+    {
+      "line_no": "74",
+      "meter": 7389
+    },
+    {
+      "line_no": "74",
+      "meter": 7389
+    },
+    {
+      "line_no": "78",
+      "meter": 10783
+    },
+    {
+      "line_no": "78",
+      "meter": 10783
+    },
+    {
+      "line_no": "84",
+      "meter": 395
+    }
+  ]
+}

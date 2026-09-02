@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708942,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzuchowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "241",
+      "meter": 7962
+    },
+    {
+      "line_no": "241",
+      "meter": 7962
+    }
+  ]
+}

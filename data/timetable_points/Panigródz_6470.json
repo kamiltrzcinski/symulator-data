@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712454,
+  "type": "TIMETABLE_POINT",
+  "name": "Panigr\u00f3dz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 76142
+    },
+    {
+      "line_no": "356",
+      "meter": 76142
+    }
+  ]
+}

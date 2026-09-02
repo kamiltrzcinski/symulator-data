@@ -1,0 +1,48 @@
+{
+  "uid": 3453153710151,
+  "type": "TIMETABLE_POINT",
+  "name": "I\u0142awa G\u0142\u00f3wna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 208976
+    },
+    {
+      "line_no": "9",
+      "meter": 208976
+    },
+    {
+      "line_no": "9",
+      "meter": 208977
+    },
+    {
+      "line_no": "353",
+      "meter": 228770
+    },
+    {
+      "line_no": "353",
+      "meter": 228770
+    },
+    {
+      "line_no": "353",
+      "meter": 229672
+    },
+    {
+      "line_no": "967",
+      "meter": 2191
+    },
+    {
+      "line_no": "967",
+      "meter": 2191
+    },
+    {
+      "line_no": "968",
+      "meter": 1000
+    },
+    {
+      "line_no": "968",
+      "meter": 1000
+    }
+  ]
+}

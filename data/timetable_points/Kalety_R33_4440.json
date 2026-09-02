@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710424,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalety R33",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "129",
+      "meter": 48725
+    },
+    {
+      "line_no": "143",
+      "meter": 759
+    },
+    {
+      "line_no": "143",
+      "meter": 759
+    }
+  ]
+}

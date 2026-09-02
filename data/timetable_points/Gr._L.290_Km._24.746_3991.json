@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709975,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr. L.290 Km. 24.746",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "290",
+      "meter": 24674
+    },
+    {
+      "line_no": "290",
+      "meter": 24674
+    },
+    {
+      "line_no": "290",
+      "meter": 24746
+    },
+    {
+      "line_no": "785",
+      "meter": 24674
+    },
+    {
+      "line_no": "785",
+      "meter": 24674
+    },
+    {
+      "line_no": "785",
+      "meter": 24746
+    }
+  ]
+}

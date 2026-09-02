@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710181,
+  "type": "TIMETABLE_POINT",
+  "name": "Iwiny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 6266
+    },
+    {
+      "line_no": "276",
+      "meter": 6266
+    }
+  ]
+}

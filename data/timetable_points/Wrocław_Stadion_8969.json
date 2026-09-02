@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714953,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Stadion",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 8629
+    },
+    {
+      "line_no": "273",
+      "meter": 8629
+    }
+  ]
+}

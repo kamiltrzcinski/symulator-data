@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709732,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Or\u0142owo SKM",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 15710
+    },
+    {
+      "line_no": "250",
+      "meter": 15710
+    },
+    {
+      "line_no": "250",
+      "meter": 15749
+    }
+  ]
+}

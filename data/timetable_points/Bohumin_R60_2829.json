@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708813,
+  "type": "TIMETABLE_POINT",
+  "name": "Bohumin R60",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "479",
+      "meter": 276492
+    },
+    {
+      "line_no": "593",
+      "meter": 275300
+    }
+  ]
+}

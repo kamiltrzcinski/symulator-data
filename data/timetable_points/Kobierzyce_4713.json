@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710697,
+  "type": "TIMETABLE_POINT",
+  "name": "Kobierzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 20593
+    },
+    {
+      "line_no": "285",
+      "meter": 20593
+    },
+    {
+      "line_no": "285",
+      "meter": 20593
+    },
+    {
+      "line_no": "285",
+      "meter": 20593
+    },
+    {
+      "line_no": "285",
+      "meter": 20593
+    }
+  ]
+}

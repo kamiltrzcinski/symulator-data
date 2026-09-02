@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708527,
+  "type": "TIMETABLE_POINT",
+  "name": "Alwernia Z-dy Chemiczne ALVENTA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "103",
+      "meter": 15000
+    },
+    {
+      "line_no": "103",
+      "meter": 15000
+    },
+    {
+      "line_no": "103",
+      "meter": 17875
+    },
+    {
+      "line_no": "103",
+      "meter": 17875
+    }
+  ]
+}

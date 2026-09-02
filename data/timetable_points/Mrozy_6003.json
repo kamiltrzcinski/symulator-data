@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711987,
+  "type": "TIMETABLE_POINT",
+  "name": "Mrozy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 58685
+    },
+    {
+      "line_no": "2",
+      "meter": 58685
+    },
+    {
+      "line_no": "2",
+      "meter": 58685
+    },
+    {
+      "line_no": "2",
+      "meter": 58685
+    },
+    {
+      "line_no": "2",
+      "meter": 58685
+    }
+  ]
+}

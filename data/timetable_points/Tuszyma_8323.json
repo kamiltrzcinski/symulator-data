@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714307,
+  "type": "TIMETABLE_POINT",
+  "name": "Tuszyma",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 305890
+    },
+    {
+      "line_no": "25",
+      "meter": 305890
+    },
+    {
+      "line_no": "25",
+      "meter": 305890
+    },
+    {
+      "line_no": "25",
+      "meter": 305890
+    },
+    {
+      "line_no": "25",
+      "meter": 305918
+    },
+    {
+      "line_no": "25",
+      "meter": 305918
+    },
+    {
+      "line_no": "25",
+      "meter": 305918
+    }
+  ]
+}

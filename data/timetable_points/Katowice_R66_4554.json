@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710538,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice R66",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 318626
+    },
+    {
+      "line_no": "1",
+      "meter": 318626
+    },
+    {
+      "line_no": "1",
+      "meter": 318626
+    },
+    {
+      "line_no": "1",
+      "meter": 318626
+    },
+    {
+      "line_no": "713",
+      "meter": 0
+    },
+    {
+      "line_no": "713",
+      "meter": 0
+    },
+    {
+      "line_no": "713",
+      "meter": 0
+    }
+  ]
+}

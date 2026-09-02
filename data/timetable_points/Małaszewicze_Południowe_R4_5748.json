@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711732,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142aszewicze Po\u0142udniowe R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "865",
+      "meter": 197873
+    },
+    {
+      "line_no": "865",
+      "meter": 198125
+    },
+    {
+      "line_no": "865",
+      "meter": 198125
+    },
+    {
+      "line_no": "866",
+      "meter": 197873
+    },
+    {
+      "line_no": "866",
+      "meter": 198125
+    },
+    {
+      "line_no": "866",
+      "meter": 198125
+    }
+  ]
+}

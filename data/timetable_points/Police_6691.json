@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712675,
+  "type": "TIMETABLE_POINT",
+  "name": "Police",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 23399
+    },
+    {
+      "line_no": "406",
+      "meter": 23399
+    },
+    {
+      "line_no": "406",
+      "meter": 23399
+    },
+    {
+      "line_no": "406",
+      "meter": 23399
+    },
+    {
+      "line_no": "431",
+      "meter": 378
+    },
+    {
+      "line_no": "431",
+      "meter": 378
+    },
+    {
+      "line_no": "431",
+      "meter": 378
+    },
+    {
+      "line_no": "431",
+      "meter": 378
+    }
+  ]
+}

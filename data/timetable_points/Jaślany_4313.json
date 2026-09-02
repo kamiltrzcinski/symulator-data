@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710297,
+  "type": "TIMETABLE_POINT",
+  "name": "Ja\u015blany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 279345
+    },
+    {
+      "line_no": "25",
+      "meter": 279345
+    },
+    {
+      "line_no": "25",
+      "meter": 279345
+    },
+    {
+      "line_no": "25",
+      "meter": 279507
+    },
+    {
+      "line_no": "25",
+      "meter": 279507
+    },
+    {
+      "line_no": "25",
+      "meter": 279507
+    }
+  ]
+}

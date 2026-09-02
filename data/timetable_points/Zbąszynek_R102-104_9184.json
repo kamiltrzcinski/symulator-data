@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715168,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szynek R102-104",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 384655
+    },
+    {
+      "line_no": "367",
+      "meter": 1033
+    },
+    {
+      "line_no": "367",
+      "meter": 1033
+    },
+    {
+      "line_no": "367",
+      "meter": 1033
+    },
+    {
+      "line_no": "820",
+      "meter": 1941
+    }
+  ]
+}

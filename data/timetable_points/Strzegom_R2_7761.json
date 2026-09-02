@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713745,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzegom R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 247016
+    },
+    {
+      "line_no": "302",
+      "meter": 36500
+    },
+    {
+      "line_no": "302",
+      "meter": 36500
+    },
+    {
+      "line_no": "302",
+      "meter": 36500
+    }
+  ]
+}

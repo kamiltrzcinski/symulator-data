@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712353,
+  "type": "TIMETABLE_POINT",
+  "name": "Osiecznica Kliczk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    },
+    {
+      "line_no": "283",
+      "meter": 71549
+    }
+  ]
+}

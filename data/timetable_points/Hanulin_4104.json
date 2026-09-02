@@ -1,0 +1,56 @@
+{
+  "uid": 3453153710088,
+  "type": "TIMETABLE_POINT",
+  "name": "Hanulin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 42420
+    },
+    {
+      "line_no": "272",
+      "meter": 42420
+    },
+    {
+      "line_no": "272",
+      "meter": 42935
+    },
+    {
+      "line_no": "812",
+      "meter": 2962
+    },
+    {
+      "line_no": "812",
+      "meter": 2962
+    },
+    {
+      "line_no": "812",
+      "meter": 3359
+    },
+    {
+      "line_no": "812",
+      "meter": 3448
+    },
+    {
+      "line_no": "813",
+      "meter": 1202
+    },
+    {
+      "line_no": "813",
+      "meter": 1202
+    },
+    {
+      "line_no": "814",
+      "meter": 944
+    },
+    {
+      "line_no": "814",
+      "meter": 1418
+    },
+    {
+      "line_no": "814",
+      "meter": 1418
+    }
+  ]
+}

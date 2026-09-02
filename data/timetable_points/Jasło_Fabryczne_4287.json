@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710271,
+  "type": "TIMETABLE_POINT",
+  "name": "Jas\u0142o Fabryczne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "106",
+      "meter": 65125
+    },
+    {
+      "line_no": "106",
+      "meter": 65125
+    }
+  ]
+}

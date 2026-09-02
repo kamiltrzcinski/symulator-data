@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714213,
+  "type": "TIMETABLE_POINT",
+  "name": "Toru\u0144 Czerniewice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 103249
+    },
+    {
+      "line_no": "18",
+      "meter": 103249
+    }
+  ]
+}

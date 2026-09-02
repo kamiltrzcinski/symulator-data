@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712970,
+  "type": "TIMETABLE_POINT",
+  "name": "Radom Potkan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 82745
+    },
+    {
+      "line_no": "22",
+      "meter": 82745
+    },
+    {
+      "line_no": "22",
+      "meter": 82770
+    },
+    {
+      "line_no": "22",
+      "meter": 82770
+    },
+    {
+      "line_no": "22",
+      "meter": 82770
+    }
+  ]
+}

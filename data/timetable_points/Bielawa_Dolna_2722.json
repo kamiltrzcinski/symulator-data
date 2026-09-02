@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708706,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielawa Dolna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "295",
+      "meter": 12540
+    },
+    {
+      "line_no": "295",
+      "meter": 12540
+    }
+  ]
+}

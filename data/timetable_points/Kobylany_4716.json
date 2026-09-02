@@ -1,0 +1,56 @@
+{
+  "uid": 3453153710700,
+  "type": "TIMETABLE_POINT",
+  "name": "Kobylany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 203900
+    },
+    {
+      "line_no": "2",
+      "meter": 204024
+    },
+    {
+      "line_no": "2",
+      "meter": 204024
+    },
+    {
+      "line_no": "2",
+      "meter": 204024
+    },
+    {
+      "line_no": "2",
+      "meter": 204024
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    },
+    {
+      "line_no": "60",
+      "meter": 205248
+    }
+  ]
+}

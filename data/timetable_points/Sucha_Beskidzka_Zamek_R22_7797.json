@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713781,
+  "type": "TIMETABLE_POINT",
+  "name": "Sucha Beskidzka Zamek R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 1938
+    },
+    {
+      "line_no": "98",
+      "meter": 1938
+    },
+    {
+      "line_no": "98",
+      "meter": 1938
+    },
+    {
+      "line_no": "625",
+      "meter": 659
+    },
+    {
+      "line_no": "625",
+      "meter": 659
+    },
+    {
+      "line_no": "625",
+      "meter": 659
+    }
+  ]
+}

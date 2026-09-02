@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714517,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R97",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "456",
+      "meter": 16056
+    },
+    {
+      "line_no": "456",
+      "meter": 16056
+    },
+    {
+      "line_no": "834",
+      "meter": 16056
+    },
+    {
+      "line_no": "834",
+      "meter": 16056
+    },
+    {
+      "line_no": "834",
+      "meter": 16056
+    },
+    {
+      "line_no": "834",
+      "meter": 16056
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715191,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdu\u0144ska Wola R33",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 42656
+    },
+    {
+      "line_no": "14",
+      "meter": 42667
+    },
+    {
+      "line_no": "14",
+      "meter": 42667
+    },
+    {
+      "line_no": "14",
+      "meter": 42674
+    },
+    {
+      "line_no": "739",
+      "meter": 5205
+    },
+    {
+      "line_no": "739",
+      "meter": 5205
+    },
+    {
+      "line_no": "739",
+      "meter": 5214
+    },
+    {
+      "line_no": "810",
+      "meter": -296
+    }
+  ]
+}

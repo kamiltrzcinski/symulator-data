@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712576,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0142awa G\u00f3rna R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 197800
+    }
+  ]
+}

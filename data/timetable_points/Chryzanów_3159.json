@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709143,
+  "type": "TIMETABLE_POINT",
+  "name": "Chryzan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "59",
+      "meter": 27051
+    },
+    {
+      "line_no": "910",
+      "meter": 2298
+    }
+  ]
+}

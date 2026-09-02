@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713069,
+  "type": "TIMETABLE_POINT",
+  "name": "Rogo\u017anica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 253624
+    }
+  ]
+}

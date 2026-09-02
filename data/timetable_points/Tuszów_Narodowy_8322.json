@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714306,
+  "type": "TIMETABLE_POINT",
+  "name": "Tusz\u00f3w Narodowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 282548
+    },
+    {
+      "line_no": "25",
+      "meter": 282548
+    },
+    {
+      "line_no": "25",
+      "meter": 282548
+    },
+    {
+      "line_no": "25",
+      "meter": 282620
+    },
+    {
+      "line_no": "25",
+      "meter": 282620
+    },
+    {
+      "line_no": "25",
+      "meter": 282620
+    }
+  ]
+}

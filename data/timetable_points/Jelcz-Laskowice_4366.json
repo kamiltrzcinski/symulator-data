@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710350,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelcz-Laskowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 67379
+    },
+    {
+      "line_no": "277",
+      "meter": 67379
+    },
+    {
+      "line_no": "277",
+      "meter": 67379
+    },
+    {
+      "line_no": "277",
+      "meter": 67379
+    },
+    {
+      "line_no": "277",
+      "meter": 67379
+    },
+    {
+      "line_no": "277",
+      "meter": 67379
+    },
+    {
+      "line_no": "277",
+      "meter": 67379
+    }
+  ]
+}

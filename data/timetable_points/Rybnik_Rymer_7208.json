@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713192,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Rymer",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "158",
+      "meter": 1763
+    },
+    {
+      "line_no": "158",
+      "meter": 1763
+    },
+    {
+      "line_no": "158",
+      "meter": 1763
+    },
+    {
+      "line_no": "158",
+      "meter": 1868
+    }
+  ]
+}

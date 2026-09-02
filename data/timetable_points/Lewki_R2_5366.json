@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711350,
+  "type": "TIMETABLE_POINT",
+  "name": "Lewki R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 27312
+    },
+    {
+      "line_no": "32",
+      "meter": 27312
+    },
+    {
+      "line_no": "32",
+      "meter": 27312
+    },
+    {
+      "line_no": "32",
+      "meter": 27312
+    },
+    {
+      "line_no": "32",
+      "meter": 27319
+    },
+    {
+      "line_no": "52",
+      "meter": -167
+    },
+    {
+      "line_no": "52",
+      "meter": -151
+    },
+    {
+      "line_no": "52",
+      "meter": -151
+    }
+  ]
+}

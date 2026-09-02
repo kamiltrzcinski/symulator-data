@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713361,
+  "type": "TIMETABLE_POINT",
+  "name": "Sierak\u00f3w \u015al\u0105ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 34996
+    },
+    {
+      "line_no": "143",
+      "meter": 34996
+    },
+    {
+      "line_no": "143",
+      "meter": 34996
+    },
+    {
+      "line_no": "143",
+      "meter": 34996
+    },
+    {
+      "line_no": "143",
+      "meter": 34996
+    }
+  ]
+}

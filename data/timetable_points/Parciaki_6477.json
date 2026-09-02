@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712461,
+  "type": "TIMETABLE_POINT",
+  "name": "Parciaki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 37914
+    },
+    {
+      "line_no": "35",
+      "meter": 37914
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711287,
+  "type": "TIMETABLE_POINT",
+  "name": "Laski Tucholskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 31388
+    }
+  ]
+}

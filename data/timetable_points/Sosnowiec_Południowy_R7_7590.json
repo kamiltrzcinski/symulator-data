@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713574,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Po\u0142udniowy R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 82334
+    },
+    {
+      "line_no": "62",
+      "meter": 82334
+    },
+    {
+      "line_no": "660",
+      "meter": -399
+    },
+    {
+      "line_no": "660",
+      "meter": -399
+    }
+  ]
+}

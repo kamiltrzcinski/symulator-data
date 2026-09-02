@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715147,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawid\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "344",
+      "meter": 2812
+    },
+    {
+      "line_no": "344",
+      "meter": 2812
+    },
+    {
+      "line_no": "344",
+      "meter": 2812
+    },
+    {
+      "line_no": "344",
+      "meter": 2812
+    },
+    {
+      "line_no": "344",
+      "meter": 2812
+    },
+    {
+      "line_no": "344",
+      "meter": 2812
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714235,
+  "type": "TIMETABLE_POINT",
+  "name": "Trawniki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 211731
+    },
+    {
+      "line_no": "7",
+      "meter": 211731
+    }
+  ]
+}

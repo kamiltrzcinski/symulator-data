@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713880,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin G\u0142\u00f3wny R131",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 355818
+    },
+    {
+      "line_no": "273",
+      "meter": 355819
+    },
+    {
+      "line_no": "351",
+      "meter": 213585
+    },
+    {
+      "line_no": "406",
+      "meter": -89
+    },
+    {
+      "line_no": "406",
+      "meter": -89
+    }
+  ]
+}

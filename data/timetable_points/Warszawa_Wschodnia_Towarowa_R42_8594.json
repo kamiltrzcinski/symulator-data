@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714578,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R42",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "506",
+      "meter": 6773
+    },
+    {
+      "line_no": "506",
+      "meter": 6773
+    },
+    {
+      "line_no": "844",
+      "meter": -359
+    },
+    {
+      "line_no": "901",
+      "meter": 7580
+    },
+    {
+      "line_no": "901",
+      "meter": 7613
+    }
+  ]
+}

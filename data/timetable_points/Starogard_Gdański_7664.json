@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713648,
+  "type": "TIMETABLE_POINT",
+  "name": "Starogard Gda\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 23972
+    },
+    {
+      "line_no": "203",
+      "meter": 23972
+    },
+    {
+      "line_no": "203",
+      "meter": 23972
+    },
+    {
+      "line_no": "243",
+      "meter": 23987
+    },
+    {
+      "line_no": "243",
+      "meter": 23987
+    }
+  ]
+}

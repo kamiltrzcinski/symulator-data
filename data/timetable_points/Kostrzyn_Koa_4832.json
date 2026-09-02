@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710816,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn Koa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 340099
+    },
+    {
+      "line_no": "203",
+      "meter": 340099
+    },
+    {
+      "line_no": "203",
+      "meter": 340099
+    },
+    {
+      "line_no": "827",
+      "meter": 1045
+    },
+    {
+      "line_no": "827",
+      "meter": 1045
+    }
+  ]
+}

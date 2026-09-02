@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712492,
+  "type": "TIMETABLE_POINT",
+  "name": "Pawonk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 161223
+    },
+    {
+      "line_no": "61",
+      "meter": 161223
+    },
+    {
+      "line_no": "61",
+      "meter": 161223
+    },
+    {
+      "line_no": "61",
+      "meter": 161223
+    },
+    {
+      "line_no": "61",
+      "meter": 161223
+    }
+  ]
+}

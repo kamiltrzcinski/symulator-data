@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713141,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudna Gwizdan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 77651
+    },
+    {
+      "line_no": "273",
+      "meter": 77651
+    },
+    {
+      "line_no": "273",
+      "meter": 77651
+    },
+    {
+      "line_no": "273",
+      "meter": 77651
+    },
+    {
+      "line_no": "289",
+      "meter": 39065
+    },
+    {
+      "line_no": "289",
+      "meter": 39065
+    },
+    {
+      "line_no": "289",
+      "meter": 39065
+    },
+    {
+      "line_no": "289",
+      "meter": 39065
+    }
+  ]
+}

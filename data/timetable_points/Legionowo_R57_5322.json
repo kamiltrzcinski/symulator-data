@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711306,
+  "type": "TIMETABLE_POINT",
+  "name": "Legionowo R57",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "456",
+      "meter": 24412
+    },
+    {
+      "line_no": "456",
+      "meter": 26412
+    },
+    {
+      "line_no": "456",
+      "meter": 26412
+    },
+    {
+      "line_no": "511",
+      "meter": 0
+    },
+    {
+      "line_no": "511",
+      "meter": 0
+    }
+  ]
+}

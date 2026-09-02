@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708794,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogdaniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 308214
+    },
+    {
+      "line_no": "203",
+      "meter": 308214
+    }
+  ]
+}

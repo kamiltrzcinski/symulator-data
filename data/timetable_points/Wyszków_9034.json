@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715018,
+  "type": "TIMETABLE_POINT",
+  "name": "Wyszk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 20568
+    },
+    {
+      "line_no": "29",
+      "meter": 20568
+    },
+    {
+      "line_no": "29",
+      "meter": 20568
+    }
+  ]
+}

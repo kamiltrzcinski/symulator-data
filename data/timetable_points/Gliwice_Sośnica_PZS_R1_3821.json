@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709805,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice So\u015bnica PZS R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 20069
+    },
+    {
+      "line_no": "676",
+      "meter": 10
+    },
+    {
+      "line_no": "676",
+      "meter": 10
+    },
+    {
+      "line_no": "676",
+      "meter": 10
+    },
+    {
+      "line_no": "676",
+      "meter": 10
+    }
+  ]
+}

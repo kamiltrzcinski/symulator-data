@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713155,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudziniec Gl. R37",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "153",
+      "meter": 19427
+    },
+    {
+      "line_no": "153",
+      "meter": 19427
+    },
+    {
+      "line_no": "199",
+      "meter": 49055
+    }
+  ]
+}

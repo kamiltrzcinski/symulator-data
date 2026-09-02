@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709119,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Stary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 12210
+    },
+    {
+      "line_no": "131",
+      "meter": 12210
+    },
+    {
+      "line_no": "131",
+      "meter": 12210
+    },
+    {
+      "line_no": "131",
+      "meter": 12372
+    },
+    {
+      "line_no": "131",
+      "meter": 12372
+    },
+    {
+      "line_no": "145",
+      "meter": 571
+    },
+    {
+      "line_no": "145",
+      "meter": 571
+    },
+    {
+      "line_no": "145",
+      "meter": 1332
+    },
+    {
+      "line_no": "161",
+      "meter": 12126
+    },
+    {
+      "line_no": "161",
+      "meter": 12126
+    },
+    {
+      "line_no": "161",
+      "meter": 12126
+    },
+    {
+      "line_no": "161",
+      "meter": 12126
+    },
+    {
+      "line_no": "161",
+      "meter": 12505
+    },
+    {
+      "line_no": "161",
+      "meter": 12505
+    },
+    {
+      "line_no": "161",
+      "meter": 12505
+    }
+  ]
+}

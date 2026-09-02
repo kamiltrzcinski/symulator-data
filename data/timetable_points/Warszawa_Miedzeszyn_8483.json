@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714467,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Miedzeszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 19195
+    },
+    {
+      "line_no": "7",
+      "meter": 19195
+    },
+    {
+      "line_no": "7",
+      "meter": 19504
+    }
+  ]
+}

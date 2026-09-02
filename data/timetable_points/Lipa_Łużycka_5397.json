@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711381,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipa \u0141u\u017cycka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "380",
+      "meter": 29163
+    },
+    {
+      "line_no": "380",
+      "meter": 29163
+    }
+  ]
+}

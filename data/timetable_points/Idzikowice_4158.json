@@ -1,0 +1,68 @@
+{
+  "uid": 3453153710142,
+  "type": "TIMETABLE_POINT",
+  "name": "Idzikowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 80608
+    },
+    {
+      "line_no": "4",
+      "meter": 80608
+    },
+    {
+      "line_no": "4",
+      "meter": 80739
+    },
+    {
+      "line_no": "4",
+      "meter": 80739
+    },
+    {
+      "line_no": "4",
+      "meter": 80739
+    },
+    {
+      "line_no": "4",
+      "meter": 80739
+    },
+    {
+      "line_no": "573",
+      "meter": 631
+    },
+    {
+      "line_no": "573",
+      "meter": 631
+    },
+    {
+      "line_no": "573",
+      "meter": 632
+    },
+    {
+      "line_no": "573",
+      "meter": 632
+    },
+    {
+      "line_no": "574",
+      "meter": 4156
+    },
+    {
+      "line_no": "574",
+      "meter": 4156
+    },
+    {
+      "line_no": "574",
+      "meter": 4219
+    },
+    {
+      "line_no": "574",
+      "meter": 4596
+    },
+    {
+      "line_no": "574",
+      "meter": 4596
+    }
+  ]
+}

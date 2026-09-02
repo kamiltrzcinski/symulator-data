@@ -1,0 +1,52 @@
+{
+  "uid": 3453153710503,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Ligota",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 6080
+    },
+    {
+      "line_no": "139",
+      "meter": 6080
+    },
+    {
+      "line_no": "139",
+      "meter": 6080
+    },
+    {
+      "line_no": "140",
+      "meter": 660
+    },
+    {
+      "line_no": "140",
+      "meter": 660
+    },
+    {
+      "line_no": "141",
+      "meter": 0
+    },
+    {
+      "line_no": "141",
+      "meter": 0
+    },
+    {
+      "line_no": "142",
+      "meter": 757
+    },
+    {
+      "line_no": "142",
+      "meter": 757
+    },
+    {
+      "line_no": "864",
+      "meter": -280
+    },
+    {
+      "line_no": "864",
+      "meter": -280
+    }
+  ]
+}

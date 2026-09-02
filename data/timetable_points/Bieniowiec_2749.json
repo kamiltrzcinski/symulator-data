@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708733,
+  "type": "TIMETABLE_POINT",
+  "name": "Bieniowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 12650
+    },
+    {
+      "line_no": "157",
+      "meter": 12650
+    },
+    {
+      "line_no": "157",
+      "meter": 12650
+    },
+    {
+      "line_no": "694",
+      "meter": 3160
+    },
+    {
+      "line_no": "694",
+      "meter": 3160
+    },
+    {
+      "line_no": "694",
+      "meter": 3160
+    }
+  ]
+}

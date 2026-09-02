@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714377,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142brzych G\u0142. R118",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 79350
+    },
+    {
+      "line_no": "274",
+      "meter": 79350
+    },
+    {
+      "line_no": "286",
+      "meter": 51432
+    }
+  ]
+}

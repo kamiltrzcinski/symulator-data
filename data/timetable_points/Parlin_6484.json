@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712468,
+  "type": "TIMETABLE_POINT",
+  "name": "Parlin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 403691
+    },
+    {
+      "line_no": "131",
+      "meter": 403691
+    }
+  ]
+}

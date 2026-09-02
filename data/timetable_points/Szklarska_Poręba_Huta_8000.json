@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713984,
+  "type": "TIMETABLE_POINT",
+  "name": "Szklarska Por\u0119ba Huta",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 30050
+    },
+    {
+      "line_no": "311",
+      "meter": 31062
+    }
+  ]
+}

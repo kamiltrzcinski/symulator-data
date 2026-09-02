@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709445,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bowy Gaj",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "283",
+      "meter": 26633
+    },
+    {
+      "line_no": "283",
+      "meter": 26633
+    },
+    {
+      "line_no": "283",
+      "meter": 26633
+    },
+    {
+      "line_no": "283",
+      "meter": 26633
+    },
+    {
+      "line_no": "283",
+      "meter": 26695
+    },
+    {
+      "line_no": "283",
+      "meter": 26695
+    },
+    {
+      "line_no": "283",
+      "meter": 26695
+    }
+  ]
+}

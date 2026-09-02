@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709770,
+  "type": "TIMETABLE_POINT",
+  "name": "Giera\u0142t\u00f3w Wykroty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "279",
+      "meter": 12132
+    },
+    {
+      "line_no": "279",
+      "meter": 12132
+    },
+    {
+      "line_no": "279",
+      "meter": 12132
+    }
+  ]
+}

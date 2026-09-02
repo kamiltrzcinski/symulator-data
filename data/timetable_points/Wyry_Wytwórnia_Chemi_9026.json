@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715010,
+  "type": "TIMETABLE_POINT",
+  "name": "Wyry Wytw\u00f3rnia Chemi",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "169",
+      "meter": 6410
+    },
+    {
+      "line_no": "169",
+      "meter": 6410
+    }
+  ]
+}

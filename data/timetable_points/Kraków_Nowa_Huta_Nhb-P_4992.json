@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710976,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta Nhb-P",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "940",
+      "meter": 505
+    },
+    {
+      "line_no": "940",
+      "meter": 505
+    }
+  ]
+}

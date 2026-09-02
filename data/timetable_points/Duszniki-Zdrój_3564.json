@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709548,
+  "type": "TIMETABLE_POINT",
+  "name": "Duszniki-Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "309",
+      "meter": 22137
+    },
+    {
+      "line_no": "309",
+      "meter": 22137
+    },
+    {
+      "line_no": "309",
+      "meter": 22137
+    }
+  ]
+}

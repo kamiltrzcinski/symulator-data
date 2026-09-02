@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710877,
+  "type": "TIMETABLE_POINT",
+  "name": "Koz\u0142owo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 14726
+    },
+    {
+      "line_no": "216",
+      "meter": 14726
+    },
+    {
+      "line_no": "216",
+      "meter": 14726
+    },
+    {
+      "line_no": "216",
+      "meter": 14923
+    },
+    {
+      "line_no": "216",
+      "meter": 14923
+    }
+  ]
+}

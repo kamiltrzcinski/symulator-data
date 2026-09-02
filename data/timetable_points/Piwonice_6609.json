@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712593,
+  "type": "TIMETABLE_POINT",
+  "name": "Piwonice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 107954
+    },
+    {
+      "line_no": "14",
+      "meter": 107954
+    }
+  ]
+}

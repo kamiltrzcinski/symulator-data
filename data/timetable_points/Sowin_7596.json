@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713580,
+  "type": "TIMETABLE_POINT",
+  "name": "Sowin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 25296
+    },
+    {
+      "line_no": "287",
+      "meter": 25341
+    },
+    {
+      "line_no": "287",
+      "meter": 25341
+    }
+  ]
+}

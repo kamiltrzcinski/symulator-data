@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712552,
+  "type": "TIMETABLE_POINT",
+  "name": "Pilawa Roz.34",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 97678
+    },
+    {
+      "line_no": "12",
+      "meter": 98810
+    },
+    {
+      "line_no": "12",
+      "meter": 98810
+    },
+    {
+      "line_no": "12",
+      "meter": 98810
+    },
+    {
+      "line_no": "12",
+      "meter": 98810
+    },
+    {
+      "line_no": "13",
+      "meter": 56335
+    },
+    {
+      "line_no": "13",
+      "meter": 56335
+    }
+  ]
+}

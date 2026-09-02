@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711042,
+  "type": "TIMETABLE_POINT",
+  "name": "Krapkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "306",
+      "meter": 6184
+    },
+    {
+      "line_no": "306",
+      "meter": 6184
+    },
+    {
+      "line_no": "306",
+      "meter": 6184
+    },
+    {
+      "line_no": "306",
+      "meter": 6184
+    },
+    {
+      "line_no": "306",
+      "meter": 6184
+    }
+  ]
+}

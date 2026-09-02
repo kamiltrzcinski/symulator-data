@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715007,
+  "type": "TIMETABLE_POINT",
+  "name": "Wylezin Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 28000
+    },
+    {
+      "line_no": "4",
+      "meter": 28000
+    },
+    {
+      "line_no": "4",
+      "meter": 28000
+    }
+  ]
+}

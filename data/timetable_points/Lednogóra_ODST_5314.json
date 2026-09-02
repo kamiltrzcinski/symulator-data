@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711298,
+  "type": "TIMETABLE_POINT",
+  "name": "Lednog\u00f3ra ODST",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 28808
+    },
+    {
+      "line_no": "353",
+      "meter": 28808
+    }
+  ]
+}

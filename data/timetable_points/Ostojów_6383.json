@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712367,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostoj\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 163303
+    },
+    {
+      "line_no": "8",
+      "meter": 163303
+    },
+    {
+      "line_no": "8",
+      "meter": 163303
+    },
+    {
+      "line_no": "8",
+      "meter": 163303
+    }
+  ]
+}

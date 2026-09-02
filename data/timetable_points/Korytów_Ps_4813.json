@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710797,
+  "type": "TIMETABLE_POINT",
+  "name": "Koryt\u00f3w Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 14200
+    },
+    {
+      "line_no": "4",
+      "meter": 14200
+    },
+    {
+      "line_no": "4",
+      "meter": 14200
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711743,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142ogoszcz PZS R35",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 28048
+    },
+    {
+      "line_no": "61",
+      "meter": 28048
+    },
+    {
+      "line_no": "934",
+      "meter": 1526
+    },
+    {
+      "line_no": "934",
+      "meter": 2005
+    },
+    {
+      "line_no": "934",
+      "meter": 2005
+    }
+  ]
+}

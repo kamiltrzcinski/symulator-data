@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712324,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Warsztaty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "300",
+      "meter": 3000
+    }
+  ]
+}

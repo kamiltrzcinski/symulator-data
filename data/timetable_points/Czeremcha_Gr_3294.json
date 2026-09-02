@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709278,
+  "type": "TIMETABLE_POINT",
+  "name": "Czeremcha (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "43",
+      "meter": 6157
+    },
+    {
+      "line_no": "43",
+      "meter": 6157
+    },
+    {
+      "line_no": "463",
+      "meter": 6157
+    },
+    {
+      "line_no": "463",
+      "meter": 540424
+    },
+    {
+      "line_no": "463",
+      "meter": 540424
+    }
+  ]
+}

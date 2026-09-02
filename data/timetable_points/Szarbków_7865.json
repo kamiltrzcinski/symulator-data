@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713849,
+  "type": "TIMETABLE_POINT",
+  "name": "Szarbk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 33922
+    },
+    {
+      "line_no": "73",
+      "meter": 33922
+    },
+    {
+      "line_no": "73",
+      "meter": 33922
+    },
+    {
+      "line_no": "73",
+      "meter": 33922
+    },
+    {
+      "line_no": "73",
+      "meter": 33922
+    },
+    {
+      "line_no": "73",
+      "meter": 33922
+    },
+    {
+      "line_no": "73",
+      "meter": 33922
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714503,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R201-R205",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 12509
+    },
+    {
+      "line_no": "20",
+      "meter": 12599
+    },
+    {
+      "line_no": "20",
+      "meter": 12599
+    },
+    {
+      "line_no": "501",
+      "meter": -97
+    },
+    {
+      "line_no": "501",
+      "meter": 0
+    },
+    {
+      "line_no": "501",
+      "meter": 0
+    }
+  ]
+}

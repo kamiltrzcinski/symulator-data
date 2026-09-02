@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713250,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzepin R152",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "821",
+      "meter": 6599
+    },
+    {
+      "line_no": "821",
+      "meter": 6628
+    },
+    {
+      "line_no": "822",
+      "meter": 239
+    },
+    {
+      "line_no": "822",
+      "meter": 249
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711268,
+  "type": "TIMETABLE_POINT",
+  "name": "L974 km:,113 PLK - Ziel.Kop.Sur.Min",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "974",
+      "meter": 113
+    },
+    {
+      "line_no": "974",
+      "meter": 113
+    }
+  ]
+}

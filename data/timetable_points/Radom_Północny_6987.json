@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712971,
+  "type": "TIMETABLE_POINT",
+  "name": "Radom P\u00f3\u0142nocny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 98670
+    },
+    {
+      "line_no": "8",
+      "meter": 98670
+    }
+  ]
+}

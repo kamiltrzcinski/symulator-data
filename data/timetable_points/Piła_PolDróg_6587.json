@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712571,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0142a PolDr\u00f3g",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 245503
+    },
+    {
+      "line_no": "18",
+      "meter": 245503
+    }
+  ]
+}

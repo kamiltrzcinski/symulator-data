@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712240,
+  "type": "TIMETABLE_POINT",
+  "name": "Okunica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "411",
+      "meter": 18900
+    },
+    {
+      "line_no": "411",
+      "meter": 18900
+    },
+    {
+      "line_no": "411",
+      "meter": 18900
+    },
+    {
+      "line_no": "411",
+      "meter": 18900
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709223,
+  "type": "TIMETABLE_POINT",
+  "name": "Cykarzew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 13412
+    },
+    {
+      "line_no": "146",
+      "meter": 13412
+    },
+    {
+      "line_no": "146",
+      "meter": 13412
+    },
+    {
+      "line_no": "146",
+      "meter": 13412
+    },
+    {
+      "line_no": "146",
+      "meter": 13412
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711825,
+  "type": "TIMETABLE_POINT",
+  "name": "Mielec Wolno\u015bci",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 292850
+    },
+    {
+      "line_no": "25",
+      "meter": 293850
+    }
+  ]
+}

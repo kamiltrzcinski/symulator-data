@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709540,
+  "type": "TIMETABLE_POINT",
+  "name": "Dubidze-Kolonia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 29290
+    },
+    {
+      "line_no": "146",
+      "meter": 29290
+    },
+    {
+      "line_no": "146",
+      "meter": 29403
+    },
+    {
+      "line_no": "146",
+      "meter": 29450
+    },
+    {
+      "line_no": "146",
+      "meter": 29450
+    },
+    {
+      "line_no": "146",
+      "meter": 29450
+    }
+  ]
+}

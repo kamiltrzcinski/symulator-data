@@ -1,0 +1,52 @@
+{
+  "uid": 3453153709243,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarna Tarnowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 98870
+    },
+    {
+      "line_no": "91",
+      "meter": 98870
+    },
+    {
+      "line_no": "91",
+      "meter": 98870
+    },
+    {
+      "line_no": "91",
+      "meter": 98876
+    },
+    {
+      "line_no": "91",
+      "meter": 98876
+    },
+    {
+      "line_no": "91",
+      "meter": 99354
+    },
+    {
+      "line_no": "91",
+      "meter": 99354
+    },
+    {
+      "line_no": "91",
+      "meter": 99354
+    },
+    {
+      "line_no": "91",
+      "meter": 99606
+    },
+    {
+      "line_no": "91",
+      "meter": 99606
+    },
+    {
+      "line_no": "91",
+      "meter": 99606
+    }
+  ]
+}

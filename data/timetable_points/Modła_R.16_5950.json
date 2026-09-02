@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711934,
+  "type": "TIMETABLE_POINT",
+  "name": "Mod\u0142a R.16",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 97032
+    },
+    {
+      "line_no": "275",
+      "meter": 97032
+    }
+  ]
+}

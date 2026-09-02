@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712951,
+  "type": "TIMETABLE_POINT",
+  "name": "Radiowo Bocznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "938",
+      "meter": 9154
+    },
+    {
+      "line_no": "938",
+      "meter": 9154
+    }
+  ]
+}

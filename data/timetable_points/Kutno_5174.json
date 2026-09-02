@@ -1,0 +1,84 @@
+{
+  "uid": 3453153711158,
+  "type": "TIMETABLE_POINT",
+  "name": "Kutno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 125903
+    },
+    {
+      "line_no": "3",
+      "meter": 125903
+    },
+    {
+      "line_no": "3",
+      "meter": 125903
+    },
+    {
+      "line_no": "3",
+      "meter": 125903
+    },
+    {
+      "line_no": "16",
+      "meter": 70983
+    },
+    {
+      "line_no": "16",
+      "meter": 71063
+    },
+    {
+      "line_no": "16",
+      "meter": 71063
+    },
+    {
+      "line_no": "16",
+      "meter": 71063
+    },
+    {
+      "line_no": "16",
+      "meter": 71063
+    },
+    {
+      "line_no": "18",
+      "meter": 0
+    },
+    {
+      "line_no": "18",
+      "meter": 0
+    },
+    {
+      "line_no": "18",
+      "meter": 314
+    },
+    {
+      "line_no": "18",
+      "meter": 314
+    },
+    {
+      "line_no": "33",
+      "meter": 0
+    },
+    {
+      "line_no": "33",
+      "meter": 0
+    },
+    {
+      "line_no": "33",
+      "meter": 244
+    },
+    {
+      "line_no": "921",
+      "meter": 125800
+    },
+    {
+      "line_no": "921",
+      "meter": 125800
+    },
+    {
+      "line_no": "921",
+      "meter": 125800
+    }
+  ]
+}

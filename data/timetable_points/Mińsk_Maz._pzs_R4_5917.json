@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711901,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0144sk Maz. pzs R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 39085
+    },
+    {
+      "line_no": "2",
+      "meter": 39085
+    },
+    {
+      "line_no": "2",
+      "meter": 39085
+    },
+    {
+      "line_no": "2",
+      "meter": 39085
+    },
+    {
+      "line_no": "2",
+      "meter": 39085
+    },
+    {
+      "line_no": "521",
+      "meter": 0
+    },
+    {
+      "line_no": "521",
+      "meter": 0
+    }
+  ]
+}

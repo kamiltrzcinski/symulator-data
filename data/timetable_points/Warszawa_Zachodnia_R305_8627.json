@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714611,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R305",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 4280
+    },
+    {
+      "line_no": "784",
+      "meter": 4280
+    }
+  ]
+}

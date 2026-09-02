@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710051,
+  "type": "TIMETABLE_POINT",
+  "name": "Grylewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 62067
+    },
+    {
+      "line_no": "356",
+      "meter": 62067
+    }
+  ]
+}

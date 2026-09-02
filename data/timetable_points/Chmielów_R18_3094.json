@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709078,
+  "type": "TIMETABLE_POINT",
+  "name": "Chmiel\u00f3w R18",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 260491
+    },
+    {
+      "line_no": "25",
+      "meter": 260491
+    },
+    {
+      "line_no": "25",
+      "meter": 260491
+    },
+    {
+      "line_no": "25",
+      "meter": 260491
+    },
+    {
+      "line_no": "933",
+      "meter": -1129
+    },
+    {
+      "line_no": "933",
+      "meter": -1129
+    }
+  ]
+}

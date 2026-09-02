@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715189,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdu\u0144ska Wola Karsznice R253",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 168502
+    },
+    {
+      "line_no": "131",
+      "meter": 168502
+    },
+    {
+      "line_no": "131",
+      "meter": 168505
+    },
+    {
+      "line_no": "739",
+      "meter": -301
+    },
+    {
+      "line_no": "739",
+      "meter": -301
+    },
+    {
+      "line_no": "739",
+      "meter": -300
+    }
+  ]
+}

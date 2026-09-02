@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710437,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalisz Winiary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 104699
+    },
+    {
+      "line_no": "14",
+      "meter": 104811
+    },
+    {
+      "line_no": "14",
+      "meter": 104811
+    }
+  ]
+}

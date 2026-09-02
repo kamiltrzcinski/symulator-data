@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714487,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Podskarbi\u0144ska R19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "547",
+      "meter": 6146
+    },
+    {
+      "line_no": "547",
+      "meter": 6146
+    },
+    {
+      "line_no": "547",
+      "meter": 6146
+    },
+    {
+      "line_no": "902",
+      "meter": 6146
+    },
+    {
+      "line_no": "902",
+      "meter": 6146
+    },
+    {
+      "line_no": "902",
+      "meter": 6146
+    }
+  ]
+}

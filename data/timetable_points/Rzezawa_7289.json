@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713273,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzezawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 43803
+    },
+    {
+      "line_no": "91",
+      "meter": 43803
+    },
+    {
+      "line_no": "91",
+      "meter": 44078
+    },
+    {
+      "line_no": "91",
+      "meter": 44078
+    },
+    {
+      "line_no": "91",
+      "meter": 44078
+    }
+  ]
+}

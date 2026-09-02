@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710592,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119pno KP1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 102134
+    },
+    {
+      "line_no": "181",
+      "meter": 102134
+    },
+    {
+      "line_no": "813",
+      "meter": 250
+    }
+  ]
+}

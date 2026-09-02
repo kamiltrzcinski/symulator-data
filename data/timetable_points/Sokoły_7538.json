@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713522,
+  "type": "TIMETABLE_POINT",
+  "name": "Soko\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 76500
+    },
+    {
+      "line_no": "36",
+      "meter": 76617
+    },
+    {
+      "line_no": "36",
+      "meter": 76617
+    },
+    {
+      "line_no": "36",
+      "meter": 76617
+    },
+    {
+      "line_no": "36",
+      "meter": 76617
+    },
+    {
+      "line_no": "36",
+      "meter": 76617
+    }
+  ]
+}

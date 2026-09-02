@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711605,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a D\u0105browa R62",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "540",
+      "meter": 4233
+    },
+    {
+      "line_no": "540",
+      "meter": 4233
+    },
+    {
+      "line_no": "939",
+      "meter": 0
+    }
+  ]
+}

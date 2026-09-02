@@ -1,0 +1,60 @@
+{
+  "uid": 3453153709705,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Zaspa Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "227",
+      "meter": 4424
+    },
+    {
+      "line_no": "227",
+      "meter": 4913
+    },
+    {
+      "line_no": "227",
+      "meter": 4913
+    },
+    {
+      "line_no": "249",
+      "meter": 4461
+    },
+    {
+      "line_no": "249",
+      "meter": 4461
+    },
+    {
+      "line_no": "249",
+      "meter": 4913
+    },
+    {
+      "line_no": "249",
+      "meter": 4913
+    },
+    {
+      "line_no": "249",
+      "meter": 4913
+    },
+    {
+      "line_no": "722",
+      "meter": 1
+    },
+    {
+      "line_no": "722",
+      "meter": 1
+    },
+    {
+      "line_no": "722",
+      "meter": 82
+    },
+    {
+      "line_no": "722",
+      "meter": 82
+    },
+    {
+      "line_no": "722",
+      "meter": 82
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712063,
+  "type": "TIMETABLE_POINT",
+  "name": "Nawcz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 86333
+    },
+    {
+      "line_no": "229",
+      "meter": 86333
+    },
+    {
+      "line_no": "229",
+      "meter": 86333
+    }
+  ]
+}

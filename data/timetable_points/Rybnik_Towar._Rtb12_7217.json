@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713201,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Towar. Rtb12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "862",
+      "meter": -1141
+    },
+    {
+      "line_no": "957",
+      "meter": 2970
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709980,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabiny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 105139
+    },
+    {
+      "line_no": "91",
+      "meter": 105189
+    },
+    {
+      "line_no": "91",
+      "meter": 105189
+    },
+    {
+      "line_no": "91",
+      "meter": 105189
+    },
+    {
+      "line_no": "91",
+      "meter": 105189
+    },
+    {
+      "line_no": "91",
+      "meter": 105273
+    },
+    {
+      "line_no": "91",
+      "meter": 105273
+    },
+    {
+      "line_no": "91",
+      "meter": 106023
+    },
+    {
+      "line_no": "91",
+      "meter": 106023
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712418,
+  "type": "TIMETABLE_POINT",
+  "name": "Otusz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 329408
+    },
+    {
+      "line_no": "3",
+      "meter": 329408
+    }
+  ]
+}

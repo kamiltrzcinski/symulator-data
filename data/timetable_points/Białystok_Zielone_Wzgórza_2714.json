@@ -1,0 +1,36 @@
+{
+  "uid": 3453153708698,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok Zielone Wzg\u00f3rza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 174288
+    },
+    {
+      "line_no": "6",
+      "meter": 174288
+    },
+    {
+      "line_no": "32",
+      "meter": 73986
+    },
+    {
+      "line_no": "32",
+      "meter": 73986
+    },
+    {
+      "line_no": "32",
+      "meter": 73986
+    },
+    {
+      "line_no": "38",
+      "meter": 3017
+    },
+    {
+      "line_no": "38",
+      "meter": 3017
+    }
+  ]
+}

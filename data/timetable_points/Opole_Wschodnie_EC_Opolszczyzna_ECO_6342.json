@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712326,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Wschodnie EC Opolszczyzna ECO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 7838
+    },
+    {
+      "line_no": "277",
+      "meter": 7838
+    },
+    {
+      "line_no": "277",
+      "meter": 7838
+    }
+  ]
+}

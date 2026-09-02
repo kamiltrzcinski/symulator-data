@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714009,
+  "type": "TIMETABLE_POINT",
+  "name": "Szymankowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 286748
+    },
+    {
+      "line_no": "9",
+      "meter": 286748
+    },
+    {
+      "line_no": "256",
+      "meter": 0
+    },
+    {
+      "line_no": "256",
+      "meter": 0
+    },
+    {
+      "line_no": "256",
+      "meter": 0
+    },
+    {
+      "line_no": "256",
+      "meter": 733
+    }
+  ]
+}

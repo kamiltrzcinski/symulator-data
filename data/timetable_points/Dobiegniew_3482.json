@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709466,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobiegniew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 106649
+    },
+    {
+      "line_no": "351",
+      "meter": 106651
+    },
+    {
+      "line_no": "351",
+      "meter": 106651
+    },
+    {
+      "line_no": "351",
+      "meter": 106651
+    },
+    {
+      "line_no": "351",
+      "meter": 106651
+    },
+    {
+      "line_no": "351",
+      "meter": 106651
+    }
+  ]
+}

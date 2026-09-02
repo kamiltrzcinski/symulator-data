@@ -1,0 +1,92 @@
+{
+  "uid": 3453153710098,
+  "type": "TIMETABLE_POINT",
+  "name": "Herby Nowe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 69439
+    },
+    {
+      "line_no": "131",
+      "meter": 69439
+    },
+    {
+      "line_no": "131",
+      "meter": 69439
+    },
+    {
+      "line_no": "131",
+      "meter": 69439
+    },
+    {
+      "line_no": "131",
+      "meter": 69439
+    },
+    {
+      "line_no": "131",
+      "meter": 69439
+    },
+    {
+      "line_no": "181",
+      "meter": 0
+    },
+    {
+      "line_no": "181",
+      "meter": 0
+    },
+    {
+      "line_no": "181",
+      "meter": 0
+    },
+    {
+      "line_no": "181",
+      "meter": 0
+    },
+    {
+      "line_no": "181",
+      "meter": 0
+    },
+    {
+      "line_no": "686",
+      "meter": -498
+    },
+    {
+      "line_no": "686",
+      "meter": -498
+    },
+    {
+      "line_no": "686",
+      "meter": -498
+    },
+    {
+      "line_no": "686",
+      "meter": -498
+    },
+    {
+      "line_no": "686",
+      "meter": 0
+    },
+    {
+      "line_no": "704",
+      "meter": 2154
+    },
+    {
+      "line_no": "704",
+      "meter": 2154
+    },
+    {
+      "line_no": "704",
+      "meter": 2154
+    },
+    {
+      "line_no": "704",
+      "meter": 2154
+    },
+    {
+      "line_no": "704",
+      "meter": 2398
+    }
+  ]
+}

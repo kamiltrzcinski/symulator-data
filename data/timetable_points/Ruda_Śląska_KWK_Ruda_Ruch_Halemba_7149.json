@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713133,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda \u015al\u0105ska KWK Ruda Ruch Halemba",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "894",
+      "meter": 3700
+    },
+    {
+      "line_no": "894",
+      "meter": 3700
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714945,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Popowice Wp3 PZS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 162607
+    },
+    {
+      "line_no": "143",
+      "meter": 162607
+    },
+    {
+      "line_no": "143",
+      "meter": 162655
+    },
+    {
+      "line_no": "143",
+      "meter": 162655
+    },
+    {
+      "line_no": "752",
+      "meter": 2650
+    },
+    {
+      "line_no": "752",
+      "meter": 2702
+    },
+    {
+      "line_no": "755",
+      "meter": 621
+    },
+    {
+      "line_no": "755",
+      "meter": 621
+    },
+    {
+      "line_no": "755",
+      "meter": 899
+    },
+    {
+      "line_no": "755",
+      "meter": 899
+    }
+  ]
+}

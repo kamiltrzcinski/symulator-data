@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709311,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwonka Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 328595
+    },
+    {
+      "line_no": "353",
+      "meter": 328595
+    }
+  ]
+}

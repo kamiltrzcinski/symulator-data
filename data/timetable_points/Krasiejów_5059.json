@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711043,
+  "type": "TIMETABLE_POINT",
+  "name": "Krasiej\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 52459
+    }
+  ]
+}

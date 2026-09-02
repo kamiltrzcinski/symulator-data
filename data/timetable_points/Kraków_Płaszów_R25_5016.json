@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711000,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w P\u0142asz\u00f3w R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 3688
+    },
+    {
+      "line_no": "91",
+      "meter": 3688
+    },
+    {
+      "line_no": "91",
+      "meter": 4547
+    },
+    {
+      "line_no": "91",
+      "meter": 4547
+    },
+    {
+      "line_no": "94",
+      "meter": -457
+    },
+    {
+      "line_no": "94",
+      "meter": 402
+    },
+    {
+      "line_no": "94",
+      "meter": 402
+    },
+    {
+      "line_no": "629",
+      "meter": 3688
+    },
+    {
+      "line_no": "629",
+      "meter": 3688
+    }
+  ]
+}

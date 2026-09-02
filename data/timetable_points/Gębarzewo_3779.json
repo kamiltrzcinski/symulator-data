@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709763,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0119barzewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 153395
+    },
+    {
+      "line_no": "281",
+      "meter": 153613
+    },
+    {
+      "line_no": "281",
+      "meter": 153613
+    },
+    {
+      "line_no": "281",
+      "meter": 153613
+    },
+    {
+      "line_no": "281",
+      "meter": 153623
+    }
+  ]
+}

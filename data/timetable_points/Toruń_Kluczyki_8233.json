@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714217,
+  "type": "TIMETABLE_POINT",
+  "name": "Toru\u0144 Kluczyki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 111741
+    },
+    {
+      "line_no": "18",
+      "meter": 111741
+    },
+    {
+      "line_no": "734",
+      "meter": 1970
+    }
+  ]
+}

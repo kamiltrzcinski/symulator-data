@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713709,
+  "type": "TIMETABLE_POINT",
+  "name": "Sto\u017cne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 36315
+    },
+    {
+      "line_no": "41",
+      "meter": 36315
+    },
+    {
+      "line_no": "41",
+      "meter": 36315
+    },
+    {
+      "line_no": "41",
+      "meter": 36315
+    }
+  ]
+}

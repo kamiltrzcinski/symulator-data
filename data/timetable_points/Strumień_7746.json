@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713730,
+  "type": "TIMETABLE_POINT",
+  "name": "Strumie\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 5552
+    },
+    {
+      "line_no": "157",
+      "meter": 5552
+    },
+    {
+      "line_no": "157",
+      "meter": 5552
+    }
+  ]
+}

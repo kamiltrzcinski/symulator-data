@@ -1,0 +1,48 @@
+{
+  "uid": 3453153712309,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Czarnow\u0105sy R21",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 12932
+    },
+    {
+      "line_no": "277",
+      "meter": 13086
+    },
+    {
+      "line_no": "277",
+      "meter": 13086
+    },
+    {
+      "line_no": "277",
+      "meter": 13086
+    },
+    {
+      "line_no": "277",
+      "meter": 13086
+    },
+    {
+      "line_no": "277",
+      "meter": 13086
+    },
+    {
+      "line_no": "977",
+      "meter": 0
+    },
+    {
+      "line_no": "977",
+      "meter": 1
+    },
+    {
+      "line_no": "977",
+      "meter": 1
+    },
+    {
+      "line_no": "977",
+      "meter": 1
+    }
+  ]
+}

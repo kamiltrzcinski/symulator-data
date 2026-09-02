@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712376,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostrowite ko\u0142o Jab\u0142onowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 202569
+    },
+    {
+      "line_no": "353",
+      "meter": 202569
+    }
+  ]
+}

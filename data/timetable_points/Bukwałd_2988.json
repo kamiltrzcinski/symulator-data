@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708972,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukwa\u0142d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 9104
+    },
+    {
+      "line_no": "221",
+      "meter": 9104
+    },
+    {
+      "line_no": "221",
+      "meter": 9217
+    },
+    {
+      "line_no": "221",
+      "meter": 9222
+    },
+    {
+      "line_no": "221",
+      "meter": 9222
+    }
+  ]
+}

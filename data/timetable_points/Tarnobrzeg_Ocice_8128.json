@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714112,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnobrzeg Ocice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 255777
+    }
+  ]
+}

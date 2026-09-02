@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714803,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oszczowa P\u0142n Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 153700
+    }
+  ]
+}

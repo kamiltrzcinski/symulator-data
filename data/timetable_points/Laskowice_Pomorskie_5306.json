@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711290,
+  "type": "TIMETABLE_POINT",
+  "name": "Laskowice Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 422552
+    },
+    {
+      "line_no": "131",
+      "meter": 422552
+    },
+    {
+      "line_no": "208",
+      "meter": 130363
+    },
+    {
+      "line_no": "208",
+      "meter": 130363
+    },
+    {
+      "line_no": "208",
+      "meter": 130363
+    },
+    {
+      "line_no": "208",
+      "meter": 130363
+    },
+    {
+      "line_no": "215",
+      "meter": 0
+    }
+  ]
+}

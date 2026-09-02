@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710003,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr\u0119bocin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 160992
+    },
+    {
+      "line_no": "27",
+      "meter": 160992
+    },
+    {
+      "line_no": "27",
+      "meter": 161758
+    },
+    {
+      "line_no": "27",
+      "meter": 161758
+    },
+    {
+      "line_no": "736",
+      "meter": 1
+    }
+  ]
+}

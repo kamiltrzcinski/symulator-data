@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714586,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R51",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "506",
+      "meter": 699
+    },
+    {
+      "line_no": "506",
+      "meter": 7752
+    },
+    {
+      "line_no": "506",
+      "meter": 7752
+    },
+    {
+      "line_no": "506",
+      "meter": 7759
+    },
+    {
+      "line_no": "844",
+      "meter": 699
+    },
+    {
+      "line_no": "844",
+      "meter": 7752
+    }
+  ]
+}

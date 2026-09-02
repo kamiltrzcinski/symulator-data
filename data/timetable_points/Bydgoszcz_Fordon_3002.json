@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708986,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz Fordon",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "209",
+      "meter": 104078
+    },
+    {
+      "line_no": "209",
+      "meter": 104078
+    },
+    {
+      "line_no": "209",
+      "meter": 104078
+    },
+    {
+      "line_no": "209",
+      "meter": 104078
+    },
+    {
+      "line_no": "209",
+      "meter": 104078
+    }
+  ]
+}

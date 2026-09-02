@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713598,
+  "type": "TIMETABLE_POINT",
+  "name": "Stal.Wola Po\u0142. Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 67555
+    },
+    {
+      "line_no": "66",
+      "meter": 67555
+    },
+    {
+      "line_no": "68",
+      "meter": 109236
+    },
+    {
+      "line_no": "68",
+      "meter": 109236
+    },
+    {
+      "line_no": "68",
+      "meter": 109236
+    },
+    {
+      "line_no": "68",
+      "meter": 109236
+    }
+  ]
+}

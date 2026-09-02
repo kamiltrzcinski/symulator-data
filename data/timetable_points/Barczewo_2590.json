@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708574,
+  "type": "TIMETABLE_POINT",
+  "name": "Barczewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 313872
+    },
+    {
+      "line_no": "353",
+      "meter": 313872
+    }
+  ]
+}

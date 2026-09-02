@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715101,
+  "type": "TIMETABLE_POINT",
+  "name": "Zalesie G\u00f3rne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 28513
+    },
+    {
+      "line_no": "8",
+      "meter": 28513
+    },
+    {
+      "line_no": "8",
+      "meter": 28615
+    },
+    {
+      "line_no": "8",
+      "meter": 28618
+    },
+    {
+      "line_no": "8",
+      "meter": 28618
+    },
+    {
+      "line_no": "8",
+      "meter": 28618
+    }
+  ]
+}

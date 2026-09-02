@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708875,
+  "type": "TIMETABLE_POINT",
+  "name": "Bralin Przejazd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 110379
+    },
+    {
+      "line_no": "181",
+      "meter": 110379
+    }
+  ]
+}

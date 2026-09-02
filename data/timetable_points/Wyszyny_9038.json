@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715022,
+  "type": "TIMETABLE_POINT",
+  "name": "Wyszyny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 122392
+    },
+    {
+      "line_no": "9",
+      "meter": 122392
+    },
+    {
+      "line_no": "9",
+      "meter": 122435
+    }
+  ]
+}

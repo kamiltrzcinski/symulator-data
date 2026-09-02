@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712547,
+  "type": "TIMETABLE_POINT",
+  "name": "Pikulice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "102",
+      "meter": 4418
+    },
+    {
+      "line_no": "102",
+      "meter": 4418
+    },
+    {
+      "line_no": "102",
+      "meter": 4418
+    },
+    {
+      "line_no": "102",
+      "meter": 4486
+    },
+    {
+      "line_no": "102",
+      "meter": 4486
+    },
+    {
+      "line_no": "102",
+      "meter": 4495
+    }
+  ]
+}

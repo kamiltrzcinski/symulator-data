@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712328,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Zachodnie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 101331
+    },
+    {
+      "line_no": "132",
+      "meter": 101331
+    },
+    {
+      "line_no": "132",
+      "meter": 101331
+    },
+    {
+      "line_no": "132",
+      "meter": 101331
+    },
+    {
+      "line_no": "132",
+      "meter": 102085
+    },
+    {
+      "line_no": "287",
+      "meter": 354
+    },
+    {
+      "line_no": "287",
+      "meter": 354
+    },
+    {
+      "line_no": "287",
+      "meter": 354
+    }
+  ]
+}

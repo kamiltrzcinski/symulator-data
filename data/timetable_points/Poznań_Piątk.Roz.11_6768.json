@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712752,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Pi\u0105tk.Roz.11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "395",
+      "meter": 13615
+    },
+    {
+      "line_no": "395",
+      "meter": 13615
+    },
+    {
+      "line_no": "395",
+      "meter": 13615
+    },
+    {
+      "line_no": "395",
+      "meter": 13615
+    },
+    {
+      "line_no": "803",
+      "meter": -1055
+    }
+  ]
+}

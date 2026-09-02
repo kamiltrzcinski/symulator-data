@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714400,
+  "type": "TIMETABLE_POINT",
+  "name": "Warka Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 57849
+    },
+    {
+      "line_no": "8",
+      "meter": 57849
+    }
+  ]
+}

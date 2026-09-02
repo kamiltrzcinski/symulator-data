@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713896,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Niebuszewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 8311
+    },
+    {
+      "line_no": "406",
+      "meter": 8311
+    },
+    {
+      "line_no": "406",
+      "meter": 8311
+    },
+    {
+      "line_no": "406",
+      "meter": 8311
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710407,
+  "type": "TIMETABLE_POINT",
+  "name": "Jurata",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 50917
+    },
+    {
+      "line_no": "213",
+      "meter": 51014
+    }
+  ]
+}

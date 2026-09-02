@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709077,
+  "type": "TIMETABLE_POINT",
+  "name": "Chmiel\u00f3w R103",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 259317
+    },
+    {
+      "line_no": "25",
+      "meter": 259317
+    },
+    {
+      "line_no": "25",
+      "meter": 259317
+    },
+    {
+      "line_no": "25",
+      "meter": 259317
+    },
+    {
+      "line_no": "70",
+      "meter": 88008
+    },
+    {
+      "line_no": "70",
+      "meter": 88008
+    },
+    {
+      "line_no": "70",
+      "meter": 88008
+    },
+    {
+      "line_no": "70",
+      "meter": 88008
+    }
+  ]
+}

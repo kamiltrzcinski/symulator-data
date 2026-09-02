@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709887,
+  "type": "TIMETABLE_POINT",
+  "name": "Go\u0142dap Zpd Tartak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 64198
+    },
+    {
+      "line_no": "41",
+      "meter": 64198
+    },
+    {
+      "line_no": "41",
+      "meter": 64198
+    }
+  ]
+}

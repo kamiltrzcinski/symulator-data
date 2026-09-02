@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710619,
+  "type": "TIMETABLE_POINT",
+  "name": "Kielce Piaski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 185865
+    },
+    {
+      "line_no": "8",
+      "meter": 185865
+    },
+    {
+      "line_no": "8",
+      "meter": 186016
+    },
+    {
+      "line_no": "8",
+      "meter": 186016
+    },
+    {
+      "line_no": "8",
+      "meter": 186016
+    },
+    {
+      "line_no": "8",
+      "meter": 186016
+    }
+  ]
+}

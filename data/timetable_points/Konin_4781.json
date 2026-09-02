@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710765,
+  "type": "TIMETABLE_POINT",
+  "name": "Konin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 204279
+    },
+    {
+      "line_no": "3",
+      "meter": 204279
+    },
+    {
+      "line_no": "3",
+      "meter": 204496
+    },
+    {
+      "line_no": "3",
+      "meter": 204496
+    },
+    {
+      "line_no": "3",
+      "meter": 204496
+    }
+  ]
+}

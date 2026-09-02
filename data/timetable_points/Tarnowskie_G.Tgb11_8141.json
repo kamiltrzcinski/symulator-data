@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714125,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G.Tgb11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "951",
+      "meter": 2000
+    },
+    {
+      "line_no": "951",
+      "meter": 2000
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid": 3453153714961,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw \u015awiebodzki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 1563
+    },
+    {
+      "line_no": "274",
+      "meter": 1563
+    },
+    {
+      "line_no": "274",
+      "meter": 1563
+    },
+    {
+      "line_no": "274",
+      "meter": 1563
+    },
+    {
+      "line_no": "274",
+      "meter": 1563
+    },
+    {
+      "line_no": "757",
+      "meter": 1556
+    },
+    {
+      "line_no": "757",
+      "meter": 1556
+    },
+    {
+      "line_no": "757",
+      "meter": 1556
+    },
+    {
+      "line_no": "757",
+      "meter": 1556
+    },
+    {
+      "line_no": "760",
+      "meter": 1000
+    },
+    {
+      "line_no": "760",
+      "meter": 1000
+    },
+    {
+      "line_no": "760",
+      "meter": 1000
+    },
+    {
+      "line_no": "761",
+      "meter": 708
+    },
+    {
+      "line_no": "761",
+      "meter": 708
+    },
+    {
+      "line_no": "761",
+      "meter": 708
+    },
+    {
+      "line_no": "761",
+      "meter": 708
+    },
+    {
+      "line_no": "761",
+      "meter": 708
+    },
+    {
+      "line_no": "761",
+      "meter": 708
+    }
+  ]
+}

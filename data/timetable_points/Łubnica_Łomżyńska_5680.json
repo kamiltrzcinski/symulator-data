@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711664,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141ubnica \u0141om\u017cy\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 47434
+    },
+    {
+      "line_no": "36",
+      "meter": 47434
+    },
+    {
+      "line_no": "36",
+      "meter": 47434
+    },
+    {
+      "line_no": "36",
+      "meter": 47434
+    }
+  ]
+}

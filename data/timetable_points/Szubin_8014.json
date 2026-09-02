@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713998,
+  "type": "TIMETABLE_POINT",
+  "name": "Szubin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 103408
+    },
+    {
+      "line_no": "356",
+      "meter": 103408
+    }
+  ]
+}

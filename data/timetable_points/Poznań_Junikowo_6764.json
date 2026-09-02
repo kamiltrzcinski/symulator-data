@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712748,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Junikowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 312845
+    },
+    {
+      "line_no": "3",
+      "meter": 312846
+    },
+    {
+      "line_no": "3",
+      "meter": 312846
+    }
+  ]
+}

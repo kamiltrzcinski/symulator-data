@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711697,
+  "type": "TIMETABLE_POINT",
+  "name": "Magdalenka R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "865",
+      "meter": 197873
+    },
+    {
+      "line_no": "865",
+      "meter": 197873
+    },
+    {
+      "line_no": "865",
+      "meter": 197873
+    },
+    {
+      "line_no": "866",
+      "meter": 197873
+    },
+    {
+      "line_no": "866",
+      "meter": 197873
+    }
+  ]
+}

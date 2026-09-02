@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712396,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u015bno Lubuskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "364",
+      "meter": 76475
+    },
+    {
+      "line_no": "364",
+      "meter": 76475
+    },
+    {
+      "line_no": "364",
+      "meter": 76475
+    }
+  ]
+}

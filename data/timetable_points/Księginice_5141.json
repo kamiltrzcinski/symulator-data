@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711125,
+  "type": "TIMETABLE_POINT",
+  "name": "Ksi\u0119ginice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 26097
+    },
+    {
+      "line_no": "273",
+      "meter": 26097
+    },
+    {
+      "line_no": "273",
+      "meter": 26097
+    }
+  ]
+}

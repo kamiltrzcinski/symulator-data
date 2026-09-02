@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713531,
+  "type": "TIMETABLE_POINT",
+  "name": "Solec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 30340
+    }
+  ]
+}

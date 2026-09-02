@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713189,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik RbC",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "173",
+      "meter": 1708
+    },
+    {
+      "line_no": "173",
+      "meter": 1708
+    },
+    {
+      "line_no": "688",
+      "meter": 1020
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709621,
+  "type": "TIMETABLE_POINT",
+  "name": "Ga\u0142\u0119zinowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 183680
+    },
+    {
+      "line_no": "405",
+      "meter": 183727
+    },
+    {
+      "line_no": "405",
+      "meter": 183727
+    }
+  ]
+}

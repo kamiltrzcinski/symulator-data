@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712351,
+  "type": "TIMETABLE_POINT",
+  "name": "Osie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 17749
+    }
+  ]
+}

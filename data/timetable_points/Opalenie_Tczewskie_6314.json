@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712298,
+  "type": "TIMETABLE_POINT",
+  "name": "Opalenie Tczewskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "238",
+      "meter": 65158
+    },
+    {
+      "line_no": "238",
+      "meter": 65158
+    },
+    {
+      "line_no": "238",
+      "meter": 66158
+    }
+  ]
+}

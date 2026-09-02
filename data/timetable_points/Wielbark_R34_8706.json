@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714690,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielbark R34",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 72168
+    },
+    {
+      "line_no": "35",
+      "meter": 72171
+    },
+    {
+      "line_no": "225",
+      "meter": 43288
+    },
+    {
+      "line_no": "225",
+      "meter": 43293
+    },
+    {
+      "line_no": "225",
+      "meter": 43293
+    },
+    {
+      "line_no": "225",
+      "meter": 43293
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709704,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Zaspa Tow Zp2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "227",
+      "meter": 5775
+    },
+    {
+      "line_no": "227",
+      "meter": 5775
+    },
+    {
+      "line_no": "249",
+      "meter": 5776
+    },
+    {
+      "line_no": "249",
+      "meter": 5776
+    },
+    {
+      "line_no": "249",
+      "meter": 5776
+    }
+  ]
+}

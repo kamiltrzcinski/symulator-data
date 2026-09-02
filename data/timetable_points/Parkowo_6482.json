@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712466,
+  "type": "TIMETABLE_POINT",
+  "name": "Parkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 35887
+    },
+    {
+      "line_no": "354",
+      "meter": 35887
+    },
+    {
+      "line_no": "354",
+      "meter": 35907
+    },
+    {
+      "line_no": "354",
+      "meter": 35907
+    },
+    {
+      "line_no": "354",
+      "meter": 35911
+    }
+  ]
+}

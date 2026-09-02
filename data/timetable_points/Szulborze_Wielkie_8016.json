@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714000,
+  "type": "TIMETABLE_POINT",
+  "name": "Szulborze Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 102684
+    },
+    {
+      "line_no": "6",
+      "meter": 102684
+    },
+    {
+      "line_no": "6",
+      "meter": 102684
+    },
+    {
+      "line_no": "6",
+      "meter": 102964
+    },
+    {
+      "line_no": "6",
+      "meter": 102968
+    },
+    {
+      "line_no": "6",
+      "meter": 102968
+    },
+    {
+      "line_no": "6",
+      "meter": 102968
+    }
+  ]
+}

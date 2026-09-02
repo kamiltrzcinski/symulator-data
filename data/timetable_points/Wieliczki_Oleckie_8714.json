@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714698,
+  "type": "TIMETABLE_POINT",
+  "name": "Wieliczki Oleckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "39",
+      "meter": 8379
+    },
+    {
+      "line_no": "39",
+      "meter": 8379
+    },
+    {
+      "line_no": "39",
+      "meter": 8424
+    }
+  ]
+}

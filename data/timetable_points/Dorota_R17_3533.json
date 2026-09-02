@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709517,
+  "type": "TIMETABLE_POINT",
+  "name": "Dorota R17",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 16264
+    },
+    {
+      "line_no": "171",
+      "meter": 16264
+    },
+    {
+      "line_no": "180",
+      "meter": 55
+    }
+  ]
+}

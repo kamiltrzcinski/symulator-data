@@ -1,0 +1,44 @@
+{
+  "uid": 3453153710598,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119trzyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 180375
+    },
+    {
+      "line_no": "38",
+      "meter": 180375
+    },
+    {
+      "line_no": "38",
+      "meter": 180375
+    },
+    {
+      "line_no": "38",
+      "meter": 180375
+    },
+    {
+      "line_no": "38",
+      "meter": 180375
+    },
+    {
+      "line_no": "38",
+      "meter": 180375
+    },
+    {
+      "line_no": "259",
+      "meter": 710
+    },
+    {
+      "line_no": "259",
+      "meter": 710
+    },
+    {
+      "line_no": "259",
+      "meter": 1131
+    }
+  ]
+}

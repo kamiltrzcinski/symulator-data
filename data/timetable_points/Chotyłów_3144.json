@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709128,
+  "type": "TIMETABLE_POINT",
+  "name": "Choty\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 188896
+    },
+    {
+      "line_no": "2",
+      "meter": 188896
+    },
+    {
+      "line_no": "2",
+      "meter": 188896
+    },
+    {
+      "line_no": "2",
+      "meter": 188896
+    },
+    {
+      "line_no": "2",
+      "meter": 188896
+    },
+    {
+      "line_no": "906",
+      "meter": -148
+    },
+    {
+      "line_no": "906",
+      "meter": -148
+    }
+  ]
+}

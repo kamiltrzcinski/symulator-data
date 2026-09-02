@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711940,
+  "type": "TIMETABLE_POINT",
+  "name": "Mokre",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "72",
+      "meter": 6448
+    },
+    {
+      "line_no": "72",
+      "meter": 6450
+    },
+    {
+      "line_no": "72",
+      "meter": 6460
+    }
+  ]
+}

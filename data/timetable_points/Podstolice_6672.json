@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712656,
+  "type": "TIMETABLE_POINT",
+  "name": "Podstolice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 262729
+    },
+    {
+      "line_no": "3",
+      "meter": 262729
+    },
+    {
+      "line_no": "3",
+      "meter": 262729
+    },
+    {
+      "line_no": "808",
+      "meter": 6562
+    },
+    {
+      "line_no": "808",
+      "meter": 6562
+    },
+    {
+      "line_no": "808",
+      "meter": 6562
+    },
+    {
+      "line_no": "808",
+      "meter": 6562
+    }
+  ]
+}

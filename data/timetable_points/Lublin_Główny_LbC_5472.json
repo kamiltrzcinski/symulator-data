@@ -1,0 +1,52 @@
+{
+  "uid": 3453153711456,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin G\u0142\u00f3wny LbC",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 175298
+    },
+    {
+      "line_no": "7",
+      "meter": 175298
+    },
+    {
+      "line_no": "7",
+      "meter": 175298
+    },
+    {
+      "line_no": "67",
+      "meter": 600
+    },
+    {
+      "line_no": "67",
+      "meter": 600
+    },
+    {
+      "line_no": "67",
+      "meter": 600
+    },
+    {
+      "line_no": "67",
+      "meter": 600
+    },
+    {
+      "line_no": "935",
+      "meter": 1750
+    },
+    {
+      "line_no": "935",
+      "meter": 1750
+    },
+    {
+      "line_no": "935",
+      "meter": 1750
+    },
+    {
+      "line_no": "935",
+      "meter": 1750
+    }
+  ]
+}

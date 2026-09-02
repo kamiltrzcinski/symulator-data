@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712122,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Osada",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "72",
+      "meter": 11100
+    }
+  ]
+}

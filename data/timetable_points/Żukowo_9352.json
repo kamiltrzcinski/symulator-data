@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715336,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017bukowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 177922
+    },
+    {
+      "line_no": "201",
+      "meter": 177922
+    }
+  ]
+}

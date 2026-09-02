@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712251,
+  "type": "TIMETABLE_POINT",
+  "name": "Olendry S-R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "84",
+      "meter": 4131
+    },
+    {
+      "line_no": "84",
+      "meter": 4131
+    }
+  ]
+}

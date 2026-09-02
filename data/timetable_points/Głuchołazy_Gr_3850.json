@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709834,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142ucho\u0142azy (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "343",
+      "meter": 5650
+    },
+    {
+      "line_no": "343",
+      "meter": 5650
+    },
+    {
+      "line_no": "485",
+      "meter": 51500
+    },
+    {
+      "line_no": "485",
+      "meter": 51500
+    },
+    {
+      "line_no": "485",
+      "meter": 51500
+    }
+  ]
+}

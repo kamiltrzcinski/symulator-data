@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709970,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr. (Pokrzywna) L.333 Km 11.225",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "333",
+      "meter": 11225
+    },
+    {
+      "line_no": "333",
+      "meter": 11225
+    },
+    {
+      "line_no": "333",
+      "meter": 11225
+    },
+    {
+      "line_no": "484",
+      "meter": 25694
+    },
+    {
+      "line_no": "484",
+      "meter": 25694
+    },
+    {
+      "line_no": "484",
+      "meter": 25694
+    },
+    {
+      "line_no": "484",
+      "meter": 25694
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709481,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobrowoda M",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 97062
+    },
+    {
+      "line_no": "31",
+      "meter": 97062
+    }
+  ]
+}

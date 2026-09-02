@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710660,
+  "type": "TIMETABLE_POINT",
+  "name": "Kluczbork Kb1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 68335
+    },
+    {
+      "line_no": "143",
+      "meter": 68335
+    },
+    {
+      "line_no": "143",
+      "meter": 68335
+    }
+  ]
+}

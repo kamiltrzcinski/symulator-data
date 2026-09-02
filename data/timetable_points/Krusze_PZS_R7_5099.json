@@ -1,0 +1,52 @@
+{
+  "uid": 3453153711083,
+  "type": "TIMETABLE_POINT",
+  "name": "Krusze PZS R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "13",
+      "meter": 3024
+    },
+    {
+      "line_no": "13",
+      "meter": 3034
+    },
+    {
+      "line_no": "13",
+      "meter": 3034
+    },
+    {
+      "line_no": "13",
+      "meter": 3034
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    },
+    {
+      "line_no": "513",
+      "meter": 0
+    },
+    {
+      "line_no": "513",
+      "meter": 10
+    }
+  ]
+}

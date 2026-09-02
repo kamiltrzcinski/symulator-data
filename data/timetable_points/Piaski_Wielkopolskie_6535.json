@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712519,
+  "type": "TIMETABLE_POINT",
+  "name": "Piaski Wielkopolskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 31981
+    },
+    {
+      "line_no": "360",
+      "meter": 31981
+    },
+    {
+      "line_no": "360",
+      "meter": 31981
+    },
+    {
+      "line_no": "360",
+      "meter": 31981
+    },
+    {
+      "line_no": "360",
+      "meter": 31981
+    }
+  ]
+}

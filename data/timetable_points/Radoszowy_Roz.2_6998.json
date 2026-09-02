@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712982,
+  "type": "TIMETABLE_POINT",
+  "name": "Radoszowy Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 5020
+    },
+    {
+      "line_no": "651",
+      "meter": 2
+    },
+    {
+      "line_no": "651",
+      "meter": 2
+    }
+  ]
+}

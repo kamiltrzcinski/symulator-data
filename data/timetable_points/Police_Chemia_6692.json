@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712676,
+  "type": "TIMETABLE_POINT",
+  "name": "Police Chemia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "431",
+      "meter": 5336
+    },
+    {
+      "line_no": "431",
+      "meter": 5336
+    },
+    {
+      "line_no": "431",
+      "meter": 5336
+    }
+  ]
+}

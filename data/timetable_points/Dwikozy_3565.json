@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709549,
+  "type": "TIMETABLE_POINT",
+  "name": "Dwikozy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 230167
+    },
+    {
+      "line_no": "25",
+      "meter": 230167
+    },
+    {
+      "line_no": "25",
+      "meter": 230167
+    }
+  ]
+}

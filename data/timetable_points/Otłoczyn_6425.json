@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712409,
+  "type": "TIMETABLE_POINT",
+  "name": "Ot\u0142oczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 95947
+    },
+    {
+      "line_no": "18",
+      "meter": 95947
+    }
+  ]
+}

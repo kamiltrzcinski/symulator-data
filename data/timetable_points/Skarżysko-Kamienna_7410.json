@@ -1,0 +1,100 @@
+{
+  "uid": 3453153713394,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kamienna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 143442
+    },
+    {
+      "line_no": "8",
+      "meter": 143442
+    },
+    {
+      "line_no": "8",
+      "meter": 143442
+    },
+    {
+      "line_no": "8",
+      "meter": 143442
+    },
+    {
+      "line_no": "8",
+      "meter": 143442
+    },
+    {
+      "line_no": "25",
+      "meter": 143513
+    },
+    {
+      "line_no": "25",
+      "meter": 143513
+    },
+    {
+      "line_no": "25",
+      "meter": 143513
+    },
+    {
+      "line_no": "25",
+      "meter": 143513
+    },
+    {
+      "line_no": "25",
+      "meter": 143513
+    },
+    {
+      "line_no": "566",
+      "meter": 1000
+    },
+    {
+      "line_no": "566",
+      "meter": 1000
+    },
+    {
+      "line_no": "566",
+      "meter": 1000
+    },
+    {
+      "line_no": "841",
+      "meter": 4310
+    },
+    {
+      "line_no": "841",
+      "meter": 4310
+    },
+    {
+      "line_no": "841",
+      "meter": 4310
+    },
+    {
+      "line_no": "841",
+      "meter": 4310
+    },
+    {
+      "line_no": "841",
+      "meter": 4310
+    },
+    {
+      "line_no": "936",
+      "meter": 2353
+    },
+    {
+      "line_no": "936",
+      "meter": 2353
+    },
+    {
+      "line_no": "936",
+      "meter": 2353
+    },
+    {
+      "line_no": "936",
+      "meter": 2353
+    },
+    {
+      "line_no": "936",
+      "meter": 2353
+    }
+  ]
+}

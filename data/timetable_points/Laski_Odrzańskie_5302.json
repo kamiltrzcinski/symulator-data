@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711286,
+  "type": "TIMETABLE_POINT",
+  "name": "Laski Odrza\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 51489
+    },
+    {
+      "line_no": "358",
+      "meter": 51489
+    },
+    {
+      "line_no": "358",
+      "meter": 51489
+    },
+    {
+      "line_no": "358",
+      "meter": 51489
+    },
+    {
+      "line_no": "358",
+      "meter": 51540
+    }
+  ]
+}

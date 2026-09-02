@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708863,
+  "type": "TIMETABLE_POINT",
+  "name": "Boszkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "359",
+      "meter": 21968
+    },
+    {
+      "line_no": "359",
+      "meter": 22025
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712789,
+  "type": "TIMETABLE_POINT",
+  "name": "Prosz\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "317",
+      "meter": 3132
+    },
+    {
+      "line_no": "317",
+      "meter": 74758
+    },
+    {
+      "line_no": "317",
+      "meter": 74758
+    },
+    {
+      "line_no": "317",
+      "meter": 74758
+    },
+    {
+      "line_no": "317",
+      "meter": 74758
+    },
+    {
+      "line_no": "317",
+      "meter": 74758
+    }
+  ]
+}

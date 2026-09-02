@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712902,
+  "type": "TIMETABLE_POINT",
+  "name": "Pu\u0142awy Azoty R34",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 118403
+    },
+    {
+      "line_no": "7",
+      "meter": 118403
+    },
+    {
+      "line_no": "7",
+      "meter": 118403
+    },
+    {
+      "line_no": "82",
+      "meter": 24028
+    },
+    {
+      "line_no": "82",
+      "meter": 24028
+    }
+  ]
+}

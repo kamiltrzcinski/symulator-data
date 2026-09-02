@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713004,
+  "type": "TIMETABLE_POINT",
+  "name": "Radzy\u0144 Podlaski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    },
+    {
+      "line_no": "30",
+      "meter": 22997
+    }
+  ]
+}

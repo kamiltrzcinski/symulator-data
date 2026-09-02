@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713944,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin \u017belechowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 10800
+    },
+    {
+      "line_no": "406",
+      "meter": 10800
+    },
+    {
+      "line_no": "406",
+      "meter": 10800
+    },
+    {
+      "line_no": "406",
+      "meter": 10800
+    },
+    {
+      "line_no": "406",
+      "meter": 10800
+    }
+  ]
+}

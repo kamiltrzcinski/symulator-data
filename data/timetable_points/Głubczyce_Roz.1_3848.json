@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709832,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142ubczyce Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 37351
+    },
+    {
+      "line_no": "177",
+      "meter": 37372
+    },
+    {
+      "line_no": "177",
+      "meter": 37372
+    },
+    {
+      "line_no": "294",
+      "meter": -344
+    },
+    {
+      "line_no": "294",
+      "meter": -344
+    },
+    {
+      "line_no": "294",
+      "meter": -344
+    }
+  ]
+}

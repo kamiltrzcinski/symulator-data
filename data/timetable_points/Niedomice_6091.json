@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712075,
+  "type": "TIMETABLE_POINT",
+  "name": "Niedomice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 14233
+    },
+    {
+      "line_no": "115",
+      "meter": 14233
+    },
+    {
+      "line_no": "115",
+      "meter": 14263
+    },
+    {
+      "line_no": "115",
+      "meter": 14263
+    }
+  ]
+}

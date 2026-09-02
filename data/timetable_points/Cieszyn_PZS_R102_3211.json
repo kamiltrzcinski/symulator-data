@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709195,
+  "type": "TIMETABLE_POINT",
+  "name": "Cieszyn PZS R102",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 40135
+    },
+    {
+      "line_no": "190",
+      "meter": 40135
+    },
+    {
+      "line_no": "695",
+      "meter": 657
+    },
+    {
+      "line_no": "695",
+      "meter": 657
+    }
+  ]
+}

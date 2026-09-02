@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711621,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Marysin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 6070
+    },
+    {
+      "line_no": "16",
+      "meter": 6110
+    },
+    {
+      "line_no": "16",
+      "meter": 6110
+    },
+    {
+      "line_no": "16",
+      "meter": 6110
+    },
+    {
+      "line_no": "16",
+      "meter": 6110
+    }
+  ]
+}

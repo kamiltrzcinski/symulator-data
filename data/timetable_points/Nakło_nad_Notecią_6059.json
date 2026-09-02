@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712043,
+  "type": "TIMETABLE_POINT",
+  "name": "Nak\u0142o nad Noteci\u0105",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 186887
+    },
+    {
+      "line_no": "18",
+      "meter": 186887
+    },
+    {
+      "line_no": "281",
+      "meter": 235135
+    },
+    {
+      "line_no": "281",
+      "meter": 235135
+    },
+    {
+      "line_no": "281",
+      "meter": 235135
+    }
+  ]
+}

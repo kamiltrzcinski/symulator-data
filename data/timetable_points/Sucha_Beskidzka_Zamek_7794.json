@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713778,
+  "type": "TIMETABLE_POINT",
+  "name": "Sucha Beskidzka Zamek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 44436
+    },
+    {
+      "line_no": "97",
+      "meter": 44436
+    },
+    {
+      "line_no": "98",
+      "meter": 1764
+    },
+    {
+      "line_no": "625",
+      "meter": 280
+    },
+    {
+      "line_no": "625",
+      "meter": 280
+    },
+    {
+      "line_no": "625",
+      "meter": 295
+    },
+    {
+      "line_no": "625",
+      "meter": 295
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711967,
+  "type": "TIMETABLE_POINT",
+  "name": "Mosty PZS R301",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 134850
+    },
+    {
+      "line_no": "402",
+      "meter": 134850
+    },
+    {
+      "line_no": "402",
+      "meter": 134850
+    },
+    {
+      "line_no": "435",
+      "meter": 0
+    },
+    {
+      "line_no": "435",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709427,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bica Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 321451
+    },
+    {
+      "line_no": "25",
+      "meter": 321451
+    },
+    {
+      "line_no": "25",
+      "meter": 321451
+    },
+    {
+      "line_no": "25",
+      "meter": 321451
+    },
+    {
+      "line_no": "25",
+      "meter": 321451
+    },
+    {
+      "line_no": "25",
+      "meter": 321451
+    },
+    {
+      "line_no": "25",
+      "meter": 321451
+    }
+  ]
+}

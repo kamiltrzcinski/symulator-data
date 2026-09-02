@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713593,
+  "type": "TIMETABLE_POINT",
+  "name": "Stadion Roz.11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 12926
+    },
+    {
+      "line_no": "758",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713763,
+  "type": "TIMETABLE_POINT",
+  "name": "Studniska R.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 193170
+    },
+    {
+      "line_no": "274",
+      "meter": 193170
+    },
+    {
+      "line_no": "779",
+      "meter": 0
+    }
+  ]
+}

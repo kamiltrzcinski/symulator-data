@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712783,
+  "type": "TIMETABLE_POINT",
+  "name": "Prostki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 88008
+    },
+    {
+      "line_no": "38",
+      "meter": 88008
+    },
+    {
+      "line_no": "38",
+      "meter": 88008
+    },
+    {
+      "line_no": "38",
+      "meter": 88008
+    },
+    {
+      "line_no": "38",
+      "meter": 88008
+    }
+  ]
+}

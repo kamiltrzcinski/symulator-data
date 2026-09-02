@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714468,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Mi\u0119dzylesie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 15129
+    },
+    {
+      "line_no": "7",
+      "meter": 15129
+    },
+    {
+      "line_no": "7",
+      "meter": 15129
+    }
+  ]
+}

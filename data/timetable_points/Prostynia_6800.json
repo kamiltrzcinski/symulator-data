@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712784,
+  "type": "TIMETABLE_POINT",
+  "name": "Prostynia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 76101
+    },
+    {
+      "line_no": "403",
+      "meter": 76101
+    }
+  ]
+}

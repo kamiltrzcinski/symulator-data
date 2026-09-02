@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715090,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaj\u0105czkowo Tczewskie PZS R700",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "729",
+      "meter": 10595
+    },
+    {
+      "line_no": "730",
+      "meter": 881
+    }
+  ]
+}

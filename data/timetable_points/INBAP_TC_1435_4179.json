@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710163,
+  "type": "TIMETABLE_POINT",
+  "name": "INBAP TC 1435",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 227838
+    },
+    {
+      "line_no": "6",
+      "meter": 227838
+    },
+    {
+      "line_no": "6",
+      "meter": 227838
+    },
+    {
+      "line_no": "6",
+      "meter": 227838
+    },
+    {
+      "line_no": "6",
+      "meter": 227839
+    }
+  ]
+}

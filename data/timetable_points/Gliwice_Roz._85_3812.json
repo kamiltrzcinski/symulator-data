@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709796,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice Roz. 85",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 27440
+    },
+    {
+      "line_no": "147",
+      "meter": 13400
+    },
+    {
+      "line_no": "147",
+      "meter": 13400
+    }
+  ]
+}

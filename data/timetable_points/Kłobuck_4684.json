@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710668,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142obuck",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 89209
+    },
+    {
+      "line_no": "131",
+      "meter": 89209
+    },
+    {
+      "line_no": "131",
+      "meter": 89209
+    },
+    {
+      "line_no": "131",
+      "meter": 89209
+    },
+    {
+      "line_no": "131",
+      "meter": 89209
+    },
+    {
+      "line_no": "131",
+      "meter": 89209
+    },
+    {
+      "line_no": "131",
+      "meter": 89404
+    }
+  ]
+}

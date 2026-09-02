@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708752,
+  "type": "TIMETABLE_POINT",
+  "name": "Bi\u0142goraj LHS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 107202
+    }
+  ]
+}

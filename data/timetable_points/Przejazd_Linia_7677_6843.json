@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712827,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd Linia 76/77",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "77",
+      "meter": 1100
+    },
+    {
+      "line_no": "77",
+      "meter": 1100
+    }
+  ]
+}

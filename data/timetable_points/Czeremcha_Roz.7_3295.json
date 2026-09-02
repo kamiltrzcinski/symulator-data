@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709279,
+  "type": "TIMETABLE_POINT",
+  "name": "Czeremcha Roz.7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 89670
+    },
+    {
+      "line_no": "31",
+      "meter": 89670
+    },
+    {
+      "line_no": "31",
+      "meter": 89670
+    },
+    {
+      "line_no": "31",
+      "meter": 89670
+    },
+    {
+      "line_no": "43",
+      "meter": 497
+    },
+    {
+      "line_no": "43",
+      "meter": 497
+    }
+  ]
+}

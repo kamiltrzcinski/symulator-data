@@ -1,0 +1,52 @@
+{
+  "uid": 3453153708930,
+  "type": "TIMETABLE_POINT",
+  "name": "Brze\u017anica Bychawska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 67336
+    },
+    {
+      "line_no": "30",
+      "meter": 67336
+    },
+    {
+      "line_no": "30",
+      "meter": 67336
+    },
+    {
+      "line_no": "30",
+      "meter": 67384
+    },
+    {
+      "line_no": "30",
+      "meter": 67384
+    },
+    {
+      "line_no": "30",
+      "meter": 67384
+    },
+    {
+      "line_no": "30",
+      "meter": 67384
+    },
+    {
+      "line_no": "30",
+      "meter": 67384
+    },
+    {
+      "line_no": "30",
+      "meter": 67947
+    },
+    {
+      "line_no": "30",
+      "meter": 67947
+    },
+    {
+      "line_no": "30",
+      "meter": 68027
+    }
+  ]
+}

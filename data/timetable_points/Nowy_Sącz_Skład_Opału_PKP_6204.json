@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712188,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy S\u0105cz Sk\u0142ad Opa\u0142u PKP",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 76261
+    },
+    {
+      "line_no": "104",
+      "meter": 76261
+    }
+  ]
+}

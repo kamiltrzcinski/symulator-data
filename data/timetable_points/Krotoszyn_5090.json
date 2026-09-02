@@ -1,0 +1,48 @@
+{
+  "uid": 3453153711074,
+  "type": "TIMETABLE_POINT",
+  "name": "Krotoszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 63959
+    },
+    {
+      "line_no": "281",
+      "meter": 63959
+    },
+    {
+      "line_no": "281",
+      "meter": 63959
+    },
+    {
+      "line_no": "281",
+      "meter": 63959
+    },
+    {
+      "line_no": "281",
+      "meter": 63959
+    },
+    {
+      "line_no": "815",
+      "meter": 2324
+    },
+    {
+      "line_no": "815",
+      "meter": 2324
+    },
+    {
+      "line_no": "816",
+      "meter": 0
+    },
+    {
+      "line_no": "816",
+      "meter": 0
+    },
+    {
+      "line_no": "816",
+      "meter": 594
+    }
+  ]
+}

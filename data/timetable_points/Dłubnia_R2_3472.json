@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709456,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0142ubnia R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 13069
+    },
+    {
+      "line_no": "95",
+      "meter": 13069
+    },
+    {
+      "line_no": "95",
+      "meter": 13070
+    },
+    {
+      "line_no": "95",
+      "meter": 13070
+    },
+    {
+      "line_no": "607",
+      "meter": 1007
+    },
+    {
+      "line_no": "607",
+      "meter": 1207
+    },
+    {
+      "line_no": "607",
+      "meter": 1207
+    }
+  ]
+}

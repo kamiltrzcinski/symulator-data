@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710380,
+  "type": "TIMETABLE_POINT",
+  "name": "Jesionowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 77234
+    },
+    {
+      "line_no": "35",
+      "meter": 77238
+    },
+    {
+      "line_no": "35",
+      "meter": 77250
+    },
+    {
+      "line_no": "35",
+      "meter": 77250
+    },
+    {
+      "line_no": "35",
+      "meter": 77250
+    }
+  ]
+}

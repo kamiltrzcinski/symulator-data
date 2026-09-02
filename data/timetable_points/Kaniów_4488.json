@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710472,
+  "type": "TIMETABLE_POINT",
+  "name": "Kani\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 42993
+    },
+    {
+      "line_no": "93",
+      "meter": 42993
+    }
+  ]
+}

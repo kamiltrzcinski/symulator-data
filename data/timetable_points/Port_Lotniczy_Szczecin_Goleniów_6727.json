@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712711,
+  "type": "TIMETABLE_POINT",
+  "name": "Port Lotniczy Szczecin Goleni\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "434",
+      "meter": 3853
+    },
+    {
+      "line_no": "434",
+      "meter": 3853
+    }
+  ]
+}

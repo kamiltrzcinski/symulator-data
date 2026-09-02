@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709422,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119ba Rozalin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 12651
+    },
+    {
+      "line_no": "71",
+      "meter": 12693
+    },
+    {
+      "line_no": "71",
+      "meter": 12695
+    },
+    {
+      "line_no": "71",
+      "meter": 12695
+    },
+    {
+      "line_no": "71",
+      "meter": 12695
+    }
+  ]
+}

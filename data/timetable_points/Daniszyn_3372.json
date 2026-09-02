@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709356,
+  "type": "TIMETABLE_POINT",
+  "name": "Daniszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 150454
+    },
+    {
+      "line_no": "14",
+      "meter": 150460
+    },
+    {
+      "line_no": "14",
+      "meter": 150460
+    }
+  ]
+}

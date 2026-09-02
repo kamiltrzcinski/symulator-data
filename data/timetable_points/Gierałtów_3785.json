@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709769,
+  "type": "TIMETABLE_POINT",
+  "name": "Giera\u0142t\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "279",
+      "meter": 9080
+    },
+    {
+      "line_no": "279",
+      "meter": 9168
+    },
+    {
+      "line_no": "279",
+      "meter": 9168
+    }
+  ]
+}

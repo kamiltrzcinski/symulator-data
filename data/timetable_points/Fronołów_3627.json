@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709611,
+  "type": "TIMETABLE_POINT",
+  "name": "Frono\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 53448
+    },
+    {
+      "line_no": "31",
+      "meter": 53448
+    },
+    {
+      "line_no": "31",
+      "meter": 53448
+    },
+    {
+      "line_no": "31",
+      "meter": 53448
+    },
+    {
+      "line_no": "31",
+      "meter": 53448
+    },
+    {
+      "line_no": "31",
+      "meter": 53498
+    },
+    {
+      "line_no": "31",
+      "meter": 53498
+    }
+  ]
+}

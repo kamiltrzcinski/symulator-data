@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711111,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzewina Zgorzelecka R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "290",
+      "meter": 14437
+    },
+    {
+      "line_no": "324",
+      "meter": 0
+    },
+    {
+      "line_no": "324",
+      "meter": 0
+    }
+  ]
+}

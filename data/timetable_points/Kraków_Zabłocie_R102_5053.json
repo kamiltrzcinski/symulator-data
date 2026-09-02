@@ -1,0 +1,56 @@
+{
+  "uid": 3453153711037,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Zab\u0142ocie R102",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 2328
+    },
+    {
+      "line_no": "91",
+      "meter": 2328
+    },
+    {
+      "line_no": "91",
+      "meter": 2328
+    },
+    {
+      "line_no": "91",
+      "meter": 2328
+    },
+    {
+      "line_no": "624",
+      "meter": 2
+    },
+    {
+      "line_no": "624",
+      "meter": 2
+    },
+    {
+      "line_no": "624",
+      "meter": 69
+    },
+    {
+      "line_no": "624",
+      "meter": 166
+    },
+    {
+      "line_no": "624",
+      "meter": 166
+    },
+    {
+      "line_no": "629",
+      "meter": 2237
+    },
+    {
+      "line_no": "629",
+      "meter": 2237
+    },
+    {
+      "line_no": "629",
+      "meter": 2301
+    }
+  ]
+}

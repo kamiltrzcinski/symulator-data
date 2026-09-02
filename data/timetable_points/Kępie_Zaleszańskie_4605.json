@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710589,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119pie Zalesza\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "74",
+      "meter": 13051
+    }
+  ]
+}

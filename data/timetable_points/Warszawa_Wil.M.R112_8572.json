@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714556,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wil.M.R112",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "21",
+      "meter": 1862
+    },
+    {
+      "line_no": "21",
+      "meter": 1862
+    },
+    {
+      "line_no": "21",
+      "meter": 1862
+    },
+    {
+      "line_no": "503",
+      "meter": 70
+    },
+    {
+      "line_no": "503",
+      "meter": 70
+    },
+    {
+      "line_no": "503",
+      "meter": 4593
+    },
+    {
+      "line_no": "503",
+      "meter": 4593
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712577,
+  "type": "TIMETABLE_POINT",
+  "name": "Pi\u0142awa G\u00f3rna ZPK\u0141",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 199627
+    },
+    {
+      "line_no": "137",
+      "meter": 199627
+    }
+  ]
+}

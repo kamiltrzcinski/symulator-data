@@ -1,0 +1,56 @@
+{
+  "uid": 3453153712488,
+  "type": "TIMETABLE_POINT",
+  "name": "Paw\u0142owice \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 0
+    },
+    {
+      "line_no": "157",
+      "meter": 0
+    },
+    {
+      "line_no": "157",
+      "meter": 0
+    },
+    {
+      "line_no": "157",
+      "meter": 0
+    },
+    {
+      "line_no": "159",
+      "meter": 26354
+    },
+    {
+      "line_no": "159",
+      "meter": 26354
+    },
+    {
+      "line_no": "159",
+      "meter": 26354
+    },
+    {
+      "line_no": "159",
+      "meter": 26354
+    },
+    {
+      "line_no": "159",
+      "meter": 26354
+    },
+    {
+      "line_no": "873",
+      "meter": 1
+    },
+    {
+      "line_no": "873",
+      "meter": 1
+    },
+    {
+      "line_no": "873",
+      "meter": 1
+    }
+  ]
+}

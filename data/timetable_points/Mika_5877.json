@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711861,
+  "type": "TIMETABLE_POINT",
+  "name": "Mika",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 90025
+    },
+    {
+      "line_no": "7",
+      "meter": 90088
+    },
+    {
+      "line_no": "7",
+      "meter": 90088
+    },
+    {
+      "line_no": "7",
+      "meter": 90088
+    }
+  ]
+}

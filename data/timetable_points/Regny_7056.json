@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713040,
+  "type": "TIMETABLE_POINT",
+  "name": "Regny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "44",
+      "meter": 4032
+    },
+    {
+      "line_no": "44",
+      "meter": 4032
+    },
+    {
+      "line_no": "44",
+      "meter": 4032
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714431,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 8603
+    },
+    {
+      "line_no": "20",
+      "meter": 8603
+    },
+    {
+      "line_no": "20",
+      "meter": 8604
+    },
+    {
+      "line_no": "549",
+      "meter": 127
+    },
+    {
+      "line_no": "549",
+      "meter": 127
+    },
+    {
+      "line_no": "549",
+      "meter": 127
+    }
+  ]
+}

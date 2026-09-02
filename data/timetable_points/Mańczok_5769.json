@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711753,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0144czok",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "301",
+      "meter": 25883
+    },
+    {
+      "line_no": "301",
+      "meter": 25883
+    }
+  ]
+}

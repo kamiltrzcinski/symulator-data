@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714831,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Kuczkowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "64",
+      "meter": 34813
+    },
+    {
+      "line_no": "64",
+      "meter": 34912
+    },
+    {
+      "line_no": "64",
+      "meter": 34912
+    }
+  ]
+}

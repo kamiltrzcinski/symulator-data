@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713800,
+  "type": "TIMETABLE_POINT",
+  "name": "Sul\u0119cin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "364",
+      "meter": 58717
+    },
+    {
+      "line_no": "364",
+      "meter": 58717
+    },
+    {
+      "line_no": "364",
+      "meter": 58717
+    },
+    {
+      "line_no": "364",
+      "meter": 58767
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711178,
+  "type": "TIMETABLE_POINT",
+  "name": "Kwiatki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 12248
+    }
+  ]
+}

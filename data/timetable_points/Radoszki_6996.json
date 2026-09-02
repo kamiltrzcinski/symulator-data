@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712980,
+  "type": "TIMETABLE_POINT",
+  "name": "Radoszki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 40104
+    },
+    {
+      "line_no": "208",
+      "meter": 40104
+    },
+    {
+      "line_no": "208",
+      "meter": 40104
+    },
+    {
+      "line_no": "208",
+      "meter": 40104
+    },
+    {
+      "line_no": "208",
+      "meter": 40104
+    }
+  ]
+}

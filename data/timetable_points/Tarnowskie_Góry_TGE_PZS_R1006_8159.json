@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714143,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry TGE PZS R1006",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "130",
+      "meter": 41118
+    },
+    {
+      "line_no": "131",
+      "meter": 41118
+    }
+  ]
+}

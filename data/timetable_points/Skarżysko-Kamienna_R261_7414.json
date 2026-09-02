@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713398,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kamienna R261",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "566",
+      "meter": -309
+    },
+    {
+      "line_no": "566",
+      "meter": -309
+    },
+    {
+      "line_no": "566",
+      "meter": -309
+    },
+    {
+      "line_no": "566",
+      "meter": -309
+    },
+    {
+      "line_no": "566",
+      "meter": 269
+    },
+    {
+      "line_no": "936",
+      "meter": 330
+    },
+    {
+      "line_no": "936",
+      "meter": 330
+    },
+    {
+      "line_no": "936",
+      "meter": 330
+    },
+    {
+      "line_no": "936",
+      "meter": 330
+    },
+    {
+      "line_no": "936",
+      "meter": 330
+    }
+  ]
+}

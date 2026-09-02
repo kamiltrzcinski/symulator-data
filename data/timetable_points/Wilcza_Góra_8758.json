@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714742,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilcza G\u00f3ra",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "241",
+      "meter": 32543
+    },
+    {
+      "line_no": "241",
+      "meter": 32543
+    }
+  ]
+}

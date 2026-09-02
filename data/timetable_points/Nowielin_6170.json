@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712154,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowielin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "422",
+      "meter": 5121
+    },
+    {
+      "line_no": "422",
+      "meter": 5121
+    }
+  ]
+}

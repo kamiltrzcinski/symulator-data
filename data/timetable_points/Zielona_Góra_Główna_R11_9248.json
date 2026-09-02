@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715232,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielona G\u00f3ra G\u0142\u00f3wna R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 153684
+    },
+    {
+      "line_no": "273",
+      "meter": 153684
+    },
+    {
+      "line_no": "273",
+      "meter": 153684
+    },
+    {
+      "line_no": "370",
+      "meter": -174
+    },
+    {
+      "line_no": "370",
+      "meter": -174
+    },
+    {
+      "line_no": "370",
+      "meter": -174
+    }
+  ]
+}

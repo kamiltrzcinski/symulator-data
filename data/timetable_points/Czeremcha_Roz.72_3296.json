@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709280,
+  "type": "TIMETABLE_POINT",
+  "name": "Czeremcha Roz.72",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 91051
+    },
+    {
+      "line_no": "31",
+      "meter": 91051
+    },
+    {
+      "line_no": "31",
+      "meter": 91051
+    },
+    {
+      "line_no": "31",
+      "meter": 91052
+    },
+    {
+      "line_no": "32",
+      "meter": 884
+    },
+    {
+      "line_no": "32",
+      "meter": 884
+    },
+    {
+      "line_no": "32",
+      "meter": 884
+    },
+    {
+      "line_no": "32",
+      "meter": 884
+    }
+  ]
+}

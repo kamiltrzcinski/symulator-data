@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714625,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zacisze Wilno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "21",
+      "meter": 3953
+    },
+    {
+      "line_no": "21",
+      "meter": 3953
+    },
+    {
+      "line_no": "21",
+      "meter": 3953
+    },
+    {
+      "line_no": "21",
+      "meter": 3965
+    },
+    {
+      "line_no": "21",
+      "meter": 3965
+    }
+  ]
+}

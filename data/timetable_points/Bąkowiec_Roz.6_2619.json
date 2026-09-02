@@ -1,0 +1,44 @@
+{
+  "uid": 3453153708603,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0105kowiec Roz.6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 74379
+    },
+    {
+      "line_no": "26",
+      "meter": 74379
+    },
+    {
+      "line_no": "26",
+      "meter": 74379
+    },
+    {
+      "line_no": "26",
+      "meter": 74379
+    },
+    {
+      "line_no": "26",
+      "meter": 74379
+    },
+    {
+      "line_no": "76",
+      "meter": -572
+    },
+    {
+      "line_no": "76",
+      "meter": -572
+    },
+    {
+      "line_no": "76",
+      "meter": -572
+    },
+    {
+      "line_no": "76",
+      "meter": -572
+    }
+  ]
+}

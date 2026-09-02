@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711253,
+  "type": "TIMETABLE_POINT",
+  "name": "L895 km:,172 PLK - KWK KLEOFAS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "895",
+      "meter": 172
+    },
+    {
+      "line_no": "895",
+      "meter": 172
+    },
+    {
+      "line_no": "895",
+      "meter": 172
+    }
+  ]
+}

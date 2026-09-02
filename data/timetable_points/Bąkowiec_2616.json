@@ -1,0 +1,68 @@
+{
+  "uid": 3453153708600,
+  "type": "TIMETABLE_POINT",
+  "name": "B\u0105kowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 74952
+    },
+    {
+      "line_no": "26",
+      "meter": 74952
+    },
+    {
+      "line_no": "26",
+      "meter": 74952
+    },
+    {
+      "line_no": "26",
+      "meter": 74952
+    },
+    {
+      "line_no": "26",
+      "meter": 74952
+    },
+    {
+      "line_no": "26",
+      "meter": 74952
+    },
+    {
+      "line_no": "76",
+      "meter": 0
+    },
+    {
+      "line_no": "76",
+      "meter": 0
+    },
+    {
+      "line_no": "76",
+      "meter": 0
+    },
+    {
+      "line_no": "76",
+      "meter": 0
+    },
+    {
+      "line_no": "76",
+      "meter": 0
+    },
+    {
+      "line_no": "82",
+      "meter": 0
+    },
+    {
+      "line_no": "82",
+      "meter": 0
+    },
+    {
+      "line_no": "82",
+      "meter": 0
+    },
+    {
+      "line_no": "578",
+      "meter": 1691
+    }
+  ]
+}

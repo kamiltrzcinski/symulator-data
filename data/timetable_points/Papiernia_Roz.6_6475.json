@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712459,
+  "type": "TIMETABLE_POINT",
+  "name": "Papiernia Roz.6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "39",
+      "meter": 37634
+    },
+    {
+      "line_no": "39",
+      "meter": 37634
+    }
+  ]
+}

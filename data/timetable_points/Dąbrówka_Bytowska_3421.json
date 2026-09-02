@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709405,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105br\u00f3wka Bytowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "212",
+      "meter": 29840
+    },
+    {
+      "line_no": "212",
+      "meter": 29840
+    },
+    {
+      "line_no": "212",
+      "meter": 29840
+    }
+  ]
+}

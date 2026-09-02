@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714200,
+  "type": "TIMETABLE_POINT",
+  "name": "Tolkmicko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 24432
+    },
+    {
+      "line_no": "254",
+      "meter": 24432
+    }
+  ]
+}

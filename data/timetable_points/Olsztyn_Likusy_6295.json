@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712279,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn Likusy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 4343
+    },
+    {
+      "line_no": "220",
+      "meter": 4343
+    },
+    {
+      "line_no": "220",
+      "meter": 4460
+    }
+  ]
+}

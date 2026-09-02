@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712135,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b Legnicka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 277642
+    },
+    {
+      "line_no": "137",
+      "meter": 277642
+    }
+  ]
+}

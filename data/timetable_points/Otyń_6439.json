@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712423,
+  "type": "TIMETABLE_POINT",
+  "name": "Oty\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 46566
+    },
+    {
+      "line_no": "371",
+      "meter": 46566
+    }
+  ]
+}

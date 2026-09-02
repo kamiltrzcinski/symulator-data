@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708922,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeszcze Kopalnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 31978
+    },
+    {
+      "line_no": "93",
+      "meter": 31978
+    },
+    {
+      "line_no": "93",
+      "meter": 31978
+    },
+    {
+      "line_no": "93",
+      "meter": 32400
+    },
+    {
+      "line_no": "93",
+      "meter": 32400
+    },
+    {
+      "line_no": "93",
+      "meter": 32400
+    }
+  ]
+}

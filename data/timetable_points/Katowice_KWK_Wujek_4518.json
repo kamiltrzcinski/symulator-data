@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710502,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice KWK Wujek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "864",
+      "meter": 2960
+    },
+    {
+      "line_no": "864",
+      "meter": 2960
+    }
+  ]
+}

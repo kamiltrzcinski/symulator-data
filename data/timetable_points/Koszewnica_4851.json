@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710835,
+  "type": "TIMETABLE_POINT",
+  "name": "Koszewnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 72128
+    },
+    {
+      "line_no": "2",
+      "meter": 72128
+    },
+    {
+      "line_no": "2",
+      "meter": 72128
+    },
+    {
+      "line_no": "2",
+      "meter": 72128
+    },
+    {
+      "line_no": "2",
+      "meter": 72128
+    },
+    {
+      "line_no": "2",
+      "meter": 72128
+    }
+  ]
+}

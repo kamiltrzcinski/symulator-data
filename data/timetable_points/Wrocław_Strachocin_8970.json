@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714954,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Strachocin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "292",
+      "meter": 14910
+    },
+    {
+      "line_no": "292",
+      "meter": 14922
+    }
+  ]
+}

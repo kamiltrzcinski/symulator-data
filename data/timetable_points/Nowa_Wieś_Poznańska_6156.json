@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712140,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b Pozna\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "352",
+      "meter": 2804
+    },
+    {
+      "line_no": "804",
+      "meter": 1821
+    },
+    {
+      "line_no": "806",
+      "meter": 4081
+    },
+    {
+      "line_no": "806",
+      "meter": 4081
+    }
+  ]
+}

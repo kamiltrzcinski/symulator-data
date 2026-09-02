@@ -1,0 +1,64 @@
+{
+  "uid": 3453153713389,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kam. Skb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "566",
+      "meter": 0
+    },
+    {
+      "line_no": "566",
+      "meter": 0
+    },
+    {
+      "line_no": "566",
+      "meter": 0
+    },
+    {
+      "line_no": "566",
+      "meter": 0
+    },
+    {
+      "line_no": "841",
+      "meter": 1581
+    },
+    {
+      "line_no": "841",
+      "meter": 1581
+    },
+    {
+      "line_no": "841",
+      "meter": 1581
+    },
+    {
+      "line_no": "841",
+      "meter": 1581
+    },
+    {
+      "line_no": "841",
+      "meter": 1581
+    },
+    {
+      "line_no": "841",
+      "meter": 1581
+    },
+    {
+      "line_no": "936",
+      "meter": 639
+    },
+    {
+      "line_no": "936",
+      "meter": 639
+    },
+    {
+      "line_no": "936",
+      "meter": 639
+    },
+    {
+      "line_no": "936",
+      "meter": 639
+    }
+  ]
+}

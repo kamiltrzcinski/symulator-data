@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713780,
+  "type": "TIMETABLE_POINT",
+  "name": "Sucha Beskidzka Zamek R21 PZS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 44352
+    },
+    {
+      "line_no": "97",
+      "meter": 44352
+    },
+    {
+      "line_no": "97",
+      "meter": 44352
+    },
+    {
+      "line_no": "625",
+      "meter": 10
+    },
+    {
+      "line_no": "625",
+      "meter": 10
+    },
+    {
+      "line_no": "625",
+      "meter": 10
+    }
+  ]
+}

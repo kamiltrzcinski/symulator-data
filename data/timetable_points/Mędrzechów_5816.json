@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711800,
+  "type": "TIMETABLE_POINT",
+  "name": "M\u0119drzech\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 37903
+    },
+    {
+      "line_no": "115",
+      "meter": 37903
+    },
+    {
+      "line_no": "115",
+      "meter": 37903
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712891,
+  "type": "TIMETABLE_POINT",
+  "name": "Pszenno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 54818
+    },
+    {
+      "line_no": "285",
+      "meter": 54818
+    },
+    {
+      "line_no": "285",
+      "meter": 54818
+    },
+    {
+      "line_no": "285",
+      "meter": 54910
+    },
+    {
+      "line_no": "285",
+      "meter": 54910
+    }
+  ]
+}

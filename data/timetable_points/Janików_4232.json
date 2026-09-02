@@ -1,0 +1,72 @@
+{
+  "uid": 3453153710216,
+  "type": "TIMETABLE_POINT",
+  "name": "Janik\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "76",
+      "meter": 10935
+    },
+    {
+      "line_no": "76",
+      "meter": 10935
+    },
+    {
+      "line_no": "76",
+      "meter": 10935
+    },
+    {
+      "line_no": "76",
+      "meter": 10935
+    },
+    {
+      "line_no": "76",
+      "meter": 11391
+    },
+    {
+      "line_no": "76",
+      "meter": 11391
+    },
+    {
+      "line_no": "76",
+      "meter": 11391
+    },
+    {
+      "line_no": "76",
+      "meter": 11391
+    },
+    {
+      "line_no": "76",
+      "meter": 11394
+    },
+    {
+      "line_no": "77",
+      "meter": -449
+    },
+    {
+      "line_no": "77",
+      "meter": -449
+    },
+    {
+      "line_no": "77",
+      "meter": -449
+    },
+    {
+      "line_no": "77",
+      "meter": -449
+    },
+    {
+      "line_no": "77",
+      "meter": 0
+    },
+    {
+      "line_no": "77",
+      "meter": 0
+    },
+    {
+      "line_no": "77",
+      "meter": 0
+    }
+  ]
+}

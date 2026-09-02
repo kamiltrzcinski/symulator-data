@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713775,
+  "type": "TIMETABLE_POINT",
+  "name": "Subkowy Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 487083
+    },
+    {
+      "line_no": "131",
+      "meter": 487083
+    }
+  ]
+}

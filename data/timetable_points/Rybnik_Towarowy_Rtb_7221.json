@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713205,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Towarowy Rtb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "957",
+      "meter": 2460
+    }
+  ]
+}

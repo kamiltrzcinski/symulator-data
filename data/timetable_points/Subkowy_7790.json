@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713774,
+  "type": "TIMETABLE_POINT",
+  "name": "Subkowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 485155
+    },
+    {
+      "line_no": "131",
+      "meter": 485155
+    }
+  ]
+}

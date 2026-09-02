@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710278,
+  "type": "TIMETABLE_POINT",
+  "name": "Jas\u0142o Towarowa JTB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "106",
+      "meter": 67867
+    },
+    {
+      "line_no": "106",
+      "meter": 67867
+    },
+    {
+      "line_no": "106",
+      "meter": 67880
+    },
+    {
+      "line_no": "106",
+      "meter": 67880
+    },
+    {
+      "line_no": "618",
+      "meter": 2405
+    },
+    {
+      "line_no": "618",
+      "meter": 2685
+    },
+    {
+      "line_no": "618",
+      "meter": 2690
+    },
+    {
+      "line_no": "618",
+      "meter": 2690
+    }
+  ]
+}

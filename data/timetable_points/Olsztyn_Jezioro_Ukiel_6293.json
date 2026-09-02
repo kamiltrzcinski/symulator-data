@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712277,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn Jezioro Ukiel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 3676
+    },
+    {
+      "line_no": "220",
+      "meter": 3676
+    }
+  ]
+}

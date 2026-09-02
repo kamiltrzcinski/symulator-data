@@ -1,0 +1,52 @@
+{
+  "uid": 3453153714600,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia PZS R303",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 4350
+    },
+    {
+      "line_no": "20",
+      "meter": 4350
+    },
+    {
+      "line_no": "42",
+      "meter": 3422
+    },
+    {
+      "line_no": "42",
+      "meter": 3422
+    },
+    {
+      "line_no": "918",
+      "meter": 3344
+    },
+    {
+      "line_no": "918",
+      "meter": 3359
+    },
+    {
+      "line_no": "918",
+      "meter": 3359
+    },
+    {
+      "line_no": "920",
+      "meter": 4344
+    },
+    {
+      "line_no": "920",
+      "meter": 4344
+    },
+    {
+      "line_no": "920",
+      "meter": 4344
+    },
+    {
+      "line_no": "920",
+      "meter": 4344
+    }
+  ]
+}

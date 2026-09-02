@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715094,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaklik\u00f3w Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 81150
+    },
+    {
+      "line_no": "68",
+      "meter": 81150
+    },
+    {
+      "line_no": "68",
+      "meter": 81225
+    },
+    {
+      "line_no": "68",
+      "meter": 81225
+    },
+    {
+      "line_no": "68",
+      "meter": 81225
+    },
+    {
+      "line_no": "68",
+      "meter": 81250
+    }
+  ]
+}

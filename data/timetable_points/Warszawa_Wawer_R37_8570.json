@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714554,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wawer R37",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 13654
+    },
+    {
+      "line_no": "7",
+      "meter": 13654
+    },
+    {
+      "line_no": "506",
+      "meter": 13654
+    },
+    {
+      "line_no": "506",
+      "meter": 13654
+    },
+    {
+      "line_no": "506",
+      "meter": 13654
+    }
+  ]
+}

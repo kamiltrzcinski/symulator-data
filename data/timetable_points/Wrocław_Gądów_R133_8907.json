@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714891,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw G\u0105d\u00f3w R133",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 17098
+    },
+    {
+      "line_no": "349",
+      "meter": 17104
+    },
+    {
+      "line_no": "759",
+      "meter": 75
+    },
+    {
+      "line_no": "759",
+      "meter": 75
+    },
+    {
+      "line_no": "759",
+      "meter": 80
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711938,
+  "type": "TIMETABLE_POINT",
+  "name": "Mokra Cz\u0119stochowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 94950
+    },
+    {
+      "line_no": "131",
+      "meter": 94950
+    },
+    {
+      "line_no": "131",
+      "meter": 95103
+    }
+  ]
+}

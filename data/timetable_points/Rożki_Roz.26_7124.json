@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713108,
+  "type": "TIMETABLE_POINT",
+  "name": "Ro\u017cki Roz.26",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 113736
+    },
+    {
+      "line_no": "8",
+      "meter": 113785
+    },
+    {
+      "line_no": "8",
+      "meter": 113785
+    },
+    {
+      "line_no": "8",
+      "meter": 113785
+    },
+    {
+      "line_no": "8",
+      "meter": 113785
+    },
+    {
+      "line_no": "576",
+      "meter": 4220
+    },
+    {
+      "line_no": "576",
+      "meter": 4220
+    },
+    {
+      "line_no": "576",
+      "meter": 4220
+    }
+  ]
+}

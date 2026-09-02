@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711912,
+  "type": "TIMETABLE_POINT",
+  "name": "Miros\u0142awiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 88573
+    },
+    {
+      "line_no": "410",
+      "meter": 88573
+    },
+    {
+      "line_no": "410",
+      "meter": 88573
+    }
+  ]
+}

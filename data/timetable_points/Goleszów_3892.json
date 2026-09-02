@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709876,
+  "type": "TIMETABLE_POINT",
+  "name": "Golesz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 28448
+    },
+    {
+      "line_no": "190",
+      "meter": 28448
+    },
+    {
+      "line_no": "190",
+      "meter": 28448
+    },
+    {
+      "line_no": "190",
+      "meter": 28448
+    },
+    {
+      "line_no": "191",
+      "meter": 0
+    },
+    {
+      "line_no": "191",
+      "meter": 0
+    }
+  ]
+}

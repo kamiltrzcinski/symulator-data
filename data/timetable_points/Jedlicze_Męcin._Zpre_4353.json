@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710337,
+  "type": "TIMETABLE_POINT",
+  "name": "Jedlicze M\u0119cin. Zpre",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 57602
+    },
+    {
+      "line_no": "108",
+      "meter": 57602
+    }
+  ]
+}

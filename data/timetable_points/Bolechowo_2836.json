@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708820,
+  "type": "TIMETABLE_POINT",
+  "name": "Bolechowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 14015
+    },
+    {
+      "line_no": "356",
+      "meter": 14016
+    }
+  ]
+}

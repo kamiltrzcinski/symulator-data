@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714376,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142brzych Fabryczny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 74566
+    },
+    {
+      "line_no": "274",
+      "meter": 74566
+    },
+    {
+      "line_no": "274",
+      "meter": 74566
+    }
+  ]
+}

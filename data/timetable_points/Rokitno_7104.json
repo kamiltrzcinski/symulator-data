@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713088,
+  "type": "TIMETABLE_POINT",
+  "name": "Rokitno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "363",
+      "meter": 82347
+    },
+    {
+      "line_no": "363",
+      "meter": 82347
+    },
+    {
+      "line_no": "363",
+      "meter": 82384
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712435,
+  "type": "TIMETABLE_POINT",
+  "name": "Paczkowo CLIP",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "642",
+      "meter": 600
+    },
+    {
+      "line_no": "642",
+      "meter": 600
+    },
+    {
+      "line_no": "642",
+      "meter": 1074
+    }
+  ]
+}

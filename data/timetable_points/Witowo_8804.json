@@ -1,0 +1,56 @@
+{
+  "uid": 3453153714788,
+  "type": "TIMETABLE_POINT",
+  "name": "Witowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 106750
+    },
+    {
+      "line_no": "31",
+      "meter": 106750
+    },
+    {
+      "line_no": "31",
+      "meter": 106824
+    },
+    {
+      "line_no": "31",
+      "meter": 106824
+    },
+    {
+      "line_no": "31",
+      "meter": 106824
+    },
+    {
+      "line_no": "31",
+      "meter": 107428
+    },
+    {
+      "line_no": "31",
+      "meter": 107428
+    },
+    {
+      "line_no": "31",
+      "meter": 107428
+    },
+    {
+      "line_no": "31",
+      "meter": 107428
+    },
+    {
+      "line_no": "31",
+      "meter": 107740
+    },
+    {
+      "line_no": "31",
+      "meter": 107740
+    },
+    {
+      "line_no": "31",
+      "meter": 107740
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710127,
+  "type": "TIMETABLE_POINT",
+  "name": "Hurko PZS R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 248538
+    },
+    {
+      "line_no": "91",
+      "meter": 248538
+    },
+    {
+      "line_no": "120",
+      "meter": 10
+    }
+  ]
+}

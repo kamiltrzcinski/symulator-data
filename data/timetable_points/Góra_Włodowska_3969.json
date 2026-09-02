@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709953,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3ra W\u0142odowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 206688
+    },
+    {
+      "line_no": "4",
+      "meter": 206688
+    },
+    {
+      "line_no": "4",
+      "meter": 206688
+    },
+    {
+      "line_no": "4",
+      "meter": 206688
+    },
+    {
+      "line_no": "4",
+      "meter": 206688
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711472,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Rury R12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 3415
+    },
+    {
+      "line_no": "68",
+      "meter": 3415
+    },
+    {
+      "line_no": "68",
+      "meter": 3415
+    },
+    {
+      "line_no": "588",
+      "meter": 986
+    }
+  ]
+}

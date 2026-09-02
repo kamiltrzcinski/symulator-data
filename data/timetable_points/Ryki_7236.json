@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713220,
+  "type": "TIMETABLE_POINT",
+  "name": "Ryki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 53187
+    },
+    {
+      "line_no": "26",
+      "meter": 53187
+    },
+    {
+      "line_no": "26",
+      "meter": 53187
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "uid": 3453153714896,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw G\u0142\u00f3wny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 181041
+    },
+    {
+      "line_no": "132",
+      "meter": 181041
+    },
+    {
+      "line_no": "132",
+      "meter": 181041
+    },
+    {
+      "line_no": "132",
+      "meter": 181041
+    },
+    {
+      "line_no": "271",
+      "meter": 0
+    },
+    {
+      "line_no": "271",
+      "meter": 0
+    },
+    {
+      "line_no": "271",
+      "meter": 0
+    },
+    {
+      "line_no": "271",
+      "meter": 0
+    },
+    {
+      "line_no": "273",
+      "meter": 0
+    },
+    {
+      "line_no": "273",
+      "meter": 0
+    },
+    {
+      "line_no": "273",
+      "meter": 0
+    },
+    {
+      "line_no": "273",
+      "meter": 0
+    },
+    {
+      "line_no": "276",
+      "meter": 0
+    },
+    {
+      "line_no": "276",
+      "meter": 0
+    },
+    {
+      "line_no": "276",
+      "meter": 0
+    },
+    {
+      "line_no": "276",
+      "meter": 0
+    },
+    {
+      "line_no": "285",
+      "meter": 0
+    },
+    {
+      "line_no": "285",
+      "meter": 0
+    },
+    {
+      "line_no": "285",
+      "meter": 0
+    },
+    {
+      "line_no": "285",
+      "meter": 0
+    },
+    {
+      "line_no": "285",
+      "meter": 0
+    },
+    {
+      "line_no": "285",
+      "meter": 0
+    },
+    {
+      "line_no": "763",
+      "meter": 5552
+    },
+    {
+      "line_no": "763",
+      "meter": 5552
+    },
+    {
+      "line_no": "763",
+      "meter": 5552
+    }
+  ]
+}

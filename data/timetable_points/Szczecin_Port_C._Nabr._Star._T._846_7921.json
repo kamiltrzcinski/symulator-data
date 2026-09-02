@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713905,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port C. Nabr. Star. T. 846",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "995",
+      "meter": 761
+    },
+    {
+      "line_no": "995",
+      "meter": 761
+    },
+    {
+      "line_no": "995",
+      "meter": 1491
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713634,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Ko\u017ale",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "151",
+      "meter": 4154
+    },
+    {
+      "line_no": "151",
+      "meter": 4154
+    },
+    {
+      "line_no": "151",
+      "meter": 4154
+    },
+    {
+      "line_no": "151",
+      "meter": 4154
+    },
+    {
+      "line_no": "681",
+      "meter": 3386
+    },
+    {
+      "line_no": "681",
+      "meter": 3386
+    },
+    {
+      "line_no": "709",
+      "meter": 4062
+    },
+    {
+      "line_no": "709",
+      "meter": 4062
+    },
+    {
+      "line_no": "709",
+      "meter": 4062
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "uid": 3453153713383,
+  "type": "TIMETABLE_POINT",
+  "name": "Skandawa (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "205",
+      "meter": 47602
+    },
+    {
+      "line_no": "205",
+      "meter": 47602
+    },
+    {
+      "line_no": "205",
+      "meter": 47602
+    },
+    {
+      "line_no": "353",
+      "meter": 389056
+    },
+    {
+      "line_no": "353",
+      "meter": 389065
+    },
+    {
+      "line_no": "353",
+      "meter": 389065
+    },
+    {
+      "line_no": "353",
+      "meter": 389065
+    },
+    {
+      "line_no": "596",
+      "meter": 48400
+    },
+    {
+      "line_no": "596",
+      "meter": 48400
+    },
+    {
+      "line_no": "599",
+      "meter": 48400
+    },
+    {
+      "line_no": "599",
+      "meter": 48400
+    }
+  ]
+}

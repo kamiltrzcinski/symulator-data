@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714500,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R106",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "834",
+      "meter": 9988
+    },
+    {
+      "line_no": "834",
+      "meter": 10005
+    },
+    {
+      "line_no": "834",
+      "meter": 10005
+    },
+    {
+      "line_no": "834",
+      "meter": 10005
+    },
+    {
+      "line_no": "835",
+      "meter": 9988
+    },
+    {
+      "line_no": "835",
+      "meter": 10005
+    },
+    {
+      "line_no": "835",
+      "meter": 10005
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708559,
+  "type": "TIMETABLE_POINT",
+  "name": "Bagienice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 28942
+    },
+    {
+      "line_no": "223",
+      "meter": 28942
+    },
+    {
+      "line_no": "223",
+      "meter": 28942
+    },
+    {
+      "line_no": "223",
+      "meter": 28943
+    },
+    {
+      "line_no": "223",
+      "meter": 28943
+    }
+  ]
+}

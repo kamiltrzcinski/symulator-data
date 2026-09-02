@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709538,
+  "type": "TIMETABLE_POINT",
+  "name": "Drzyma\u0142owo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 56462
+    },
+    {
+      "line_no": "357",
+      "meter": 56475
+    },
+    {
+      "line_no": "357",
+      "meter": 56475
+    },
+    {
+      "line_no": "357",
+      "meter": 56475
+    },
+    {
+      "line_no": "357",
+      "meter": 56475
+    },
+    {
+      "line_no": "357",
+      "meter": 56475
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708926,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeziny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 4771
+    },
+    {
+      "line_no": "73",
+      "meter": 4771
+    },
+    {
+      "line_no": "73",
+      "meter": 4771
+    },
+    {
+      "line_no": "569",
+      "meter": 2979
+    },
+    {
+      "line_no": "569",
+      "meter": 2979
+    },
+    {
+      "line_no": "569",
+      "meter": 2979
+    }
+  ]
+}

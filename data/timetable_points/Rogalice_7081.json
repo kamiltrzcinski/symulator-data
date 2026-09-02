@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713065,
+  "type": "TIMETABLE_POINT",
+  "name": "Rogalice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 47656
+    },
+    {
+      "line_no": "277",
+      "meter": 47656
+    },
+    {
+      "line_no": "277",
+      "meter": 47656
+    }
+  ]
+}

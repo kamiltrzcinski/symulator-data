@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714412,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ant. R51",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "506",
+      "meter": 701
+    },
+    {
+      "line_no": "506",
+      "meter": 701
+    },
+    {
+      "line_no": "506",
+      "meter": 701
+    },
+    {
+      "line_no": "844",
+      "meter": 699
+    },
+    {
+      "line_no": "844",
+      "meter": 701
+    },
+    {
+      "line_no": "844",
+      "meter": 701
+    },
+    {
+      "line_no": "844",
+      "meter": 701
+    }
+  ]
+}

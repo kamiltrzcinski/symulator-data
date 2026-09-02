@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708951,
+  "type": "TIMETABLE_POINT",
+  "name": "Budzy\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 58169
+    },
+    {
+      "line_no": "354",
+      "meter": 58169
+    },
+    {
+      "line_no": "354",
+      "meter": 58169
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711831,
+  "type": "TIMETABLE_POINT",
+  "name": "Mierk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 176485
+    },
+    {
+      "line_no": "275",
+      "meter": 176485
+    }
+  ]
+}

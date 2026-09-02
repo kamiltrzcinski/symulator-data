@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714253,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzebiat\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 66711
+    },
+    {
+      "line_no": "402",
+      "meter": 66711
+    },
+    {
+      "line_no": "402",
+      "meter": 66711
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712653,
+  "type": "TIMETABLE_POINT",
+  "name": "Podolany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 12339
+    },
+    {
+      "line_no": "97",
+      "meter": 12454
+    },
+    {
+      "line_no": "97",
+      "meter": 12460
+    },
+    {
+      "line_no": "97",
+      "meter": 12460
+    },
+    {
+      "line_no": "97",
+      "meter": 12460
+    }
+  ]
+}

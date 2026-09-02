@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713844,
+  "type": "TIMETABLE_POINT",
+  "name": "Szamotu\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 33040
+    },
+    {
+      "line_no": "351",
+      "meter": 33040
+    },
+    {
+      "line_no": "351",
+      "meter": 33040
+    },
+    {
+      "line_no": "351",
+      "meter": 33040
+    },
+    {
+      "line_no": "351",
+      "meter": 33040
+    },
+    {
+      "line_no": "368",
+      "meter": 0
+    },
+    {
+      "line_no": "368",
+      "meter": 0
+    }
+  ]
+}

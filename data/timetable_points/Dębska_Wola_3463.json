@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709447,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119bska Wola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 13796
+    },
+    {
+      "line_no": "73",
+      "meter": 13982
+    },
+    {
+      "line_no": "73",
+      "meter": 13982
+    },
+    {
+      "line_no": "73",
+      "meter": 13982
+    }
+  ]
+}

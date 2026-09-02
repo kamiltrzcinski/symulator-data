@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711766,
+  "type": "TIMETABLE_POINT",
+  "name": "Martiany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 169500
+    },
+    {
+      "line_no": "38",
+      "meter": 169515
+    },
+    {
+      "line_no": "38",
+      "meter": 169515
+    },
+    {
+      "line_no": "38",
+      "meter": 169515
+    },
+    {
+      "line_no": "38",
+      "meter": 169576
+    },
+    {
+      "line_no": "38",
+      "meter": 169633
+    },
+    {
+      "line_no": "38",
+      "meter": 169633
+    }
+  ]
+}

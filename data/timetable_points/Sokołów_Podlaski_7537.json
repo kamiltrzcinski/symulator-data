@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713521,
+  "type": "TIMETABLE_POINT",
+  "name": "Soko\u0142\u00f3w Podlaski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "55",
+      "meter": 90819
+    },
+    {
+      "line_no": "55",
+      "meter": 90819
+    },
+    {
+      "line_no": "55",
+      "meter": 90819
+    },
+    {
+      "line_no": "55",
+      "meter": 90819
+    },
+    {
+      "line_no": "55",
+      "meter": 90819
+    }
+  ]
+}

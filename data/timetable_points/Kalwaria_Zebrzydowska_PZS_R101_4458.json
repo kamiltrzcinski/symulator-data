@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710442,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalwaria Zebrzydowska PZS R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 20950
+    },
+    {
+      "line_no": "621",
+      "meter": 10
+    }
+  ]
+}

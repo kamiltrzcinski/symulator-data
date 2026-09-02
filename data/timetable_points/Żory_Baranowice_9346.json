@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715330,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017bory Baranowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "159",
+      "meter": 17455
+    },
+    {
+      "line_no": "159",
+      "meter": 17455
+    },
+    {
+      "line_no": "159",
+      "meter": 17620
+    },
+    {
+      "line_no": "159",
+      "meter": 17620
+    }
+  ]
+}

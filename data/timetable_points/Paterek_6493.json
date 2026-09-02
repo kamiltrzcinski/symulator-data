@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712477,
+  "type": "TIMETABLE_POINT",
+  "name": "Paterek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 230067
+    },
+    {
+      "line_no": "281",
+      "meter": 230067
+    },
+    {
+      "line_no": "281",
+      "meter": 230067
+    }
+  ]
+}

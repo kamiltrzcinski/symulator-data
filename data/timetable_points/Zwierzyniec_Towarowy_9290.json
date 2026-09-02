@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715274,
+  "type": "TIMETABLE_POINT",
+  "name": "Zwierzyniec Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 58
+    },
+    {
+      "line_no": "66",
+      "meter": 58
+    },
+    {
+      "line_no": "66",
+      "meter": 58
+    },
+    {
+      "line_no": "69",
+      "meter": 76370
+    },
+    {
+      "line_no": "69",
+      "meter": 76370
+    },
+    {
+      "line_no": "69",
+      "meter": 76370
+    },
+    {
+      "line_no": "69",
+      "meter": 76370
+    }
+  ]
+}

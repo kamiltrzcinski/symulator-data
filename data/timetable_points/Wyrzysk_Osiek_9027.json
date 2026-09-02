@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715011,
+  "type": "TIMETABLE_POINT",
+  "name": "Wyrzysk Osiek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 208183
+    },
+    {
+      "line_no": "18",
+      "meter": 208183
+    },
+    {
+      "line_no": "18",
+      "meter": 208183
+    }
+  ]
+}

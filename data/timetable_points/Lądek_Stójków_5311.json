@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711295,
+  "type": "TIMETABLE_POINT",
+  "name": "L\u0105dek St\u00f3jk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "322",
+      "meter": 21046
+    },
+    {
+      "line_no": "322",
+      "meter": 21046
+    },
+    {
+      "line_no": "322",
+      "meter": 21046
+    }
+  ]
+}

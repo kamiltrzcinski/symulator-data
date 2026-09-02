@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711273,
+  "type": "TIMETABLE_POINT",
+  "name": "L998 km:,034 PLK - ZE DOLNA ODRA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "998",
+      "meter": 34
+    }
+  ]
+}

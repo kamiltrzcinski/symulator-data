@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708865,
+  "type": "TIMETABLE_POINT",
+  "name": "Bo\u017ca Wola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 34318
+    },
+    {
+      "line_no": "3",
+      "meter": 34318
+    }
+  ]
+}

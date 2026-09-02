@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713890,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Gumie\u0144ce GT T102-112",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "408",
+      "meter": 5601
+    }
+  ]
+}

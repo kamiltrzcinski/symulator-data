@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713175,
+  "type": "TIMETABLE_POINT",
+  "name": "Rutwica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "403",
+      "meter": 38749
+    }
+  ]
+}

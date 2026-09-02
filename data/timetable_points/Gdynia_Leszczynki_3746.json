@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709730,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Leszczynki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 25012
+    },
+    {
+      "line_no": "250",
+      "meter": 25012
+    },
+    {
+      "line_no": "250",
+      "meter": 25043
+    },
+    {
+      "line_no": "250",
+      "meter": 25043
+    },
+    {
+      "line_no": "250",
+      "meter": 25043
+    },
+    {
+      "line_no": "250",
+      "meter": 25043
+    }
+  ]
+}

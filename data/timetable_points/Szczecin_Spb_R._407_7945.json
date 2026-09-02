@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713929,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Spb R. 407",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 351697
+    },
+    {
+      "line_no": "273",
+      "meter": 351697
+    },
+    {
+      "line_no": "993",
+      "meter": 108
+    }
+  ]
+}

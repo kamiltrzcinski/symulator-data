@@ -1,0 +1,60 @@
+{
+  "uid": 3453153710989,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Olsza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "100",
+      "meter": 7536
+    },
+    {
+      "line_no": "100",
+      "meter": 7536
+    },
+    {
+      "line_no": "100",
+      "meter": 7536
+    },
+    {
+      "line_no": "100",
+      "meter": 7536
+    },
+    {
+      "line_no": "100",
+      "meter": 7536
+    },
+    {
+      "line_no": "602",
+      "meter": 820
+    },
+    {
+      "line_no": "602",
+      "meter": 820
+    },
+    {
+      "line_no": "602",
+      "meter": 820
+    },
+    {
+      "line_no": "602",
+      "meter": 820
+    },
+    {
+      "line_no": "947",
+      "meter": 0
+    },
+    {
+      "line_no": "947",
+      "meter": 0
+    },
+    {
+      "line_no": "947",
+      "meter": 0
+    },
+    {
+      "line_no": "947",
+      "meter": 0
+    }
+  ]
+}

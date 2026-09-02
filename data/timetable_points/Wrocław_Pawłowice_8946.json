@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714930,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Paw\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "326",
+      "meter": 2608
+    },
+    {
+      "line_no": "326",
+      "meter": 2650
+    }
+  ]
+}

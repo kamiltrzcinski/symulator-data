@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713628,
+  "type": "TIMETABLE_POINT",
+  "name": "Stare Drzewce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 263301
+    },
+    {
+      "line_no": "14",
+      "meter": 263325
+    },
+    {
+      "line_no": "14",
+      "meter": 263325
+    },
+    {
+      "line_no": "14",
+      "meter": 263325
+    },
+    {
+      "line_no": "14",
+      "meter": 263325
+    }
+  ]
+}

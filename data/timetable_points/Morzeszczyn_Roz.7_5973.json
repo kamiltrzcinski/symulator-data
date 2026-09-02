@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711957,
+  "type": "TIMETABLE_POINT",
+  "name": "Morzeszczyn Roz.7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 466429
+    },
+    {
+      "line_no": "131",
+      "meter": 466429
+    },
+    {
+      "line_no": "131",
+      "meter": 466429
+    },
+    {
+      "line_no": "244",
+      "meter": -911
+    },
+    {
+      "line_no": "244",
+      "meter": -911
+    }
+  ]
+}

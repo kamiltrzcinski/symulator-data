@@ -1,0 +1,48 @@
+{
+  "uid": 3453153710603,
+  "type": "TIMETABLE_POINT",
+  "name": "Kiekrz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 12909
+    },
+    {
+      "line_no": "351",
+      "meter": 12909
+    },
+    {
+      "line_no": "351",
+      "meter": 12909
+    },
+    {
+      "line_no": "351",
+      "meter": 12909
+    },
+    {
+      "line_no": "351",
+      "meter": 12910
+    },
+    {
+      "line_no": "395",
+      "meter": 20367
+    },
+    {
+      "line_no": "395",
+      "meter": 20368
+    },
+    {
+      "line_no": "395",
+      "meter": 20368
+    },
+    {
+      "line_no": "395",
+      "meter": 20368
+    },
+    {
+      "line_no": "395",
+      "meter": 20368
+    }
+  ]
+}

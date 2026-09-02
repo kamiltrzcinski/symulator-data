@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714669,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0119\u017cyska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 76609
+    },
+    {
+      "line_no": "358",
+      "meter": 76609
+    },
+    {
+      "line_no": "358",
+      "meter": 76609
+    },
+    {
+      "line_no": "358",
+      "meter": 76609
+    },
+    {
+      "line_no": "358",
+      "meter": 76609
+    },
+    {
+      "line_no": "358",
+      "meter": 76609
+    },
+    {
+      "line_no": "358",
+      "meter": 76609
+    }
+  ]
+}

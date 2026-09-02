@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710806,
+  "type": "TIMETABLE_POINT",
+  "name": "Kosina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 181180
+    },
+    {
+      "line_no": "91",
+      "meter": 181180
+    },
+    {
+      "line_no": "91",
+      "meter": 181185
+    },
+    {
+      "line_no": "91",
+      "meter": 181185
+    },
+    {
+      "line_no": "91",
+      "meter": 181185
+    },
+    {
+      "line_no": "91",
+      "meter": 181185
+    }
+  ]
+}

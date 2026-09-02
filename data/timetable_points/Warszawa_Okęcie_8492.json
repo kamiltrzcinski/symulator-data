@@ -1,0 +1,56 @@
+{
+  "uid": 3453153714476,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Ok\u0119cie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 12098
+    },
+    {
+      "line_no": "8",
+      "meter": 12098
+    },
+    {
+      "line_no": "8",
+      "meter": 12388
+    },
+    {
+      "line_no": "8",
+      "meter": 12388
+    },
+    {
+      "line_no": "8",
+      "meter": 12388
+    },
+    {
+      "line_no": "8",
+      "meter": 12388
+    },
+    {
+      "line_no": "440",
+      "meter": 1
+    },
+    {
+      "line_no": "937",
+      "meter": -3122
+    },
+    {
+      "line_no": "937",
+      "meter": -3122
+    },
+    {
+      "line_no": "937",
+      "meter": -2832
+    },
+    {
+      "line_no": "937",
+      "meter": -2832
+    },
+    {
+      "line_no": "937",
+      "meter": -2832
+    }
+  ]
+}

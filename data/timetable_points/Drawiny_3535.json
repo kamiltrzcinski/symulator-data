@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709519,
+  "type": "TIMETABLE_POINT",
+  "name": "Drawiny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 90073
+    },
+    {
+      "line_no": "351",
+      "meter": 90125
+    },
+    {
+      "line_no": "351",
+      "meter": 90125
+    },
+    {
+      "line_no": "351",
+      "meter": 90125
+    },
+    {
+      "line_no": "351",
+      "meter": 90125
+    },
+    {
+      "line_no": "351",
+      "meter": 90125
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712786,
+  "type": "TIMETABLE_POINT",
+  "name": "Prosty\u0144 Bug",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 83585
+    },
+    {
+      "line_no": "6",
+      "meter": 83585
+    },
+    {
+      "line_no": "6",
+      "meter": 83585
+    },
+    {
+      "line_no": "6",
+      "meter": 83585
+    },
+    {
+      "line_no": "6",
+      "meter": 83585
+    },
+    {
+      "line_no": "6",
+      "meter": 83585
+    },
+    {
+      "line_no": "6",
+      "meter": 83585
+    }
+  ]
+}

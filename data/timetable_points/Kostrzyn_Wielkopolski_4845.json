@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710829,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn Wielkopolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 281277
+    },
+    {
+      "line_no": "3",
+      "meter": 281277
+    }
+  ]
+}

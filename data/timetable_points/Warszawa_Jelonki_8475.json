@@ -1,0 +1,52 @@
+{
+  "uid": 3453153714459,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Jelonki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "509",
+      "meter": 3500
+    },
+    {
+      "line_no": "509",
+      "meter": 3500
+    },
+    {
+      "line_no": "509",
+      "meter": 3500
+    },
+    {
+      "line_no": "509",
+      "meter": 3500
+    },
+    {
+      "line_no": "509",
+      "meter": 3500
+    },
+    {
+      "line_no": "509",
+      "meter": 3500
+    },
+    {
+      "line_no": "509",
+      "meter": 4459
+    },
+    {
+      "line_no": "938",
+      "meter": -54
+    },
+    {
+      "line_no": "938",
+      "meter": -54
+    },
+    {
+      "line_no": "938",
+      "meter": -54
+    },
+    {
+      "line_no": "938",
+      "meter": -54
+    }
+  ]
+}

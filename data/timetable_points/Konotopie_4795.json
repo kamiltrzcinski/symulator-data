@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710779,
+  "type": "TIMETABLE_POINT",
+  "name": "Konotopie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 126509
+    },
+    {
+      "line_no": "27",
+      "meter": 126509
+    }
+  ]
+}

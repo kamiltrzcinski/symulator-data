@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713378,
+  "type": "TIMETABLE_POINT",
+  "name": "Skalite Kudlov",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "489",
+      "meter": 17037
+    }
+  ]
+}

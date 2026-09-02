@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713241,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzeczyce \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 37373
+    },
+    {
+      "line_no": "137",
+      "meter": 37400
+    }
+  ]
+}

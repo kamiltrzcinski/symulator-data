@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715321,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017b\u0119dowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 29885
+    },
+    {
+      "line_no": "144",
+      "meter": 29886
+    }
+  ]
+}

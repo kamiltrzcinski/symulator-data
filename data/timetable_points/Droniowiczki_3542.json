@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709526,
+  "type": "TIMETABLE_POINT",
+  "name": "Droniowiczki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "152",
+      "meter": 36625
+    },
+    {
+      "line_no": "152",
+      "meter": 36625
+    },
+    {
+      "line_no": "152",
+      "meter": 36625
+    },
+    {
+      "line_no": "152",
+      "meter": 36625
+    },
+    {
+      "line_no": "152",
+      "meter": 36625
+    },
+    {
+      "line_no": "685",
+      "meter": 0
+    },
+    {
+      "line_no": "685",
+      "meter": 0
+    },
+    {
+      "line_no": "685",
+      "meter": 0
+    }
+  ]
+}

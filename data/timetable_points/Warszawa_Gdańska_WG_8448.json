@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714432,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska WG",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 9760
+    },
+    {
+      "line_no": "20",
+      "meter": 9760
+    },
+    {
+      "line_no": "509",
+      "meter": 9172
+    },
+    {
+      "line_no": "509",
+      "meter": 9172
+    },
+    {
+      "line_no": "509",
+      "meter": 9172
+    },
+    {
+      "line_no": "509",
+      "meter": 9172
+    }
+  ]
+}

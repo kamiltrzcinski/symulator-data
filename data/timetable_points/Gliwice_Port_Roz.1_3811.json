@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709795,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice Port Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "167",
+      "meter": 2472
+    },
+    {
+      "line_no": "167",
+      "meter": 2482
+    },
+    {
+      "line_no": "167",
+      "meter": 2482
+    },
+    {
+      "line_no": "167",
+      "meter": 2550
+    },
+    {
+      "line_no": "167",
+      "meter": 2550
+    },
+    {
+      "line_no": "675",
+      "meter": 796
+    },
+    {
+      "line_no": "675",
+      "meter": 796
+    },
+    {
+      "line_no": "675",
+      "meter": 796
+    },
+    {
+      "line_no": "675",
+      "meter": 848
+    }
+  ]
+}

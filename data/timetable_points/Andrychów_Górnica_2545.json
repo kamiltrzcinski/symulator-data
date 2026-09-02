@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708529,
+  "type": "TIMETABLE_POINT",
+  "name": "Andrych\u00f3w G\u00f3rnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 33766
+    },
+    {
+      "line_no": "117",
+      "meter": 33766
+    },
+    {
+      "line_no": "117",
+      "meter": 33766
+    }
+  ]
+}

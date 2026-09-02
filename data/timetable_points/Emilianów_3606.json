@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709590,
+  "type": "TIMETABLE_POINT",
+  "name": "Emilian\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "10",
+      "meter": 25780
+    },
+    {
+      "line_no": "10",
+      "meter": 25780
+    },
+    {
+      "line_no": "10",
+      "meter": 25781
+    },
+    {
+      "line_no": "10",
+      "meter": 25781
+    },
+    {
+      "line_no": "10",
+      "meter": 25781
+    }
+  ]
+}

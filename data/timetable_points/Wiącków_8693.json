@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714677,
+  "type": "TIMETABLE_POINT",
+  "name": "Wi\u0105ck\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "914",
+      "meter": 4560
+    },
+    {
+      "line_no": "916",
+      "meter": 3095
+    }
+  ]
+}

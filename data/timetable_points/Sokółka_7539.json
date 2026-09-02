@@ -1,0 +1,56 @@
+{
+  "uid": 3453153713523,
+  "type": "TIMETABLE_POINT",
+  "name": "Sok\u00f3\u0142ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 218527
+    },
+    {
+      "line_no": "6",
+      "meter": 218527
+    },
+    {
+      "line_no": "6",
+      "meter": 218527
+    },
+    {
+      "line_no": "6",
+      "meter": 218527
+    },
+    {
+      "line_no": "6",
+      "meter": 218527
+    },
+    {
+      "line_no": "40",
+      "meter": 395
+    },
+    {
+      "line_no": "40",
+      "meter": 601
+    },
+    {
+      "line_no": "57",
+      "meter": 181538
+    },
+    {
+      "line_no": "57",
+      "meter": 181538
+    },
+    {
+      "line_no": "57",
+      "meter": 181538
+    },
+    {
+      "line_no": "57",
+      "meter": 181538
+    },
+    {
+      "line_no": "922",
+      "meter": 1
+    }
+  ]
+}

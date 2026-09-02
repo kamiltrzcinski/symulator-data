@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712267,
+  "type": "TIMETABLE_POINT",
+  "name": "Olszewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 65513
+    },
+    {
+      "line_no": "223",
+      "meter": 65513
+    },
+    {
+      "line_no": "223",
+      "meter": 65513
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153714723,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzbno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "363",
+      "meter": 71502
+    },
+    {
+      "line_no": "363",
+      "meter": 71502
+    },
+    {
+      "line_no": "363",
+      "meter": 71502
+    },
+    {
+      "line_no": "363",
+      "meter": 71502
+    },
+    {
+      "line_no": "364",
+      "meter": 0
+    },
+    {
+      "line_no": "364",
+      "meter": 0
+    },
+    {
+      "line_no": "364",
+      "meter": 0
+    },
+    {
+      "line_no": "364",
+      "meter": 0
+    },
+    {
+      "line_no": "364",
+      "meter": 0
+    }
+  ]
+}

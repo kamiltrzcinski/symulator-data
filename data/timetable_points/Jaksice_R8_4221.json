@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710205,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaksice R8",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "741",
+      "meter": 7309
+    }
+  ]
+}

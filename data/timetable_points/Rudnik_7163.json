@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713147,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 102348
+    },
+    {
+      "line_no": "30",
+      "meter": 102348
+    },
+    {
+      "line_no": "30",
+      "meter": 102348
+    }
+  ]
+}

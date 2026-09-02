@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711079,
+  "type": "TIMETABLE_POINT",
+  "name": "Kr\u00f3wniki Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "120",
+      "meter": 2117
+    },
+    {
+      "line_no": "123",
+      "meter": 2545
+    },
+    {
+      "line_no": "123",
+      "meter": 2545
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711182,
+  "type": "TIMETABLE_POINT",
+  "name": "Kwk 1 Maja",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "875",
+      "meter": 4689
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715121,
+  "type": "TIMETABLE_POINT",
+  "name": "Zar\u0119by Ko\u015bcielne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 95840
+    },
+    {
+      "line_no": "6",
+      "meter": 95840
+    },
+    {
+      "line_no": "6",
+      "meter": 95840
+    },
+    {
+      "line_no": "6",
+      "meter": 95840
+    },
+    {
+      "line_no": "6",
+      "meter": 96249
+    },
+    {
+      "line_no": "6",
+      "meter": 96249
+    },
+    {
+      "line_no": "6",
+      "meter": 96249
+    }
+  ]
+}

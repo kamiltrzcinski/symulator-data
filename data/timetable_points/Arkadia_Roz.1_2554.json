@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708538,
+  "type": "TIMETABLE_POINT",
+  "name": "Arkadia Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 4823
+    },
+    {
+      "line_no": "533",
+      "meter": 0
+    }
+  ]
+}

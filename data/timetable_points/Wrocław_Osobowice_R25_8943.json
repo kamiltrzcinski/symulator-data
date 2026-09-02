@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714927,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Osobowice R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 10201
+    },
+    {
+      "line_no": "271",
+      "meter": 10201
+    },
+    {
+      "line_no": "271",
+      "meter": 10201
+    },
+    {
+      "line_no": "292",
+      "meter": 29145
+    },
+    {
+      "line_no": "292",
+      "meter": 29145
+    }
+  ]
+}

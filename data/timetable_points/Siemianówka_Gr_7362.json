@@ -1,0 +1,68 @@
+{
+  "uid": 3453153713346,
+  "type": "TIMETABLE_POINT",
+  "name": "Siemian\u00f3wka (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 154384
+    },
+    {
+      "line_no": "31",
+      "meter": 154384
+    },
+    {
+      "line_no": "31",
+      "meter": 154384
+    },
+    {
+      "line_no": "31",
+      "meter": 154384
+    },
+    {
+      "line_no": "59",
+      "meter": 0
+    },
+    {
+      "line_no": "59",
+      "meter": 0
+    },
+    {
+      "line_no": "59",
+      "meter": 0
+    },
+    {
+      "line_no": "461",
+      "meter": 32935
+    },
+    {
+      "line_no": "461",
+      "meter": 32935
+    },
+    {
+      "line_no": "461",
+      "meter": 33935
+    },
+    {
+      "line_no": "461",
+      "meter": 154384
+    },
+    {
+      "line_no": "466",
+      "meter": 0
+    },
+    {
+      "line_no": "466",
+      "meter": 32990
+    },
+    {
+      "line_no": "466",
+      "meter": 32990
+    },
+    {
+      "line_no": "466",
+      "meter": 33990
+    }
+  ]
+}

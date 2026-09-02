@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710050,
+  "type": "TIMETABLE_POINT",
+  "name": "Gryf\u00f3w \u015al\u0105ski R40",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 163674
+    },
+    {
+      "line_no": "317",
+      "meter": -262
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714498,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R.92",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 15215
+    },
+    {
+      "line_no": "9",
+      "meter": 15215
+    },
+    {
+      "line_no": "9",
+      "meter": 15215
+    },
+    {
+      "line_no": "833",
+      "meter": 15215
+    },
+    {
+      "line_no": "833",
+      "meter": 15215
+    },
+    {
+      "line_no": "833",
+      "meter": 15215
+    }
+  ]
+}

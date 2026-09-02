@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711334,
+  "type": "TIMETABLE_POINT",
+  "name": "Leszno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 235868
+    },
+    {
+      "line_no": "14",
+      "meter": 235868
+    },
+    {
+      "line_no": "14",
+      "meter": 235868
+    },
+    {
+      "line_no": "271",
+      "meter": 95798
+    },
+    {
+      "line_no": "271",
+      "meter": 95798
+    },
+    {
+      "line_no": "271",
+      "meter": 95798
+    },
+    {
+      "line_no": "271",
+      "meter": 95798
+    },
+    {
+      "line_no": "359",
+      "meter": 0
+    },
+    {
+      "line_no": "359",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711261,
+  "type": "TIMETABLE_POINT",
+  "name": "L933 km:,225 PLK - ZTK SIARKOPOL",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "933",
+      "meter": 225
+    },
+    {
+      "line_no": "933",
+      "meter": 225
+    }
+  ]
+}

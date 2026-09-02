@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715104,
+  "type": "TIMETABLE_POINT",
+  "name": "Za\u0142u\u017c",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 117707
+    },
+    {
+      "line_no": "108",
+      "meter": 117707
+    },
+    {
+      "line_no": "108",
+      "meter": 117707
+    },
+    {
+      "line_no": "108",
+      "meter": 117707
+    },
+    {
+      "line_no": "108",
+      "meter": 117707
+    }
+  ]
+}

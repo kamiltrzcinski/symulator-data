@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708575,
+  "type": "TIMETABLE_POINT",
+  "name": "Bardo Przy\u0142\u0119k",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 82545
+    },
+    {
+      "line_no": "276",
+      "meter": 82545
+    }
+  ]
+}

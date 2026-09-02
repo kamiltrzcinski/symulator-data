@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710079,
+  "type": "TIMETABLE_POINT",
+  "name": "Gwda Ma\u0142a",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 80140
+    },
+    {
+      "line_no": "405",
+      "meter": 80140
+    },
+    {
+      "line_no": "405",
+      "meter": 80140
+    }
+  ]
+}

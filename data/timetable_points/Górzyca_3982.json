@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709966,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3rzyca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 245085
+    },
+    {
+      "line_no": "273",
+      "meter": 245137
+    },
+    {
+      "line_no": "273",
+      "meter": 245137
+    }
+  ]
+}

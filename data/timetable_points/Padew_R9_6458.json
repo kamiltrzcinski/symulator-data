@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712442,
+  "type": "TIMETABLE_POINT",
+  "name": "Padew R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 274174
+    },
+    {
+      "line_no": "25",
+      "meter": 274174
+    },
+    {
+      "line_no": "25",
+      "meter": 274174
+    },
+    {
+      "line_no": "79",
+      "meter": 0
+    },
+    {
+      "line_no": "79",
+      "meter": 0
+    }
+  ]
+}

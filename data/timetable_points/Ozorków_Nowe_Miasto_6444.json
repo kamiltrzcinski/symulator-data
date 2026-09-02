@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712428,
+  "type": "TIMETABLE_POINT",
+  "name": "Ozork\u00f3w Nowe Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 34841
+    },
+    {
+      "line_no": "16",
+      "meter": 34841
+    },
+    {
+      "line_no": "16",
+      "meter": 34841
+    }
+  ]
+}

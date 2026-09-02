@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714587,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wschodnia Towarowa R7-9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "546",
+      "meter": 6381
+    },
+    {
+      "line_no": "546",
+      "meter": 6381
+    },
+    {
+      "line_no": "546",
+      "meter": 6381
+    },
+    {
+      "line_no": "547",
+      "meter": 6355
+    },
+    {
+      "line_no": "901",
+      "meter": 6385
+    }
+  ]
+}

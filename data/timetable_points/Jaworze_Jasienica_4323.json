@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710307,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaworze Jasienica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 10771
+    },
+    {
+      "line_no": "190",
+      "meter": 10771
+    },
+    {
+      "line_no": "190",
+      "meter": 10771
+    },
+    {
+      "line_no": "190",
+      "meter": 10771
+    },
+    {
+      "line_no": "190",
+      "meter": 10771
+    }
+  ]
+}

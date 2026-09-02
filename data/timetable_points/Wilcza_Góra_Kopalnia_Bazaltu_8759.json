@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714743,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilcza G\u00f3ra Kopalnia Bazaltu",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "342",
+      "meter": 3189
+    },
+    {
+      "line_no": "342",
+      "meter": 3189
+    },
+    {
+      "line_no": "342",
+      "meter": 3189
+    }
+  ]
+}

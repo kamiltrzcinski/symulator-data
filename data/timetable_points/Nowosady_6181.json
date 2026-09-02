@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712165,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowosady",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 128400
+    },
+    {
+      "line_no": "31",
+      "meter": 128400
+    },
+    {
+      "line_no": "31",
+      "meter": 128400
+    },
+    {
+      "line_no": "910",
+      "meter": 63
+    },
+    {
+      "line_no": "910",
+      "meter": 63
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711379,
+  "type": "TIMETABLE_POINT",
+  "name": "Linowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 88525
+    },
+    {
+      "line_no": "208",
+      "meter": 88525
+    },
+    {
+      "line_no": "208",
+      "meter": 88525
+    },
+    {
+      "line_no": "208",
+      "meter": 88525
+    }
+  ]
+}

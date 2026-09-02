@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709377,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Piek\u0142o",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "183",
+      "meter": 3910
+    },
+    {
+      "line_no": "183",
+      "meter": 3910
+    }
+  ]
+}

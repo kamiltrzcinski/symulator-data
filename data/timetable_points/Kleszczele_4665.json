@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710649,
+  "type": "TIMETABLE_POINT",
+  "name": "Kleszczele",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 5658
+    },
+    {
+      "line_no": "32",
+      "meter": 5658
+    },
+    {
+      "line_no": "32",
+      "meter": 6440
+    },
+    {
+      "line_no": "32",
+      "meter": 6440
+    },
+    {
+      "line_no": "32",
+      "meter": 6440
+    },
+    {
+      "line_no": "32",
+      "meter": 6440
+    }
+  ]
+}

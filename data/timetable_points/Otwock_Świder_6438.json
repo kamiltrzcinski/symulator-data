@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712422,
+  "type": "TIMETABLE_POINT",
+  "name": "Otwock \u015awider",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 25930
+    },
+    {
+      "line_no": "7",
+      "meter": 25930
+    },
+    {
+      "line_no": "7",
+      "meter": 25933
+    }
+  ]
+}

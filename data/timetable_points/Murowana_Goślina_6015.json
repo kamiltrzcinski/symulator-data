@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711999,
+  "type": "TIMETABLE_POINT",
+  "name": "Murowana Go\u015blina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 18848
+    },
+    {
+      "line_no": "356",
+      "meter": 18849
+    }
+  ]
+}

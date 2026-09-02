@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708936,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzoza Bydgoska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 354516
+    },
+    {
+      "line_no": "131",
+      "meter": 354516
+    }
+  ]
+}

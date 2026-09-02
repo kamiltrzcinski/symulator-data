@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714840,
+  "type": "TIMETABLE_POINT",
+  "name": "Wolb\u00f3rka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 123399
+    },
+    {
+      "line_no": "1",
+      "meter": 123399
+    },
+    {
+      "line_no": "1",
+      "meter": 123399
+    }
+  ]
+}

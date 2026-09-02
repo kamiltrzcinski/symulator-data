@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709262,
+  "type": "TIMETABLE_POINT",
+  "name": "Czechowice-Dziedzice Most Wis\u0142a",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 42034
+    },
+    {
+      "line_no": "139",
+      "meter": 42435
+    },
+    {
+      "line_no": "139",
+      "meter": 42435
+    },
+    {
+      "line_no": "139",
+      "meter": 42435
+    },
+    {
+      "line_no": "150",
+      "meter": 200
+    },
+    {
+      "line_no": "150",
+      "meter": 200
+    },
+    {
+      "line_no": "790",
+      "meter": 211
+    }
+  ]
+}

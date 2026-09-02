@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711751,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142ujowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "304",
+      "meter": 6431
+    },
+    {
+      "line_no": "304",
+      "meter": 6431
+    }
+  ]
+}

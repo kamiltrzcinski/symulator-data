@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709215,
+  "type": "TIMETABLE_POINT",
+  "name": "Cis\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 151355
+    },
+    {
+      "line_no": "31",
+      "meter": 151355
+    },
+    {
+      "line_no": "31",
+      "meter": 151355
+    },
+    {
+      "line_no": "31",
+      "meter": 151355
+    },
+    {
+      "line_no": "31",
+      "meter": 151355
+    }
+  ]
+}

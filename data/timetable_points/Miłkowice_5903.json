@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711887,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0142kowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 74572
+    },
+    {
+      "line_no": "275",
+      "meter": 74572
+    },
+    {
+      "line_no": "282",
+      "meter": 0
+    },
+    {
+      "line_no": "282",
+      "meter": 0
+    },
+    {
+      "line_no": "296",
+      "meter": 12684
+    },
+    {
+      "line_no": "296",
+      "meter": 12684
+    },
+    {
+      "line_no": "296",
+      "meter": 12684
+    },
+    {
+      "line_no": "775",
+      "meter": 3766
+    }
+  ]
+}

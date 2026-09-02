@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711897,
+  "type": "TIMETABLE_POINT",
+  "name": "Mimowola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 321040
+    },
+    {
+      "line_no": "131",
+      "meter": 321040
+    },
+    {
+      "line_no": "741",
+      "meter": 0
+    }
+  ]
+}

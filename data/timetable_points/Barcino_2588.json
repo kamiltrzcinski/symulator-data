@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708572,
+  "type": "TIMETABLE_POINT",
+  "name": "Barcino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "212",
+      "meter": 63390
+    },
+    {
+      "line_no": "212",
+      "meter": 63390
+    },
+    {
+      "line_no": "212",
+      "meter": 63390
+    }
+  ]
+}

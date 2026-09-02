@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714470,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Mokry \u0141ug",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "449",
+      "meter": 17178
+    },
+    {
+      "line_no": "449",
+      "meter": 17178
+    },
+    {
+      "line_no": "449",
+      "meter": 17178
+    },
+    {
+      "line_no": "449",
+      "meter": 17178
+    },
+    {
+      "line_no": "449",
+      "meter": 17178
+    }
+  ]
+}

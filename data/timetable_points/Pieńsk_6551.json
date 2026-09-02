@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712535,
+  "type": "TIMETABLE_POINT",
+  "name": "Pie\u0144sk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "278",
+      "meter": 13980
+    },
+    {
+      "line_no": "278",
+      "meter": 13980
+    },
+    {
+      "line_no": "278",
+      "meter": 13980
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711713,
+  "type": "TIMETABLE_POINT",
+  "name": "Malczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 42706
+    },
+    {
+      "line_no": "275",
+      "meter": 42706
+    },
+    {
+      "line_no": "275",
+      "meter": 42706
+    },
+    {
+      "line_no": "302",
+      "meter": 0
+    },
+    {
+      "line_no": "302",
+      "meter": 0
+    },
+    {
+      "line_no": "302",
+      "meter": 0
+    },
+    {
+      "line_no": "302",
+      "meter": 0
+    },
+    {
+      "line_no": "302",
+      "meter": 0
+    },
+    {
+      "line_no": "302",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "uid": 3457448683404,
+  "type": "TIMETABLE_CONNECTION",
+  "from_uid": 3453153710837,
+  "to_uid": 3453153710838,
+  "lines": [
+    {
+      "line_no": "271",
+      "from_meter": 122707,
+      "to_meter": 122155
+    },
+    {
+      "line_no": "271",
+      "from_meter": 122707,
+      "to_meter": 122838
+    },
+    {
+      "line_no": "366",
+      "from_meter": 75198,
+      "to_meter": 75199
+    },
+    {
+      "line_no": "366",
+      "from_meter": 75430,
+      "to_meter": 75199
+    },
+    {
+      "line_no": "366",
+      "from_meter": 75430,
+      "to_meter": 75431
+    },
+    {
+      "line_no": "366",
+      "from_meter": 75562,
+      "to_meter": 75431
+    },
+    {
+      "line_no": "366",
+      "from_meter": 75562,
+      "to_meter": 76115
+    }
+  ]
+}

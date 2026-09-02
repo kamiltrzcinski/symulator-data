@@ -1,0 +1,20 @@
+{
+  "uid": 3453153706002,
+  "type": "TIMETABLE_POINT",
+  "name": "43 Ps Km 6.125",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "43",
+      "meter": 6125
+    },
+    {
+      "line_no": "43",
+      "meter": 6125
+    },
+    {
+      "line_no": "43",
+      "meter": 6125
+    }
+  ]
+}

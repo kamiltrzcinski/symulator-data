@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714828,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Du\u017ca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 16243
+    },
+    {
+      "line_no": "66",
+      "meter": 16243
+    },
+    {
+      "line_no": "66",
+      "meter": 16243
+    }
+  ]
+}

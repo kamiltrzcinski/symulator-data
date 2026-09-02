@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714785,
+  "type": "TIMETABLE_POINT",
+  "name": "Witnica Choje\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 289539
+    },
+    {
+      "line_no": "273",
+      "meter": 289539
+    },
+    {
+      "line_no": "273",
+      "meter": 289539
+    }
+  ]
+}

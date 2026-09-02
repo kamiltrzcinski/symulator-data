@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711217,
+  "type": "TIMETABLE_POINT",
+  "name": "L452 km:6,449 PLK - PKP Intercity",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "452",
+      "meter": 6449
+    },
+    {
+      "line_no": "452",
+      "meter": 6449
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708793,
+  "type": "TIMETABLE_POINT",
+  "name": "Bogatynia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "786",
+      "meter": 32760
+    },
+    {
+      "line_no": "786",
+      "meter": 32760
+    },
+    {
+      "line_no": "786",
+      "meter": 32760
+    }
+  ]
+}

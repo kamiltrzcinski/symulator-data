@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709318,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Gnaszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 122211
+    },
+    {
+      "line_no": "61",
+      "meter": 122211
+    },
+    {
+      "line_no": "61",
+      "meter": 122931
+    },
+    {
+      "line_no": "61",
+      "meter": 122931
+    },
+    {
+      "line_no": "61",
+      "meter": 122963
+    },
+    {
+      "line_no": "61",
+      "meter": 122963
+    },
+    {
+      "line_no": "61",
+      "meter": 122963
+    },
+    {
+      "line_no": "61",
+      "meter": 122963
+    }
+  ]
+}

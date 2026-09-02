@@ -1,0 +1,64 @@
+{
+  "uid": 3453153709008,
+  "type": "TIMETABLE_POINT",
+  "name": "Bytom Bobrek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 20052
+    },
+    {
+      "line_no": "132",
+      "meter": 20052
+    },
+    {
+      "line_no": "132",
+      "meter": 20052
+    },
+    {
+      "line_no": "132",
+      "meter": 20052
+    },
+    {
+      "line_no": "132",
+      "meter": 20052
+    },
+    {
+      "line_no": "165",
+      "meter": 0
+    },
+    {
+      "line_no": "165",
+      "meter": 0
+    },
+    {
+      "line_no": "165",
+      "meter": 0
+    },
+    {
+      "line_no": "165",
+      "meter": 0
+    },
+    {
+      "line_no": "165",
+      "meter": 0
+    },
+    {
+      "line_no": "188",
+      "meter": 20301
+    },
+    {
+      "line_no": "188",
+      "meter": 20301
+    },
+    {
+      "line_no": "188",
+      "meter": 20301
+    },
+    {
+      "line_no": "188",
+      "meter": 20301
+    }
+  ]
+}

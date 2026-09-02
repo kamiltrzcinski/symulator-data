@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713264,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzesz\u00f3w R30",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 156603
+    },
+    {
+      "line_no": "91",
+      "meter": 156603
+    },
+    {
+      "line_no": "91",
+      "meter": 156603
+    },
+    {
+      "line_no": "91",
+      "meter": 156603
+    },
+    {
+      "line_no": "91",
+      "meter": 156603
+    },
+    {
+      "line_no": "611",
+      "meter": 0
+    },
+    {
+      "line_no": "611",
+      "meter": 0
+    },
+    {
+      "line_no": "611",
+      "meter": 0
+    }
+  ]
+}

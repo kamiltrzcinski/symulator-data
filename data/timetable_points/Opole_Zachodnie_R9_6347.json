@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712331,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Zachodnie R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 101711
+    },
+    {
+      "line_no": "132",
+      "meter": 101711
+    },
+    {
+      "line_no": "132",
+      "meter": 101711
+    },
+    {
+      "line_no": "287",
+      "meter": 353
+    },
+    {
+      "line_no": "287",
+      "meter": 353
+    },
+    {
+      "line_no": "287",
+      "meter": 353
+    }
+  ]
+}

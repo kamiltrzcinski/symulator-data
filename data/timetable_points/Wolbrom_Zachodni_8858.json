@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714842,
+  "type": "TIMETABLE_POINT",
+  "name": "Wolbrom Zachodni",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 23675
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708882,
+  "type": "TIMETABLE_POINT",
+  "name": "Bratk\u00f3w Zgorzelecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "290",
+      "meter": 19704
+    },
+    {
+      "line_no": "290",
+      "meter": 19704
+    },
+    {
+      "line_no": "290",
+      "meter": 19704
+    }
+  ]
+}

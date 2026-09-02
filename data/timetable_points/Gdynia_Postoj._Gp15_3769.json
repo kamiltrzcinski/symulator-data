@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709753,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Postoj. Gp15",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "964",
+      "meter": 1
+    },
+    {
+      "line_no": "964",
+      "meter": 1
+    }
+  ]
+}

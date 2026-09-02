@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713848,
+  "type": "TIMETABLE_POINT",
+  "name": "Szaradowo Zalesie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 93311
+    },
+    {
+      "line_no": "356",
+      "meter": 93311
+    }
+  ]
+}

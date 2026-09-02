@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710107,
+  "type": "TIMETABLE_POINT",
+  "name": "Herby Stare R37",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 134972
+    },
+    {
+      "line_no": "61",
+      "meter": 134972
+    },
+    {
+      "line_no": "61",
+      "meter": 134972
+    },
+    {
+      "line_no": "61",
+      "meter": 134973
+    },
+    {
+      "line_no": "687",
+      "meter": 2219
+    },
+    {
+      "line_no": "687",
+      "meter": 2323
+    }
+  ]
+}

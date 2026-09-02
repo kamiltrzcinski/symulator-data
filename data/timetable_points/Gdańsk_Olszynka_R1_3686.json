@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709670,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Olszynka R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 7976
+    },
+    {
+      "line_no": "226",
+      "meter": 7976
+    },
+    {
+      "line_no": "226",
+      "meter": 7976
+    },
+    {
+      "line_no": "721",
+      "meter": 2573
+    }
+  ]
+}

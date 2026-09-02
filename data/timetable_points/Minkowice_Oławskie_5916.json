@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711900,
+  "type": "TIMETABLE_POINT",
+  "name": "Minkowice O\u0142awskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 59023
+    },
+    {
+      "line_no": "277",
+      "meter": 59023
+    },
+    {
+      "line_no": "277",
+      "meter": 59023
+    }
+  ]
+}

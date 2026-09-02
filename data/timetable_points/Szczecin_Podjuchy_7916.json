@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713900,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Podjuchy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 348178
+    },
+    {
+      "line_no": "273",
+      "meter": 348178
+    },
+    {
+      "line_no": "273",
+      "meter": 348178
+    },
+    {
+      "line_no": "428",
+      "meter": 6436
+    },
+    {
+      "line_no": "428",
+      "meter": 6929
+    },
+    {
+      "line_no": "428",
+      "meter": 6929
+    }
+  ]
+}

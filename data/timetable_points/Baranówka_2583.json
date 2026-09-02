@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708567,
+  "type": "TIMETABLE_POINT",
+  "name": "Baran\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 304180
+    },
+    {
+      "line_no": "8",
+      "meter": 304180
+    },
+    {
+      "line_no": "8",
+      "meter": 304180
+    },
+    {
+      "line_no": "8",
+      "meter": 304180
+    },
+    {
+      "line_no": "8",
+      "meter": 304180
+    }
+  ]
+}

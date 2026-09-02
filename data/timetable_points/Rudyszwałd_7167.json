@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713151,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudyszwa\u0142d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "151",
+      "meter": 50790
+    },
+    {
+      "line_no": "151",
+      "meter": 50790
+    },
+    {
+      "line_no": "151",
+      "meter": 50790
+    },
+    {
+      "line_no": "151",
+      "meter": 50790
+    },
+    {
+      "line_no": "151",
+      "meter": 50811
+    },
+    {
+      "line_no": "151",
+      "meter": 50882
+    },
+    {
+      "line_no": "158",
+      "meter": 23839
+    },
+    {
+      "line_no": "158",
+      "meter": 23839
+    },
+    {
+      "line_no": "158",
+      "meter": 23839
+    },
+    {
+      "line_no": "158",
+      "meter": 23897
+    }
+  ]
+}

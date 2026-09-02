@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712842,
+  "type": "TIMETABLE_POINT",
+  "name": "Przemy\u015bl Zasanie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 242726
+    },
+    {
+      "line_no": "91",
+      "meter": 242726
+    },
+    {
+      "line_no": "91",
+      "meter": 242726
+    },
+    {
+      "line_no": "91",
+      "meter": 242726
+    },
+    {
+      "line_no": "91",
+      "meter": 242731
+    }
+  ]
+}

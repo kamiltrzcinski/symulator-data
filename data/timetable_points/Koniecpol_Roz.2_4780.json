@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710764,
+  "type": "TIMETABLE_POINT",
+  "name": "Koniecpol Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 70616
+    },
+    {
+      "line_no": "61",
+      "meter": 70616
+    },
+    {
+      "line_no": "61",
+      "meter": 70616
+    },
+    {
+      "line_no": "61",
+      "meter": 70616
+    },
+    {
+      "line_no": "64",
+      "meter": 43528
+    },
+    {
+      "line_no": "64",
+      "meter": 43528
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713280,
+  "type": "TIMETABLE_POINT",
+  "name": "Sadowice Wroc\u0142awskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 14786
+    },
+    {
+      "line_no": "274",
+      "meter": 14786
+    }
+  ]
+}

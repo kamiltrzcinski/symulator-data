@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710478,
+  "type": "TIMETABLE_POINT",
+  "name": "Kar\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 35681
+    },
+    {
+      "line_no": "277",
+      "meter": 35681
+    },
+    {
+      "line_no": "277",
+      "meter": 35681
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709251,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarnk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "390",
+      "meter": 6849
+    },
+    {
+      "line_no": "390",
+      "meter": 6849
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711955,
+  "type": "TIMETABLE_POINT",
+  "name": "Morze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "52",
+      "meter": 12630
+    },
+    {
+      "line_no": "52",
+      "meter": 12630
+    },
+    {
+      "line_no": "52",
+      "meter": 13893
+    }
+  ]
+}

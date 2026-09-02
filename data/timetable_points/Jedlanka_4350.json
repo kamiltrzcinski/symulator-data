@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710334,
+  "type": "TIMETABLE_POINT",
+  "name": "Jedlanka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 141663
+    },
+    {
+      "line_no": "12",
+      "meter": 141825
+    },
+    {
+      "line_no": "12",
+      "meter": 141825
+    },
+    {
+      "line_no": "12",
+      "meter": 141825
+    },
+    {
+      "line_no": "12",
+      "meter": 141825
+    }
+  ]
+}

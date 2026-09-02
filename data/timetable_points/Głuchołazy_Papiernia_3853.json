@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709837,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142ucho\u0142azy Papiernia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "343",
+      "meter": 3307
+    },
+    {
+      "line_no": "343",
+      "meter": 3307
+    }
+  ]
+}

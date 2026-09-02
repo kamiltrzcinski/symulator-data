@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715170,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szynek R47",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 568
+    },
+    {
+      "line_no": "358",
+      "meter": 568
+    },
+    {
+      "line_no": "358",
+      "meter": 568
+    },
+    {
+      "line_no": "358",
+      "meter": 568
+    },
+    {
+      "line_no": "982",
+      "meter": 2252
+    },
+    {
+      "line_no": "982",
+      "meter": 2252
+    }
+  ]
+}

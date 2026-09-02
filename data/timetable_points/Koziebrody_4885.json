@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710869,
+  "type": "TIMETABLE_POINT",
+  "name": "Koziebrody",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 63725
+    },
+    {
+      "line_no": "27",
+      "meter": 65107
+    }
+  ]
+}

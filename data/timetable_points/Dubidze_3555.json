@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709539,
+  "type": "TIMETABLE_POINT",
+  "name": "Dubidze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 27543
+    },
+    {
+      "line_no": "146",
+      "meter": 27553
+    },
+    {
+      "line_no": "146",
+      "meter": 27553
+    },
+    {
+      "line_no": "146",
+      "meter": 27553
+    },
+    {
+      "line_no": "146",
+      "meter": 27593
+    },
+    {
+      "line_no": "146",
+      "meter": 27593
+    }
+  ]
+}

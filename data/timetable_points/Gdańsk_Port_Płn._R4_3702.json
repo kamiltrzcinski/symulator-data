@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709686,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Port P\u0142n. R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 12852
+    },
+    {
+      "line_no": "226",
+      "meter": 12852
+    },
+    {
+      "line_no": "226",
+      "meter": 12852
+    },
+    {
+      "line_no": "965",
+      "meter": -8
+    },
+    {
+      "line_no": "965",
+      "meter": -8
+    }
+  ]
+}

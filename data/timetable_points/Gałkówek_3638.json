@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709622,
+  "type": "TIMETABLE_POINT",
+  "name": "Ga\u0142k\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "17",
+      "meter": 19197
+    },
+    {
+      "line_no": "17",
+      "meter": 19197
+    },
+    {
+      "line_no": "25",
+      "meter": 24207
+    },
+    {
+      "line_no": "25",
+      "meter": 24207
+    },
+    {
+      "line_no": "25",
+      "meter": 24207
+    }
+  ]
+}

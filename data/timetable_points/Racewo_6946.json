@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712930,
+  "type": "TIMETABLE_POINT",
+  "name": "Racewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 12454
+    },
+    {
+      "line_no": "40",
+      "meter": 12454
+    }
+  ]
+}

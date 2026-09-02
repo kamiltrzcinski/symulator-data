@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711134,
+  "type": "TIMETABLE_POINT",
+  "name": "Kulesze Ko\u015bcielne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 62624
+    },
+    {
+      "line_no": "36",
+      "meter": 62634
+    },
+    {
+      "line_no": "36",
+      "meter": 62634
+    },
+    {
+      "line_no": "36",
+      "meter": 62634
+    },
+    {
+      "line_no": "36",
+      "meter": 62634
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711936,
+  "type": "TIMETABLE_POINT",
+  "name": "Mojusz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 60600
+    },
+    {
+      "line_no": "229",
+      "meter": 60600
+    },
+    {
+      "line_no": "229",
+      "meter": 60600
+    }
+  ]
+}

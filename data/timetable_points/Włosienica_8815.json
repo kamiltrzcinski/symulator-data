@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714799,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142osienica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 53210
+    },
+    {
+      "line_no": "94",
+      "meter": 53210
+    },
+    {
+      "line_no": "94",
+      "meter": 53210
+    },
+    {
+      "line_no": "94",
+      "meter": 53210
+    },
+    {
+      "line_no": "94",
+      "meter": 53210
+    },
+    {
+      "line_no": "94",
+      "meter": 53210
+    }
+  ]
+}

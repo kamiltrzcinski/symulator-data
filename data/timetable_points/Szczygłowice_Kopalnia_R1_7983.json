@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713967,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczyg\u0142owice Kopalnia R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "149",
+      "meter": 18396
+    },
+    {
+      "line_no": "149",
+      "meter": 18396
+    },
+    {
+      "line_no": "859",
+      "meter": 0
+    },
+    {
+      "line_no": "859",
+      "meter": 0
+    },
+    {
+      "line_no": "859",
+      "meter": 0
+    }
+  ]
+}

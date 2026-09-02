@@ -1,0 +1,96 @@
+{
+  "uid": 3453153711778,
+  "type": "TIMETABLE_POINT",
+  "name": "Medyka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 256561
+    },
+    {
+      "line_no": "91",
+      "meter": 257094
+    },
+    {
+      "line_no": "91",
+      "meter": 257094
+    },
+    {
+      "line_no": "91",
+      "meter": 257094
+    },
+    {
+      "line_no": "91",
+      "meter": 257094
+    },
+    {
+      "line_no": "91",
+      "meter": 257094
+    },
+    {
+      "line_no": "92",
+      "meter": 12874
+    },
+    {
+      "line_no": "92",
+      "meter": 12874
+    },
+    {
+      "line_no": "92",
+      "meter": 12874
+    },
+    {
+      "line_no": "92",
+      "meter": 12878
+    },
+    {
+      "line_no": "92",
+      "meter": 12878
+    },
+    {
+      "line_no": "92",
+      "meter": 12878
+    },
+    {
+      "line_no": "92",
+      "meter": 12878
+    },
+    {
+      "line_no": "121",
+      "meter": 0
+    },
+    {
+      "line_no": "121",
+      "meter": 0
+    },
+    {
+      "line_no": "121",
+      "meter": 0
+    },
+    {
+      "line_no": "124",
+      "meter": 1
+    },
+    {
+      "line_no": "124",
+      "meter": 1
+    },
+    {
+      "line_no": "124",
+      "meter": 1
+    },
+    {
+      "line_no": "989",
+      "meter": 1630
+    },
+    {
+      "line_no": "989",
+      "meter": 1630
+    },
+    {
+      "line_no": "989",
+      "meter": 1630
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711247,
+  "type": "TIMETABLE_POINT",
+  "name": "L890 km:1,43 CTL CHEMKOL - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "890",
+      "meter": 1430
+    },
+    {
+      "line_no": "890",
+      "meter": 1430
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713668,
+  "type": "TIMETABLE_POINT",
+  "name": "Stary Staw Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 132306
+    },
+    {
+      "line_no": "14",
+      "meter": 132306
+    },
+    {
+      "line_no": "811",
+      "meter": 31
+    }
+  ]
+}

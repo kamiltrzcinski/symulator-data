@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712727,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Franowo PFA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "352",
+      "meter": 4350
+    },
+    {
+      "line_no": "352",
+      "meter": 4350
+    },
+    {
+      "line_no": "394",
+      "meter": 8078
+    },
+    {
+      "line_no": "394",
+      "meter": 8078
+    },
+    {
+      "line_no": "984",
+      "meter": 2680
+    },
+    {
+      "line_no": "984",
+      "meter": 2680
+    },
+    {
+      "line_no": "984",
+      "meter": 4358
+    }
+  ]
+}

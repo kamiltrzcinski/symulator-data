@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710258,
+  "type": "TIMETABLE_POINT",
+  "name": "Jasienica Dolna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 34914
+    },
+    {
+      "line_no": "287",
+      "meter": 34927
+    },
+    {
+      "line_no": "287",
+      "meter": 34927
+    }
+  ]
+}

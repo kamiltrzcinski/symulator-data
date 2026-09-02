@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711718,
+  "type": "TIMETABLE_POINT",
+  "name": "Malhowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "102",
+      "meter": 11443
+    },
+    {
+      "line_no": "102",
+      "meter": 11443
+    },
+    {
+      "line_no": "102",
+      "meter": 11448
+    },
+    {
+      "line_no": "102",
+      "meter": 11465
+    },
+    {
+      "line_no": "102",
+      "meter": 11465
+    }
+  ]
+}

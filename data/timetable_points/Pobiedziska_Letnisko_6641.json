@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712625,
+  "type": "TIMETABLE_POINT",
+  "name": "Pobiedziska Letnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 19195
+    },
+    {
+      "line_no": "353",
+      "meter": 19195
+    }
+  ]
+}

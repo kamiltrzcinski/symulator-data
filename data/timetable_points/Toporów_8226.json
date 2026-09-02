@@ -1,0 +1,44 @@
+{
+  "uid": 3453153714210,
+  "type": "TIMETABLE_POINT",
+  "name": "Topor\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 427562
+    },
+    {
+      "line_no": "3",
+      "meter": 427562
+    },
+    {
+      "line_no": "3",
+      "meter": 427562
+    },
+    {
+      "line_no": "3",
+      "meter": 427562
+    },
+    {
+      "line_no": "375",
+      "meter": 42085
+    },
+    {
+      "line_no": "375",
+      "meter": 42085
+    },
+    {
+      "line_no": "375",
+      "meter": 42085
+    },
+    {
+      "line_no": "375",
+      "meter": 42085
+    },
+    {
+      "line_no": "375",
+      "meter": 42085
+    }
+  ]
+}

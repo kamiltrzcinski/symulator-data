@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714099,
+  "type": "TIMETABLE_POINT",
+  "name": "Tantow",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "499",
+      "meter": 111000
+    },
+    {
+      "line_no": "499",
+      "meter": 111000
+    },
+    {
+      "line_no": "499",
+      "meter": 111000
+    },
+    {
+      "line_no": "499",
+      "meter": 111000
+    }
+  ]
+}

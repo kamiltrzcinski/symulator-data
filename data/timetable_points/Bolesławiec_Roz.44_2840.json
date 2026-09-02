@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708824,
+  "type": "TIMETABLE_POINT",
+  "name": "Boles\u0142awiec Roz.44",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 36362
+    },
+    {
+      "line_no": "973",
+      "meter": -470
+    }
+  ]
+}

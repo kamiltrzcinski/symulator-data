@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712152,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowe Kutnowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 134591
+    },
+    {
+      "line_no": "3",
+      "meter": 134608
+    },
+    {
+      "line_no": "3",
+      "meter": 134608
+    }
+  ]
+}

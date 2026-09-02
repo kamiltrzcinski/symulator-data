@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714012,
+  "type": "TIMETABLE_POINT",
+  "name": "Szymany Lotnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "747",
+      "meter": 1480
+    },
+    {
+      "line_no": "747",
+      "meter": 1498
+    }
+  ]
+}

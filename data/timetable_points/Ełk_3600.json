@@ -1,0 +1,136 @@
+{
+  "uid": 3453153709584,
+  "type": "TIMETABLE_POINT",
+  "name": "E\u0142k",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 101141
+    },
+    {
+      "line_no": "38",
+      "meter": 101141
+    },
+    {
+      "line_no": "38",
+      "meter": 101141
+    },
+    {
+      "line_no": "38",
+      "meter": 101141
+    },
+    {
+      "line_no": "38",
+      "meter": 101141
+    },
+    {
+      "line_no": "38",
+      "meter": 101740
+    },
+    {
+      "line_no": "38",
+      "meter": 101740
+    },
+    {
+      "line_no": "38",
+      "meter": 101740
+    },
+    {
+      "line_no": "38",
+      "meter": 103191
+    },
+    {
+      "line_no": "38",
+      "meter": 103236
+    },
+    {
+      "line_no": "38",
+      "meter": 103236
+    },
+    {
+      "line_no": "38",
+      "meter": 103236
+    },
+    {
+      "line_no": "38",
+      "meter": 103236
+    },
+    {
+      "line_no": "38",
+      "meter": 103236
+    },
+    {
+      "line_no": "38",
+      "meter": 103236
+    },
+    {
+      "line_no": "41",
+      "meter": 0
+    },
+    {
+      "line_no": "41",
+      "meter": 0
+    },
+    {
+      "line_no": "41",
+      "meter": 0
+    },
+    {
+      "line_no": "41",
+      "meter": 2000
+    },
+    {
+      "line_no": "41",
+      "meter": 2000
+    },
+    {
+      "line_no": "219",
+      "meter": 155413
+    },
+    {
+      "line_no": "219",
+      "meter": 155413
+    },
+    {
+      "line_no": "219",
+      "meter": 155413
+    },
+    {
+      "line_no": "219",
+      "meter": 155413
+    },
+    {
+      "line_no": "219",
+      "meter": 155413
+    },
+    {
+      "line_no": "219",
+      "meter": 156949
+    },
+    {
+      "line_no": "219",
+      "meter": 156949
+    },
+    {
+      "line_no": "219",
+      "meter": 156949
+    },
+    {
+      "line_no": "219",
+      "meter": 156949
+    },
+    {
+      "line_no": "223",
+      "meter": 121269
+    },
+    {
+      "line_no": "223",
+      "meter": 121270
+    },
+    {
+      "line_no": "223",
+      "meter": 121270
+    }
+  ]
+}

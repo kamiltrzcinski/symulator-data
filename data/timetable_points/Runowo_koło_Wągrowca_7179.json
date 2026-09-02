@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713163,
+  "type": "TIMETABLE_POINT",
+  "name": "Runowo ko\u0142o W\u0105growca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "236",
+      "meter": 87964
+    },
+    {
+      "line_no": "236",
+      "meter": 87964
+    },
+    {
+      "line_no": "236",
+      "meter": 87964
+    }
+  ]
+}

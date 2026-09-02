@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708557,
+  "type": "TIMETABLE_POINT",
+  "name": "Baciuty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 163133
+    },
+    {
+      "line_no": "6",
+      "meter": 163134
+    },
+    {
+      "line_no": "6",
+      "meter": 163251
+    },
+    {
+      "line_no": "6",
+      "meter": 163251
+    },
+    {
+      "line_no": "6",
+      "meter": 163251
+    },
+    {
+      "line_no": "6",
+      "meter": 163251
+    }
+  ]
+}

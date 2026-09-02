@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710281,
+  "type": "TIMETABLE_POINT",
+  "name": "Jastarnia Wczasy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 46315
+    },
+    {
+      "line_no": "213",
+      "meter": 46375
+    }
+  ]
+}

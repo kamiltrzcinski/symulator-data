@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710176,
+  "type": "TIMETABLE_POINT",
+  "name": "Inowroc\u0142aw Roz.304",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 101158
+    },
+    {
+      "line_no": "353",
+      "meter": 101158
+    },
+    {
+      "line_no": "742",
+      "meter": -203
+    }
+  ]
+}

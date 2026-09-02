@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710282,
+  "type": "TIMETABLE_POINT",
+  "name": "Jastrowie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "405",
+      "meter": 34835
+    },
+    {
+      "line_no": "405",
+      "meter": 34835
+    }
+  ]
+}

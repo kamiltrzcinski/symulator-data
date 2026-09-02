@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711849,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0119dzych\u00f3d Letnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 53462
+    },
+    {
+      "line_no": "368",
+      "meter": 53462
+    },
+    {
+      "line_no": "368",
+      "meter": 53462
+    }
+  ]
+}

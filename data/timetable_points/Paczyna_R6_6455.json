@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712439,
+  "type": "TIMETABLE_POINT",
+  "name": "Paczyna R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 44802
+    },
+    {
+      "line_no": "132",
+      "meter": 45108
+    },
+    {
+      "line_no": "132",
+      "meter": 45108
+    },
+    {
+      "line_no": "132",
+      "meter": 45109
+    },
+    {
+      "line_no": "152",
+      "meter": 4716
+    },
+    {
+      "line_no": "152",
+      "meter": 5030
+    },
+    {
+      "line_no": "152",
+      "meter": 5030
+    },
+    {
+      "line_no": "152",
+      "meter": 5030
+    }
+  ]
+}

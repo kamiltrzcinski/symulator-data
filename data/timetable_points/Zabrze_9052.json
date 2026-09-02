@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715036,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 18926
+    },
+    {
+      "line_no": "137",
+      "meter": 18926
+    },
+    {
+      "line_no": "137",
+      "meter": 18926
+    }
+  ]
+}

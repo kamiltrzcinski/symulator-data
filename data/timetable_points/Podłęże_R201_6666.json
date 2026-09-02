@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712650,
+  "type": "TIMETABLE_POINT",
+  "name": "Pod\u0142\u0119\u017ce R201",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 31461
+    },
+    {
+      "line_no": "95",
+      "meter": 31461
+    },
+    {
+      "line_no": "95",
+      "meter": 31461
+    },
+    {
+      "line_no": "95",
+      "meter": 31461
+    },
+    {
+      "line_no": "608",
+      "meter": 0
+    },
+    {
+      "line_no": "608",
+      "meter": 0
+    },
+    {
+      "line_no": "608",
+      "meter": 1
+    }
+  ]
+}

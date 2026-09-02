@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710826,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn R572",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "430",
+      "meter": 240625
+    },
+    {
+      "line_no": "430",
+      "meter": 240625
+    },
+    {
+      "line_no": "828",
+      "meter": 935
+    },
+    {
+      "line_no": "828",
+      "meter": 935
+    }
+  ]
+}

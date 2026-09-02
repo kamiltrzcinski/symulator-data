@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709200,
+  "type": "TIMETABLE_POINT",
+  "name": "Cie\u015ble",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 142082
+    },
+    {
+      "line_no": "181",
+      "meter": 142082
+    },
+    {
+      "line_no": "181",
+      "meter": 142082
+    }
+  ]
+}

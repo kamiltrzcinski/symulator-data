@@ -1,0 +1,52 @@
+{
+  "uid": 3453153711721,
+  "type": "TIMETABLE_POINT",
+  "name": "Malinowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 2125
+    },
+    {
+      "line_no": "203",
+      "meter": 2125
+    },
+    {
+      "line_no": "203",
+      "meter": 2125
+    },
+    {
+      "line_no": "727",
+      "meter": 1997
+    },
+    {
+      "line_no": "727",
+      "meter": 1997
+    },
+    {
+      "line_no": "729",
+      "meter": 5933
+    },
+    {
+      "line_no": "729",
+      "meter": 5933
+    },
+    {
+      "line_no": "730",
+      "meter": 5114
+    },
+    {
+      "line_no": "730",
+      "meter": 5114
+    },
+    {
+      "line_no": "731",
+      "meter": 1
+    },
+    {
+      "line_no": "735",
+      "meter": 5933
+    }
+  ]
+}

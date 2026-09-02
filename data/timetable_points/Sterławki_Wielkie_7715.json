@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713699,
+  "type": "TIMETABLE_POINT",
+  "name": "Ster\u0142awki Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 165394
+    },
+    {
+      "line_no": "38",
+      "meter": 165394
+    },
+    {
+      "line_no": "38",
+      "meter": 165394
+    },
+    {
+      "line_no": "38",
+      "meter": 165394
+    },
+    {
+      "line_no": "38",
+      "meter": 165394
+    },
+    {
+      "line_no": "38",
+      "meter": 165394
+    }
+  ]
+}

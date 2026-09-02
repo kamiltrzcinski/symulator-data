@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713987,
+  "type": "TIMETABLE_POINT",
+  "name": "Szlachta R9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "215",
+      "meter": 44114
+    },
+    {
+      "line_no": "743",
+      "meter": 1711
+    }
+  ]
+}

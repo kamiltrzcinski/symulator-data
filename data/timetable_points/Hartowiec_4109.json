@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710093,
+  "type": "TIMETABLE_POINT",
+  "name": "Hartowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 178499
+    },
+    {
+      "line_no": "9",
+      "meter": 178515
+    },
+    {
+      "line_no": "9",
+      "meter": 178515
+    }
+  ]
+}

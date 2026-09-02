@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709421,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119ba Opoczy\u0144ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 20028
+    },
+    {
+      "line_no": "22",
+      "meter": 20028
+    },
+    {
+      "line_no": "22",
+      "meter": 20028
+    },
+    {
+      "line_no": "22",
+      "meter": 20028
+    },
+    {
+      "line_no": "22",
+      "meter": 20028
+    },
+    {
+      "line_no": "22",
+      "meter": 20028
+    }
+  ]
+}

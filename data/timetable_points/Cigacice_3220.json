@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709204,
+  "type": "TIMETABLE_POINT",
+  "name": "Cigacice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "379",
+      "meter": 27531
+    },
+    {
+      "line_no": "393",
+      "meter": 1
+    },
+    {
+      "line_no": "393",
+      "meter": 1
+    }
+  ]
+}

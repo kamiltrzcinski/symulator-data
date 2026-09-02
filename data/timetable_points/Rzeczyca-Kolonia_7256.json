@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713240,
+  "type": "TIMETABLE_POINT",
+  "name": "Rzeczyca-Kolonia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 61300
+    },
+    {
+      "line_no": "68",
+      "meter": 61300
+    },
+    {
+      "line_no": "68",
+      "meter": 61546
+    },
+    {
+      "line_no": "68",
+      "meter": 61546
+    },
+    {
+      "line_no": "68",
+      "meter": 61546
+    },
+    {
+      "line_no": "68",
+      "meter": 61546
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712909,
+  "type": "TIMETABLE_POINT",
+  "name": "Pustynia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 318900
+    },
+    {
+      "line_no": "25",
+      "meter": 318900
+    },
+    {
+      "line_no": "25",
+      "meter": 318900
+    },
+    {
+      "line_no": "25",
+      "meter": 320030
+    },
+    {
+      "line_no": "25",
+      "meter": 320030
+    },
+    {
+      "line_no": "25",
+      "meter": 320030
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708788,
+  "type": "TIMETABLE_POINT",
+  "name": "Bocz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 451135
+    },
+    {
+      "line_no": "3",
+      "meter": 451135
+    },
+    {
+      "line_no": "3",
+      "meter": 451135
+    }
+  ]
+}

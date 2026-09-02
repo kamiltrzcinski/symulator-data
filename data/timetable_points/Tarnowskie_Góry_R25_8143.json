@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714127,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 34051
+    },
+    {
+      "line_no": "131",
+      "meter": 34051
+    },
+    {
+      "line_no": "144",
+      "meter": 182
+    }
+  ]
+}

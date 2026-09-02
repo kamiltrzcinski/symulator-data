@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711187,
+  "type": "TIMETABLE_POINT",
+  "name": "Kwk Kleofas",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "895",
+      "meter": 1000
+    },
+    {
+      "line_no": "895",
+      "meter": 1000
+    },
+    {
+      "line_no": "895",
+      "meter": 1000
+    }
+  ]
+}

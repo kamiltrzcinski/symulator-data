@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713149,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudnik Str\u00f3\u017ca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 122617
+    },
+    {
+      "line_no": "68",
+      "meter": 122617
+    },
+    {
+      "line_no": "68",
+      "meter": 122621
+    },
+    {
+      "line_no": "68",
+      "meter": 122621
+    },
+    {
+      "line_no": "68",
+      "meter": 122621
+    }
+  ]
+}

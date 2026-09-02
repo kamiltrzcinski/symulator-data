@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712704,
+  "type": "TIMETABLE_POINT",
+  "name": "Poraj R27",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 246346
+    },
+    {
+      "line_no": "1",
+      "meter": 246346
+    },
+    {
+      "line_no": "1",
+      "meter": 246346
+    },
+    {
+      "line_no": "1",
+      "meter": 246348
+    },
+    {
+      "line_no": "155",
+      "meter": 11063
+    },
+    {
+      "line_no": "155",
+      "meter": 11065
+    }
+  ]
+}

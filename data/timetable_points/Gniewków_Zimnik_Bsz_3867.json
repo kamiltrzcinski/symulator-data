@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709851,
+  "type": "TIMETABLE_POINT",
+  "name": "Gniewk\u00f3w Zimnik Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "331",
+      "meter": 7499
+    }
+  ]
+}

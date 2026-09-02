@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710828,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 256506
+    }
+  ]
+}

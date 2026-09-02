@@ -1,0 +1,128 @@
+{
+  "uid": 3453153711453,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin G\u0142\u00f3wny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 174854
+    },
+    {
+      "line_no": "7",
+      "meter": 174973
+    },
+    {
+      "line_no": "7",
+      "meter": 174973
+    },
+    {
+      "line_no": "7",
+      "meter": 174973
+    },
+    {
+      "line_no": "7",
+      "meter": 174973
+    },
+    {
+      "line_no": "67",
+      "meter": 437
+    },
+    {
+      "line_no": "67",
+      "meter": 510
+    },
+    {
+      "line_no": "67",
+      "meter": 510
+    },
+    {
+      "line_no": "67",
+      "meter": 510
+    },
+    {
+      "line_no": "67",
+      "meter": 510
+    },
+    {
+      "line_no": "67",
+      "meter": 562
+    },
+    {
+      "line_no": "67",
+      "meter": 562
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "68",
+      "meter": 0
+    },
+    {
+      "line_no": "930",
+      "meter": 1
+    },
+    {
+      "line_no": "930",
+      "meter": 1
+    },
+    {
+      "line_no": "930",
+      "meter": 1
+    },
+    {
+      "line_no": "930",
+      "meter": 86
+    },
+    {
+      "line_no": "930",
+      "meter": 757
+    },
+    {
+      "line_no": "935",
+      "meter": 295
+    },
+    {
+      "line_no": "935",
+      "meter": 295
+    },
+    {
+      "line_no": "935",
+      "meter": 1000
+    },
+    {
+      "line_no": "935",
+      "meter": 1000
+    },
+    {
+      "line_no": "935",
+      "meter": 1000
+    },
+    {
+      "line_no": "935",
+      "meter": 1600
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713110,
+  "type": "TIMETABLE_POINT",
+  "name": "Ro\u017cnowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "354",
+      "meter": 31540
+    },
+    {
+      "line_no": "354",
+      "meter": 31540
+    },
+    {
+      "line_no": "354",
+      "meter": 31550
+    }
+  ]
+}

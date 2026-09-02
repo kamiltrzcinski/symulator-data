@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713885,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Gum. R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "409",
+      "meter": 115
+    },
+    {
+      "line_no": "409",
+      "meter": 115
+    },
+    {
+      "line_no": "851",
+      "meter": 2309
+    }
+  ]
+}

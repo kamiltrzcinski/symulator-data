@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711412,
+  "type": "TIMETABLE_POINT",
+  "name": "Lis\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 141799
+    },
+    {
+      "line_no": "61",
+      "meter": 141799
+    },
+    {
+      "line_no": "61",
+      "meter": 141799
+    },
+    {
+      "line_no": "61",
+      "meter": 141799
+    },
+    {
+      "line_no": "61",
+      "meter": 141799
+    },
+    {
+      "line_no": "61",
+      "meter": 141799
+    }
+  ]
+}

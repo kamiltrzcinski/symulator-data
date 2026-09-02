@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711452,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin AIRPORT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "581",
+      "meter": 3094
+    },
+    {
+      "line_no": "581",
+      "meter": 3094
+    }
+  ]
+}

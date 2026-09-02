@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713575,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Por\u0105bka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 75685
+    },
+    {
+      "line_no": "62",
+      "meter": 75685
+    }
+  ]
+}

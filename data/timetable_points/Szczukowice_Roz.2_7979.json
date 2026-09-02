@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713963,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczukowice Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 10704
+    },
+    {
+      "line_no": "61",
+      "meter": 10704
+    },
+    {
+      "line_no": "61",
+      "meter": 10704
+    },
+    {
+      "line_no": "61",
+      "meter": 10704
+    },
+    {
+      "line_no": "568",
+      "meter": 8018
+    }
+  ]
+}

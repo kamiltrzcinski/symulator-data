@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711065,
+  "type": "TIMETABLE_POINT",
+  "name": "Krosno Polanka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 66231
+    },
+    {
+      "line_no": "108",
+      "meter": 66231
+    },
+    {
+      "line_no": "108",
+      "meter": 66231
+    },
+    {
+      "line_no": "108",
+      "meter": 66231
+    },
+    {
+      "line_no": "108",
+      "meter": 66231
+    }
+  ]
+}

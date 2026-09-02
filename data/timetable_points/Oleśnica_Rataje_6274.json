@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712258,
+  "type": "TIMETABLE_POINT",
+  "name": "Ole\u015bnica Rataje",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 2541
+    },
+    {
+      "line_no": "281",
+      "meter": 2730
+    },
+    {
+      "line_no": "281",
+      "meter": 2730
+    },
+    {
+      "line_no": "281",
+      "meter": 2730
+    },
+    {
+      "line_no": "766",
+      "meter": 2874
+    }
+  ]
+}

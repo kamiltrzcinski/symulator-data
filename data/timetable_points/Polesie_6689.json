@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712673,
+  "type": "TIMETABLE_POINT",
+  "name": "Polesie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "48",
+      "meter": 1531
+    }
+  ]
+}

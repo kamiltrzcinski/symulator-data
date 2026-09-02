@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712515,
+  "type": "TIMETABLE_POINT",
+  "name": "Piaseczno GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 22266
+    },
+    {
+      "line_no": "8",
+      "meter": 22266
+    },
+    {
+      "line_no": "8",
+      "meter": 22300
+    },
+    {
+      "line_no": "8",
+      "meter": 22300
+    },
+    {
+      "line_no": "8",
+      "meter": 22300
+    }
+  ]
+}

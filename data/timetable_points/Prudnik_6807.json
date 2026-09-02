@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712791,
+  "type": "TIMETABLE_POINT",
+  "name": "Prudnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 111204
+    },
+    {
+      "line_no": "306",
+      "meter": 41658
+    },
+    {
+      "line_no": "306",
+      "meter": 41658
+    },
+    {
+      "line_no": "306",
+      "meter": 41658
+    }
+  ]
+}

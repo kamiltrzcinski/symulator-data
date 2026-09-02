@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712274,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn G\u0142\u00f3wny R55",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": -551
+    },
+    {
+      "line_no": "220",
+      "meter": -318
+    },
+    {
+      "line_no": "353",
+      "meter": 299211
+    },
+    {
+      "line_no": "353",
+      "meter": 299211
+    },
+    {
+      "line_no": "353",
+      "meter": 299444
+    }
+  ]
+}

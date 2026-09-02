@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710530,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Piotrowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 7753
+    },
+    {
+      "line_no": "139",
+      "meter": 7753
+    },
+    {
+      "line_no": "140",
+      "meter": 1660
+    }
+  ]
+}

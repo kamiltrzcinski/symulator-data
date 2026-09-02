@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711238,
+  "type": "TIMETABLE_POINT",
+  "name": "L880 km:1,522 POLHO Sp.z o.o. - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "880",
+      "meter": 1522
+    },
+    {
+      "line_no": "880",
+      "meter": 1522
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710946,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Lotnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 5040
+    },
+    {
+      "line_no": "118",
+      "meter": 11941
+    },
+    {
+      "line_no": "118",
+      "meter": 11941
+    },
+    {
+      "line_no": "118",
+      "meter": 11941
+    },
+    {
+      "line_no": "118",
+      "meter": 11941
+    }
+  ]
+}

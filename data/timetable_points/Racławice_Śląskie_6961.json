@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712945,
+  "type": "TIMETABLE_POINT",
+  "name": "Rac\u0142awice \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 97739
+    },
+    {
+      "line_no": "137",
+      "meter": 97739
+    },
+    {
+      "line_no": "294",
+      "meter": 15354
+    },
+    {
+      "line_no": "294",
+      "meter": 15354
+    },
+    {
+      "line_no": "294",
+      "meter": 15354
+    }
+  ]
+}

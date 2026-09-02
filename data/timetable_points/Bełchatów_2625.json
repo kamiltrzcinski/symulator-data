@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708609,
+  "type": "TIMETABLE_POINT",
+  "name": "Be\u0142chat\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "24",
+      "meter": 24350
+    },
+    {
+      "line_no": "24",
+      "meter": 24350
+    }
+  ]
+}

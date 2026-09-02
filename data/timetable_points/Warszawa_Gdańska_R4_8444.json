@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714428,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "509",
+      "meter": 7879
+    },
+    {
+      "line_no": "509",
+      "meter": 7879
+    },
+    {
+      "line_no": "509",
+      "meter": 7883
+    },
+    {
+      "line_no": "509",
+      "meter": 7883
+    },
+    {
+      "line_no": "549",
+      "meter": 0
+    },
+    {
+      "line_no": "549",
+      "meter": 0
+    },
+    {
+      "line_no": "549",
+      "meter": 0
+    }
+  ]
+}

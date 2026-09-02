@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712420,
+  "type": "TIMETABLE_POINT",
+  "name": "Otwock R27",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 27848
+    },
+    {
+      "line_no": "506",
+      "meter": 27848
+    }
+  ]
+}

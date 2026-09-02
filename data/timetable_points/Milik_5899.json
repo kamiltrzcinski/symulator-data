@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711883,
+  "type": "TIMETABLE_POINT",
+  "name": "Milik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 134090
+    },
+    {
+      "line_no": "96",
+      "meter": 134193
+    },
+    {
+      "line_no": "96",
+      "meter": 134193
+    },
+    {
+      "line_no": "96",
+      "meter": 134193
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714414,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Antonin\u00f3w R103",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 7463
+    },
+    {
+      "line_no": "2",
+      "meter": 7463
+    },
+    {
+      "line_no": "2",
+      "meter": 7492
+    },
+    {
+      "line_no": "2",
+      "meter": 7492
+    },
+    {
+      "line_no": "2",
+      "meter": 7492
+    },
+    {
+      "line_no": "2",
+      "meter": 7492
+    },
+    {
+      "line_no": "506",
+      "meter": -273
+    },
+    {
+      "line_no": "506",
+      "meter": -248
+    },
+    {
+      "line_no": "506",
+      "meter": 6787
+    },
+    {
+      "line_no": "844",
+      "meter": 6688
+    }
+  ]
+}

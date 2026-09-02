@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713760,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzy\u017cyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 67778
+    },
+    {
+      "line_no": "8",
+      "meter": 67778
+    },
+    {
+      "line_no": "8",
+      "meter": 67778
+    },
+    {
+      "line_no": "8",
+      "meter": 67780
+    },
+    {
+      "line_no": "8",
+      "meter": 67780
+    }
+  ]
+}

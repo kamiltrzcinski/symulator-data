@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708921,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeszcze Jawiszowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 34913
+    },
+    {
+      "line_no": "93",
+      "meter": 34913
+    },
+    {
+      "line_no": "93",
+      "meter": 34913
+    }
+  ]
+}

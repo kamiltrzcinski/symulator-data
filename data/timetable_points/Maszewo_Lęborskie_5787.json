@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711771,
+  "type": "TIMETABLE_POINT",
+  "name": "Maszewo L\u0119borskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "237",
+      "meter": 11095
+    },
+    {
+      "line_no": "237",
+      "meter": 11400
+    },
+    {
+      "line_no": "237",
+      "meter": 11400
+    }
+  ]
+}

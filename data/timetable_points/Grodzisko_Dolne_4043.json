@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710027,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodzisko Dolne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 164192
+    },
+    {
+      "line_no": "68",
+      "meter": 164192
+    },
+    {
+      "line_no": "68",
+      "meter": 164198
+    },
+    {
+      "line_no": "68",
+      "meter": 164198
+    },
+    {
+      "line_no": "68",
+      "meter": 164198
+    },
+    {
+      "line_no": "68",
+      "meter": 164198
+    }
+  ]
+}

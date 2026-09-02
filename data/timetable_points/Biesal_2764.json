@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708748,
+  "type": "TIMETABLE_POINT",
+  "name": "Biesal",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 276674
+    },
+    {
+      "line_no": "353",
+      "meter": 276674
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711781,
+  "type": "TIMETABLE_POINT",
+  "name": "Medyka Md5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "92",
+      "meter": 9996
+    },
+    {
+      "line_no": "92",
+      "meter": 9996
+    },
+    {
+      "line_no": "92",
+      "meter": 9996
+    }
+  ]
+}

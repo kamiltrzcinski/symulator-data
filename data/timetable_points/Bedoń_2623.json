@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708607,
+  "type": "TIMETABLE_POINT",
+  "name": "Bedo\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "17",
+      "meter": 13050
+    },
+    {
+      "line_no": "17",
+      "meter": 13050
+    },
+    {
+      "line_no": "17",
+      "meter": 13050
+    },
+    {
+      "line_no": "25",
+      "meter": 18057
+    },
+    {
+      "line_no": "25",
+      "meter": 18057
+    },
+    {
+      "line_no": "25",
+      "meter": 18057
+    }
+  ]
+}

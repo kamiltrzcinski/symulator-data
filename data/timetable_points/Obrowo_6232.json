@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712216,
+  "type": "TIMETABLE_POINT",
+  "name": "Obrowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 145079
+    },
+    {
+      "line_no": "27",
+      "meter": 145079
+    }
+  ]
+}

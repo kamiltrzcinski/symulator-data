@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715006,
+  "type": "TIMETABLE_POINT",
+  "name": "Wykno APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 40862
+    }
+  ]
+}

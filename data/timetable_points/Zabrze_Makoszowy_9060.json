@@ -1,0 +1,56 @@
+{
+  "uid": 3453153715044,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Makoszowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 16681
+    },
+    {
+      "line_no": "141",
+      "meter": 16681
+    },
+    {
+      "line_no": "141",
+      "meter": 16681
+    },
+    {
+      "line_no": "141",
+      "meter": 16681
+    },
+    {
+      "line_no": "149",
+      "meter": 281
+    },
+    {
+      "line_no": "149",
+      "meter": 281
+    },
+    {
+      "line_no": "149",
+      "meter": 281
+    },
+    {
+      "line_no": "893",
+      "meter": 700
+    },
+    {
+      "line_no": "893",
+      "meter": 700
+    },
+    {
+      "line_no": "893",
+      "meter": 700
+    },
+    {
+      "line_no": "893",
+      "meter": 700
+    },
+    {
+      "line_no": "893",
+      "meter": 750
+    }
+  ]
+}

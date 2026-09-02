@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710987,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta R643",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "941",
+      "meter": 2785
+    },
+    {
+      "line_no": "941",
+      "meter": 2785
+    },
+    {
+      "line_no": "941",
+      "meter": 2785
+    },
+    {
+      "line_no": "944",
+      "meter": 4780
+    },
+    {
+      "line_no": "944",
+      "meter": 4780
+    },
+    {
+      "line_no": "944",
+      "meter": 4780
+    },
+    {
+      "line_no": "944",
+      "meter": 4780
+    }
+  ]
+}

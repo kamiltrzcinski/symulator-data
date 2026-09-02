@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713903,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Pomorzany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 2000
+    },
+    {
+      "line_no": "406",
+      "meter": 2000
+    },
+    {
+      "line_no": "406",
+      "meter": 2000
+    },
+    {
+      "line_no": "406",
+      "meter": 2000
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708730,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielsko-Bia\u0142a Wapienica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 7242
+    },
+    {
+      "line_no": "190",
+      "meter": 7242
+    },
+    {
+      "line_no": "190",
+      "meter": 7242
+    },
+    {
+      "line_no": "190",
+      "meter": 7242
+    },
+    {
+      "line_no": "190",
+      "meter": 7242
+    }
+  ]
+}

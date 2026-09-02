@@ -1,0 +1,40 @@
+{
+  "uid": 3453153713427,
+  "type": "TIMETABLE_POINT",
+  "name": "Skierniewice S PZS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "11",
+      "meter": 1874
+    },
+    {
+      "line_no": "11",
+      "meter": 2060
+    },
+    {
+      "line_no": "11",
+      "meter": 2131
+    },
+    {
+      "line_no": "11",
+      "meter": 2131
+    },
+    {
+      "line_no": "530",
+      "meter": 1112
+    },
+    {
+      "line_no": "530",
+      "meter": 1156
+    },
+    {
+      "line_no": "530",
+      "meter": 1510
+    },
+    {
+      "line_no": "530",
+      "meter": 1510
+    }
+  ]
+}

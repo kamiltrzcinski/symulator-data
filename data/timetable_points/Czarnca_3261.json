@@ -1,0 +1,64 @@
+{
+  "uid": 3453153709245,
+  "type": "TIMETABLE_POINT",
+  "name": "Czarnca",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 53035
+    },
+    {
+      "line_no": "61",
+      "meter": 53035
+    },
+    {
+      "line_no": "61",
+      "meter": 53035
+    },
+    {
+      "line_no": "61",
+      "meter": 53035
+    },
+    {
+      "line_no": "61",
+      "meter": 53035
+    },
+    {
+      "line_no": "61",
+      "meter": 53261
+    },
+    {
+      "line_no": "61",
+      "meter": 53261
+    },
+    {
+      "line_no": "61",
+      "meter": 53261
+    },
+    {
+      "line_no": "61",
+      "meter": 53261
+    },
+    {
+      "line_no": "571",
+      "meter": 116
+    },
+    {
+      "line_no": "571",
+      "meter": 440
+    },
+    {
+      "line_no": "571",
+      "meter": 440
+    },
+    {
+      "line_no": "582",
+      "meter": 141
+    },
+    {
+      "line_no": "582",
+      "meter": 141
+    }
+  ]
+}

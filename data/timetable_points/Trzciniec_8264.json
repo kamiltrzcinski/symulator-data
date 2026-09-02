@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714248,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzciniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 362520
+    },
+    {
+      "line_no": "131",
+      "meter": 362520
+    }
+  ]
+}

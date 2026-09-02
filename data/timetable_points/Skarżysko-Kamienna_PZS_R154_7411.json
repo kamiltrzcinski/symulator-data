@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713395,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kamienna PZS R154",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 140994
+    },
+    {
+      "line_no": "8",
+      "meter": 140994
+    },
+    {
+      "line_no": "841",
+      "meter": 1935
+    },
+    {
+      "line_no": "841",
+      "meter": 1935
+    },
+    {
+      "line_no": "841",
+      "meter": 1935
+    },
+    {
+      "line_no": "841",
+      "meter": 1935
+    }
+  ]
+}

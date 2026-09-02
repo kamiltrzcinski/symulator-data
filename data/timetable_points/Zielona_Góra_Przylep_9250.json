@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715234,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielona G\u00f3ra Przylep",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 160950
+    },
+    {
+      "line_no": "273",
+      "meter": 161047
+    },
+    {
+      "line_no": "273",
+      "meter": 161050
+    },
+    {
+      "line_no": "273",
+      "meter": 161050
+    },
+    {
+      "line_no": "273",
+      "meter": 161050
+    },
+    {
+      "line_no": "273",
+      "meter": 161050
+    }
+  ]
+}

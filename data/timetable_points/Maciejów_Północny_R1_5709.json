@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711693,
+  "type": "TIMETABLE_POINT",
+  "name": "Maciej\u00f3w P\u00f3\u0142nocny R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "147",
+      "meter": 7494
+    },
+    {
+      "line_no": "147",
+      "meter": 7494
+    },
+    {
+      "line_no": "672",
+      "meter": 0
+    },
+    {
+      "line_no": "672",
+      "meter": 0
+    }
+  ]
+}

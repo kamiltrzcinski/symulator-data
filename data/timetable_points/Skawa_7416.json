@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713400,
+  "type": "TIMETABLE_POINT",
+  "name": "Skawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 28230
+    },
+    {
+      "line_no": "98",
+      "meter": 28230
+    },
+    {
+      "line_no": "98",
+      "meter": 28345
+    }
+  ]
+}

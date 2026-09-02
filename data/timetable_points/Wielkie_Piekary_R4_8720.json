@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714704,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielkie Piekary R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 61300
+    },
+    {
+      "line_no": "296",
+      "meter": 0
+    }
+  ]
+}

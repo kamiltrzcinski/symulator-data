@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709308,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwonak Osiedle",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 7120
+    }
+  ]
+}

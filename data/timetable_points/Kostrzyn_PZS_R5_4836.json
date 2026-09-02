@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710820,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn PZS R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 339180
+    },
+    {
+      "line_no": "203",
+      "meter": 339180
+    },
+    {
+      "line_no": "827",
+      "meter": 10
+    }
+  ]
+}

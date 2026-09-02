@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709476,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobro\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 21170
+    },
+    {
+      "line_no": "14",
+      "meter": 21170
+    },
+    {
+      "line_no": "14",
+      "meter": 21300
+    },
+    {
+      "line_no": "14",
+      "meter": 21300
+    }
+  ]
+}

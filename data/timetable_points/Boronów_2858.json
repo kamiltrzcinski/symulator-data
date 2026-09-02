@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708842,
+  "type": "TIMETABLE_POINT",
+  "name": "Boron\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 59678
+    },
+    {
+      "line_no": "131",
+      "meter": 59678
+    },
+    {
+      "line_no": "131",
+      "meter": 59678
+    }
+  ]
+}

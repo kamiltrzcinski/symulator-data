@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713907,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centr. SPD R803",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "439",
+      "meter": 0
+    },
+    {
+      "line_no": "990",
+      "meter": 4370
+    }
+  ]
+}

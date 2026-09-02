@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709002,
+  "type": "TIMETABLE_POINT",
+  "name": "Bystrzyca G\u00f3rna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "266",
+      "meter": 65583
+    }
+  ]
+}

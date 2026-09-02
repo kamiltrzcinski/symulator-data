@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708689,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok R603",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "515",
+      "meter": 805
+    },
+    {
+      "line_no": "515",
+      "meter": 805
+    },
+    {
+      "line_no": "515",
+      "meter": 805
+    },
+    {
+      "line_no": "519",
+      "meter": 1098
+    },
+    {
+      "line_no": "519",
+      "meter": 1098
+    }
+  ]
+}

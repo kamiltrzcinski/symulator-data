@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713813,
+  "type": "TIMETABLE_POINT",
+  "name": "Susiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 105219
+    },
+    {
+      "line_no": "69",
+      "meter": 105219
+    },
+    {
+      "line_no": "69",
+      "meter": 105219
+    }
+  ]
+}

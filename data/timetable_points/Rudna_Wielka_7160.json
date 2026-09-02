@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713144,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudna Wielka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 150327
+    },
+    {
+      "line_no": "91",
+      "meter": 150327
+    },
+    {
+      "line_no": "91",
+      "meter": 150327
+    },
+    {
+      "line_no": "91",
+      "meter": 150327
+    },
+    {
+      "line_no": "91",
+      "meter": 150327
+    },
+    {
+      "line_no": "91",
+      "meter": 150327
+    }
+  ]
+}

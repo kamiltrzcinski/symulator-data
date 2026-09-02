@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712489,
+  "type": "TIMETABLE_POINT",
+  "name": "Paw\u0142owice \u015al\u0105skie Centrum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "159",
+      "meter": 23975
+    },
+    {
+      "line_no": "159",
+      "meter": 23975
+    }
+  ]
+}

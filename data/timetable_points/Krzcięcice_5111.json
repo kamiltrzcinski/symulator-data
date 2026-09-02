@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711095,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzci\u0119cice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 244543
+    },
+    {
+      "line_no": "8",
+      "meter": 244543
+    },
+    {
+      "line_no": "8",
+      "meter": 244543
+    },
+    {
+      "line_no": "8",
+      "meter": 244543
+    },
+    {
+      "line_no": "8",
+      "meter": 244543
+    }
+  ]
+}

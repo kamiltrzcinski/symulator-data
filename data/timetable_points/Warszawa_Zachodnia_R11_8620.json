@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714604,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 2615
+    },
+    {
+      "line_no": "23",
+      "meter": 2615
+    }
+  ]
+}

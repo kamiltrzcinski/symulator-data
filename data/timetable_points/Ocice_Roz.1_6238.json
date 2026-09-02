@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712222,
+  "type": "TIMETABLE_POINT",
+  "name": "Ocice Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 256449
+    },
+    {
+      "line_no": "25",
+      "meter": 256449
+    },
+    {
+      "line_no": "25",
+      "meter": 256513
+    },
+    {
+      "line_no": "25",
+      "meter": 256513
+    },
+    {
+      "line_no": "71",
+      "meter": -1063
+    },
+    {
+      "line_no": "71",
+      "meter": -1019
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711481,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Zemborzyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 8732
+    },
+    {
+      "line_no": "68",
+      "meter": 8732
+    },
+    {
+      "line_no": "68",
+      "meter": 8732
+    },
+    {
+      "line_no": "68",
+      "meter": 8732
+    },
+    {
+      "line_no": "68",
+      "meter": 8732
+    }
+  ]
+}

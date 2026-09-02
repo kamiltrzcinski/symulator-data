@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710780,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0144czyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "90",
+      "meter": 16128
+    },
+    {
+      "line_no": "90",
+      "meter": 16128
+    }
+  ]
+}

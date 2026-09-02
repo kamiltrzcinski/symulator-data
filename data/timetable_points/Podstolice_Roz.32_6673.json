@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712657,
+  "type": "TIMETABLE_POINT",
+  "name": "Podstolice Roz.32",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 263087
+    },
+    {
+      "line_no": "3",
+      "meter": 263087
+    },
+    {
+      "line_no": "808",
+      "meter": 6919
+    },
+    {
+      "line_no": "808",
+      "meter": 6919
+    },
+    {
+      "line_no": "808",
+      "meter": 6919
+    }
+  ]
+}

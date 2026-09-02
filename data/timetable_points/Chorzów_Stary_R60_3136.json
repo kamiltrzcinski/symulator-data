@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709120,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Stary R60",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 12838
+    },
+    {
+      "line_no": "131",
+      "meter": 12838
+    },
+    {
+      "line_no": "131",
+      "meter": 13654
+    },
+    {
+      "line_no": "161",
+      "meter": 12975
+    },
+    {
+      "line_no": "161",
+      "meter": 12975
+    },
+    {
+      "line_no": "161",
+      "meter": 13778
+    }
+  ]
+}

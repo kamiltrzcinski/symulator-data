@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710856,
+  "type": "TIMETABLE_POINT",
+  "name": "Kotulin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 56249
+    },
+    {
+      "line_no": "132",
+      "meter": 56249
+    }
+  ]
+}

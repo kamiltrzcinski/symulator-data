@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710720,
+  "type": "TIMETABLE_POINT",
+  "name": "Kolin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 160913
+    },
+    {
+      "line_no": "351",
+      "meter": 160940
+    },
+    {
+      "line_no": "351",
+      "meter": 160940
+    },
+    {
+      "line_no": "351",
+      "meter": 160940
+    },
+    {
+      "line_no": "351",
+      "meter": 160940
+    },
+    {
+      "line_no": "351",
+      "meter": 160940
+    },
+    {
+      "line_no": "351",
+      "meter": 161431
+    }
+  ]
+}

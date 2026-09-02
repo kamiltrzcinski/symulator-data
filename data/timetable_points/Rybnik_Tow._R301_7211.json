@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713195,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Tow. R301",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "957",
+      "meter": 2697
+    },
+    {
+      "line_no": "958",
+      "meter": 476
+    },
+    {
+      "line_no": "958",
+      "meter": 476
+    }
+  ]
+}

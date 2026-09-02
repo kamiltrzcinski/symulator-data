@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714761,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilkowo \u015awiebodzi\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 412454
+    },
+    {
+      "line_no": "3",
+      "meter": 412454
+    },
+    {
+      "line_no": "3",
+      "meter": 412489
+    }
+  ]
+}

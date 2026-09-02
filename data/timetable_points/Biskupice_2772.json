@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708756,
+  "type": "TIMETABLE_POINT",
+  "name": "Biskupice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 207155
+    },
+    {
+      "line_no": "7",
+      "meter": 207155
+    },
+    {
+      "line_no": "7",
+      "meter": 207269
+    }
+  ]
+}

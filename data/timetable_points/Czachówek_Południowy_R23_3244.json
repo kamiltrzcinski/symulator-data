@@ -1,0 +1,52 @@
+{
+  "uid": 3453153709228,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek Po\u0142udniowy R23",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 36083
+    },
+    {
+      "line_no": "8",
+      "meter": 36083
+    },
+    {
+      "line_no": "8",
+      "meter": 36083
+    },
+    {
+      "line_no": "8",
+      "meter": 36111
+    },
+    {
+      "line_no": "8",
+      "meter": 36111
+    },
+    {
+      "line_no": "8",
+      "meter": 36111
+    },
+    {
+      "line_no": "8",
+      "meter": 36111
+    },
+    {
+      "line_no": "528",
+      "meter": 1259
+    },
+    {
+      "line_no": "528",
+      "meter": 1259
+    },
+    {
+      "line_no": "528",
+      "meter": 1288
+    },
+    {
+      "line_no": "528",
+      "meter": 1288
+    }
+  ]
+}

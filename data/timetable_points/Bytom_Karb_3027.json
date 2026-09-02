@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709011,
+  "type": "TIMETABLE_POINT",
+  "name": "Bytom Karb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 20055
+    },
+    {
+      "line_no": "131",
+      "meter": 20056
+    },
+    {
+      "line_no": "131",
+      "meter": 20056
+    },
+    {
+      "line_no": "131",
+      "meter": 20056
+    },
+    {
+      "line_no": "165",
+      "meter": 938
+    },
+    {
+      "line_no": "165",
+      "meter": 938
+    },
+    {
+      "line_no": "165",
+      "meter": 938
+    },
+    {
+      "line_no": "165",
+      "meter": 938
+    },
+    {
+      "line_no": "165",
+      "meter": 938
+    }
+  ]
+}

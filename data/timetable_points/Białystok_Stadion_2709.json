@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708693,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok Stadion",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 71110
+    },
+    {
+      "line_no": "32",
+      "meter": 71110
+    },
+    {
+      "line_no": "32",
+      "meter": 71110
+    },
+    {
+      "line_no": "32",
+      "meter": 71110
+    },
+    {
+      "line_no": "32",
+      "meter": 71157
+    }
+  ]
+}

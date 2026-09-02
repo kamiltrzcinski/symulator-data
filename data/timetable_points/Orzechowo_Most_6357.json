@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712341,
+  "type": "TIMETABLE_POINT",
+  "name": "Orzechowo Most",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 110762
+    },
+    {
+      "line_no": "281",
+      "meter": 110762
+    }
+  ]
+}

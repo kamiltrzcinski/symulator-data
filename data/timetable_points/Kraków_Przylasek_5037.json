@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711021,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Przylasek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 28801
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709479,
+  "type": "TIMETABLE_POINT",
+  "name": "Dobroszyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 8841
+    },
+    {
+      "line_no": "281",
+      "meter": 8841
+    },
+    {
+      "line_no": "281",
+      "meter": 8841
+    },
+    {
+      "line_no": "281",
+      "meter": 8841
+    },
+    {
+      "line_no": "281",
+      "meter": 8841
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713895,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin M\u015bci\u0119cino",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 21454
+    },
+    {
+      "line_no": "406",
+      "meter": 21454
+    },
+    {
+      "line_no": "406",
+      "meter": 21454
+    }
+  ]
+}

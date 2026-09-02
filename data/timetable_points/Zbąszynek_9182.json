@@ -1,0 +1,80 @@
+{
+  "uid": 3453153715166,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szynek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 385628
+    },
+    {
+      "line_no": "3",
+      "meter": 385628
+    },
+    {
+      "line_no": "3",
+      "meter": 385628
+    },
+    {
+      "line_no": "358",
+      "meter": 0
+    },
+    {
+      "line_no": "358",
+      "meter": 0
+    },
+    {
+      "line_no": "358",
+      "meter": 0
+    },
+    {
+      "line_no": "358",
+      "meter": 0
+    },
+    {
+      "line_no": "367",
+      "meter": 0
+    },
+    {
+      "line_no": "367",
+      "meter": 0
+    },
+    {
+      "line_no": "367",
+      "meter": 0
+    },
+    {
+      "line_no": "367",
+      "meter": 0
+    },
+    {
+      "line_no": "367",
+      "meter": 0
+    },
+    {
+      "line_no": "819",
+      "meter": 1500
+    },
+    {
+      "line_no": "819",
+      "meter": 2740
+    },
+    {
+      "line_no": "820",
+      "meter": 2000
+    },
+    {
+      "line_no": "820",
+      "meter": 2000
+    },
+    {
+      "line_no": "982",
+      "meter": 1
+    },
+    {
+      "line_no": "982",
+      "meter": 1
+    }
+  ]
+}

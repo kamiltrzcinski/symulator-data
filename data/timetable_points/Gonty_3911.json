@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709895,
+  "type": "TIMETABLE_POINT",
+  "name": "Gonty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "218",
+      "meter": 36834
+    },
+    {
+      "line_no": "218",
+      "meter": 36834
+    },
+    {
+      "line_no": "218",
+      "meter": 36834
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713462,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142awk\u00f3w PZO LHS S\u0142awk\u00f3w Po\u0142udnowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 61842
+    }
+  ]
+}

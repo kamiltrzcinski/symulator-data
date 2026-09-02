@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709080,
+  "type": "TIMETABLE_POINT",
+  "name": "Chocianowice APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 65531
+    }
+  ]
+}

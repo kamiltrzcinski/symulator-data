@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712984,
+  "type": "TIMETABLE_POINT",
+  "name": "Rad\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 235289
+    },
+    {
+      "line_no": "273",
+      "meter": 235295
+    },
+    {
+      "line_no": "273",
+      "meter": 235295
+    }
+  ]
+}

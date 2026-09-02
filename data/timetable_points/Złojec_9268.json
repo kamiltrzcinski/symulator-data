@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715252,
+  "type": "TIMETABLE_POINT",
+  "name": "Z\u0142ojec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 46935
+    },
+    {
+      "line_no": "69",
+      "meter": 46935
+    },
+    {
+      "line_no": "69",
+      "meter": 46935
+    },
+    {
+      "line_no": "69",
+      "meter": 46945
+    },
+    {
+      "line_no": "69",
+      "meter": 47425
+    }
+  ]
+}

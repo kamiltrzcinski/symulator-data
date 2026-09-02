@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712020,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142owice Kosz. R205",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "698",
+      "meter": 1703
+    },
+    {
+      "line_no": "698",
+      "meter": 1703
+    },
+    {
+      "line_no": "883",
+      "meter": 134
+    },
+    {
+      "line_no": "883",
+      "meter": 151
+    }
+  ]
+}

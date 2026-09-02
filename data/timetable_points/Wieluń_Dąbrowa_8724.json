@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714708,
+  "type": "TIMETABLE_POINT",
+  "name": "Wielu\u0144 D\u0105browa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 63032
+    },
+    {
+      "line_no": "181",
+      "meter": 63032
+    },
+    {
+      "line_no": "181",
+      "meter": 63033
+    }
+  ]
+}

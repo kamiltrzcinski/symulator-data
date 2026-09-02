@@ -1,0 +1,68 @@
+{
+  "uid": 3453153713691,
+  "type": "TIMETABLE_POINT",
+  "name": "Stawy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "26",
+      "meter": 55710
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    },
+    {
+      "line_no": "579",
+      "meter": 120
+    }
+  ]
+}

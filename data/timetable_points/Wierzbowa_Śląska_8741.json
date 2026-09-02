@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714725,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierzbowa \u015al\u0105ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 100500
+    },
+    {
+      "line_no": "275",
+      "meter": 100510
+    }
+  ]
+}

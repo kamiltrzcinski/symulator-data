@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708781,
+  "type": "TIMETABLE_POINT",
+  "name": "Bobr\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "101",
+      "meter": 13164
+    },
+    {
+      "line_no": "101",
+      "meter": 13164
+    }
+  ]
+}

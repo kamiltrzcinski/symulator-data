@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709501,
+  "type": "TIMETABLE_POINT",
+  "name": "Do\u0142y U",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 3934
+    },
+    {
+      "line_no": "31",
+      "meter": 3934
+    },
+    {
+      "line_no": "31",
+      "meter": 3967
+    },
+    {
+      "line_no": "31",
+      "meter": 3967
+    },
+    {
+      "line_no": "31",
+      "meter": 3967
+    },
+    {
+      "line_no": "31",
+      "meter": 3967
+    },
+    {
+      "line_no": "31",
+      "meter": 3967
+    },
+    {
+      "line_no": "31",
+      "meter": 3967
+    },
+    {
+      "line_no": "520",
+      "meter": 1227
+    },
+    {
+      "line_no": "520",
+      "meter": 1227
+    },
+    {
+      "line_no": "520",
+      "meter": 1227
+    },
+    {
+      "line_no": "520",
+      "meter": 1227
+    },
+    {
+      "line_no": "520",
+      "meter": 1241
+    },
+    {
+      "line_no": "520",
+      "meter": 1241
+    },
+    {
+      "line_no": "520",
+      "meter": 1241
+    }
+  ]
+}

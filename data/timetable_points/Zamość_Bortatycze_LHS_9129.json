@@ -1,0 +1,12 @@
+{
+  "uid": 3453153715113,
+  "type": "TIMETABLE_POINT",
+  "name": "Zamo\u015b\u0107 Bortatycze LHS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 59522
+    }
+  ]
+}

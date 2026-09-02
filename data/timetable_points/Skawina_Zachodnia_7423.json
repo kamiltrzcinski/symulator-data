@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713407,
+  "type": "TIMETABLE_POINT",
+  "name": "Skawina Zachodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 17120
+    },
+    {
+      "line_no": "94",
+      "meter": 17120
+    },
+    {
+      "line_no": "94",
+      "meter": 17120
+    },
+    {
+      "line_no": "94",
+      "meter": 17680
+    },
+    {
+      "line_no": "94",
+      "meter": 17680
+    },
+    {
+      "line_no": "94",
+      "meter": 17680
+    },
+    {
+      "line_no": "94",
+      "meter": 17680
+    }
+  ]
+}

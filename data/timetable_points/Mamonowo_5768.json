@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711752,
+  "type": "TIMETABLE_POINT",
+  "name": "Mamonowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "597",
+      "meter": 334600
+    },
+    {
+      "line_no": "597",
+      "meter": 334600
+    },
+    {
+      "line_no": "598",
+      "meter": 334600
+    },
+    {
+      "line_no": "598",
+      "meter": 334600
+    }
+  ]
+}

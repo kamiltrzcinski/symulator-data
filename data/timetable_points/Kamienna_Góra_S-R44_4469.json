@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710453,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamienna G\u00f3ra S-R44",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "298",
+      "meter": -251
+    },
+    {
+      "line_no": "298",
+      "meter": -251
+    },
+    {
+      "line_no": "345",
+      "meter": 251
+    },
+    {
+      "line_no": "345",
+      "meter": 251
+    },
+    {
+      "line_no": "345",
+      "meter": 251
+    }
+  ]
+}

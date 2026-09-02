@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709387,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Wschodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 65941
+    },
+    {
+      "line_no": "62",
+      "meter": 65941
+    },
+    {
+      "line_no": "62",
+      "meter": 65941
+    },
+    {
+      "line_no": "171",
+      "meter": 12290
+    },
+    {
+      "line_no": "171",
+      "meter": 12290
+    },
+    {
+      "line_no": "171",
+      "meter": 12290
+    },
+    {
+      "line_no": "171",
+      "meter": 12290
+    },
+    {
+      "line_no": "171",
+      "meter": 12290
+    }
+  ]
+}

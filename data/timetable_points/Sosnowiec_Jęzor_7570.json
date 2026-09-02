@@ -1,0 +1,56 @@
+{
+  "uid": 3453153713554,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec J\u0119zor",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "134",
+      "meter": 7532
+    },
+    {
+      "line_no": "134",
+      "meter": 7532
+    },
+    {
+      "line_no": "134",
+      "meter": 7532
+    },
+    {
+      "line_no": "134",
+      "meter": 7532
+    },
+    {
+      "line_no": "180",
+      "meter": 8410
+    },
+    {
+      "line_no": "180",
+      "meter": 8410
+    },
+    {
+      "line_no": "180",
+      "meter": 8410
+    },
+    {
+      "line_no": "719",
+      "meter": 1606
+    },
+    {
+      "line_no": "719",
+      "meter": 1606
+    },
+    {
+      "line_no": "719",
+      "meter": 1606
+    },
+    {
+      "line_no": "720",
+      "meter": 1
+    },
+    {
+      "line_no": "720",
+      "meter": 1
+    }
+  ]
+}

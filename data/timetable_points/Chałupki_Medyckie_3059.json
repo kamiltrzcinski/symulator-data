@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709043,
+  "type": "TIMETABLE_POINT",
+  "name": "Cha\u0142upki Medyckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "121",
+      "meter": 2300
+    },
+    {
+      "line_no": "124",
+      "meter": 1800
+    }
+  ]
+}

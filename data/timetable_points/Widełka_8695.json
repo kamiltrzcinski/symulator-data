@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714679,
+  "type": "TIMETABLE_POINT",
+  "name": "Wide\u0142ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 45430
+    },
+    {
+      "line_no": "71",
+      "meter": 45430
+    },
+    {
+      "line_no": "71",
+      "meter": 45430
+    },
+    {
+      "line_no": "71",
+      "meter": 46201
+    },
+    {
+      "line_no": "71",
+      "meter": 46295
+    }
+  ]
+}

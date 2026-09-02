@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713750,
+  "type": "TIMETABLE_POINT",
+  "name": "Strzelce \u015awidnickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "285",
+      "meter": 43262
+    },
+    {
+      "line_no": "285",
+      "meter": 43262
+    },
+    {
+      "line_no": "285",
+      "meter": 43262
+    },
+    {
+      "line_no": "285",
+      "meter": 43262
+    },
+    {
+      "line_no": "285",
+      "meter": 43262
+    },
+    {
+      "line_no": "285",
+      "meter": 43300
+    }
+  ]
+}

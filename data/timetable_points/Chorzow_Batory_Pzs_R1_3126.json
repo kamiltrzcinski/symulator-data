@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709110,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorzow Batory Pzs R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "651",
+      "meter": 3289
+    },
+    {
+      "line_no": "651",
+      "meter": 3289
+    },
+    {
+      "line_no": "651",
+      "meter": 3537
+    },
+    {
+      "line_no": "713",
+      "meter": 3778
+    },
+    {
+      "line_no": "713",
+      "meter": 3989
+    },
+    {
+      "line_no": "713",
+      "meter": 4056
+    },
+    {
+      "line_no": "713",
+      "meter": 4056
+    },
+    {
+      "line_no": "895",
+      "meter": 1
+    },
+    {
+      "line_no": "895",
+      "meter": 1
+    }
+  ]
+}

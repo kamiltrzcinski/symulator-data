@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710440,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalwaria Zebrzydowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "97",
+      "meter": 20880
+    },
+    {
+      "line_no": "117",
+      "meter": 1477
+    },
+    {
+      "line_no": "117",
+      "meter": 1477
+    },
+    {
+      "line_no": "117",
+      "meter": 1510
+    },
+    {
+      "line_no": "621",
+      "meter": 445
+    }
+  ]
+}

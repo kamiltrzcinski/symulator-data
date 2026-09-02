@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713527,
+  "type": "TIMETABLE_POINT",
+  "name": "Sok\u00f3\u0142ka SAGA N",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "922",
+      "meter": 1096
+    }
+  ]
+}

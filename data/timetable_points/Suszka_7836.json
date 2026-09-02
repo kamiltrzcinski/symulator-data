@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713820,
+  "type": "TIMETABLE_POINT",
+  "name": "Suszka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 77302
+    },
+    {
+      "line_no": "276",
+      "meter": 77302
+    }
+  ]
+}

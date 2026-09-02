@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711442,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubicz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 156715
+    },
+    {
+      "line_no": "27",
+      "meter": 156715
+    }
+  ]
+}

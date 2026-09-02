@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709913,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorz\u00f3w Wielkopolski R242",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "367",
+      "meter": 75403
+    },
+    {
+      "line_no": "415",
+      "meter": 1762
+    }
+  ]
+}

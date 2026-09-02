@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709053,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142chy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 9898
+    },
+    {
+      "line_no": "41",
+      "meter": 9898
+    },
+    {
+      "line_no": "41",
+      "meter": 9898
+    },
+    {
+      "line_no": "41",
+      "meter": 9944
+    }
+  ]
+}

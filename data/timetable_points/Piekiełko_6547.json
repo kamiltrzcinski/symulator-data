@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712531,
+  "type": "TIMETABLE_POINT",
+  "name": "Piekie\u0142ko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "104",
+      "meter": 40078
+    },
+    {
+      "line_no": "104",
+      "meter": 40078
+    },
+    {
+      "line_no": "104",
+      "meter": 40078
+    }
+  ]
+}

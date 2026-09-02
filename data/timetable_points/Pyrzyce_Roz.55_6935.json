@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712919,
+  "type": "TIMETABLE_POINT",
+  "name": "Pyrzyce Roz.55",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "411",
+      "meter": 25860
+    },
+    {
+      "line_no": "411",
+      "meter": 25860
+    },
+    {
+      "line_no": "411",
+      "meter": 25860
+    },
+    {
+      "line_no": "411",
+      "meter": 25860
+    },
+    {
+      "line_no": "422",
+      "meter": 858
+    },
+    {
+      "line_no": "422",
+      "meter": 858
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709303,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwionka D\u0119bie\u0144sko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 27800
+    },
+    {
+      "line_no": "140",
+      "meter": 27819
+    },
+    {
+      "line_no": "140",
+      "meter": 27874
+    },
+    {
+      "line_no": "140",
+      "meter": 27874
+    },
+    {
+      "line_no": "880",
+      "meter": 1504
+    }
+  ]
+}

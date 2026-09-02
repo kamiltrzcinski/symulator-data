@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713588,
+  "type": "TIMETABLE_POINT",
+  "name": "Spychowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 69687
+    },
+    {
+      "line_no": "219",
+      "meter": 69687
+    },
+    {
+      "line_no": "219",
+      "meter": 69687
+    },
+    {
+      "line_no": "219",
+      "meter": 69687
+    },
+    {
+      "line_no": "219",
+      "meter": 69786
+    }
+  ]
+}

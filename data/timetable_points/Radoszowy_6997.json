@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712981,
+  "type": "TIMETABLE_POINT",
+  "name": "Radoszowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 5025
+    },
+    {
+      "line_no": "141",
+      "meter": 5025
+    },
+    {
+      "line_no": "651",
+      "meter": 3
+    },
+    {
+      "line_no": "651",
+      "meter": 3
+    },
+    {
+      "line_no": "651",
+      "meter": 3
+    }
+  ]
+}

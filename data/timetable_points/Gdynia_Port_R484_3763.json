@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709747,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Port R484",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "201",
+      "meter": 210550
+    },
+    {
+      "line_no": "201",
+      "meter": 210550
+    },
+    {
+      "line_no": "201",
+      "meter": 210550
+    },
+    {
+      "line_no": "723",
+      "meter": 2030
+    },
+    {
+      "line_no": "723",
+      "meter": 2030
+    },
+    {
+      "line_no": "723",
+      "meter": 2075
+    }
+  ]
+}

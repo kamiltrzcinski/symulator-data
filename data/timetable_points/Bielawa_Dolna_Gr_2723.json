@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708707,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielawa Dolna (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "295",
+      "meter": 13424
+    },
+    {
+      "line_no": "295",
+      "meter": 13424
+    },
+    {
+      "line_no": "495",
+      "meter": 13424
+    },
+    {
+      "line_no": "495",
+      "meter": 13424
+    },
+    {
+      "line_no": "495",
+      "meter": 13424
+    }
+  ]
+}

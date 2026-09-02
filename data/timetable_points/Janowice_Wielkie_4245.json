@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710229,
+  "type": "TIMETABLE_POINT",
+  "name": "Janowice Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 113580
+    },
+    {
+      "line_no": "274",
+      "meter": 113580
+    },
+    {
+      "line_no": "274",
+      "meter": 113580
+    }
+  ]
+}

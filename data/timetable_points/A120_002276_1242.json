@@ -1,0 +1,28 @@
+{
+  "uid": 3453153707226,
+  "type": "TIMETABLE_POINT",
+  "name": "A120 002,276",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "120",
+      "meter": 2276
+    },
+    {
+      "line_no": "120",
+      "meter": 2276
+    },
+    {
+      "line_no": "123",
+      "meter": 2704
+    },
+    {
+      "line_no": "123",
+      "meter": 2704
+    },
+    {
+      "line_no": "123",
+      "meter": 2704
+    }
+  ]
+}

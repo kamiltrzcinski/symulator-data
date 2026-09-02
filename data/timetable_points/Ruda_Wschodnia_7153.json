@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713137,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Wschodnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "187",
+      "meter": 5323
+    },
+    {
+      "line_no": "187",
+      "meter": 5323
+    },
+    {
+      "line_no": "187",
+      "meter": 5323
+    }
+  ]
+}

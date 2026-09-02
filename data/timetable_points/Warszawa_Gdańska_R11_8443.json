@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714427,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Gda\u0144ska R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 8699
+    },
+    {
+      "line_no": "20",
+      "meter": 8699
+    },
+    {
+      "line_no": "20",
+      "meter": 8700
+    },
+    {
+      "line_no": "548",
+      "meter": 127
+    },
+    {
+      "line_no": "548",
+      "meter": 127
+    },
+    {
+      "line_no": "548",
+      "meter": 127
+    }
+  ]
+}

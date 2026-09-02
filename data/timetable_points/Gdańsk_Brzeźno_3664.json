@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709648,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Brze\u017ano",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "249",
+      "meter": 6498
+    },
+    {
+      "line_no": "249",
+      "meter": 6498
+    },
+    {
+      "line_no": "249",
+      "meter": 6498
+    }
+  ]
+}

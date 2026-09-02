@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714243,
+  "type": "TIMETABLE_POINT",
+  "name": "Try\u0144cza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 168361
+    },
+    {
+      "line_no": "68",
+      "meter": 168361
+    },
+    {
+      "line_no": "68",
+      "meter": 168455
+    },
+    {
+      "line_no": "68",
+      "meter": 168455
+    },
+    {
+      "line_no": "68",
+      "meter": 168455
+    },
+    {
+      "line_no": "68",
+      "meter": 168460
+    }
+  ]
+}

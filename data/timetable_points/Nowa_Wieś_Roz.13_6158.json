@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712142,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b Roz.13",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "199",
+      "meter": 61526
+    },
+    {
+      "line_no": "872",
+      "meter": 61526
+    }
+  ]
+}

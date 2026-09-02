@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714034,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015awi\u0105tniki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 175116
+    },
+    {
+      "line_no": "281",
+      "meter": 175116
+    },
+    {
+      "line_no": "281",
+      "meter": 175116
+    },
+    {
+      "line_no": "281",
+      "meter": 175116
+    }
+  ]
+}

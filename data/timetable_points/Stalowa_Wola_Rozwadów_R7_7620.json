@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713604,
+  "type": "TIMETABLE_POINT",
+  "name": "Stalowa Wola Rozwad\u00f3w R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 101716
+    },
+    {
+      "line_no": "68",
+      "meter": 101716
+    },
+    {
+      "line_no": "68",
+      "meter": 101718
+    },
+    {
+      "line_no": "68",
+      "meter": 101718
+    },
+    {
+      "line_no": "68",
+      "meter": 101718
+    },
+    {
+      "line_no": "74",
+      "meter": 23336
+    },
+    {
+      "line_no": "74",
+      "meter": 23342
+    }
+  ]
+}

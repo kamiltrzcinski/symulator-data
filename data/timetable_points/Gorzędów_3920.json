@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709904,
+  "type": "TIMETABLE_POINT",
+  "name": "Gorz\u0119d\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 171660
+    },
+    {
+      "line_no": "1",
+      "meter": 171660
+    },
+    {
+      "line_no": "1",
+      "meter": 171667
+    },
+    {
+      "line_no": "1",
+      "meter": 171667
+    }
+  ]
+}

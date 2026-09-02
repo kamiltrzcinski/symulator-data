@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715060,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaczernie R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 59600
+    },
+    {
+      "line_no": "626",
+      "meter": 230
+    }
+  ]
+}

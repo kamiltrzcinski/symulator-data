@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710433,
+  "type": "TIMETABLE_POINT",
+  "name": "Kalisz Kaszubski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "211",
+      "meter": 45938
+    },
+    {
+      "line_no": "211",
+      "meter": 45960
+    },
+    {
+      "line_no": "211",
+      "meter": 45960
+    }
+  ]
+}

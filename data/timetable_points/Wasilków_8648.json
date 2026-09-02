@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714632,
+  "type": "TIMETABLE_POINT",
+  "name": "Wasilk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 185155
+    },
+    {
+      "line_no": "6",
+      "meter": 185155
+    },
+    {
+      "line_no": "6",
+      "meter": 185155
+    },
+    {
+      "line_no": "6",
+      "meter": 185155
+    },
+    {
+      "line_no": "6",
+      "meter": 185155
+    }
+  ]
+}

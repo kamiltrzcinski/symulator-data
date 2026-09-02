@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712371,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostro\u0142\u0119ka R99",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 825
+    },
+    {
+      "line_no": "36",
+      "meter": 825
+    },
+    {
+      "line_no": "36",
+      "meter": 825
+    },
+    {
+      "line_no": "900",
+      "meter": 0
+    },
+    {
+      "line_no": "900",
+      "meter": 0
+    }
+  ]
+}

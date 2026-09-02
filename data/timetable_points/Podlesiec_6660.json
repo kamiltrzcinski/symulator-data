@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712644,
+  "type": "TIMETABLE_POINT",
+  "name": "Podlesiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 97148
+    },
+    {
+      "line_no": "351",
+      "meter": 97148
+    },
+    {
+      "line_no": "351",
+      "meter": 97148
+    },
+    {
+      "line_no": "351",
+      "meter": 97148
+    },
+    {
+      "line_no": "351",
+      "meter": 97148
+    },
+    {
+      "line_no": "351",
+      "meter": 97148
+    },
+    {
+      "line_no": "351",
+      "meter": 97148
+    }
+  ]
+}

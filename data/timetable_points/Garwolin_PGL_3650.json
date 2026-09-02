@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709634,
+  "type": "TIMETABLE_POINT",
+  "name": "Garwolin PGL",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 61266
+    },
+    {
+      "line_no": "7",
+      "meter": 61266
+    },
+    {
+      "line_no": "7",
+      "meter": 61266
+    },
+    {
+      "line_no": "7",
+      "meter": 61266
+    },
+    {
+      "line_no": "7",
+      "meter": 61269
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153712370,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostro\u0142\u0119ka R98",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 75047
+    },
+    {
+      "line_no": "29",
+      "meter": 75047
+    },
+    {
+      "line_no": "29",
+      "meter": 75047
+    },
+    {
+      "line_no": "34",
+      "meter": -811
+    },
+    {
+      "line_no": "34",
+      "meter": -811
+    },
+    {
+      "line_no": "34",
+      "meter": -811
+    },
+    {
+      "line_no": "36",
+      "meter": 811
+    },
+    {
+      "line_no": "36",
+      "meter": 811
+    },
+    {
+      "line_no": "36",
+      "meter": 811
+    },
+    {
+      "line_no": "36",
+      "meter": 812
+    }
+  ]
+}

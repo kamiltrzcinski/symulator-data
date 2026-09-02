@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708992,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz \u0141\u0119gnowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 148699
+    },
+    {
+      "line_no": "18",
+      "meter": 148699
+    }
+  ]
+}

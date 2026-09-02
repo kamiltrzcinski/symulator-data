@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712700,
+  "type": "TIMETABLE_POINT",
+  "name": "Popowo Skwierzy\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "367",
+      "meter": 41912
+    },
+    {
+      "line_no": "367",
+      "meter": 41912
+    },
+    {
+      "line_no": "367",
+      "meter": 41918
+    },
+    {
+      "line_no": "367",
+      "meter": 41918
+    },
+    {
+      "line_no": "367",
+      "meter": 41918
+    }
+  ]
+}

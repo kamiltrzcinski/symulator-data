@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713951,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczejkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "148",
+      "meter": 26040
+    },
+    {
+      "line_no": "148",
+      "meter": 26066
+    }
+  ]
+}

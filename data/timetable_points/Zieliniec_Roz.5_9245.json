@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715229,
+  "type": "TIMETABLE_POINT",
+  "name": "Zieliniec Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "394",
+      "meter": 12181
+    },
+    {
+      "line_no": "395",
+      "meter": -19
+    },
+    {
+      "line_no": "395",
+      "meter": -19
+    },
+    {
+      "line_no": "395",
+      "meter": -19
+    },
+    {
+      "line_no": "395",
+      "meter": -19
+    }
+  ]
+}

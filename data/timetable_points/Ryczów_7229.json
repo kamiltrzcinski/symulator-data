@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713213,
+  "type": "TIMETABLE_POINT",
+  "name": "Rycz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 36862
+    },
+    {
+      "line_no": "94",
+      "meter": 36862
+    },
+    {
+      "line_no": "94",
+      "meter": 36862
+    },
+    {
+      "line_no": "94",
+      "meter": 36862
+    },
+    {
+      "line_no": "94",
+      "meter": 36862
+    },
+    {
+      "line_no": "94",
+      "meter": 36862
+    }
+  ]
+}

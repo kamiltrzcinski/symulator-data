@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712482,
+  "type": "TIMETABLE_POINT",
+  "name": "Paw\u0142owice G\u00f3rnicze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "873",
+      "meter": 1797
+    },
+    {
+      "line_no": "873",
+      "meter": 1797
+    },
+    {
+      "line_no": "873",
+      "meter": 1797
+    }
+  ]
+}

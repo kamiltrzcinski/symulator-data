@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714474,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Odol. Md",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 2400
+    },
+    {
+      "line_no": "20",
+      "meter": 2400
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713116,
+  "type": "TIMETABLE_POINT",
+  "name": "Rubno Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "254",
+      "meter": 8959
+    },
+    {
+      "line_no": "254",
+      "meter": 8959
+    }
+  ]
+}

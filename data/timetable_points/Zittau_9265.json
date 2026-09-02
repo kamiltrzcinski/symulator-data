@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715249,
+  "type": "TIMETABLE_POINT",
+  "name": "Zittau",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "346",
+      "meter": 24528
+    },
+    {
+      "line_no": "497",
+      "meter": 0
+    }
+  ]
+}

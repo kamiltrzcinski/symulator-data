@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712166,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowosady ANDREX-LOGISTIC",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 127255
+    },
+    {
+      "line_no": "31",
+      "meter": 127255
+    },
+    {
+      "line_no": "31",
+      "meter": 127255
+    }
+  ]
+}

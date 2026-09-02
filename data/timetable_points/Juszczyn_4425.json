@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710409,
+  "type": "TIMETABLE_POINT",
+  "name": "Juszczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 10304
+    },
+    {
+      "line_no": "98",
+      "meter": 10343
+    },
+    {
+      "line_no": "98",
+      "meter": 10343
+    }
+  ]
+}

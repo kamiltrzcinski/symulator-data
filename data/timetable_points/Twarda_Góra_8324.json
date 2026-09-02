@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714308,
+  "type": "TIMETABLE_POINT",
+  "name": "Twarda G\u00f3ra",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 449586
+    },
+    {
+      "line_no": "131",
+      "meter": 449586
+    }
+  ]
+}

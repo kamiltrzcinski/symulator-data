@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711154,
+  "type": "TIMETABLE_POINT",
+  "name": "Kusi\u0119ta",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 104865
+    },
+    {
+      "line_no": "61",
+      "meter": 104865
+    },
+    {
+      "line_no": "61",
+      "meter": 104865
+    }
+  ]
+}

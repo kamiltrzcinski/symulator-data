@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715174,
+  "type": "TIMETABLE_POINT",
+  "name": "Zb\u0105szynek R84",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": -477
+    },
+    {
+      "line_no": "358",
+      "meter": -428
+    },
+    {
+      "line_no": "358",
+      "meter": -428
+    },
+    {
+      "line_no": "367",
+      "meter": 477
+    },
+    {
+      "line_no": "367",
+      "meter": 477
+    },
+    {
+      "line_no": "367",
+      "meter": 477
+    }
+  ]
+}

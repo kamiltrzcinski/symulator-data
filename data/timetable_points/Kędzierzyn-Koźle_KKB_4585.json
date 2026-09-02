@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710569,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119dzierzyn-Ko\u017ale KKB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "681",
+      "meter": 1426
+    },
+    {
+      "line_no": "681",
+      "meter": 1426
+    },
+    {
+      "line_no": "956",
+      "meter": 1369
+    },
+    {
+      "line_no": "956",
+      "meter": 1369
+    },
+    {
+      "line_no": "956",
+      "meter": 1369
+    }
+  ]
+}

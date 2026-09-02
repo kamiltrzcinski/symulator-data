@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713299,
+  "type": "TIMETABLE_POINT",
+  "name": "Sarnowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "362",
+      "meter": 26302
+    },
+    {
+      "line_no": "362",
+      "meter": 26302
+    },
+    {
+      "line_no": "362",
+      "meter": 26302
+    },
+    {
+      "line_no": "362",
+      "meter": 26302
+    },
+    {
+      "line_no": "362",
+      "meter": 26302
+    }
+  ]
+}

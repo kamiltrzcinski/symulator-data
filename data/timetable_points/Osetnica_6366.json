@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712350,
+  "type": "TIMETABLE_POINT",
+  "name": "Osetnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 15405
+    },
+    {
+      "line_no": "282",
+      "meter": 15503
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709997,
+  "type": "TIMETABLE_POINT",
+  "name": "Granowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "355",
+      "meter": 20484
+    },
+    {
+      "line_no": "355",
+      "meter": 20484
+    }
+  ]
+}

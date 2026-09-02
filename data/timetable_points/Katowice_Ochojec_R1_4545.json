@@ -1,0 +1,44 @@
+{
+  "uid": 3453153710529,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Ochojec R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "142",
+      "meter": 1741
+    },
+    {
+      "line_no": "142",
+      "meter": 1741
+    },
+    {
+      "line_no": "142",
+      "meter": 1978
+    },
+    {
+      "line_no": "142",
+      "meter": 1978
+    },
+    {
+      "line_no": "653",
+      "meter": 1764
+    },
+    {
+      "line_no": "653",
+      "meter": 1764
+    },
+    {
+      "line_no": "653",
+      "meter": 1767
+    },
+    {
+      "line_no": "653",
+      "meter": 2001
+    },
+    {
+      "line_no": "653",
+      "meter": 2001
+    }
+  ]
+}

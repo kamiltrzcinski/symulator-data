@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712993,
+  "type": "TIMETABLE_POINT",
+  "name": "Radzikowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 144846
+    },
+    {
+      "line_no": "137",
+      "meter": 144846
+    }
+  ]
+}

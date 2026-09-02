@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711467,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin Ponikwoda",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 105190
+    },
+    {
+      "line_no": "30",
+      "meter": 105190
+    },
+    {
+      "line_no": "30",
+      "meter": 105190
+    }
+  ]
+}

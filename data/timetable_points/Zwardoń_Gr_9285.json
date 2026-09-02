@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715269,
+  "type": "TIMETABLE_POINT",
+  "name": "Zwardo\u0144 (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 113785
+    },
+    {
+      "line_no": "139",
+      "meter": 113785
+    },
+    {
+      "line_no": "489",
+      "meter": 20226
+    },
+    {
+      "line_no": "489",
+      "meter": 20226
+    }
+  ]
+}

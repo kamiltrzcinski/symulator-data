@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709146,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrzan\u00f3w R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "93",
+      "meter": 5033
+    },
+    {
+      "line_no": "93",
+      "meter": 5993
+    },
+    {
+      "line_no": "93",
+      "meter": 5993
+    },
+    {
+      "line_no": "126",
+      "meter": -310
+    },
+    {
+      "line_no": "126",
+      "meter": 617
+    }
+  ]
+}

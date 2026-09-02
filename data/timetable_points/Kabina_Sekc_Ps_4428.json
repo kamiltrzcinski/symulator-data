@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710412,
+  "type": "TIMETABLE_POINT",
+  "name": "Kabina Sekc Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 136600
+    }
+  ]
+}

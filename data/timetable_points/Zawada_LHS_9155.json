@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715139,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawada LHS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "65",
+      "meter": 64797
+    },
+    {
+      "line_no": "65",
+      "meter": 64797
+    }
+  ]
+}

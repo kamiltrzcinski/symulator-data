@@ -1,0 +1,12 @@
+{
+  "uid": 3453153714623,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia U101/102-Q3/9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 4086
+    }
+  ]
+}

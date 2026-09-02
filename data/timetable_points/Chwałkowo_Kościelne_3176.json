@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709160,
+  "type": "TIMETABLE_POINT",
+  "name": "Chwa\u0142kowo Ko\u015bcielne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "369",
+      "meter": 10218
+    },
+    {
+      "line_no": "369",
+      "meter": 10218
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710243,
+  "type": "TIMETABLE_POINT",
+  "name": "Jarocin Roz.285",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 94779
+    },
+    {
+      "line_no": "281",
+      "meter": 94779
+    },
+    {
+      "line_no": "281",
+      "meter": 94779
+    }
+  ]
+}

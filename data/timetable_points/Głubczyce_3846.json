@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709830,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142ubczyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 37700
+    },
+    {
+      "line_no": "177",
+      "meter": 37700
+    },
+    {
+      "line_no": "294",
+      "meter": 0
+    },
+    {
+      "line_no": "294",
+      "meter": 0
+    },
+    {
+      "line_no": "294",
+      "meter": 0
+    }
+  ]
+}

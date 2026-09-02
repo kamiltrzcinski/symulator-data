@@ -1,0 +1,68 @@
+{
+  "uid": 3453153714443,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142\u00f3wna Towarowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "19",
+      "meter": 1095
+    },
+    {
+      "line_no": "19",
+      "meter": 1096
+    },
+    {
+      "line_no": "20",
+      "meter": -600
+    },
+    {
+      "line_no": "20",
+      "meter": 150
+    },
+    {
+      "line_no": "20",
+      "meter": 150
+    },
+    {
+      "line_no": "507",
+      "meter": 941
+    },
+    {
+      "line_no": "507",
+      "meter": 966
+    },
+    {
+      "line_no": "507",
+      "meter": 966
+    },
+    {
+      "line_no": "509",
+      "meter": -600
+    },
+    {
+      "line_no": "509",
+      "meter": -600
+    },
+    {
+      "line_no": "509",
+      "meter": 1
+    },
+    {
+      "line_no": "509",
+      "meter": 1
+    },
+    {
+      "line_no": "510",
+      "meter": 1233
+    },
+    {
+      "line_no": "510",
+      "meter": 1233
+    },
+    {
+      "line_no": "784",
+      "meter": 240
+    }
+  ]
+}

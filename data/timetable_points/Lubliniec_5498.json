@@ -1,0 +1,76 @@
+{
+  "uid": 3453153711482,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubliniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 152231
+    },
+    {
+      "line_no": "61",
+      "meter": 152231
+    },
+    {
+      "line_no": "61",
+      "meter": 152231
+    },
+    {
+      "line_no": "61",
+      "meter": 152231
+    },
+    {
+      "line_no": "61",
+      "meter": 152231
+    },
+    {
+      "line_no": "61",
+      "meter": 152231
+    },
+    {
+      "line_no": "143",
+      "meter": 19258
+    },
+    {
+      "line_no": "143",
+      "meter": 19258
+    },
+    {
+      "line_no": "143",
+      "meter": 19258
+    },
+    {
+      "line_no": "143",
+      "meter": 19258
+    },
+    {
+      "line_no": "143",
+      "meter": 19258
+    },
+    {
+      "line_no": "143",
+      "meter": 19258
+    },
+    {
+      "line_no": "152",
+      "meter": 40416
+    },
+    {
+      "line_no": "152",
+      "meter": 40416
+    },
+    {
+      "line_no": "152",
+      "meter": 40416
+    },
+    {
+      "line_no": "152",
+      "meter": 40416
+    },
+    {
+      "line_no": "152",
+      "meter": 40416
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153715092,
+  "type": "TIMETABLE_POINT",
+  "name": "Zajezierze ko\u0142o D\u0119blina",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 67045
+    },
+    {
+      "line_no": "26",
+      "meter": 67045
+    },
+    {
+      "line_no": "26",
+      "meter": 67045
+    },
+    {
+      "line_no": "26",
+      "meter": 67045
+    },
+    {
+      "line_no": "26",
+      "meter": 67045
+    },
+    {
+      "line_no": "26",
+      "meter": 67045
+    },
+    {
+      "line_no": "26",
+      "meter": 67210
+    }
+  ]
+}

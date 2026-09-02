@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708945,
+  "type": "TIMETABLE_POINT",
+  "name": "Budach\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 194643
+    },
+    {
+      "line_no": "273",
+      "meter": 194643
+    },
+    {
+      "line_no": "273",
+      "meter": 194643
+    }
+  ]
+}

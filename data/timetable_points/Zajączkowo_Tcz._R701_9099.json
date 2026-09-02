@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715083,
+  "type": "TIMETABLE_POINT",
+  "name": "Zaj\u0105czkowo Tcz. R701",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "260",
+      "meter": -52
+    },
+    {
+      "line_no": "260",
+      "meter": -52
+    },
+    {
+      "line_no": "260",
+      "meter": -52
+    },
+    {
+      "line_no": "729",
+      "meter": 11098
+    }
+  ]
+}

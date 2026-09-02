@@ -1,0 +1,16 @@
+{
+  "uid": 3453153705994,
+  "type": "TIMETABLE_POINT",
+  "name": "140ps41.36 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 41360
+    },
+    {
+      "line_no": "140",
+      "meter": 41360
+    }
+  ]
+}

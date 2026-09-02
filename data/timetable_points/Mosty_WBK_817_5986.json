@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711970,
+  "type": "TIMETABLE_POINT",
+  "name": "Mosty WBK 817",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "402",
+      "meter": 133784
+    },
+    {
+      "line_no": "402",
+      "meter": 133784
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712457,
+  "type": "TIMETABLE_POINT",
+  "name": "Papiernia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "39",
+      "meter": 37822
+    },
+    {
+      "line_no": "39",
+      "meter": 37822
+    },
+    {
+      "line_no": "39",
+      "meter": 37822
+    },
+    {
+      "line_no": "39",
+      "meter": 37822
+    },
+    {
+      "line_no": "517",
+      "meter": 65
+    },
+    {
+      "line_no": "517",
+      "meter": 65
+    },
+    {
+      "line_no": "517",
+      "meter": 65
+    },
+    {
+      "line_no": "517",
+      "meter": 65
+    }
+  ]
+}

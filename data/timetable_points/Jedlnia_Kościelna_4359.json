@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710343,
+  "type": "TIMETABLE_POINT",
+  "name": "Jedlnia Ko\u015bcielna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 98667
+    },
+    {
+      "line_no": "26",
+      "meter": 98667
+    },
+    {
+      "line_no": "26",
+      "meter": 98667
+    },
+    {
+      "line_no": "26",
+      "meter": 98700
+    },
+    {
+      "line_no": "26",
+      "meter": 98700
+    },
+    {
+      "line_no": "26",
+      "meter": 98700
+    }
+  ]
+}

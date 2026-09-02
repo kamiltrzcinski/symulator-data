@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711195,
+  "type": "TIMETABLE_POINT",
+  "name": "L187 km:4,2 KWK POK\u00d3J - PLK",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "187",
+      "meter": 4200
+    },
+    {
+      "line_no": "187",
+      "meter": 4200
+    }
+  ]
+}

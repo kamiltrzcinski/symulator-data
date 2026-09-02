@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714650,
+  "type": "TIMETABLE_POINT",
+  "name": "Werbkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "72",
+      "meter": 49010
+    },
+    {
+      "line_no": "72",
+      "meter": 49010
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714947,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Pracze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 13042
+    },
+    {
+      "line_no": "273",
+      "meter": 13042
+    },
+    {
+      "line_no": "273",
+      "meter": 13042
+    },
+    {
+      "line_no": "273",
+      "meter": 13042
+    }
+  ]
+}

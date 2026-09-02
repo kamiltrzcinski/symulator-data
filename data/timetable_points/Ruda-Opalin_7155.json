@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713139,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda-Opalin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "81",
+      "meter": 14439
+    },
+    {
+      "line_no": "81",
+      "meter": 14439
+    },
+    {
+      "line_no": "81",
+      "meter": 14439
+    },
+    {
+      "line_no": "81",
+      "meter": 14439
+    },
+    {
+      "line_no": "81",
+      "meter": 14439
+    }
+  ]
+}

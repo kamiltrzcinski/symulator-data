@@ -1,0 +1,60 @@
+{
+  "uid": 3453153714656,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0119gliniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "278",
+      "meter": 387
+    },
+    {
+      "line_no": "278",
+      "meter": 387
+    },
+    {
+      "line_no": "278",
+      "meter": 387
+    },
+    {
+      "line_no": "279",
+      "meter": 21059
+    },
+    {
+      "line_no": "279",
+      "meter": 21059
+    },
+    {
+      "line_no": "279",
+      "meter": 21059
+    },
+    {
+      "line_no": "282",
+      "meter": 61501
+    },
+    {
+      "line_no": "282",
+      "meter": 61501
+    },
+    {
+      "line_no": "295",
+      "meter": 523
+    },
+    {
+      "line_no": "295",
+      "meter": 523
+    },
+    {
+      "line_no": "975",
+      "meter": 1501
+    },
+    {
+      "line_no": "975",
+      "meter": 1501
+    },
+    {
+      "line_no": "975",
+      "meter": 1901
+    }
+  ]
+}

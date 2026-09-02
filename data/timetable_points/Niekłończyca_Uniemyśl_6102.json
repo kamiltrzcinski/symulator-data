@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712086,
+  "type": "TIMETABLE_POINT",
+  "name": "Niek\u0142o\u0144czyca Uniemy\u015bl",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 32975
+    },
+    {
+      "line_no": "406",
+      "meter": 32975
+    },
+    {
+      "line_no": "406",
+      "meter": 32975
+    }
+  ]
+}

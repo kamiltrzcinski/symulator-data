@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714718,
+  "type": "TIMETABLE_POINT",
+  "name": "Wierusz\u00f3w WOODECKO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 88554
+    },
+    {
+      "line_no": "181",
+      "meter": 88555
+    },
+    {
+      "line_no": "181",
+      "meter": 88555
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714780,
+  "type": "TIMETABLE_POINT",
+  "name": "Witan\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 31118
+    },
+    {
+      "line_no": "3",
+      "meter": 31118
+    }
+  ]
+}

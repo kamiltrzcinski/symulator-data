@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713230,
+  "type": "TIMETABLE_POINT",
+  "name": "Rypin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 116754
+    },
+    {
+      "line_no": "33",
+      "meter": 116754
+    },
+    {
+      "line_no": "33",
+      "meter": 116754
+    },
+    {
+      "line_no": "33",
+      "meter": 116754
+    },
+    {
+      "line_no": "33",
+      "meter": 116754
+    }
+  ]
+}

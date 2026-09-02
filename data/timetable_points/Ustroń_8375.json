@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714359,
+  "type": "TIMETABLE_POINT",
+  "name": "Ustro\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "191",
+      "meter": 5383
+    },
+    {
+      "line_no": "191",
+      "meter": 5383
+    },
+    {
+      "line_no": "191",
+      "meter": 5383
+    }
+  ]
+}

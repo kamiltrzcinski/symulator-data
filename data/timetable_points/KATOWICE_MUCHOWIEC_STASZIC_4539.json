@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710523,
+  "type": "TIMETABLE_POINT",
+  "name": "KATOWICE MUCHOWIEC STASZIC",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "898",
+      "meter": 3700
+    },
+    {
+      "line_no": "898",
+      "meter": 3700
+    }
+  ]
+}

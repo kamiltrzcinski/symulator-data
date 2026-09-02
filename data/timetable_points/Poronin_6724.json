@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712708,
+  "type": "TIMETABLE_POINT",
+  "name": "Poronin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "99",
+      "meter": 37466
+    },
+    {
+      "line_no": "99",
+      "meter": 37466
+    },
+    {
+      "line_no": "99",
+      "meter": 37468
+    },
+    {
+      "line_no": "99",
+      "meter": 37468
+    },
+    {
+      "line_no": "99",
+      "meter": 37468
+    }
+  ]
+}

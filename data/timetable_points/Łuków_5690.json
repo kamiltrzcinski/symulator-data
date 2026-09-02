@@ -1,0 +1,120 @@
+{
+  "uid": 3453153711674,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141uk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "2",
+      "meter": 120448
+    },
+    {
+      "line_no": "12",
+      "meter": 160108
+    },
+    {
+      "line_no": "12",
+      "meter": 160108
+    },
+    {
+      "line_no": "12",
+      "meter": 160108
+    },
+    {
+      "line_no": "12",
+      "meter": 160108
+    },
+    {
+      "line_no": "12",
+      "meter": 160108
+    },
+    {
+      "line_no": "12",
+      "meter": 160108
+    },
+    {
+      "line_no": "26",
+      "meter": 50
+    },
+    {
+      "line_no": "26",
+      "meter": 50
+    },
+    {
+      "line_no": "26",
+      "meter": 293
+    },
+    {
+      "line_no": "26",
+      "meter": 293
+    },
+    {
+      "line_no": "26",
+      "meter": 293
+    },
+    {
+      "line_no": "26",
+      "meter": 293
+    },
+    {
+      "line_no": "26",
+      "meter": 293
+    },
+    {
+      "line_no": "26",
+      "meter": 293
+    },
+    {
+      "line_no": "30",
+      "meter": 966
+    },
+    {
+      "line_no": "30",
+      "meter": 966
+    },
+    {
+      "line_no": "30",
+      "meter": 1571
+    },
+    {
+      "line_no": "30",
+      "meter": 1571
+    },
+    {
+      "line_no": "30",
+      "meter": 1571
+    },
+    {
+      "line_no": "523",
+      "meter": 1146
+    }
+  ]
+}

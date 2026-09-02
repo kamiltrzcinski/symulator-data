@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714609,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R252",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 3205
+    },
+    {
+      "line_no": "447",
+      "meter": 3207
+    },
+    {
+      "line_no": "447",
+      "meter": 3207
+    },
+    {
+      "line_no": "919",
+      "meter": 3205
+    },
+    {
+      "line_no": "919",
+      "meter": 3207
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709579,
+  "type": "TIMETABLE_POINT",
+  "name": "Dziwno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "207",
+      "meter": 81235
+    },
+    {
+      "line_no": "207",
+      "meter": 81235
+    },
+    {
+      "line_no": "207",
+      "meter": 81279
+    }
+  ]
+}

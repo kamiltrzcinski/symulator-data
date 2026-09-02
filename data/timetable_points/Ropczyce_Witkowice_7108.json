@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713092,
+  "type": "TIMETABLE_POINT",
+  "name": "Ropczyce Witkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 126970
+    },
+    {
+      "line_no": "91",
+      "meter": 126970
+    },
+    {
+      "line_no": "91",
+      "meter": 126970
+    },
+    {
+      "line_no": "91",
+      "meter": 126970
+    },
+    {
+      "line_no": "91",
+      "meter": 126980
+    },
+    {
+      "line_no": "91",
+      "meter": 126980
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714846,
+  "type": "TIMETABLE_POINT",
+  "name": "Wolsztyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 38858
+    },
+    {
+      "line_no": "357",
+      "meter": 38858
+    },
+    {
+      "line_no": "357",
+      "meter": 38858
+    },
+    {
+      "line_no": "357",
+      "meter": 38858
+    },
+    {
+      "line_no": "359",
+      "meter": 46089
+    },
+    {
+      "line_no": "359",
+      "meter": 46089
+    },
+    {
+      "line_no": "371",
+      "meter": 43
+    },
+    {
+      "line_no": "371",
+      "meter": 43
+    },
+    {
+      "line_no": "371",
+      "meter": 43
+    },
+    {
+      "line_no": "371",
+      "meter": 43
+    }
+  ]
+}

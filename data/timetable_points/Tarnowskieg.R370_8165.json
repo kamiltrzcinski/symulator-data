@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714149,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskieg.R370",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "127",
+      "meter": 35828
+    },
+    {
+      "line_no": "127",
+      "meter": 35871
+    },
+    {
+      "line_no": "129",
+      "meter": 35828
+    },
+    {
+      "line_no": "129",
+      "meter": 35828
+    },
+    {
+      "line_no": "129",
+      "meter": 35828
+    },
+    {
+      "line_no": "129",
+      "meter": 35828
+    },
+    {
+      "line_no": "856",
+      "meter": 35828
+    },
+    {
+      "line_no": "856",
+      "meter": 35828
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid": 3453153708763,
+  "type": "TIMETABLE_POINT",
+  "name": "Blachownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 127655
+    },
+    {
+      "line_no": "61",
+      "meter": 127655
+    },
+    {
+      "line_no": "61",
+      "meter": 127777
+    },
+    {
+      "line_no": "61",
+      "meter": 127777
+    },
+    {
+      "line_no": "61",
+      "meter": 127777
+    },
+    {
+      "line_no": "61",
+      "meter": 127777
+    },
+    {
+      "line_no": "61",
+      "meter": 127777
+    },
+    {
+      "line_no": "61",
+      "meter": 127777
+    },
+    {
+      "line_no": "61",
+      "meter": 128317
+    },
+    {
+      "line_no": "61",
+      "meter": 128317
+    }
+  ]
+}

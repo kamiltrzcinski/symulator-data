@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709989,
+  "type": "TIMETABLE_POINT",
+  "name": "Grab\u00f3w nad Pilic\u0105",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 62347
+    },
+    {
+      "line_no": "8",
+      "meter": 62347
+    },
+    {
+      "line_no": "8",
+      "meter": 62347
+    },
+    {
+      "line_no": "8",
+      "meter": 62347
+    },
+    {
+      "line_no": "8",
+      "meter": 62347
+    }
+  ]
+}

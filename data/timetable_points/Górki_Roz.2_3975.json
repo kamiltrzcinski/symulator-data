@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709959,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3rki Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 493904
+    },
+    {
+      "line_no": "131",
+      "meter": 493904
+    },
+    {
+      "line_no": "735",
+      "meter": -75
+    }
+  ]
+}

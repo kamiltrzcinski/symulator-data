@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709492,
+  "type": "TIMETABLE_POINT",
+  "name": "Dolna Grupa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 114733
+    },
+    {
+      "line_no": "208",
+      "meter": 114733
+    },
+    {
+      "line_no": "208",
+      "meter": 114733
+    },
+    {
+      "line_no": "208",
+      "meter": 114733
+    },
+    {
+      "line_no": "208",
+      "meter": 114733
+    }
+  ]
+}

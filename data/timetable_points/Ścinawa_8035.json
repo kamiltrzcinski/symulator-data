@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714019,
+  "type": "TIMETABLE_POINT",
+  "name": "\u015acinawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 58720
+    },
+    {
+      "line_no": "273",
+      "meter": 58720
+    },
+    {
+      "line_no": "273",
+      "meter": 58720
+    }
+  ]
+}

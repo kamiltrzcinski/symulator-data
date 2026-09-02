@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709588,
+  "type": "TIMETABLE_POINT",
+  "name": "E\u0142k Szyba Zach\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 154802
+    },
+    {
+      "line_no": "219",
+      "meter": 154802
+    },
+    {
+      "line_no": "219",
+      "meter": 154802
+    },
+    {
+      "line_no": "219",
+      "meter": 154876
+    }
+  ]
+}

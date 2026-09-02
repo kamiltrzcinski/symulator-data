@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711908,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0144sk Mazowiecki R45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 41131
+    },
+    {
+      "line_no": "2",
+      "meter": 41131
+    },
+    {
+      "line_no": "2",
+      "meter": 41131
+    },
+    {
+      "line_no": "2",
+      "meter": 41131
+    },
+    {
+      "line_no": "522",
+      "meter": 2205
+    }
+  ]
+}

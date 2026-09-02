@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714980,
+  "type": "TIMETABLE_POINT",
+  "name": "Wrze\u015bcie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 120915
+    },
+    {
+      "line_no": "229",
+      "meter": 120915
+    }
+  ]
+}

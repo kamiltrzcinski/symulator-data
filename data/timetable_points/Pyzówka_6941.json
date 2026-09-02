@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712925,
+  "type": "TIMETABLE_POINT",
+  "name": "Pyz\u00f3wka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "99",
+      "meter": 15052
+    },
+    {
+      "line_no": "99",
+      "meter": 15104
+    },
+    {
+      "line_no": "99",
+      "meter": 15104
+    },
+    {
+      "line_no": "99",
+      "meter": 15104
+    },
+    {
+      "line_no": "99",
+      "meter": 15104
+    }
+  ]
+}

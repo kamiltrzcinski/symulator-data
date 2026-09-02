@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711100,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzeni\u00f3w II",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "312",
+      "meter": 33915
+    },
+    {
+      "line_no": "312",
+      "meter": 33915
+    },
+    {
+      "line_no": "312",
+      "meter": 34200
+    }
+  ]
+}

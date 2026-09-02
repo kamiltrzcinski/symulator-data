@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713837,
+  "type": "TIMETABLE_POINT",
+  "name": "Szachy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 157414
+    },
+    {
+      "line_no": "2",
+      "meter": 157414
+    },
+    {
+      "line_no": "2",
+      "meter": 157414
+    },
+    {
+      "line_no": "2",
+      "meter": 157414
+    }
+  ]
+}

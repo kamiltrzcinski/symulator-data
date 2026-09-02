@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712503,
+  "type": "TIMETABLE_POINT",
+  "name": "Petrykozy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 92967
+    },
+    {
+      "line_no": "25",
+      "meter": 92967
+    },
+    {
+      "line_no": "25",
+      "meter": 92967
+    }
+  ]
+}

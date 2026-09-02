@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713359,
+  "type": "TIMETABLE_POINT",
+  "name": "Sierakowice Skierniewickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "11",
+      "meter": 7535
+    },
+    {
+      "line_no": "11",
+      "meter": 7535
+    },
+    {
+      "line_no": "11",
+      "meter": 7535
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713123,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Bielszowice R.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 13116
+    },
+    {
+      "line_no": "894",
+      "meter": -100
+    }
+  ]
+}

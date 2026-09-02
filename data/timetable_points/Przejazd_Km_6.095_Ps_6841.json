@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712825,
+  "type": "TIMETABLE_POINT",
+  "name": "Przejazd Km 6.095 Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 6095
+    },
+    {
+      "line_no": "4",
+      "meter": 6096
+    },
+    {
+      "line_no": "4",
+      "meter": 6096
+    },
+    {
+      "line_no": "4",
+      "meter": 6096
+    }
+  ]
+}

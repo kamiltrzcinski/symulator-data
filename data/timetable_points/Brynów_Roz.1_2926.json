@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708910,
+  "type": "TIMETABLE_POINT",
+  "name": "Bryn\u00f3w Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 2520
+    },
+    {
+      "line_no": "139",
+      "meter": 2520
+    },
+    {
+      "line_no": "656",
+      "meter": 3005
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708664,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142y Zdr\u00f3j P\u00f3\u0142nocny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 98920
+    },
+    {
+      "line_no": "410",
+      "meter": 98920
+    },
+    {
+      "line_no": "410",
+      "meter": 98920
+    }
+  ]
+}

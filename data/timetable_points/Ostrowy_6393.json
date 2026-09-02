@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712377,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostrowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 13658
+    },
+    {
+      "line_no": "18",
+      "meter": 13658
+    },
+    {
+      "line_no": "18",
+      "meter": 13658
+    }
+  ]
+}

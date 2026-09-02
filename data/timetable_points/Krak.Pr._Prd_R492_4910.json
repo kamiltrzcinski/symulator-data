@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710894,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak.Pr. Prd R492",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "603",
+      "meter": 2087
+    },
+    {
+      "line_no": "603",
+      "meter": 2087
+    },
+    {
+      "line_no": "603",
+      "meter": 2087
+    },
+    {
+      "line_no": "603",
+      "meter": 2087
+    },
+    {
+      "line_no": "945",
+      "meter": 0
+    },
+    {
+      "line_no": "945",
+      "meter": 0
+    }
+  ]
+}

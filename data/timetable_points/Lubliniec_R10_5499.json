@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711483,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubliniec R10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 18457
+    },
+    {
+      "line_no": "143",
+      "meter": 18457
+    },
+    {
+      "line_no": "143",
+      "meter": 18457
+    },
+    {
+      "line_no": "152",
+      "meter": 40417
+    },
+    {
+      "line_no": "152",
+      "meter": 40417
+    },
+    {
+      "line_no": "152",
+      "meter": 40417
+    }
+  ]
+}

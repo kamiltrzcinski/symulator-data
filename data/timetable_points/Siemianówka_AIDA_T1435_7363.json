@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713347,
+  "type": "TIMETABLE_POINT",
+  "name": "Siemian\u00f3wka AIDA T1435",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 144635
+    },
+    {
+      "line_no": "31",
+      "meter": 144635
+    },
+    {
+      "line_no": "31",
+      "meter": 144635
+    },
+    {
+      "line_no": "31",
+      "meter": 144635
+    }
+  ]
+}

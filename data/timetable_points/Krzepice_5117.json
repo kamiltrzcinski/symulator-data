@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711101,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzepice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 27687
+    },
+    {
+      "line_no": "181",
+      "meter": 27687
+    },
+    {
+      "line_no": "181",
+      "meter": 27687
+    }
+  ]
+}

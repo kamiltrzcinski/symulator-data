@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709112,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Batory  R.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "651",
+      "meter": 3547
+    },
+    {
+      "line_no": "713",
+      "meter": 3768
+    }
+  ]
+}

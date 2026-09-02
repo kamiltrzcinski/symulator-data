@@ -1,0 +1,72 @@
+{
+  "uid": 3453153709981,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabiszyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 2048
+    },
+    {
+      "line_no": "271",
+      "meter": 2048
+    },
+    {
+      "line_no": "271",
+      "meter": 2048
+    },
+    {
+      "line_no": "271",
+      "meter": 2048
+    },
+    {
+      "line_no": "271",
+      "meter": 2048
+    },
+    {
+      "line_no": "273",
+      "meter": 2048
+    },
+    {
+      "line_no": "273",
+      "meter": 2048
+    },
+    {
+      "line_no": "273",
+      "meter": 2048
+    },
+    {
+      "line_no": "753",
+      "meter": 1
+    },
+    {
+      "line_no": "753",
+      "meter": 1
+    },
+    {
+      "line_no": "753",
+      "meter": 123
+    },
+    {
+      "line_no": "761",
+      "meter": 0
+    },
+    {
+      "line_no": "761",
+      "meter": 0
+    },
+    {
+      "line_no": "761",
+      "meter": 0
+    },
+    {
+      "line_no": "761",
+      "meter": 0
+    },
+    {
+      "line_no": "761",
+      "meter": 0
+    }
+  ]
+}

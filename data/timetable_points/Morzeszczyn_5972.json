@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711956,
+  "type": "TIMETABLE_POINT",
+  "name": "Morzeszczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 467340
+    },
+    {
+      "line_no": "131",
+      "meter": 467340
+    },
+    {
+      "line_no": "131",
+      "meter": 467340
+    },
+    {
+      "line_no": "244",
+      "meter": 0
+    },
+    {
+      "line_no": "244",
+      "meter": 0
+    },
+    {
+      "line_no": "244",
+      "meter": 0
+    }
+  ]
+}

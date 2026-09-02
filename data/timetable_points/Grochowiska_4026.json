@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710010,
+  "type": "TIMETABLE_POINT",
+  "name": "Grochowiska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 38645
+    },
+    {
+      "line_no": "73",
+      "meter": 38645
+    },
+    {
+      "line_no": "73",
+      "meter": 38645
+    },
+    {
+      "line_no": "73",
+      "meter": 38682
+    },
+    {
+      "line_no": "73",
+      "meter": 38682
+    }
+  ]
+}

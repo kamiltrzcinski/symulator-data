@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714401,
+  "type": "TIMETABLE_POINT",
+  "name": "Warkocz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 31998
+    },
+    {
+      "line_no": "276",
+      "meter": 31998
+    }
+  ]
+}

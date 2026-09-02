@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711976,
+  "type": "TIMETABLE_POINT",
+  "name": "Mo\u015bcisko Dzier\u017coniowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 215552
+    },
+    {
+      "line_no": "137",
+      "meter": 215552
+    },
+    {
+      "line_no": "137",
+      "meter": 215552
+    }
+  ]
+}

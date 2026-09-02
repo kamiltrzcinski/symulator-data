@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712244,
+  "type": "TIMETABLE_POINT",
+  "name": "Olecko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "39",
+      "meter": 644
+    },
+    {
+      "line_no": "39",
+      "meter": 644
+    },
+    {
+      "line_no": "39",
+      "meter": 644
+    },
+    {
+      "line_no": "41",
+      "meter": 27486
+    },
+    {
+      "line_no": "41",
+      "meter": 27486
+    },
+    {
+      "line_no": "41",
+      "meter": 27486
+    },
+    {
+      "line_no": "41",
+      "meter": 27486
+    },
+    {
+      "line_no": "41",
+      "meter": 27486
+    }
+  ]
+}

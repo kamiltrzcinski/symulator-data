@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712180,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy S\u0105cz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 88190
+    },
+    {
+      "line_no": "96",
+      "meter": 88190
+    },
+    {
+      "line_no": "96",
+      "meter": 88190
+    },
+    {
+      "line_no": "104",
+      "meter": 73891
+    },
+    {
+      "line_no": "104",
+      "meter": 76651
+    },
+    {
+      "line_no": "104",
+      "meter": 76651
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "uid": 3453153710519,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Muchowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 35280
+    },
+    {
+      "line_no": "171",
+      "meter": 35280
+    },
+    {
+      "line_no": "171",
+      "meter": 35280
+    },
+    {
+      "line_no": "171",
+      "meter": 35280
+    },
+    {
+      "line_no": "171",
+      "meter": 35280
+    },
+    {
+      "line_no": "652",
+      "meter": 0
+    },
+    {
+      "line_no": "652",
+      "meter": 1
+    },
+    {
+      "line_no": "652",
+      "meter": 1
+    },
+    {
+      "line_no": "652",
+      "meter": 1
+    },
+    {
+      "line_no": "652",
+      "meter": 1
+    },
+    {
+      "line_no": "652",
+      "meter": 1
+    },
+    {
+      "line_no": "653",
+      "meter": 0
+    },
+    {
+      "line_no": "653",
+      "meter": 1
+    },
+    {
+      "line_no": "653",
+      "meter": 1
+    },
+    {
+      "line_no": "653",
+      "meter": 1
+    },
+    {
+      "line_no": "653",
+      "meter": 1
+    },
+    {
+      "line_no": "655",
+      "meter": 7050
+    },
+    {
+      "line_no": "655",
+      "meter": 7050
+    },
+    {
+      "line_no": "655",
+      "meter": 7050
+    },
+    {
+      "line_no": "655",
+      "meter": 7050
+    },
+    {
+      "line_no": "657",
+      "meter": 7342
+    },
+    {
+      "line_no": "657",
+      "meter": 7342
+    },
+    {
+      "line_no": "657",
+      "meter": 7342
+    },
+    {
+      "line_no": "657",
+      "meter": 7342
+    },
+    {
+      "line_no": "657",
+      "meter": 7342
+    },
+    {
+      "line_no": "657",
+      "meter": 7342
+    },
+    {
+      "line_no": "706",
+      "meter": 1
+    },
+    {
+      "line_no": "706",
+      "meter": 1
+    },
+    {
+      "line_no": "706",
+      "meter": 1
+    },
+    {
+      "line_no": "706",
+      "meter": 1
+    },
+    {
+      "line_no": "707",
+      "meter": -2520
+    },
+    {
+      "line_no": "707",
+      "meter": -2520
+    },
+    {
+      "line_no": "707",
+      "meter": -2520
+    },
+    {
+      "line_no": "707",
+      "meter": -2520
+    },
+    {
+      "line_no": "707",
+      "meter": -2520
+    }
+  ]
+}

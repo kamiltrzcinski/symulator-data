@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712760,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Staro\u0142.Roz.67",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "801",
+      "meter": 123
+    },
+    {
+      "line_no": "802",
+      "meter": 0
+    },
+    {
+      "line_no": "802",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709799,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice Roz.581",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "200",
+      "meter": 2520
+    },
+    {
+      "line_no": "200",
+      "meter": 2557
+    },
+    {
+      "line_no": "200",
+      "meter": 3208
+    },
+    {
+      "line_no": "711",
+      "meter": 2035
+    },
+    {
+      "line_no": "711",
+      "meter": 2048
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715296,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017bakowice Po\u0142udniowe R7",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "535",
+      "meter": 0
+    },
+    {
+      "line_no": "537",
+      "meter": 1599
+    }
+  ]
+}

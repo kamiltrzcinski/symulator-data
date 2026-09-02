@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713143,
+  "type": "TIMETABLE_POINT",
+  "name": "Rudna Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 74469
+    },
+    {
+      "line_no": "273",
+      "meter": 74469
+    },
+    {
+      "line_no": "273",
+      "meter": 74621
+    },
+    {
+      "line_no": "289",
+      "meter": 36235
+    },
+    {
+      "line_no": "289",
+      "meter": 36235
+    },
+    {
+      "line_no": "289",
+      "meter": 36235
+    },
+    {
+      "line_no": "289",
+      "meter": 36298
+    }
+  ]
+}

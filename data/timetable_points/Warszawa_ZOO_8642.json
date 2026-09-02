@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714626,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa ZOO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 12200
+    },
+    {
+      "line_no": "20",
+      "meter": 12200
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714529,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Rakowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 8032
+    },
+    {
+      "line_no": "8",
+      "meter": 8032
+    },
+    {
+      "line_no": "8",
+      "meter": 8032
+    },
+    {
+      "line_no": "8",
+      "meter": 8032
+    }
+  ]
+}

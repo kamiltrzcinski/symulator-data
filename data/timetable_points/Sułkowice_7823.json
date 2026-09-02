@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713807,
+  "type": "TIMETABLE_POINT",
+  "name": "Su\u0142kowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 40260
+    },
+    {
+      "line_no": "8",
+      "meter": 40260
+    },
+    {
+      "line_no": "8",
+      "meter": 40293
+    },
+    {
+      "line_no": "8",
+      "meter": 40293
+    },
+    {
+      "line_no": "8",
+      "meter": 40512
+    }
+  ]
+}

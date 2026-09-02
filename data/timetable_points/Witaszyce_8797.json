@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714781,
+  "type": "TIMETABLE_POINT",
+  "name": "Witaszyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 126991
+    },
+    {
+      "line_no": "272",
+      "meter": 126991
+    }
+  ]
+}

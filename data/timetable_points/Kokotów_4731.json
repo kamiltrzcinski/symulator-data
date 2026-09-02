@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710715,
+  "type": "TIMETABLE_POINT",
+  "name": "Kokot\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 11295
+    },
+    {
+      "line_no": "91",
+      "meter": 11295
+    },
+    {
+      "line_no": "91",
+      "meter": 11295
+    },
+    {
+      "line_no": "91",
+      "meter": 11300
+    },
+    {
+      "line_no": "91",
+      "meter": 11300
+    },
+    {
+      "line_no": "91",
+      "meter": 11300
+    }
+  ]
+}

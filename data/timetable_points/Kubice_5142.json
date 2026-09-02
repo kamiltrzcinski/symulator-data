@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711126,
+  "type": "TIMETABLE_POINT",
+  "name": "Kubice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 40600
+    },
+    {
+      "line_no": "287",
+      "meter": 40600
+    },
+    {
+      "line_no": "287",
+      "meter": 40600
+    }
+  ]
+}

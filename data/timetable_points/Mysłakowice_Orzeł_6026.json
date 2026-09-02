@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712010,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142akowice Orze\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "340",
+      "meter": 1051
+    },
+    {
+      "line_no": "340",
+      "meter": 1176
+    }
+  ]
+}

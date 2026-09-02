@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713990,
+  "type": "TIMETABLE_POINT",
+  "name": "Szobiszowice R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 28763
+    },
+    {
+      "line_no": "675",
+      "meter": 0
+    },
+    {
+      "line_no": "675",
+      "meter": 0
+    },
+    {
+      "line_no": "675",
+      "meter": 0
+    },
+    {
+      "line_no": "675",
+      "meter": 0
+    }
+  ]
+}

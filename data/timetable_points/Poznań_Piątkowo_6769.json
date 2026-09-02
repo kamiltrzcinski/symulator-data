@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712753,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Pi\u0105tkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "395",
+      "meter": 14670
+    },
+    {
+      "line_no": "395",
+      "meter": 14670
+    },
+    {
+      "line_no": "395",
+      "meter": 14670
+    },
+    {
+      "line_no": "395",
+      "meter": 14670
+    },
+    {
+      "line_no": "395",
+      "meter": 14670
+    },
+    {
+      "line_no": "803",
+      "meter": 0
+    },
+    {
+      "line_no": "803",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709615,
+  "type": "TIMETABLE_POINT",
+  "name": "Gaj Podg R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 10066
+    },
+    {
+      "line_no": "91",
+      "meter": 10066
+    },
+    {
+      "line_no": "100",
+      "meter": 19087
+    }
+  ]
+}

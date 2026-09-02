@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712688,
+  "type": "TIMETABLE_POINT",
+  "name": "Po\u0142aniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "75",
+      "meter": 16492
+    },
+    {
+      "line_no": "75",
+      "meter": 16492
+    },
+    {
+      "line_no": "75",
+      "meter": 16492
+    }
+  ]
+}

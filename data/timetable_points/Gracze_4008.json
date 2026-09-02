@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709992,
+  "type": "TIMETABLE_POINT",
+  "name": "Gracze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "329",
+      "meter": 14549
+    },
+    {
+      "line_no": "329",
+      "meter": 14549
+    },
+    {
+      "line_no": "329",
+      "meter": 14549
+    }
+  ]
+}

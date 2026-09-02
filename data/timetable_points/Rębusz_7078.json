@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713062,
+  "type": "TIMETABLE_POINT",
+  "name": "R\u0119busz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 120828
+    },
+    {
+      "line_no": "351",
+      "meter": 120828
+    },
+    {
+      "line_no": "351",
+      "meter": 120828
+    },
+    {
+      "line_no": "351",
+      "meter": 120828
+    },
+    {
+      "line_no": "351",
+      "meter": 120828
+    },
+    {
+      "line_no": "351",
+      "meter": 120987
+    }
+  ]
+}

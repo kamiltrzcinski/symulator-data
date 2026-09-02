@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712430,
+  "type": "TIMETABLE_POINT",
+  "name": "O\u017car\u00f3w Mazowiecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 15384
+    },
+    {
+      "line_no": "3",
+      "meter": 15384
+    },
+    {
+      "line_no": "3",
+      "meter": 15384
+    },
+    {
+      "line_no": "3",
+      "meter": 15384
+    }
+  ]
+}

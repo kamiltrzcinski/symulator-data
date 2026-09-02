@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712065,
+  "type": "TIMETABLE_POINT",
+  "name": "Nekla",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 268280
+    },
+    {
+      "line_no": "3",
+      "meter": 268403
+    },
+    {
+      "line_no": "3",
+      "meter": 268403
+    },
+    {
+      "line_no": "3",
+      "meter": 269484
+    },
+    {
+      "line_no": "3",
+      "meter": 269484
+    }
+  ]
+}

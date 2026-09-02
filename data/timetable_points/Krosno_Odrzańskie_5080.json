@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711064,
+  "type": "TIMETABLE_POINT",
+  "name": "Krosno Odrza\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 66386
+    },
+    {
+      "line_no": "358",
+      "meter": 66386
+    },
+    {
+      "line_no": "358",
+      "meter": 66386
+    },
+    {
+      "line_no": "358",
+      "meter": 66386
+    },
+    {
+      "line_no": "358",
+      "meter": 66386
+    },
+    {
+      "line_no": "358",
+      "meter": 66386
+    }
+  ]
+}

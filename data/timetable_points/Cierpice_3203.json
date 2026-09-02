@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709187,
+  "type": "TIMETABLE_POINT",
+  "name": "Cierpice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 119304
+    },
+    {
+      "line_no": "18",
+      "meter": 119304
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710508,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice M. Kma R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "655",
+      "meter": 6996
+    },
+    {
+      "line_no": "655",
+      "meter": 6996
+    },
+    {
+      "line_no": "707",
+      "meter": -2818
+    },
+    {
+      "line_no": "707",
+      "meter": -2818
+    }
+  ]
+}

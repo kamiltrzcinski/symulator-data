@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709860,
+  "type": "TIMETABLE_POINT",
+  "name": "Gocza\u0142k\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 251830
+    },
+    {
+      "line_no": "137",
+      "meter": 251962
+    }
+  ]
+}

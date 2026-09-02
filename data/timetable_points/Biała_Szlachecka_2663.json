@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708647,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142a Szlachecka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "146",
+      "meter": 39524
+    },
+    {
+      "line_no": "146",
+      "meter": 39525
+    },
+    {
+      "line_no": "146",
+      "meter": 39525
+    }
+  ]
+}

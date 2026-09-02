@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711347,
+  "type": "TIMETABLE_POINT",
+  "name": "Lewin Brzeski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 124370
+    },
+    {
+      "line_no": "132",
+      "meter": 124370
+    },
+    {
+      "line_no": "132",
+      "meter": 124715
+    },
+    {
+      "line_no": "132",
+      "meter": 124715
+    },
+    {
+      "line_no": "132",
+      "meter": 124715
+    },
+    {
+      "line_no": "132",
+      "meter": 124715
+    }
+  ]
+}

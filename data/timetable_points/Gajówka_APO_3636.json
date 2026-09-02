@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709620,
+  "type": "TIMETABLE_POINT",
+  "name": "Gaj\u00f3wka APO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 13755
+    }
+  ]
+}

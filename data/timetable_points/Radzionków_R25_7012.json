@@ -1,0 +1,48 @@
+{
+  "uid": 3453153712996,
+  "type": "TIMETABLE_POINT",
+  "name": "Radzionk\u00f3w R25",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "127",
+      "meter": 27835
+    },
+    {
+      "line_no": "127",
+      "meter": 27911
+    },
+    {
+      "line_no": "127",
+      "meter": 27911
+    },
+    {
+      "line_no": "127",
+      "meter": 27911
+    },
+    {
+      "line_no": "127",
+      "meter": 27911
+    },
+    {
+      "line_no": "127",
+      "meter": 27911
+    },
+    {
+      "line_no": "145",
+      "meter": 17955
+    },
+    {
+      "line_no": "145",
+      "meter": 18033
+    },
+    {
+      "line_no": "145",
+      "meter": 18033
+    },
+    {
+      "line_no": "145",
+      "meter": 18033
+    }
+  ]
+}

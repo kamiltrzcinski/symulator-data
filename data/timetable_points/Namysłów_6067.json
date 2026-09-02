@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712051,
+  "type": "TIMETABLE_POINT",
+  "name": "Namys\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 106465
+    },
+    {
+      "line_no": "143",
+      "meter": 106465
+    },
+    {
+      "line_no": "143",
+      "meter": 106465
+    },
+    {
+      "line_no": "301",
+      "meter": 59939
+    },
+    {
+      "line_no": "301",
+      "meter": 59939
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714381,
+  "type": "TIMETABLE_POINT",
+  "name": "Wa\u0142brzych Szczawienko PEC SA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "869",
+      "meter": 2184
+    },
+    {
+      "line_no": "869",
+      "meter": 2184
+    },
+    {
+      "line_no": "869",
+      "meter": 2184
+    }
+  ]
+}

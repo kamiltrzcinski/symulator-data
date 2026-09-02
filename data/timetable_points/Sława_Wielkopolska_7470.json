@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713454,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0142awa Wielkopolska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 30103
+    },
+    {
+      "line_no": "377",
+      "meter": 39270
+    },
+    {
+      "line_no": "377",
+      "meter": 39270
+    }
+  ]
+}

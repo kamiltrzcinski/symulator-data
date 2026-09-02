@@ -1,0 +1,60 @@
+{
+  "uid": 3453153709097,
+  "type": "TIMETABLE_POINT",
+  "name": "Chojnice R47",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 200293
+    },
+    {
+      "line_no": "208",
+      "meter": 200293
+    },
+    {
+      "line_no": "208",
+      "meter": 200293
+    },
+    {
+      "line_no": "208",
+      "meter": 200300
+    },
+    {
+      "line_no": "208",
+      "meter": 200300
+    },
+    {
+      "line_no": "208",
+      "meter": 200378
+    },
+    {
+      "line_no": "208",
+      "meter": 200378
+    },
+    {
+      "line_no": "210",
+      "meter": -604
+    },
+    {
+      "line_no": "210",
+      "meter": -604
+    },
+    {
+      "line_no": "210",
+      "meter": -519
+    },
+    {
+      "line_no": "281",
+      "meter": 311015
+    },
+    {
+      "line_no": "281",
+      "meter": 311032
+    },
+    {
+      "line_no": "281",
+      "meter": 311032
+    }
+  ]
+}

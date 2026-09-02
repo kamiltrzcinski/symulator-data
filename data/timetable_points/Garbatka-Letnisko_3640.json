@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709624,
+  "type": "TIMETABLE_POINT",
+  "name": "Garbatka-Letnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 81985
+    },
+    {
+      "line_no": "26",
+      "meter": 81985
+    },
+    {
+      "line_no": "26",
+      "meter": 81985
+    },
+    {
+      "line_no": "26",
+      "meter": 81985
+    },
+    {
+      "line_no": "26",
+      "meter": 81985
+    },
+    {
+      "line_no": "26",
+      "meter": 81985
+    },
+    {
+      "line_no": "577",
+      "meter": 0
+    },
+    {
+      "line_no": "577",
+      "meter": 0
+    },
+    {
+      "line_no": "577",
+      "meter": 0
+    },
+    {
+      "line_no": "577",
+      "meter": 0
+    },
+    {
+      "line_no": "577",
+      "meter": 0
+    },
+    {
+      "line_no": "578",
+      "meter": 0
+    },
+    {
+      "line_no": "578",
+      "meter": 0
+    },
+    {
+      "line_no": "578",
+      "meter": 0
+    },
+    {
+      "line_no": "578",
+      "meter": 0
+    }
+  ]
+}

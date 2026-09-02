@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711739,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142kowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "119",
+      "meter": 2524
+    },
+    {
+      "line_no": "125",
+      "meter": 2664
+    }
+  ]
+}

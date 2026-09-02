@@ -1,0 +1,44 @@
+{
+  "uid": 3453153711726,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142aszewicze Centralne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "865",
+      "meter": 198539
+    },
+    {
+      "line_no": "865",
+      "meter": 198539
+    },
+    {
+      "line_no": "865",
+      "meter": 200900
+    },
+    {
+      "line_no": "865",
+      "meter": 200900
+    },
+    {
+      "line_no": "865",
+      "meter": 200900
+    },
+    {
+      "line_no": "867",
+      "meter": 200900
+    },
+    {
+      "line_no": "867",
+      "meter": 200900
+    },
+    {
+      "line_no": "867",
+      "meter": 201984
+    },
+    {
+      "line_no": "867",
+      "meter": 201984
+    }
+  ]
+}

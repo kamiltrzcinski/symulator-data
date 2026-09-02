@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712787,
+  "type": "TIMETABLE_POINT",
+  "name": "Prosty\u0144 Bug PZS R11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 84943
+    },
+    {
+      "line_no": "6",
+      "meter": 84943
+    },
+    {
+      "line_no": "6",
+      "meter": 84943
+    },
+    {
+      "line_no": "6",
+      "meter": 84943
+    },
+    {
+      "line_no": "6",
+      "meter": 84943
+    }
+  ]
+}

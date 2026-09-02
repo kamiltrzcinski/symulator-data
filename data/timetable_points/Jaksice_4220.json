@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710204,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaksice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 331651
+    },
+    {
+      "line_no": "131",
+      "meter": 331651
+    },
+    {
+      "line_no": "741",
+      "meter": 8198
+    }
+  ]
+}

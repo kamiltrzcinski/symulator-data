@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709105,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorzele",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "35",
+      "meter": 56083
+    },
+    {
+      "line_no": "35",
+      "meter": 56373
+    },
+    {
+      "line_no": "35",
+      "meter": 56373
+    },
+    {
+      "line_no": "35",
+      "meter": 56373
+    },
+    {
+      "line_no": "35",
+      "meter": 56373
+    }
+  ]
+}

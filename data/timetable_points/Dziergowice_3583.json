@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709567,
+  "type": "TIMETABLE_POINT",
+  "name": "Dziergowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "151",
+      "meter": 13240
+    },
+    {
+      "line_no": "151",
+      "meter": 13240
+    },
+    {
+      "line_no": "151",
+      "meter": 13240
+    },
+    {
+      "line_no": "151",
+      "meter": 13240
+    },
+    {
+      "line_no": "151",
+      "meter": 13240
+    }
+  ]
+}

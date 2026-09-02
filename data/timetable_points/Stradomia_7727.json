@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713711,
+  "type": "TIMETABLE_POINT",
+  "name": "Stradomia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 128935
+    },
+    {
+      "line_no": "181",
+      "meter": 128935
+    },
+    {
+      "line_no": "181",
+      "meter": 128935
+    }
+  ]
+}

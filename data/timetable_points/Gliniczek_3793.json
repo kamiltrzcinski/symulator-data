@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709777,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliniczek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 51164
+    },
+    {
+      "line_no": "108",
+      "meter": 51164
+    },
+    {
+      "line_no": "108",
+      "meter": 51164
+    },
+    {
+      "line_no": "108",
+      "meter": 51172
+    },
+    {
+      "line_no": "108",
+      "meter": 51172
+    }
+  ]
+}

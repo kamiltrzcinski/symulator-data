@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712278,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn Kortowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 78200
+    },
+    {
+      "line_no": "216",
+      "meter": 78266
+    },
+    {
+      "line_no": "216",
+      "meter": 78266
+    },
+    {
+      "line_no": "353",
+      "meter": 293805
+    },
+    {
+      "line_no": "353",
+      "meter": 293805
+    },
+    {
+      "line_no": "353",
+      "meter": 293873
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709051,
+  "type": "TIMETABLE_POINT",
+  "name": "Charzewice Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 100442
+    },
+    {
+      "line_no": "68",
+      "meter": 100442
+    },
+    {
+      "line_no": "68",
+      "meter": 100442
+    },
+    {
+      "line_no": "68",
+      "meter": 100442
+    },
+    {
+      "line_no": "565",
+      "meter": 0
+    },
+    {
+      "line_no": "565",
+      "meter": 0
+    }
+  ]
+}

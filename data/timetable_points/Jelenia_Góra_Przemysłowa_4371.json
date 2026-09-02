@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710355,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenia G\u00f3ra Przemys\u0142owa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 2852
+    }
+  ]
+}

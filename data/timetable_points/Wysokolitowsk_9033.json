@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715017,
+  "type": "TIMETABLE_POINT",
+  "name": "Wysokolitowsk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "463",
+      "meter": 10000
+    },
+    {
+      "line_no": "463",
+      "meter": 10000
+    },
+    {
+      "line_no": "463",
+      "meter": 532796
+    }
+  ]
+}

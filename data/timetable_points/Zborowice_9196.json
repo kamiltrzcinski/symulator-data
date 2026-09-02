@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715180,
+  "type": "TIMETABLE_POINT",
+  "name": "Zborowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 40738
+    },
+    {
+      "line_no": "96",
+      "meter": 40738
+    },
+    {
+      "line_no": "96",
+      "meter": 40738
+    }
+  ]
+}

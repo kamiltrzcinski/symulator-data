@@ -1,0 +1,92 @@
+{
+  "uid": 3453153710971,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 21100
+    },
+    {
+      "line_no": "95",
+      "meter": 21630
+    },
+    {
+      "line_no": "95",
+      "meter": 21630
+    },
+    {
+      "line_no": "95",
+      "meter": 21630
+    },
+    {
+      "line_no": "95",
+      "meter": 21630
+    },
+    {
+      "line_no": "95",
+      "meter": 21630
+    },
+    {
+      "line_no": "95",
+      "meter": 21630
+    },
+    {
+      "line_no": "940",
+      "meter": 1308
+    },
+    {
+      "line_no": "940",
+      "meter": 1308
+    },
+    {
+      "line_no": "941",
+      "meter": 2786
+    },
+    {
+      "line_no": "941",
+      "meter": 2786
+    },
+    {
+      "line_no": "942",
+      "meter": 1100
+    },
+    {
+      "line_no": "942",
+      "meter": 1100
+    },
+    {
+      "line_no": "942",
+      "meter": 1100
+    },
+    {
+      "line_no": "942",
+      "meter": 1340
+    },
+    {
+      "line_no": "943",
+      "meter": 1000
+    },
+    {
+      "line_no": "943",
+      "meter": 1000
+    },
+    {
+      "line_no": "943",
+      "meter": 1000
+    },
+    {
+      "line_no": "944",
+      "meter": 2000
+    },
+    {
+      "line_no": "944",
+      "meter": 2000
+    },
+    {
+      "line_no": "944",
+      "meter": 2000
+    }
+  ]
+}

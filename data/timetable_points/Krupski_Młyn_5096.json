@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711080,
+  "type": "TIMETABLE_POINT",
+  "name": "Krupski M\u0142yn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "152",
+      "meter": 24650
+    },
+    {
+      "line_no": "152",
+      "meter": 24650
+    },
+    {
+      "line_no": "152",
+      "meter": 24650
+    },
+    {
+      "line_no": "152",
+      "meter": 24650
+    },
+    {
+      "line_no": "152",
+      "meter": 24650
+    },
+    {
+      "line_no": "684",
+      "meter": 1714
+    },
+    {
+      "line_no": "684",
+      "meter": 1714
+    }
+  ]
+}

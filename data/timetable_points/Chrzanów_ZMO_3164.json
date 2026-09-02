@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709148,
+  "type": "TIMETABLE_POINT",
+  "name": "Chrzan\u00f3w ZMO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "126",
+      "meter": 3514
+    },
+    {
+      "line_no": "126",
+      "meter": 3514
+    }
+  ]
+}

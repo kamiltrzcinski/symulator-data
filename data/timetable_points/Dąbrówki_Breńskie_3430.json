@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709414,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105br\u00f3wki Bre\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "115",
+      "meter": 34382
+    },
+    {
+      "line_no": "115",
+      "meter": 34382
+    },
+    {
+      "line_no": "115",
+      "meter": 34382
+    }
+  ]
+}

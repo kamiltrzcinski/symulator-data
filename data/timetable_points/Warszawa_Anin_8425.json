@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714409,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Anin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 13928
+    },
+    {
+      "line_no": "7",
+      "meter": 13928
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714140,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry TGC odg 131-954",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 36800
+    },
+    {
+      "line_no": "954",
+      "meter": 10
+    }
+  ]
+}

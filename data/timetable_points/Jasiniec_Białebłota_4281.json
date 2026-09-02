@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710265,
+  "type": "TIMETABLE_POINT",
+  "name": "Jasiniec Bia\u0142eb\u0142ota",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 118763
+    },
+    {
+      "line_no": "356",
+      "meter": 118763
+    }
+  ]
+}

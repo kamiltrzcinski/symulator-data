@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711890,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0142kowice Roz.56",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": -412
+    },
+    {
+      "line_no": "296",
+      "meter": 12685
+    }
+  ]
+}

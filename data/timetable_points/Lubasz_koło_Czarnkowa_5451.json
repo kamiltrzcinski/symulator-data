@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711435,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubasz ko\u0142o Czarnkowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "236",
+      "meter": 131311
+    },
+    {
+      "line_no": "236",
+      "meter": 131311
+    }
+  ]
+}

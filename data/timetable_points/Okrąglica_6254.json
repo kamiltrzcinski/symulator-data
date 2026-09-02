@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712238,
+  "type": "TIMETABLE_POINT",
+  "name": "Okr\u0105glica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 79362
+    },
+    {
+      "line_no": "282",
+      "meter": 79362
+    }
+  ]
+}

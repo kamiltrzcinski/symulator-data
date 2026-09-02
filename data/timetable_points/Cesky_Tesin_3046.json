@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709030,
+  "type": "TIMETABLE_POINT",
+  "name": "Cesky Tesin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "480",
+      "meter": 138091
+    },
+    {
+      "line_no": "480",
+      "meter": 138165
+    },
+    {
+      "line_no": "480",
+      "meter": 138165
+    },
+    {
+      "line_no": "591",
+      "meter": 319255
+    },
+    {
+      "line_no": "591",
+      "meter": 319339
+    },
+    {
+      "line_no": "591",
+      "meter": 319339
+    }
+  ]
+}

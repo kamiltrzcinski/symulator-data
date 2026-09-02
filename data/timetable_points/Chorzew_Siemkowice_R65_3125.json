@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709109,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorzew Siemkowice R65",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 124915
+    },
+    {
+      "line_no": "131",
+      "meter": 124925
+    },
+    {
+      "line_no": "131",
+      "meter": 124925
+    },
+    {
+      "line_no": "146",
+      "meter": 49134
+    },
+    {
+      "line_no": "146",
+      "meter": 49145
+    },
+    {
+      "line_no": "146",
+      "meter": 49145
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710479,
+  "type": "TIMETABLE_POINT",
+  "name": "Karnkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 114815
+    },
+    {
+      "line_no": "27",
+      "meter": 114815
+    }
+  ]
+}

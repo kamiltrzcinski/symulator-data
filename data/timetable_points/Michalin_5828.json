@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711812,
+  "type": "TIMETABLE_POINT",
+  "name": "Michalin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 22131
+    },
+    {
+      "line_no": "7",
+      "meter": 22390
+    },
+    {
+      "line_no": "7",
+      "meter": 22390
+    }
+  ]
+}

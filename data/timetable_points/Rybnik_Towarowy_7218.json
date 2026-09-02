@@ -1,0 +1,68 @@
+{
+  "uid": 3453153713202,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 43383
+    },
+    {
+      "line_no": "140",
+      "meter": 43383
+    },
+    {
+      "line_no": "158",
+      "meter": 0
+    },
+    {
+      "line_no": "158",
+      "meter": 0
+    },
+    {
+      "line_no": "158",
+      "meter": 0
+    },
+    {
+      "line_no": "158",
+      "meter": 0
+    },
+    {
+      "line_no": "688",
+      "meter": 0
+    },
+    {
+      "line_no": "688",
+      "meter": 0
+    },
+    {
+      "line_no": "862",
+      "meter": -46
+    },
+    {
+      "line_no": "957",
+      "meter": 4065
+    },
+    {
+      "line_no": "957",
+      "meter": 4065
+    },
+    {
+      "line_no": "958",
+      "meter": 200
+    },
+    {
+      "line_no": "958",
+      "meter": 200
+    },
+    {
+      "line_no": "958",
+      "meter": 200
+    },
+    {
+      "line_no": "959",
+      "meter": 1000
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710138,
+  "type": "TIMETABLE_POINT",
+  "name": "Huta Krzeszowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 40300
+    },
+    {
+      "line_no": "66",
+      "meter": 40300
+    },
+    {
+      "line_no": "66",
+      "meter": 40300
+    },
+    {
+      "line_no": "66",
+      "meter": 40300
+    },
+    {
+      "line_no": "66",
+      "meter": 40300
+    }
+  ]
+}

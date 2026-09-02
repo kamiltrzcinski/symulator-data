@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713212,
+  "type": "TIMETABLE_POINT",
+  "name": "Rychnowo Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 156975
+    },
+    {
+      "line_no": "353",
+      "meter": 156975
+    }
+  ]
+}

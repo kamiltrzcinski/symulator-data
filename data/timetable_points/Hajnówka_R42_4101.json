@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710085,
+  "type": "TIMETABLE_POINT",
+  "name": "Hajn\u00f3wka R42",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "52",
+      "meter": 25562
+    },
+    {
+      "line_no": "858",
+      "meter": 120390
+    }
+  ]
+}

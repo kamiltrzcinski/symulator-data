@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714825,
+  "type": "TIMETABLE_POINT",
+  "name": "Wola Baranowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "79",
+      "meter": 2812
+    },
+    {
+      "line_no": "79",
+      "meter": 2812
+    },
+    {
+      "line_no": "79",
+      "meter": 2812
+    }
+  ]
+}

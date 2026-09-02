@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712362,
+  "type": "TIMETABLE_POINT",
+  "name": "Osowiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 57232
+    },
+    {
+      "line_no": "38",
+      "meter": 57232
+    },
+    {
+      "line_no": "38",
+      "meter": 57232
+    },
+    {
+      "line_no": "38",
+      "meter": 57232
+    },
+    {
+      "line_no": "38",
+      "meter": 57232
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709335,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0142uch\u00f3w Roz.26",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "210",
+      "meter": 15318
+    },
+    {
+      "line_no": "210",
+      "meter": 15318
+    },
+    {
+      "line_no": "210",
+      "meter": 15318
+    },
+    {
+      "line_no": "210",
+      "meter": 15318
+    },
+    {
+      "line_no": "413",
+      "meter": -568
+    },
+    {
+      "line_no": "413",
+      "meter": -568
+    },
+    {
+      "line_no": "413",
+      "meter": -568
+    }
+  ]
+}

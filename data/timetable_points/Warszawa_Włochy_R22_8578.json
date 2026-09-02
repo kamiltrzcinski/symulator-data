@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714562,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa W\u0142ochy R22",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "447",
+      "meter": 7135
+    },
+    {
+      "line_no": "447",
+      "meter": 7135
+    },
+    {
+      "line_no": "447",
+      "meter": 7135
+    },
+    {
+      "line_no": "447",
+      "meter": 7135
+    },
+    {
+      "line_no": "447",
+      "meter": 7135
+    },
+    {
+      "line_no": "457",
+      "meter": 7135
+    },
+    {
+      "line_no": "457",
+      "meter": 7135
+    }
+  ]
+}

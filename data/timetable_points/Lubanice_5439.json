@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711423,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubanice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "370",
+      "meter": 45750
+    },
+    {
+      "line_no": "370",
+      "meter": 45750
+    },
+    {
+      "line_no": "370",
+      "meter": 45751
+    }
+  ]
+}

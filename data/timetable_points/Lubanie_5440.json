@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711424,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubanie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 69223
+    },
+    {
+      "line_no": "18",
+      "meter": 69223
+    }
+  ]
+}

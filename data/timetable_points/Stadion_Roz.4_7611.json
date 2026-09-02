@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713595,
+  "type": "TIMETABLE_POINT",
+  "name": "Stadion Roz.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "349",
+      "meter": 12771
+    },
+    {
+      "line_no": "750",
+      "meter": 12771
+    },
+    {
+      "line_no": "750",
+      "meter": 12771
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713822,
+  "type": "TIMETABLE_POINT",
+  "name": "Suwa\u0142ki R.42",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "40",
+      "meter": 99345
+    },
+    {
+      "line_no": "40",
+      "meter": 99345
+    },
+    {
+      "line_no": "51",
+      "meter": -502
+    },
+    {
+      "line_no": "51",
+      "meter": -502
+    },
+    {
+      "line_no": "51",
+      "meter": -502
+    }
+  ]
+}

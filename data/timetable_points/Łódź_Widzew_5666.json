@@ -1,0 +1,104 @@
+{
+  "uid": 3453153711650,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Widzew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 0
+    },
+    {
+      "line_no": "16",
+      "meter": 0
+    },
+    {
+      "line_no": "16",
+      "meter": 537
+    },
+    {
+      "line_no": "16",
+      "meter": 537
+    },
+    {
+      "line_no": "16",
+      "meter": 537
+    },
+    {
+      "line_no": "17",
+      "meter": 5267
+    },
+    {
+      "line_no": "17",
+      "meter": 5267
+    },
+    {
+      "line_no": "17",
+      "meter": 5267
+    },
+    {
+      "line_no": "17",
+      "meter": 5267
+    },
+    {
+      "line_no": "458",
+      "meter": 3344
+    },
+    {
+      "line_no": "458",
+      "meter": 3345
+    },
+    {
+      "line_no": "458",
+      "meter": 4629
+    },
+    {
+      "line_no": "458",
+      "meter": 4629
+    },
+    {
+      "line_no": "540",
+      "meter": 6802
+    },
+    {
+      "line_no": "540",
+      "meter": 6802
+    },
+    {
+      "line_no": "540",
+      "meter": 6905
+    },
+    {
+      "line_no": "540",
+      "meter": 6905
+    },
+    {
+      "line_no": "540",
+      "meter": 6905
+    },
+    {
+      "line_no": "541",
+      "meter": 766
+    },
+    {
+      "line_no": "541",
+      "meter": 1034
+    },
+    {
+      "line_no": "541",
+      "meter": 1034
+    },
+    {
+      "line_no": "541",
+      "meter": 1034
+    },
+    {
+      "line_no": "917",
+      "meter": 5785
+    },
+    {
+      "line_no": "917",
+      "meter": 5785
+    }
+  ]
+}

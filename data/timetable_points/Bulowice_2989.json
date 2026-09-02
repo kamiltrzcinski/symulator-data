@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708973,
+  "type": "TIMETABLE_POINT",
+  "name": "Bulowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 36938
+    },
+    {
+      "line_no": "117",
+      "meter": 36938
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713945,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin \u017bydowce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 346966
+    },
+    {
+      "line_no": "273",
+      "meter": 347055
+    },
+    {
+      "line_no": "273",
+      "meter": 347055
+    }
+  ]
+}

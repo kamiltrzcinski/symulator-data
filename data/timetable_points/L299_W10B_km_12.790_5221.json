@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711205,
+  "type": "TIMETABLE_POINT",
+  "name": "L299 W10B km 12.790",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "299",
+      "meter": 12790
+    }
+  ]
+}

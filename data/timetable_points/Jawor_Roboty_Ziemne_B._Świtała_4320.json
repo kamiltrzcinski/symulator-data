@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710304,
+  "type": "TIMETABLE_POINT",
+  "name": "Jawor Roboty Ziemne B. \u015awita\u0142a",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 265427
+    },
+    {
+      "line_no": "137",
+      "meter": 265427
+    }
+  ]
+}

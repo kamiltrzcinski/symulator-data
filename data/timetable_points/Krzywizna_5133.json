@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711117,
+  "type": "TIMETABLE_POINT",
+  "name": "Krzywizna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "272",
+      "meter": 6339
+    },
+    {
+      "line_no": "272",
+      "meter": 6339
+    }
+  ]
+}

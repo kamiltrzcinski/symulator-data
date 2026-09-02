@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710593,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0119pno Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 101892
+    },
+    {
+      "line_no": "181",
+      "meter": 101892
+    },
+    {
+      "line_no": "813",
+      "meter": 0
+    }
+  ]
+}

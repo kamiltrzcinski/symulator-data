@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710012,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodk\u00f3w \u015al\u0105ski R29",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "288",
+      "meter": 27641
+    },
+    {
+      "line_no": "288",
+      "meter": 27641
+    }
+  ]
+}

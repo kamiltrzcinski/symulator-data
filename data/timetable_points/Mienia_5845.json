@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711829,
+  "type": "TIMETABLE_POINT",
+  "name": "Mienia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 50404
+    },
+    {
+      "line_no": "2",
+      "meter": 50404
+    },
+    {
+      "line_no": "2",
+      "meter": 50404
+    },
+    {
+      "line_no": "2",
+      "meter": 50404
+    }
+  ]
+}

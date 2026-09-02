@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708596,
+  "type": "TIMETABLE_POINT",
+  "name": "Batowice Luba\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 188499
+    },
+    {
+      "line_no": "274",
+      "meter": 188530
+    },
+    {
+      "line_no": "274",
+      "meter": 188530
+    }
+  ]
+}

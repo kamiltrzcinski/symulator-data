@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712773,
+  "type": "TIMETABLE_POINT",
+  "name": "Prabuty Roz.58",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "218",
+      "meter": 32166
+    },
+    {
+      "line_no": "218",
+      "meter": 32166
+    }
+  ]
+}

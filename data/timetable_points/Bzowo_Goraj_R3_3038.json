@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709022,
+  "type": "TIMETABLE_POINT",
+  "name": "Bzowo Goraj R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "236",
+      "meter": 135299
+    },
+    {
+      "line_no": "236",
+      "meter": 135299
+    },
+    {
+      "line_no": "390",
+      "meter": 323
+    }
+  ]
+}

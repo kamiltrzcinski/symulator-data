@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714313,
+  "type": "TIMETABLE_POINT",
+  "name": "Twor\u00f3g",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "144",
+      "meter": 14609
+    },
+    {
+      "line_no": "144",
+      "meter": 14609
+    },
+    {
+      "line_no": "144",
+      "meter": 14609
+    }
+  ]
+}

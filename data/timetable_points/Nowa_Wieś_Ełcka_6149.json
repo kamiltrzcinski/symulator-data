@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712133,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b E\u0142cka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 149831
+    },
+    {
+      "line_no": "219",
+      "meter": 149831
+    },
+    {
+      "line_no": "219",
+      "meter": 150070
+    },
+    {
+      "line_no": "219",
+      "meter": 150070
+    },
+    {
+      "line_no": "219",
+      "meter": 150070
+    }
+  ]
+}

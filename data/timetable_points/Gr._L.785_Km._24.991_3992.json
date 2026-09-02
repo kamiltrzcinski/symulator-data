@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709976,
+  "type": "TIMETABLE_POINT",
+  "name": "Gr. L.785 Km. 24.991",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "785",
+      "meter": 24930
+    },
+    {
+      "line_no": "785",
+      "meter": 24930
+    },
+    {
+      "line_no": "785",
+      "meter": 24991
+    },
+    {
+      "line_no": "785",
+      "meter": 24991
+    },
+    {
+      "line_no": "786",
+      "meter": 24930
+    },
+    {
+      "line_no": "786",
+      "meter": 24930
+    },
+    {
+      "line_no": "786",
+      "meter": 24991
+    },
+    {
+      "line_no": "786",
+      "meter": 24991
+    }
+  ]
+}

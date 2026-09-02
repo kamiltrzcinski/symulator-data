@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713770,
+  "type": "TIMETABLE_POINT",
+  "name": "Stulno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "81",
+      "meter": 29076
+    },
+    {
+      "line_no": "81",
+      "meter": 29100
+    }
+  ]
+}

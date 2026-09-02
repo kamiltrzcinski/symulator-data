@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710164,
+  "type": "TIMETABLE_POINT",
+  "name": "INBAP TC 1520",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "57",
+      "meter": 170794
+    },
+    {
+      "line_no": "57",
+      "meter": 170794
+    },
+    {
+      "line_no": "57",
+      "meter": 170794
+    },
+    {
+      "line_no": "57",
+      "meter": 170794
+    }
+  ]
+}

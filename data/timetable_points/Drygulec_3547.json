@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709531,
+  "type": "TIMETABLE_POINT",
+  "name": "Drygulec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 204812
+    },
+    {
+      "line_no": "25",
+      "meter": 204945
+    },
+    {
+      "line_no": "25",
+      "meter": 204945
+    }
+  ]
+}

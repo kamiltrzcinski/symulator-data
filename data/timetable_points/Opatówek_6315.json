@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712299,
+  "type": "TIMETABLE_POINT",
+  "name": "Opat\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "14",
+      "meter": 98311
+    },
+    {
+      "line_no": "14",
+      "meter": 98311
+    }
+  ]
+}

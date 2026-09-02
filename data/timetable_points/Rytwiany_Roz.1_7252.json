@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713236,
+  "type": "TIMETABLE_POINT",
+  "name": "Rytwiany Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 51573
+    },
+    {
+      "line_no": "70",
+      "meter": 51573
+    },
+    {
+      "line_no": "70",
+      "meter": 51573
+    },
+    {
+      "line_no": "70",
+      "meter": 51573
+    },
+    {
+      "line_no": "75",
+      "meter": -14
+    }
+  ]
+}

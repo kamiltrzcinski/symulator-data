@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711994,
+  "type": "TIMETABLE_POINT",
+  "name": "Mszczon\u00f3w Mostva",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 26619
+    },
+    {
+      "line_no": "12",
+      "meter": 26619
+    }
+  ]
+}

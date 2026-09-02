@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713915,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centralny R551",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "990",
+      "meter": 2350
+    },
+    {
+      "line_no": "994",
+      "meter": 0
+    }
+  ]
+}

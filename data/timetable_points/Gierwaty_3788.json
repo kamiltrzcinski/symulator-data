@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709772,
+  "type": "TIMETABLE_POINT",
+  "name": "Gierwaty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "29",
+      "meter": 66574
+    },
+    {
+      "line_no": "29",
+      "meter": 66574
+    },
+    {
+      "line_no": "29",
+      "meter": 66574
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709056,
+  "type": "TIMETABLE_POINT",
+  "name": "Che\u0142m Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 245811
+    },
+    {
+      "line_no": "7",
+      "meter": 245848
+    },
+    {
+      "line_no": "7",
+      "meter": 245848
+    },
+    {
+      "line_no": "7",
+      "meter": 245941
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713814,
+  "type": "TIMETABLE_POINT",
+  "name": "Susk",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "33",
+      "meter": 79640
+    },
+    {
+      "line_no": "33",
+      "meter": 79640
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710342,
+  "type": "TIMETABLE_POINT",
+  "name": "Jedlina-Zdr\u00f3j R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "266",
+      "meter": 82403
+    },
+    {
+      "line_no": "285",
+      "meter": 82170
+    },
+    {
+      "line_no": "286",
+      "meter": 44791
+    },
+    {
+      "line_no": "286",
+      "meter": 44811
+    },
+    {
+      "line_no": "286",
+      "meter": 44811
+    },
+    {
+      "line_no": "286",
+      "meter": 44811
+    }
+  ]
+}

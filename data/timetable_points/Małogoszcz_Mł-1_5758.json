@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711742,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142ogoszcz M\u0142-1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 26053
+    },
+    {
+      "line_no": "61",
+      "meter": 26053
+    },
+    {
+      "line_no": "934",
+      "meter": 10
+    },
+    {
+      "line_no": "934",
+      "meter": 10
+    }
+  ]
+}

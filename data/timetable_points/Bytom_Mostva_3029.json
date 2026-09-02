@@ -1,0 +1,24 @@
+{
+  "uid": 3453153709013,
+  "type": "TIMETABLE_POINT",
+  "name": "Bytom Mostva",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "888",
+      "meter": 1757
+    },
+    {
+      "line_no": "888",
+      "meter": 1757
+    },
+    {
+      "line_no": "888",
+      "meter": 1757
+    },
+    {
+      "line_no": "888",
+      "meter": 1757
+    }
+  ]
+}

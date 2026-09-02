@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712027,
+  "type": "TIMETABLE_POINT",
+  "name": "Mys\u0142owice MwB pzs R166",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "138",
+      "meter": 25086
+    },
+    {
+      "line_no": "138",
+      "meter": 25086
+    },
+    {
+      "line_no": "655",
+      "meter": 0
+    }
+  ]
+}

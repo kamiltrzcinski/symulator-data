@@ -1,0 +1,76 @@
+{
+  "uid": 3453153709111,
+  "type": "TIMETABLE_POINT",
+  "name": "Chorz\u00f3w Batory",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 5900
+    },
+    {
+      "line_no": "131",
+      "meter": 5900
+    },
+    {
+      "line_no": "131",
+      "meter": 5900
+    },
+    {
+      "line_no": "131",
+      "meter": 5900
+    },
+    {
+      "line_no": "137",
+      "meter": 6166
+    },
+    {
+      "line_no": "137",
+      "meter": 6166
+    },
+    {
+      "line_no": "137",
+      "meter": 6166
+    },
+    {
+      "line_no": "164",
+      "meter": 10
+    },
+    {
+      "line_no": "164",
+      "meter": 10
+    },
+    {
+      "line_no": "164",
+      "meter": 10
+    },
+    {
+      "line_no": "651",
+      "meter": 3546
+    },
+    {
+      "line_no": "708",
+      "meter": 0
+    },
+    {
+      "line_no": "708",
+      "meter": 0
+    },
+    {
+      "line_no": "713",
+      "meter": 4503
+    },
+    {
+      "line_no": "713",
+      "meter": 4503
+    },
+    {
+      "line_no": "713",
+      "meter": 4503
+    },
+    {
+      "line_no": "895",
+      "meter": 1
+    }
+  ]
+}

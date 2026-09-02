@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710360,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenia G\u00f3ra Zabobrze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 127125
+    },
+    {
+      "line_no": "274",
+      "meter": 127125
+    },
+    {
+      "line_no": "311",
+      "meter": -2155
+    }
+  ]
+}

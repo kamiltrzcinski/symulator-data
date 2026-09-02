@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713215,
+  "type": "TIMETABLE_POINT",
+  "name": "Ryczyw\u00f3\u0142",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "236",
+      "meter": 109131
+    },
+    {
+      "line_no": "236",
+      "meter": 109131
+    },
+    {
+      "line_no": "236",
+      "meter": 109131
+    }
+  ]
+}

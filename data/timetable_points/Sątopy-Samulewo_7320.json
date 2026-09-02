@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713304,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u0105topy-Samulewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 351505
+    },
+    {
+      "line_no": "353",
+      "meter": 351505
+    },
+    {
+      "line_no": "353",
+      "meter": 351505
+    }
+  ]
+}

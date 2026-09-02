@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708643,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142a Podlaska PZS R131-134",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 175229
+    },
+    {
+      "line_no": "2",
+      "meter": 176250
+    },
+    {
+      "line_no": "2",
+      "meter": 176250
+    },
+    {
+      "line_no": "2",
+      "meter": 176250
+    },
+    {
+      "line_no": "2",
+      "meter": 176850
+    },
+    {
+      "line_no": "2",
+      "meter": 176850
+    }
+  ]
+}

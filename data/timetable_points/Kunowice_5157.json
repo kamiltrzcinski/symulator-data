@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711141,
+  "type": "TIMETABLE_POINT",
+  "name": "Kunowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 472731
+    },
+    {
+      "line_no": "3",
+      "meter": 472731
+    },
+    {
+      "line_no": "3",
+      "meter": 472731
+    },
+    {
+      "line_no": "3",
+      "meter": 472731
+    },
+    {
+      "line_no": "3",
+      "meter": 472936
+    },
+    {
+      "line_no": "3",
+      "meter": 472936
+    }
+  ]
+}

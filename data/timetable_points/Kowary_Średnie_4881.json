@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710865,
+  "type": "TIMETABLE_POINT",
+  "name": "Kowary \u015arednie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "308",
+      "meter": 20101
+    },
+    {
+      "line_no": "308",
+      "meter": 20101
+    },
+    {
+      "line_no": "308",
+      "meter": 20101
+    }
+  ]
+}

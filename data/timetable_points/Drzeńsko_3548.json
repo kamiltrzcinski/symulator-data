@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709532,
+  "type": "TIMETABLE_POINT",
+  "name": "Drze\u0144sko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 227380
+    },
+    {
+      "line_no": "273",
+      "meter": 227380
+    },
+    {
+      "line_no": "273",
+      "meter": 228079
+    },
+    {
+      "line_no": "273",
+      "meter": 228079
+    },
+    {
+      "line_no": "273",
+      "meter": 228086
+    },
+    {
+      "line_no": "822",
+      "meter": 2972
+    },
+    {
+      "line_no": "822",
+      "meter": 2979
+    }
+  ]
+}

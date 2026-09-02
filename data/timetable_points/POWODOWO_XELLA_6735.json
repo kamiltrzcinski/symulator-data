@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712719,
+  "type": "TIMETABLE_POINT",
+  "name": "POWODOWO XELLA",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 35327
+    },
+    {
+      "line_no": "357",
+      "meter": 35327
+    },
+    {
+      "line_no": "357",
+      "meter": 35327
+    },
+    {
+      "line_no": "357",
+      "meter": 35327
+    },
+    {
+      "line_no": "357",
+      "meter": 35327
+    }
+  ]
+}

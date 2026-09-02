@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712749,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 Karolin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 2479
+    }
+  ]
+}

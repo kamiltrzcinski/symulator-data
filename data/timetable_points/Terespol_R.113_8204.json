@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714188,
+  "type": "TIMETABLE_POINT",
+  "name": "Terespol R.113",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "60",
+      "meter": 209913
+    },
+    {
+      "line_no": "60",
+      "meter": 209913
+    },
+    {
+      "line_no": "60",
+      "meter": 209913
+    },
+    {
+      "line_no": "446",
+      "meter": 209913
+    },
+    {
+      "line_no": "446",
+      "meter": 209913
+    }
+  ]
+}

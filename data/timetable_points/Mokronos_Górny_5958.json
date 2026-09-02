@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711942,
+  "type": "TIMETABLE_POINT",
+  "name": "Mokronos G\u00f3rny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 8405
+    },
+    {
+      "line_no": "274",
+      "meter": 8405
+    }
+  ]
+}

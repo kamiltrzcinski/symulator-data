@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711715,
+  "type": "TIMETABLE_POINT",
+  "name": "Malczyce R78",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 43717
+    },
+    {
+      "line_no": "275",
+      "meter": 43755
+    },
+    {
+      "line_no": "302",
+      "meter": -1050
+    },
+    {
+      "line_no": "302",
+      "meter": -1010
+    },
+    {
+      "line_no": "302",
+      "meter": -1010
+    },
+    {
+      "line_no": "302",
+      "meter": -1010
+    },
+    {
+      "line_no": "302",
+      "meter": -1010
+    }
+  ]
+}

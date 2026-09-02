@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714205,
+  "type": "TIMETABLE_POINT",
+  "name": "Tomasz\u00f3w Mazowiecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 914
+    },
+    {
+      "line_no": "22",
+      "meter": 914
+    },
+    {
+      "line_no": "22",
+      "meter": 914
+    },
+    {
+      "line_no": "22",
+      "meter": 914
+    },
+    {
+      "line_no": "25",
+      "meter": 55700
+    },
+    {
+      "line_no": "25",
+      "meter": 55700
+    },
+    {
+      "line_no": "25",
+      "meter": 55700
+    },
+    {
+      "line_no": "25",
+      "meter": 55700
+    },
+    {
+      "line_no": "53",
+      "meter": 801
+    },
+    {
+      "line_no": "53",
+      "meter": 801
+    }
+  ]
+}

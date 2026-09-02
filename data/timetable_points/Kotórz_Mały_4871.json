@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710855,
+  "type": "TIMETABLE_POINT",
+  "name": "Kot\u00f3rz Ma\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "301",
+      "meter": 12491
+    },
+    {
+      "line_no": "301",
+      "meter": 12491
+    }
+  ]
+}

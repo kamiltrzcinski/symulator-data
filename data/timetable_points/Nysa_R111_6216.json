@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712200,
+  "type": "TIMETABLE_POINT",
+  "name": "Nysa R111",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "287",
+      "meter": 48989
+    },
+    {
+      "line_no": "288",
+      "meter": 236
+    }
+  ]
+}

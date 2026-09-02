@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712859,
+  "type": "TIMETABLE_POINT",
+  "name": "Prze\u017adzi\u0119k Wielki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "225",
+      "meter": 33823
+    },
+    {
+      "line_no": "225",
+      "meter": 33823
+    },
+    {
+      "line_no": "225",
+      "meter": 33823
+    },
+    {
+      "line_no": "225",
+      "meter": 33823
+    },
+    {
+      "line_no": "225",
+      "meter": 33823
+    }
+  ]
+}

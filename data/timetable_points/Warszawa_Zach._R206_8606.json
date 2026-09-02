@@ -1,0 +1,44 @@
+{
+  "uid": 3453153714590,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zach. R206",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "42",
+      "meter": 3557
+    },
+    {
+      "line_no": "42",
+      "meter": 3557
+    },
+    {
+      "line_no": "42",
+      "meter": 3557
+    },
+    {
+      "line_no": "42",
+      "meter": 3557
+    },
+    {
+      "line_no": "42",
+      "meter": 3557
+    },
+    {
+      "line_no": "46",
+      "meter": 3557
+    },
+    {
+      "line_no": "46",
+      "meter": 3557
+    },
+    {
+      "line_no": "46",
+      "meter": 3557
+    },
+    {
+      "line_no": "46",
+      "meter": 3557
+    }
+  ]
+}

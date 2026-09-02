@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714278,
+  "type": "TIMETABLE_POINT",
+  "name": "Tuchlin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "223",
+      "meter": 75433
+    },
+    {
+      "line_no": "223",
+      "meter": 75433
+    },
+    {
+      "line_no": "223",
+      "meter": 75433
+    }
+  ]
+}

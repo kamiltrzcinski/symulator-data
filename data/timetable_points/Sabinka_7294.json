@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713278,
+  "type": "TIMETABLE_POINT",
+  "name": "Sabinka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 85345
+    },
+    {
+      "line_no": "2",
+      "meter": 85345
+    },
+    {
+      "line_no": "2",
+      "meter": 85345
+    },
+    {
+      "line_no": "2",
+      "meter": 85345
+    },
+    {
+      "line_no": "2",
+      "meter": 85345
+    }
+  ]
+}

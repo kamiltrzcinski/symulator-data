@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713409,
+  "type": "TIMETABLE_POINT",
+  "name": "Sk\u0119pe",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 109588
+    },
+    {
+      "line_no": "27",
+      "meter": 109588
+    }
+  ]
+}

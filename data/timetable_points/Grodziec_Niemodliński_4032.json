@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710016,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodziec Niemodli\u0144ski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "329",
+      "meter": 1928
+    },
+    {
+      "line_no": "329",
+      "meter": 1928
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708952,
+  "type": "TIMETABLE_POINT",
+  "name": "Bufa\u0142ow S Bsz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "923",
+      "meter": 1120
+    },
+    {
+      "line_no": "923",
+      "meter": 1120
+    },
+    {
+      "line_no": "923",
+      "meter": 1602
+    }
+  ]
+}

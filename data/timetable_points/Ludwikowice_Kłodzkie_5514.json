@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711498,
+  "type": "TIMETABLE_POINT",
+  "name": "Ludwikowice K\u0142odzkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "286",
+      "meter": 29009
+    },
+    {
+      "line_no": "286",
+      "meter": 29009
+    },
+    {
+      "line_no": "286",
+      "meter": 29009
+    },
+    {
+      "line_no": "286",
+      "meter": 29327
+    },
+    {
+      "line_no": "286",
+      "meter": 29417
+    }
+  ]
+}

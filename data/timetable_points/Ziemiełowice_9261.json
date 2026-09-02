@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715245,
+  "type": "TIMETABLE_POINT",
+  "name": "Ziemie\u0142owice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "301",
+      "meter": 56529
+    },
+    {
+      "line_no": "301",
+      "meter": 56529
+    }
+  ]
+}

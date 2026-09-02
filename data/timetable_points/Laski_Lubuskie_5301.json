@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711285,
+  "type": "TIMETABLE_POINT",
+  "name": "Laski Lubuskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 238994
+    },
+    {
+      "line_no": "273",
+      "meter": 238994
+    },
+    {
+      "line_no": "273",
+      "meter": 238994
+    }
+  ]
+}

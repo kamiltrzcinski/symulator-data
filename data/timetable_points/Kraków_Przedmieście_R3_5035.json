@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711019,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Przedmie\u015bcie R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 317456
+    },
+    {
+      "line_no": "8",
+      "meter": 317456
+    },
+    {
+      "line_no": "8",
+      "meter": 317456
+    },
+    {
+      "line_no": "8",
+      "meter": 317456
+    },
+    {
+      "line_no": "602",
+      "meter": 0
+    }
+  ]
+}

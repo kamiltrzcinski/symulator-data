@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710552,
+  "type": "TIMETABLE_POINT",
+  "name": "Kawnice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 211636
+    },
+    {
+      "line_no": "3",
+      "meter": 211636
+    }
+  ]
+}

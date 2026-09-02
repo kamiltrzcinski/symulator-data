@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710255,
+  "type": "TIMETABLE_POINT",
+  "name": "Jarz\u0119biec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "221",
+      "meter": 74150
+    },
+    {
+      "line_no": "221",
+      "meter": 74150
+    },
+    {
+      "line_no": "221",
+      "meter": 74170
+    },
+    {
+      "line_no": "221",
+      "meter": 74170
+    }
+  ]
+}

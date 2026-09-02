@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712127,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Sarzyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 142771
+    },
+    {
+      "line_no": "68",
+      "meter": 142771
+    },
+    {
+      "line_no": "68",
+      "meter": 142771
+    },
+    {
+      "line_no": "68",
+      "meter": 142771
+    }
+  ]
+}

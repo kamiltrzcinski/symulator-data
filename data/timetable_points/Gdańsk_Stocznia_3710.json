@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709694,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Stocznia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "249",
+      "meter": 1043
+    },
+    {
+      "line_no": "249",
+      "meter": 1043
+    },
+    {
+      "line_no": "249",
+      "meter": 1043
+    },
+    {
+      "line_no": "250",
+      "meter": 1040
+    },
+    {
+      "line_no": "250",
+      "meter": 1040
+    },
+    {
+      "line_no": "250",
+      "meter": 1040
+    },
+    {
+      "line_no": "250",
+      "meter": 1040
+    },
+    {
+      "line_no": "250",
+      "meter": 1074
+    },
+    {
+      "line_no": "250",
+      "meter": 1074
+    }
+  ]
+}

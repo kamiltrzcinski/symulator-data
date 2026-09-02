@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712118,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Cerekwia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "325",
+      "meter": 9247
+    },
+    {
+      "line_no": "325",
+      "meter": 9247
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709896,
+  "type": "TIMETABLE_POINT",
+  "name": "Goraj",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "363",
+      "meter": 75173
+    },
+    {
+      "line_no": "363",
+      "meter": 75173
+    }
+  ]
+}

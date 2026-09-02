@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710959,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Mydlniki R102",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "118",
+      "meter": 7204
+    }
+  ]
+}

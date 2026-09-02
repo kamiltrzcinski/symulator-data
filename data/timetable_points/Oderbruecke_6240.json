@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712224,
+  "type": "TIMETABLE_POINT",
+  "name": "Oderbruecke",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "490",
+      "meter": -2650
+    },
+    {
+      "line_no": "490",
+      "meter": -2650
+    },
+    {
+      "line_no": "490",
+      "meter": 2500
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713720,
+  "type": "TIMETABLE_POINT",
+  "name": "Stronie \u015al\u0105skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "322",
+      "meter": 24323
+    },
+    {
+      "line_no": "322",
+      "meter": 24323
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712537,
+  "type": "TIMETABLE_POINT",
+  "name": "Pier\u0142awki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 4515
+    },
+    {
+      "line_no": "208",
+      "meter": 4515
+    },
+    {
+      "line_no": "208",
+      "meter": 4515
+    },
+    {
+      "line_no": "208",
+      "meter": 4515
+    },
+    {
+      "line_no": "208",
+      "meter": 4515
+    }
+  ]
+}

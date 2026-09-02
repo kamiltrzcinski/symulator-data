@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712879,
+  "type": "TIMETABLE_POINT",
+  "name": "Przywory Opol.Roz.11",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "136",
+      "meter": 31426
+    },
+    {
+      "line_no": "136",
+      "meter": 31426
+    },
+    {
+      "line_no": "136",
+      "meter": 31445
+    },
+    {
+      "line_no": "978",
+      "meter": -30
+    },
+    {
+      "line_no": "978",
+      "meter": -21
+    }
+  ]
+}

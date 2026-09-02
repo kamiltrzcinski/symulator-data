@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711244,
+  "type": "TIMETABLE_POINT",
+  "name": "L887 km:,279 PLK - ZG Piekary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "887",
+      "meter": 279
+    },
+    {
+      "line_no": "887",
+      "meter": 279
+    }
+  ]
+}

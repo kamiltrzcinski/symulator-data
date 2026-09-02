@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713008,
+  "type": "TIMETABLE_POINT",
+  "name": "Rajgr\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 257076
+    },
+    {
+      "line_no": "281",
+      "meter": 257076
+    },
+    {
+      "line_no": "281",
+      "meter": 257076
+    },
+    {
+      "line_no": "281",
+      "meter": 257076
+    }
+  ]
+}

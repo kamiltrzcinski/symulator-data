@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709713,
+  "type": "TIMETABLE_POINT",
+  "name": "Gdynia Chylonia R15",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 25722
+    },
+    {
+      "line_no": "202",
+      "meter": 25772
+    },
+    {
+      "line_no": "202",
+      "meter": 25772
+    },
+    {
+      "line_no": "202",
+      "meter": 25772
+    },
+    {
+      "line_no": "723",
+      "meter": -450
+    },
+    {
+      "line_no": "723",
+      "meter": -400
+    },
+    {
+      "line_no": "723",
+      "meter": -400
+    },
+    {
+      "line_no": "723",
+      "meter": -400
+    },
+    {
+      "line_no": "723",
+      "meter": -400
+    }
+  ]
+}

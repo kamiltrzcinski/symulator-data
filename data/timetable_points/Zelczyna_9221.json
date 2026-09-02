@@ -1,0 +1,32 @@
+{
+  "uid": 3453153715205,
+  "type": "TIMETABLE_POINT",
+  "name": "Zelczyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 21400
+    },
+    {
+      "line_no": "94",
+      "meter": 21400
+    },
+    {
+      "line_no": "94",
+      "meter": 21400
+    },
+    {
+      "line_no": "94",
+      "meter": 21400
+    },
+    {
+      "line_no": "94",
+      "meter": 21400
+    },
+    {
+      "line_no": "94",
+      "meter": 21400
+    }
+  ]
+}

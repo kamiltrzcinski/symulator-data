@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709360,
+  "type": "TIMETABLE_POINT",
+  "name": "Daszewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 75290
+    }
+  ]
+}

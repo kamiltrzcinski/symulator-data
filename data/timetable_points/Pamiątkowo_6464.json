@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712448,
+  "type": "TIMETABLE_POINT",
+  "name": "Pami\u0105tkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 24254
+    },
+    {
+      "line_no": "351",
+      "meter": 24254
+    },
+    {
+      "line_no": "351",
+      "meter": 24254
+    },
+    {
+      "line_no": "351",
+      "meter": 24254
+    },
+    {
+      "line_no": "351",
+      "meter": 24283
+    }
+  ]
+}

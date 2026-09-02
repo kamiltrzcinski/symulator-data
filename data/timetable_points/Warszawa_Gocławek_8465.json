@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714449,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Goc\u0142awek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 10523
+    },
+    {
+      "line_no": "7",
+      "meter": 10776
+    },
+    {
+      "line_no": "7",
+      "meter": 10776
+    },
+    {
+      "line_no": "506",
+      "meter": 3715
+    },
+    {
+      "line_no": "506",
+      "meter": 3715
+    },
+    {
+      "line_no": "506",
+      "meter": 10775
+    },
+    {
+      "line_no": "506",
+      "meter": 10775
+    },
+    {
+      "line_no": "506",
+      "meter": 10775
+    }
+  ]
+}

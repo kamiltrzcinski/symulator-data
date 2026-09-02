@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710020,
+  "type": "TIMETABLE_POINT",
+  "name": "Grodzisk Mazowiecki Muzeum",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 31881
+    }
+  ]
+}

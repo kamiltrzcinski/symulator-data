@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713978,
+  "type": "TIMETABLE_POINT",
+  "name": "Szeroki B\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 93777
+    },
+    {
+      "line_no": "219",
+      "meter": 95512
+    },
+    {
+      "line_no": "219",
+      "meter": 95512
+    },
+    {
+      "line_no": "219",
+      "meter": 95512
+    }
+  ]
+}

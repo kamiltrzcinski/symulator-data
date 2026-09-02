@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708960,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowice Trzebnickie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 24560
+    },
+    {
+      "line_no": "281",
+      "meter": 24560
+    },
+    {
+      "line_no": "281",
+      "meter": 24560
+    },
+    {
+      "line_no": "281",
+      "meter": 24575
+    },
+    {
+      "line_no": "281",
+      "meter": 24593
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710486,
+  "type": "TIMETABLE_POINT",
+  "name": "Kartuzy R100",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "214",
+      "meter": 11407
+    },
+    {
+      "line_no": "229",
+      "meter": 39606
+    }
+  ]
+}

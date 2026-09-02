@@ -1,0 +1,96 @@
+{
+  "uid": 3453153714131,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarnowskie G\u00f3ry TGB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "127",
+      "meter": 35800
+    },
+    {
+      "line_no": "127",
+      "meter": 35800
+    },
+    {
+      "line_no": "127",
+      "meter": 35900
+    },
+    {
+      "line_no": "129",
+      "meter": 35900
+    },
+    {
+      "line_no": "129",
+      "meter": 35900
+    },
+    {
+      "line_no": "129",
+      "meter": 35900
+    },
+    {
+      "line_no": "129",
+      "meter": 35900
+    },
+    {
+      "line_no": "131",
+      "meter": 35800
+    },
+    {
+      "line_no": "131",
+      "meter": 35800
+    },
+    {
+      "line_no": "131",
+      "meter": 35900
+    },
+    {
+      "line_no": "131",
+      "meter": 35900
+    },
+    {
+      "line_no": "182",
+      "meter": 1878
+    },
+    {
+      "line_no": "182",
+      "meter": 1878
+    },
+    {
+      "line_no": "182",
+      "meter": 2474
+    },
+    {
+      "line_no": "182",
+      "meter": 2474
+    },
+    {
+      "line_no": "856",
+      "meter": 35900
+    },
+    {
+      "line_no": "856",
+      "meter": 35900
+    },
+    {
+      "line_no": "950",
+      "meter": 2345
+    },
+    {
+      "line_no": "950",
+      "meter": 2386
+    },
+    {
+      "line_no": "950",
+      "meter": 2386
+    },
+    {
+      "line_no": "951",
+      "meter": 1400
+    },
+    {
+      "line_no": "951",
+      "meter": 1707
+    }
+  ]
+}

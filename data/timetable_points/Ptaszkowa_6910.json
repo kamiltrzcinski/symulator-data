@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712894,
+  "type": "TIMETABLE_POINT",
+  "name": "Ptaszkowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 71785
+    },
+    {
+      "line_no": "96",
+      "meter": 71785
+    },
+    {
+      "line_no": "96",
+      "meter": 71785
+    },
+    {
+      "line_no": "96",
+      "meter": 71785
+    },
+    {
+      "line_no": "96",
+      "meter": 71785
+    },
+    {
+      "line_no": "96",
+      "meter": 71785
+    }
+  ]
+}

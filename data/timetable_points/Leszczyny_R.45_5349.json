@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711333,
+  "type": "TIMETABLE_POINT",
+  "name": "Leszczyny R.45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 32684
+    },
+    {
+      "line_no": "149",
+      "meter": 23843
+    }
+  ]
+}

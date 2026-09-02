@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712743,
+  "type": "TIMETABLE_POINT",
+  "name": "Pozna\u0144 G\u0142\u00f3wny R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 2898
+    },
+    {
+      "line_no": "351",
+      "meter": 2898
+    },
+    {
+      "line_no": "351",
+      "meter": 2898
+    },
+    {
+      "line_no": "351",
+      "meter": 2898
+    },
+    {
+      "line_no": "354",
+      "meter": -237
+    },
+    {
+      "line_no": "354",
+      "meter": -197
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712000,
+  "type": "TIMETABLE_POINT",
+  "name": "Mur\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "301",
+      "meter": 30240
+    },
+    {
+      "line_no": "301",
+      "meter": 30240
+    }
+  ]
+}

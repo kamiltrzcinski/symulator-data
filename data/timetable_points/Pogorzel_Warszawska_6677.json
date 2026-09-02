@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712661,
+  "type": "TIMETABLE_POINT",
+  "name": "Pogorzel Warszawska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 32800
+    },
+    {
+      "line_no": "7",
+      "meter": 33251
+    },
+    {
+      "line_no": "7",
+      "meter": 33251
+    }
+  ]
+}

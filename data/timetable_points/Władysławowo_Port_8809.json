@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714793,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142adys\u0142awowo Port",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "213",
+      "meter": 28232
+    },
+    {
+      "line_no": "213",
+      "meter": 28269
+    }
+  ]
+}

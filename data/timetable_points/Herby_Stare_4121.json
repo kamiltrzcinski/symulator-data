@@ -1,0 +1,56 @@
+{
+  "uid": 3453153710105,
+  "type": "TIMETABLE_POINT",
+  "name": "Herby Stare",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 134666
+    },
+    {
+      "line_no": "61",
+      "meter": 134666
+    },
+    {
+      "line_no": "61",
+      "meter": 134666
+    },
+    {
+      "line_no": "61",
+      "meter": 134666
+    },
+    {
+      "line_no": "61",
+      "meter": 134666
+    },
+    {
+      "line_no": "61",
+      "meter": 134666
+    },
+    {
+      "line_no": "687",
+      "meter": 2218
+    },
+    {
+      "line_no": "687",
+      "meter": 2218
+    },
+    {
+      "line_no": "687",
+      "meter": 2322
+    },
+    {
+      "line_no": "704",
+      "meter": 278
+    },
+    {
+      "line_no": "704",
+      "meter": 278
+    },
+    {
+      "line_no": "704",
+      "meter": 295
+    }
+  ]
+}

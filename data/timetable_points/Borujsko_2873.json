@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708857,
+  "type": "TIMETABLE_POINT",
+  "name": "Borujsko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 81790
+    },
+    {
+      "line_no": "410",
+      "meter": 81790
+    },
+    {
+      "line_no": "410",
+      "meter": 81790
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708597,
+  "type": "TIMETABLE_POINT",
+  "name": "Ba\u017canowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 32637
+    },
+    {
+      "line_no": "190",
+      "meter": 32637
+    },
+    {
+      "line_no": "190",
+      "meter": 32637
+    },
+    {
+      "line_no": "190",
+      "meter": 32637
+    },
+    {
+      "line_no": "190",
+      "meter": 32711
+    }
+  ]
+}

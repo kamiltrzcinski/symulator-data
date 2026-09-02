@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710980,
+  "type": "TIMETABLE_POINT",
+  "name": "Krak\u00f3w Nowa Huta NHEO",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "944",
+      "meter": 5500
+    },
+    {
+      "line_no": "944",
+      "meter": 5500
+    },
+    {
+      "line_no": "944",
+      "meter": 5500
+    },
+    {
+      "line_no": "944",
+      "meter": 5500
+    }
+  ]
+}

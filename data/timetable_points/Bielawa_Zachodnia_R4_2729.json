@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708713,
+  "type": "TIMETABLE_POINT",
+  "name": "Bielawa Zachodnia R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "318",
+      "meter": 28155
+    },
+    {
+      "line_no": "341",
+      "meter": -530
+    },
+    {
+      "line_no": "341",
+      "meter": 0
+    }
+  ]
+}

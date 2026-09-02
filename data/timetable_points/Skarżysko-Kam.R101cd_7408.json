@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713392,
+  "type": "TIMETABLE_POINT",
+  "name": "Skar\u017cysko-Kam.R101cd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 138996
+    },
+    {
+      "line_no": "8",
+      "meter": 138996
+    },
+    {
+      "line_no": "8",
+      "meter": 138996
+    },
+    {
+      "line_no": "8",
+      "meter": 138996
+    },
+    {
+      "line_no": "8",
+      "meter": 138996
+    },
+    {
+      "line_no": "8",
+      "meter": 138996
+    },
+    {
+      "line_no": "566",
+      "meter": -1429
+    },
+    {
+      "line_no": "566",
+      "meter": -1429
+    },
+    {
+      "line_no": "566",
+      "meter": -1429
+    },
+    {
+      "line_no": "566",
+      "meter": -1429
+    }
+  ]
+}

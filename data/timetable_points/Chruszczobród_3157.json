@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709141,
+  "type": "TIMETABLE_POINT",
+  "name": "Chruszczobr\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 286557
+    },
+    {
+      "line_no": "1",
+      "meter": 286557
+    },
+    {
+      "line_no": "1",
+      "meter": 286557
+    },
+    {
+      "line_no": "1",
+      "meter": 286557
+    },
+    {
+      "line_no": "186",
+      "meter": 286713
+    },
+    {
+      "line_no": "186",
+      "meter": 286713
+    }
+  ]
+}

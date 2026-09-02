@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712901,
+  "type": "TIMETABLE_POINT",
+  "name": "Pu\u0142awy Azoty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 117424
+    },
+    {
+      "line_no": "7",
+      "meter": 117885
+    },
+    {
+      "line_no": "7",
+      "meter": 117885
+    },
+    {
+      "line_no": "7",
+      "meter": 117885
+    },
+    {
+      "line_no": "7",
+      "meter": 118057
+    },
+    {
+      "line_no": "82",
+      "meter": 23049
+    },
+    {
+      "line_no": "82",
+      "meter": 23049
+    }
+  ]
+}

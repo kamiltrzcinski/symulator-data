@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711239,
+  "type": "TIMETABLE_POINT",
+  "name": "L882 km:,478 PLK - KWK Piast RuchII",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "882",
+      "meter": 478
+    },
+    {
+      "line_no": "882",
+      "meter": 481
+    },
+    {
+      "line_no": "882",
+      "meter": 481
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709500,
+  "type": "TIMETABLE_POINT",
+  "name": "Do\u0142y R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 96745
+    },
+    {
+      "line_no": "2",
+      "meter": 96745
+    },
+    {
+      "line_no": "2",
+      "meter": 96745
+    },
+    {
+      "line_no": "2",
+      "meter": 96745
+    },
+    {
+      "line_no": "2",
+      "meter": 96745
+    },
+    {
+      "line_no": "520",
+      "meter": 0
+    },
+    {
+      "line_no": "520",
+      "meter": 0
+    },
+    {
+      "line_no": "520",
+      "meter": 0
+    },
+    {
+      "line_no": "520",
+      "meter": 0
+    }
+  ]
+}

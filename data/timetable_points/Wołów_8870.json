@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714854,
+  "type": "TIMETABLE_POINT",
+  "name": "Wo\u0142\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 40369
+    },
+    {
+      "line_no": "273",
+      "meter": 40369
+    },
+    {
+      "line_no": "273",
+      "meter": 40369
+    }
+  ]
+}

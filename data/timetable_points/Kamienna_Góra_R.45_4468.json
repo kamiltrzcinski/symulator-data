@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710452,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamienna G\u00f3ra R.45",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "298",
+      "meter": -306
+    },
+    {
+      "line_no": "298",
+      "meter": -306
+    },
+    {
+      "line_no": "299",
+      "meter": 306
+    },
+    {
+      "line_no": "299",
+      "meter": 306
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712229,
+  "type": "TIMETABLE_POINT",
+  "name": "Ogorzeliny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 300493
+    },
+    {
+      "line_no": "281",
+      "meter": 300493
+    },
+    {
+      "line_no": "281",
+      "meter": 300493
+    },
+    {
+      "line_no": "281",
+      "meter": 300493
+    },
+    {
+      "line_no": "281",
+      "meter": 300493
+    },
+    {
+      "line_no": "281",
+      "meter": 300493
+    }
+  ]
+}

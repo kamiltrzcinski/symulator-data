@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709329,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Tow. R.4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 231739
+    },
+    {
+      "line_no": "1",
+      "meter": 231739
+    },
+    {
+      "line_no": "703",
+      "meter": 4502
+    }
+  ]
+}

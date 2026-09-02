@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713684,
+  "type": "TIMETABLE_POINT",
+  "name": "Stawiany Pi\u0144czowskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 27755
+    },
+    {
+      "line_no": "73",
+      "meter": 27755
+    },
+    {
+      "line_no": "73",
+      "meter": 27755
+    },
+    {
+      "line_no": "73",
+      "meter": 27755
+    },
+    {
+      "line_no": "73",
+      "meter": 27755
+    },
+    {
+      "line_no": "73",
+      "meter": 28075
+    },
+    {
+      "line_no": "73",
+      "meter": 28075
+    },
+    {
+      "line_no": "73",
+      "meter": 28075
+    },
+    {
+      "line_no": "73",
+      "meter": 28075
+    }
+  ]
+}

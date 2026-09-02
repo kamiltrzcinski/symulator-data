@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711356,
+  "type": "TIMETABLE_POINT",
+  "name": "L\u0119bork Nowy \u015awiat",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 103832
+    },
+    {
+      "line_no": "229",
+      "meter": 103832
+    }
+  ]
+}

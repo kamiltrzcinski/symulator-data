@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712344,
+  "type": "TIMETABLE_POINT",
+  "name": "Orzesze Ja\u015bkowicer20",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 22105
+    },
+    {
+      "line_no": "169",
+      "meter": 17484
+    }
+  ]
+}

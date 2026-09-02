@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713300,
+  "type": "TIMETABLE_POINT",
+  "name": "Sarn\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 14094
+    },
+    {
+      "line_no": "26",
+      "meter": 14094
+    },
+    {
+      "line_no": "26",
+      "meter": 14094
+    },
+    {
+      "line_no": "26",
+      "meter": 14094
+    },
+    {
+      "line_no": "26",
+      "meter": 14173
+    },
+    {
+      "line_no": "26",
+      "meter": 14173
+    }
+  ]
+}

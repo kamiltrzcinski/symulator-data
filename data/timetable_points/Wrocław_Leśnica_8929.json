@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714913,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Le\u015bnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 13577
+    },
+    {
+      "line_no": "275",
+      "meter": 13577
+    }
+  ]
+}

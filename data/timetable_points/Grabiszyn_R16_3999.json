@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709983,
+  "type": "TIMETABLE_POINT",
+  "name": "Grabiszyn R16",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 2125
+    },
+    {
+      "line_no": "273",
+      "meter": 2256
+    },
+    {
+      "line_no": "273",
+      "meter": 2256
+    },
+    {
+      "line_no": "753",
+      "meter": 0
+    },
+    {
+      "line_no": "753",
+      "meter": 122
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708701,
+  "type": "TIMETABLE_POINT",
+  "name": "Biedrzychowice Dolne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 159300
+    },
+    {
+      "line_no": "275",
+      "meter": 159300
+    }
+  ]
+}

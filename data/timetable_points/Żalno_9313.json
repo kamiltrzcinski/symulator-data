@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715297,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017balno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 183220
+    },
+    {
+      "line_no": "208",
+      "meter": 183220
+    },
+    {
+      "line_no": "208",
+      "meter": 183220
+    },
+    {
+      "line_no": "208",
+      "meter": 183220
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710515,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Morawa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 311830
+    }
+  ]
+}

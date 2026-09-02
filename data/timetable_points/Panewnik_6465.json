@@ -1,0 +1,40 @@
+{
+  "uid": 3453153712449,
+  "type": "TIMETABLE_POINT",
+  "name": "Panewnik",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 1999
+    },
+    {
+      "line_no": "141",
+      "meter": 1999
+    },
+    {
+      "line_no": "171",
+      "meter": 41693
+    },
+    {
+      "line_no": "171",
+      "meter": 41693
+    },
+    {
+      "line_no": "171",
+      "meter": 41693
+    },
+    {
+      "line_no": "896",
+      "meter": 1
+    },
+    {
+      "line_no": "897",
+      "meter": 156
+    },
+    {
+      "line_no": "897",
+      "meter": 156
+    }
+  ]
+}

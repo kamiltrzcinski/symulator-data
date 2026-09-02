@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711206,
+  "type": "TIMETABLE_POINT",
+  "name": "L303 KM:6,900 PLK - Um W. Dolno\u015bl.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "303",
+      "meter": 6900
+    }
+  ]
+}

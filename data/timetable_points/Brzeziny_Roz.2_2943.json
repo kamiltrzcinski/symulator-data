@@ -1,0 +1,40 @@
+{
+  "uid": 3453153708927,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeziny Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "73",
+      "meter": 4707
+    },
+    {
+      "line_no": "73",
+      "meter": 4775
+    },
+    {
+      "line_no": "73",
+      "meter": 4776
+    },
+    {
+      "line_no": "73",
+      "meter": 4776
+    },
+    {
+      "line_no": "73",
+      "meter": 4776
+    },
+    {
+      "line_no": "569",
+      "meter": 2984
+    },
+    {
+      "line_no": "569",
+      "meter": 2984
+    },
+    {
+      "line_no": "569",
+      "meter": 2984
+    }
+  ]
+}

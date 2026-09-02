@@ -1,0 +1,44 @@
+{
+  "uid": 3453153708616,
+  "type": "TIMETABLE_POINT",
+  "name": "Bemowizna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "204",
+      "meter": 78964
+    },
+    {
+      "line_no": "204",
+      "meter": 78964
+    },
+    {
+      "line_no": "204",
+      "meter": 78964
+    },
+    {
+      "line_no": "204",
+      "meter": 78964
+    },
+    {
+      "line_no": "204",
+      "meter": 78964
+    },
+    {
+      "line_no": "217",
+      "meter": 49930
+    },
+    {
+      "line_no": "217",
+      "meter": 49930
+    },
+    {
+      "line_no": "217",
+      "meter": 49930
+    },
+    {
+      "line_no": "217",
+      "meter": 49930
+    }
+  ]
+}

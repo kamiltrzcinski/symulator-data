@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708963,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowina Sycowska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "355",
+      "meter": 38980
+    },
+    {
+      "line_no": "355",
+      "meter": 38980
+    },
+    {
+      "line_no": "355",
+      "meter": 38980
+    },
+    {
+      "line_no": "355",
+      "meter": 38980
+    },
+    {
+      "line_no": "355",
+      "meter": 38980
+    }
+  ]
+}

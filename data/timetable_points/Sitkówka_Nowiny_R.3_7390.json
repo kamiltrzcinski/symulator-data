@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713374,
+  "type": "TIMETABLE_POINT",
+  "name": "Sitk\u00f3wka Nowiny R.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 196094
+    },
+    {
+      "line_no": "8",
+      "meter": 196094
+    },
+    {
+      "line_no": "8",
+      "meter": 196094
+    },
+    {
+      "line_no": "8",
+      "meter": 196094
+    },
+    {
+      "line_no": "73",
+      "meter": -1236
+    },
+    {
+      "line_no": "73",
+      "meter": -1236
+    },
+    {
+      "line_no": "73",
+      "meter": -1236
+    }
+  ]
+}

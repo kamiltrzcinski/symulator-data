@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711904,
+  "type": "TIMETABLE_POINT",
+  "name": "Mi\u0144sk Mazowiecki PZS K\u0119dzierak",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "13",
+      "meter": 32552
+    },
+    {
+      "line_no": "13",
+      "meter": 32617
+    },
+    {
+      "line_no": "13",
+      "meter": 32617
+    },
+    {
+      "line_no": "13",
+      "meter": 32617
+    },
+    {
+      "line_no": "521",
+      "meter": 1178
+    },
+    {
+      "line_no": "521",
+      "meter": 1180
+    },
+    {
+      "line_no": "522",
+      "meter": 1
+    },
+    {
+      "line_no": "522",
+      "meter": 66
+    }
+  ]
+}

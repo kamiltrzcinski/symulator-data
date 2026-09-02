@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712380,
+  "type": "TIMETABLE_POINT",
+  "name": "Ostr\u00f3w ko\u0142o Radymna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 219205
+    },
+    {
+      "line_no": "91",
+      "meter": 219205
+    },
+    {
+      "line_no": "91",
+      "meter": 219420
+    },
+    {
+      "line_no": "91",
+      "meter": 219420
+    },
+    {
+      "line_no": "91",
+      "meter": 219420
+    },
+    {
+      "line_no": "91",
+      "meter": 219420
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709328,
+  "type": "TIMETABLE_POINT",
+  "name": "Cz\u0119stochowa Tow. CTB PZS R121-130",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 234068
+    },
+    {
+      "line_no": "1",
+      "meter": 234068
+    },
+    {
+      "line_no": "701",
+      "meter": 4323
+    },
+    {
+      "line_no": "703",
+      "meter": 2130
+    },
+    {
+      "line_no": "703",
+      "meter": 2286
+    }
+  ]
+}

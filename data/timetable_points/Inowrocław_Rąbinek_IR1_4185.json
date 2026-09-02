@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710169,
+  "type": "TIMETABLE_POINT",
+  "name": "Inowroc\u0142aw R\u0105binek IR1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 318250
+    },
+    {
+      "line_no": "131",
+      "meter": 318250
+    },
+    {
+      "line_no": "206",
+      "meter": 702
+    },
+    {
+      "line_no": "742",
+      "meter": 5353
+    },
+    {
+      "line_no": "845",
+      "meter": 350
+    }
+  ]
+}

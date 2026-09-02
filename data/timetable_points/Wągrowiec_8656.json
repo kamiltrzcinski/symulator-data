@@ -1,0 +1,40 @@
+{
+  "uid": 3453153714640,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0105growiec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "236",
+      "meter": 77565
+    },
+    {
+      "line_no": "236",
+      "meter": 77565
+    },
+    {
+      "line_no": "236",
+      "meter": 77565
+    },
+    {
+      "line_no": "236",
+      "meter": 77565
+    },
+    {
+      "line_no": "236",
+      "meter": 77565
+    },
+    {
+      "line_no": "236",
+      "meter": 77565
+    },
+    {
+      "line_no": "356",
+      "meter": 51375
+    },
+    {
+      "line_no": "356",
+      "meter": 51375
+    }
+  ]
+}

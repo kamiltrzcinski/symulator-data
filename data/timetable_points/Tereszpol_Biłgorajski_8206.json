@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714190,
+  "type": "TIMETABLE_POINT",
+  "name": "Tereszpol Bi\u0142gorajski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "66",
+      "meter": 8995
+    },
+    {
+      "line_no": "66",
+      "meter": 8995
+    }
+  ]
+}

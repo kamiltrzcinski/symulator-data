@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710487,
+  "type": "TIMETABLE_POINT",
+  "name": "Kartuzy R38-39",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "214",
+      "meter": 8150
+    },
+    {
+      "line_no": "214",
+      "meter": 8150
+    },
+    {
+      "line_no": "214",
+      "meter": 8150
+    },
+    {
+      "line_no": "214",
+      "meter": 8215
+    },
+    {
+      "line_no": "229",
+      "meter": 41937
+    },
+    {
+      "line_no": "229",
+      "meter": 41937
+    },
+    {
+      "line_no": "229",
+      "meter": 41937
+    },
+    {
+      "line_no": "229",
+      "meter": 42060
+    }
+  ]
+}

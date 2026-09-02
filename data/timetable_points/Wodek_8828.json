@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714812,
+  "type": "TIMETABLE_POINT",
+  "name": "Wodek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 126123
+    },
+    {
+      "line_no": "18",
+      "meter": 126123
+    }
+  ]
+}

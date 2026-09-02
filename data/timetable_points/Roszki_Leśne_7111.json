@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713095,
+  "type": "TIMETABLE_POINT",
+  "name": "Roszki Le\u015bne",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 79243
+    },
+    {
+      "line_no": "36",
+      "meter": 79243
+    },
+    {
+      "line_no": "36",
+      "meter": 79260
+    },
+    {
+      "line_no": "36",
+      "meter": 79320
+    },
+    {
+      "line_no": "36",
+      "meter": 79320
+    }
+  ]
+}

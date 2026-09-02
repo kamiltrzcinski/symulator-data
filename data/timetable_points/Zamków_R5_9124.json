@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715108,
+  "type": "TIMETABLE_POINT",
+  "name": "Zamk\u00f3w R5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 163818
+    },
+    {
+      "line_no": "3",
+      "meter": 163818
+    },
+    {
+      "line_no": "544",
+      "meter": 0
+    }
+  ]
+}

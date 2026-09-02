@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712484,
+  "type": "TIMETABLE_POINT",
+  "name": "Paw\u0142owice Ma\u0142e Fabr.",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "972",
+      "meter": 1050
+    }
+  ]
+}

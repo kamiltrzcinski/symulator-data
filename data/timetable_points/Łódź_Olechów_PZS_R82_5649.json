@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711633,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141\u00f3d\u017a Olech\u00f3w PZS R82",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "541",
+      "meter": 5792
+    },
+    {
+      "line_no": "831",
+      "meter": 5793
+    }
+  ]
+}

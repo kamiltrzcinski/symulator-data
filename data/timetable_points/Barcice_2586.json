@@ -1,0 +1,32 @@
+{
+  "uid": 3453153708570,
+  "type": "TIMETABLE_POINT",
+  "name": "Barcice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 98932
+    },
+    {
+      "line_no": "96",
+      "meter": 99070
+    },
+    {
+      "line_no": "96",
+      "meter": 99100
+    },
+    {
+      "line_no": "96",
+      "meter": 99100
+    },
+    {
+      "line_no": "96",
+      "meter": 99100
+    },
+    {
+      "line_no": "96",
+      "meter": 99100
+    }
+  ]
+}

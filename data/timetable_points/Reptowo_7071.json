@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713055,
+  "type": "TIMETABLE_POINT",
+  "name": "Reptowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 185692
+    },
+    {
+      "line_no": "351",
+      "meter": 185715
+    },
+    {
+      "line_no": "351",
+      "meter": 185715
+    },
+    {
+      "line_no": "351",
+      "meter": 185715
+    },
+    {
+      "line_no": "351",
+      "meter": 185715
+    }
+  ]
+}

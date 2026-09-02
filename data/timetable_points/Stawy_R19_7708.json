@@ -1,0 +1,48 @@
+{
+  "uid": 3453153713692,
+  "type": "TIMETABLE_POINT",
+  "name": "Stawy R19",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 55855
+    },
+    {
+      "line_no": "26",
+      "meter": 55855
+    },
+    {
+      "line_no": "26",
+      "meter": 55855
+    },
+    {
+      "line_no": "26",
+      "meter": 55855
+    },
+    {
+      "line_no": "26",
+      "meter": 55855
+    },
+    {
+      "line_no": "26",
+      "meter": 55855
+    },
+    {
+      "line_no": "26",
+      "meter": 55870
+    },
+    {
+      "line_no": "579",
+      "meter": 0
+    },
+    {
+      "line_no": "579",
+      "meter": 0
+    },
+    {
+      "line_no": "579",
+      "meter": 0
+    }
+  ]
+}

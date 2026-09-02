@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711045,
+  "type": "TIMETABLE_POINT",
+  "name": "Krasno\u0142\u0105ka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 7489
+    },
+    {
+      "line_no": "216",
+      "meter": 7489
+    }
+  ]
+}

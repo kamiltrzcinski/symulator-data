@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709592,
+  "type": "TIMETABLE_POINT",
+  "name": "Evsig{{WCM}}",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "491",
+      "meter": 23600
+    },
+    {
+      "line_no": "493",
+      "meter": 252200
+    },
+    {
+      "line_no": "494",
+      "meter": 1600
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713209,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybno Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "377",
+      "meter": 25531
+    },
+    {
+      "line_no": "377",
+      "meter": 25531
+    },
+    {
+      "line_no": "377",
+      "meter": 25531
+    }
+  ]
+}

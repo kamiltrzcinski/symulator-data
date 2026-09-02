@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709297,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwie\u0144sk Towarowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 169420
+    },
+    {
+      "line_no": "273",
+      "meter": 169420
+    },
+    {
+      "line_no": "273",
+      "meter": 169420
+    },
+    {
+      "line_no": "273",
+      "meter": 169420
+    },
+    {
+      "line_no": "980",
+      "meter": 2101
+    },
+    {
+      "line_no": "980",
+      "meter": 2101
+    }
+  ]
+}

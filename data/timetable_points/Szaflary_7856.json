@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713840,
+  "type": "TIMETABLE_POINT",
+  "name": "Szaflary",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "99",
+      "meter": 26530
+    },
+    {
+      "line_no": "99",
+      "meter": 26530
+    },
+    {
+      "line_no": "99",
+      "meter": 26530
+    },
+    {
+      "line_no": "99",
+      "meter": 26530
+    },
+    {
+      "line_no": "99",
+      "meter": 26530
+    },
+    {
+      "line_no": "99",
+      "meter": 26530
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711803,
+  "type": "TIMETABLE_POINT",
+  "name": "Mia\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "351",
+      "meter": 70118
+    },
+    {
+      "line_no": "351",
+      "meter": 70118
+    },
+    {
+      "line_no": "351",
+      "meter": 70118
+    },
+    {
+      "line_no": "351",
+      "meter": 70118
+    },
+    {
+      "line_no": "351",
+      "meter": 70118
+    }
+  ]
+}

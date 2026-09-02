@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713048,
+  "type": "TIMETABLE_POINT",
+  "name": "Rejowiec R103",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 226454
+    },
+    {
+      "line_no": "7",
+      "meter": 226454
+    },
+    {
+      "line_no": "563",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709572,
+  "type": "TIMETABLE_POINT",
+  "name": "Dzietrzniki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 46673
+    },
+    {
+      "line_no": "181",
+      "meter": 46691
+    },
+    {
+      "line_no": "181",
+      "meter": 46691
+    }
+  ]
+}

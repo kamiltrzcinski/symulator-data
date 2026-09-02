@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708528,
+  "type": "TIMETABLE_POINT",
+  "name": "Andrych\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 30512
+    },
+    {
+      "line_no": "117",
+      "meter": 30512
+    }
+  ]
+}

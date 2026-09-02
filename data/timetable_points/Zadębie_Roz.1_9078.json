@@ -1,0 +1,40 @@
+{
+  "uid": 3453153715062,
+  "type": "TIMETABLE_POINT",
+  "name": "Zad\u0119bie Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 106222
+    },
+    {
+      "line_no": "30",
+      "meter": 106222
+    },
+    {
+      "line_no": "30",
+      "meter": 106235
+    },
+    {
+      "line_no": "30",
+      "meter": 106235
+    },
+    {
+      "line_no": "30",
+      "meter": 106235
+    },
+    {
+      "line_no": "561",
+      "meter": 0
+    },
+    {
+      "line_no": "561",
+      "meter": 13
+    },
+    {
+      "line_no": "561",
+      "meter": 13
+    }
+  ]
+}

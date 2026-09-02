@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711048,
+  "type": "TIMETABLE_POINT",
+  "name": "Krasnystaw Fabryczny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 13200
+    },
+    {
+      "line_no": "69",
+      "meter": 13200
+    },
+    {
+      "line_no": "69",
+      "meter": 13200
+    }
+  ]
+}

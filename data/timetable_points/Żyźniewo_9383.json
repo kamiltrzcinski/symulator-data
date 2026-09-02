@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715367,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017by\u017aniewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 18554
+    },
+    {
+      "line_no": "36",
+      "meter": 18554
+    }
+  ]
+}

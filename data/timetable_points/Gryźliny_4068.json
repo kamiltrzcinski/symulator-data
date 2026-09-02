@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710052,
+  "type": "TIMETABLE_POINT",
+  "name": "Gry\u017aliny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 57960
+    },
+    {
+      "line_no": "216",
+      "meter": 57960
+    },
+    {
+      "line_no": "216",
+      "meter": 58154
+    },
+    {
+      "line_no": "216",
+      "meter": 58154
+    }
+  ]
+}

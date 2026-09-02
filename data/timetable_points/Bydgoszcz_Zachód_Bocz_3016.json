@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709000,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz Zach\u00f3d Bocz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "745",
+      "meter": 2398
+    }
+  ]
+}

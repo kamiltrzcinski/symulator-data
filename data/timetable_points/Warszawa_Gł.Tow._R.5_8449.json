@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714433,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142.Tow. R.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "507",
+      "meter": 1250
+    },
+    {
+      "line_no": "507",
+      "meter": 1250
+    },
+    {
+      "line_no": "507",
+      "meter": 1250
+    },
+    {
+      "line_no": "509",
+      "meter": -1250
+    },
+    {
+      "line_no": "509",
+      "meter": -1250
+    }
+  ]
+}

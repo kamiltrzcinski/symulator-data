@@ -1,0 +1,40 @@
+{
+  "uid": 3453153709671,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Olszynka R1 PZS",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "226",
+      "meter": 7875
+    },
+    {
+      "line_no": "226",
+      "meter": 7875
+    },
+    {
+      "line_no": "226",
+      "meter": 7916
+    },
+    {
+      "line_no": "226",
+      "meter": 7916
+    },
+    {
+      "line_no": "226",
+      "meter": 7916
+    },
+    {
+      "line_no": "721",
+      "meter": 2475
+    },
+    {
+      "line_no": "721",
+      "meter": 2475
+    },
+    {
+      "line_no": "721",
+      "meter": 2513
+    }
+  ]
+}

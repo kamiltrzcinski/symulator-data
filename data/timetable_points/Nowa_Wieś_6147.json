@@ -1,0 +1,64 @@
+{
+  "uid": 3453153712131,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowa Wie\u015b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 61623
+    },
+    {
+      "line_no": "137",
+      "meter": 61623
+    },
+    {
+      "line_no": "137",
+      "meter": 61624
+    },
+    {
+      "line_no": "199",
+      "meter": 61623
+    },
+    {
+      "line_no": "199",
+      "meter": 61623
+    },
+    {
+      "line_no": "199",
+      "meter": 61624
+    },
+    {
+      "line_no": "681",
+      "meter": 103
+    },
+    {
+      "line_no": "681",
+      "meter": 103
+    },
+    {
+      "line_no": "681",
+      "meter": 103
+    },
+    {
+      "line_no": "682",
+      "meter": 103
+    },
+    {
+      "line_no": "682",
+      "meter": 103
+    },
+    {
+      "line_no": "682",
+      "meter": 103
+    },
+    {
+      "line_no": "872",
+      "meter": 61623
+    },
+    {
+      "line_no": "872",
+      "meter": 61623
+    }
+  ]
+}

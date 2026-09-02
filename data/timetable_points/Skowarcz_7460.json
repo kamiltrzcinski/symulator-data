@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713444,
+  "type": "TIMETABLE_POINT",
+  "name": "Skowarcz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 308294
+    },
+    {
+      "line_no": "9",
+      "meter": 308294
+    },
+    {
+      "line_no": "9",
+      "meter": 308294
+    },
+    {
+      "line_no": "260",
+      "meter": 6024
+    },
+    {
+      "line_no": "260",
+      "meter": 6024
+    },
+    {
+      "line_no": "260",
+      "meter": 6024
+    }
+  ]
+}

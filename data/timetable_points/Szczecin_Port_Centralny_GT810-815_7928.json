@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713912,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centralny GT810-815",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "990",
+      "meter": 4998
+    },
+    {
+      "line_no": "990",
+      "meter": 5387
+    },
+    {
+      "line_no": "990",
+      "meter": 5387
+    }
+  ]
+}

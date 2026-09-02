@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710460,
+  "type": "TIMETABLE_POINT",
+  "name": "Kamie\u0144 Ma\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 329619
+    },
+    {
+      "line_no": "203",
+      "meter": 329619
+    },
+    {
+      "line_no": "203",
+      "meter": 329725
+    }
+  ]
+}

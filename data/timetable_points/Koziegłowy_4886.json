@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710870,
+  "type": "TIMETABLE_POINT",
+  "name": "Kozieg\u0142owy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "395",
+      "meter": 3400
+    },
+    {
+      "line_no": "395",
+      "meter": 3400
+    },
+    {
+      "line_no": "395",
+      "meter": 3400
+    },
+    {
+      "line_no": "395",
+      "meter": 3400
+    },
+    {
+      "line_no": "395",
+      "meter": 3400
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711468,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin P\u00f3\u0142nocny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 177420
+    },
+    {
+      "line_no": "7",
+      "meter": 177420
+    },
+    {
+      "line_no": "7",
+      "meter": 178015
+    },
+    {
+      "line_no": "7",
+      "meter": 178015
+    },
+    {
+      "line_no": "30",
+      "meter": 107605
+    },
+    {
+      "line_no": "30",
+      "meter": 107722
+    },
+    {
+      "line_no": "30",
+      "meter": 107722
+    }
+  ]
+}

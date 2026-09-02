@@ -1,0 +1,28 @@
+{
+  "uid": 3453153715216,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgierz P\u00f3\u0142noc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 18392
+    },
+    {
+      "line_no": "16",
+      "meter": 18392
+    },
+    {
+      "line_no": "16",
+      "meter": 18392
+    },
+    {
+      "line_no": "16",
+      "meter": 18392
+    },
+    {
+      "line_no": "16",
+      "meter": 18392
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714514,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga R70",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "833",
+      "meter": 11764
+    },
+    {
+      "line_no": "833",
+      "meter": 11764
+    },
+    {
+      "line_no": "833",
+      "meter": 11764
+    },
+    {
+      "line_no": "838",
+      "meter": 11764
+    },
+    {
+      "line_no": "838",
+      "meter": 11764
+    },
+    {
+      "line_no": "838",
+      "meter": 11764
+    }
+  ]
+}

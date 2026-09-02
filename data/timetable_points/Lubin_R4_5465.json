@@ -1,0 +1,48 @@
+{
+  "uid": 3453153711449,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubin R4",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "289",
+      "meter": 21578
+    },
+    {
+      "line_no": "289",
+      "meter": 21770
+    },
+    {
+      "line_no": "289",
+      "meter": 21770
+    },
+    {
+      "line_no": "289",
+      "meter": 21770
+    },
+    {
+      "line_no": "289",
+      "meter": 21770
+    },
+    {
+      "line_no": "971",
+      "meter": -749
+    },
+    {
+      "line_no": "971",
+      "meter": -728
+    },
+    {
+      "line_no": "971",
+      "meter": -728
+    },
+    {
+      "line_no": "971",
+      "meter": -728
+    },
+    {
+      "line_no": "971",
+      "meter": -721
+    }
+  ]
+}

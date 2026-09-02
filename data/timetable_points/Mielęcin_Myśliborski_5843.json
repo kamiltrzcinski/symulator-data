@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711827,
+  "type": "TIMETABLE_POINT",
+  "name": "Miel\u0119cin My\u015bliborski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "422",
+      "meter": 9511
+    },
+    {
+      "line_no": "422",
+      "meter": 9511
+    }
+  ]
+}

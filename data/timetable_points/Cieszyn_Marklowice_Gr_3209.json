@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709193,
+  "type": "TIMETABLE_POINT",
+  "name": "Cieszyn Marklowice (Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 40181
+    },
+    {
+      "line_no": "190",
+      "meter": 40181
+    },
+    {
+      "line_no": "480",
+      "meter": 139112
+    },
+    {
+      "line_no": "480",
+      "meter": 139112
+    },
+    {
+      "line_no": "480",
+      "meter": 139112
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715356,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017burawnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 69916
+    },
+    {
+      "line_no": "69",
+      "meter": 69916
+    }
+  ]
+}

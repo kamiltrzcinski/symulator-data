@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708864,
+  "type": "TIMETABLE_POINT",
+  "name": "Botkuny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 61157
+    },
+    {
+      "line_no": "41",
+      "meter": 61157
+    },
+    {
+      "line_no": "41",
+      "meter": 61157
+    }
+  ]
+}

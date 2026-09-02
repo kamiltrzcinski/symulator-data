@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712276,
+  "type": "TIMETABLE_POINT",
+  "name": "Olsztyn Gutkowo R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 7734
+    },
+    {
+      "line_no": "220",
+      "meter": 7819
+    },
+    {
+      "line_no": "220",
+      "meter": 7819
+    },
+    {
+      "line_no": "221",
+      "meter": -314
+    },
+    {
+      "line_no": "221",
+      "meter": -229
+    },
+    {
+      "line_no": "221",
+      "meter": -229
+    },
+    {
+      "line_no": "221",
+      "meter": -229
+    }
+  ]
+}

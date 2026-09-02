@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714768,
+  "type": "TIMETABLE_POINT",
+  "name": "Wis\u0142a Dziechcinka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "191",
+      "meter": 16200
+    },
+    {
+      "line_no": "191",
+      "meter": 16241
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709962,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3rki \u015aciernie R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "179",
+      "meter": 16029
+    },
+    {
+      "line_no": "717",
+      "meter": -131
+    },
+    {
+      "line_no": "717",
+      "meter": 0
+    }
+  ]
+}

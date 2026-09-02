@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710100,
+  "type": "TIMETABLE_POINT",
+  "name": "Herby Nowe R10",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 69003
+    },
+    {
+      "line_no": "131",
+      "meter": 69120
+    },
+    {
+      "line_no": "131",
+      "meter": 69120
+    },
+    {
+      "line_no": "181",
+      "meter": -436
+    },
+    {
+      "line_no": "181",
+      "meter": -319
+    }
+  ]
+}

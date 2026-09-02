@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708860,
+  "type": "TIMETABLE_POINT",
+  "name": "Borys\u0142awice Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 243962
+    },
+    {
+      "line_no": "131",
+      "meter": 243962
+    },
+    {
+      "line_no": "809",
+      "meter": 1901
+    }
+  ]
+}

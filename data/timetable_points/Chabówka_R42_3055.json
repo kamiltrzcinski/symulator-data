@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709039,
+  "type": "TIMETABLE_POINT",
+  "name": "Chab\u00f3wka R42",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 35071
+    },
+    {
+      "line_no": "98",
+      "meter": 35274
+    },
+    {
+      "line_no": "98",
+      "meter": 35274
+    },
+    {
+      "line_no": "99",
+      "meter": -546
+    },
+    {
+      "line_no": "99",
+      "meter": -534
+    },
+    {
+      "line_no": "99",
+      "meter": -334
+    }
+  ]
+}

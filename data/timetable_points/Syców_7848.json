@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713832,
+  "type": "TIMETABLE_POINT",
+  "name": "Syc\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "181",
+      "meter": 123222
+    },
+    {
+      "line_no": "181",
+      "meter": 123222
+    },
+    {
+      "line_no": "181",
+      "meter": 123222
+    },
+    {
+      "line_no": "181",
+      "meter": 123222
+    }
+  ]
+}

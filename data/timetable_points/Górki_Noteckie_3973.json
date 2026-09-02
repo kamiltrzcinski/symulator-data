@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709957,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u00f3rki Noteckie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 276333
+    },
+    {
+      "line_no": "203",
+      "meter": 276333
+    }
+  ]
+}

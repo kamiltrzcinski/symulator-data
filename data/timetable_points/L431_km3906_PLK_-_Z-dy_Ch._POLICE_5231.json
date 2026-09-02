@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711215,
+  "type": "TIMETABLE_POINT",
+  "name": "L431 km:3,906 PLK - Z-dy Ch. POLICE",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "431",
+      "meter": 3906
+    },
+    {
+      "line_no": "431",
+      "meter": 3906
+    }
+  ]
+}

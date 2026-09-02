@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709135,
+  "type": "TIMETABLE_POINT",
+  "name": "Chro\u015bnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 371431
+    },
+    {
+      "line_no": "3",
+      "meter": 371895
+    },
+    {
+      "line_no": "3",
+      "meter": 371895
+    },
+    {
+      "line_no": "3",
+      "meter": 371895
+    },
+    {
+      "line_no": "3",
+      "meter": 371929
+    }
+  ]
+}

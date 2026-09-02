@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714439,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142.Tow.Sr18",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "19",
+      "meter": 1094
+    },
+    {
+      "line_no": "20",
+      "meter": -1094
+    }
+  ]
+}

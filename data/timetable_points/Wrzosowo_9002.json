@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714986,
+  "type": "TIMETABLE_POINT",
+  "name": "Wrzosowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 80063
+    },
+    {
+      "line_no": "404",
+      "meter": 80063
+    }
+  ]
+}

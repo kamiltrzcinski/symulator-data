@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715015,
+  "type": "TIMETABLE_POINT",
+  "name": "Wysoka Kamie\u0144ska R3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 52740
+    },
+    {
+      "line_no": "401",
+      "meter": 52740
+    },
+    {
+      "line_no": "407",
+      "meter": -434
+    }
+  ]
+}

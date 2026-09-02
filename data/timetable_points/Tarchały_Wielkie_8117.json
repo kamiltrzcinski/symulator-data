@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714101,
+  "type": "TIMETABLE_POINT",
+  "name": "Tarcha\u0142y Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "355",
+      "meter": 10327
+    },
+    {
+      "line_no": "355",
+      "meter": 10327
+    },
+    {
+      "line_no": "355",
+      "meter": 10407
+    }
+  ]
+}

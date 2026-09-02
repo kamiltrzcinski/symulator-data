@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713565,
+  "type": "TIMETABLE_POINT",
+  "name": "Sosnowiec Kazimierz PZS SKZ2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "62",
+      "meter": 74688
+    },
+    {
+      "line_no": "663",
+      "meter": 10
+    }
+  ]
+}

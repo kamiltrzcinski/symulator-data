@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710634,
+  "type": "TIMETABLE_POINT",
+  "name": "Kikowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "368",
+      "meter": 24456
+    },
+    {
+      "line_no": "368",
+      "meter": 24456
+    }
+  ]
+}

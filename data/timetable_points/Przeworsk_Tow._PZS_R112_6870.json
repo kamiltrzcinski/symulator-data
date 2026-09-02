@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712854,
+  "type": "TIMETABLE_POINT",
+  "name": "Przeworsk Tow. PZS R112",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 197120
+    },
+    {
+      "line_no": "988",
+      "meter": 1880
+    }
+  ]
+}

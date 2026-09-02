@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712434,
+  "type": "TIMETABLE_POINT",
+  "name": "Paczkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 285790
+    },
+    {
+      "line_no": "3",
+      "meter": 285790
+    },
+    {
+      "line_no": "3",
+      "meter": 285790
+    },
+    {
+      "line_no": "3",
+      "meter": 285790
+    },
+    {
+      "line_no": "642",
+      "meter": 1
+    },
+    {
+      "line_no": "642",
+      "meter": 1
+    },
+    {
+      "line_no": "642",
+      "meter": 1
+    }
+  ]
+}

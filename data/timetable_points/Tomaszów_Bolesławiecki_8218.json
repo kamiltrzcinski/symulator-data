@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714202,
+  "type": "TIMETABLE_POINT",
+  "name": "Tomasz\u00f3w Boles\u0142awiecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 27725
+    },
+    {
+      "line_no": "282",
+      "meter": 27730
+    }
+  ]
+}

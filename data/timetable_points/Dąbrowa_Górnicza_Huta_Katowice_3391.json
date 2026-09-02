@@ -1,0 +1,52 @@
+{
+  "uid": 3453153709375,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0105browa G\u00f3rnicza Huta Katowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "133",
+      "meter": 2876
+    },
+    {
+      "line_no": "133",
+      "meter": 2876
+    },
+    {
+      "line_no": "133",
+      "meter": 2876
+    },
+    {
+      "line_no": "133",
+      "meter": 2876
+    },
+    {
+      "line_no": "133",
+      "meter": 3677
+    },
+    {
+      "line_no": "133",
+      "meter": 3677
+    },
+    {
+      "line_no": "133",
+      "meter": 3677
+    },
+    {
+      "line_no": "133",
+      "meter": 3677
+    },
+    {
+      "line_no": "133",
+      "meter": 3677
+    },
+    {
+      "line_no": "162",
+      "meter": 3237
+    },
+    {
+      "line_no": "162",
+      "meter": 3326
+    }
+  ]
+}

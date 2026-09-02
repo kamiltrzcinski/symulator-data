@@ -1,0 +1,32 @@
+{
+  "uid": 3453153711047,
+  "type": "TIMETABLE_POINT",
+  "name": "Krasnystaw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "69",
+      "meter": 19699
+    },
+    {
+      "line_no": "69",
+      "meter": 19699
+    },
+    {
+      "line_no": "69",
+      "meter": 19699
+    },
+    {
+      "line_no": "69",
+      "meter": 19699
+    },
+    {
+      "line_no": "69",
+      "meter": 19699
+    },
+    {
+      "line_no": "69",
+      "meter": 19699
+    }
+  ]
+}

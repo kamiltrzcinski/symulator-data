@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713962,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczukowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 10712
+    },
+    {
+      "line_no": "61",
+      "meter": 10712
+    },
+    {
+      "line_no": "61",
+      "meter": 10712
+    },
+    {
+      "line_no": "61",
+      "meter": 10712
+    },
+    {
+      "line_no": "61",
+      "meter": 10712
+    },
+    {
+      "line_no": "61",
+      "meter": 10740
+    },
+    {
+      "line_no": "568",
+      "meter": 8017
+    },
+    {
+      "line_no": "568",
+      "meter": 8017
+    },
+    {
+      "line_no": "568",
+      "meter": 8017
+    }
+  ]
+}

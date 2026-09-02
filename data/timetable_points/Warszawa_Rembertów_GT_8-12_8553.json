@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714537,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Rembert\u00f3w GT 8-12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "2",
+      "meter": 10980
+    },
+    {
+      "line_no": "2",
+      "meter": 10980
+    },
+    {
+      "line_no": "2",
+      "meter": 10980
+    },
+    {
+      "line_no": "2",
+      "meter": 10980
+    },
+    {
+      "line_no": "546",
+      "meter": 10980
+    }
+  ]
+}

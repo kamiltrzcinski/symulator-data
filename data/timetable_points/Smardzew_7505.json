@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713489,
+  "type": "TIMETABLE_POINT",
+  "name": "Smardzew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "15",
+      "meter": 53343
+    },
+    {
+      "line_no": "15",
+      "meter": 53343
+    }
+  ]
+}

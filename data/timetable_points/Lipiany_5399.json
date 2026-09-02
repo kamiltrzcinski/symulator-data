@@ -1,0 +1,24 @@
+{
+  "uid": 3453153711383,
+  "type": "TIMETABLE_POINT",
+  "name": "Lipiany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "422",
+      "meter": 17952
+    },
+    {
+      "line_no": "422",
+      "meter": 17952
+    },
+    {
+      "line_no": "422",
+      "meter": 17952
+    },
+    {
+      "line_no": "422",
+      "meter": 17952
+    }
+  ]
+}

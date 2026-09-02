@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708678,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142ystok R1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 2364
+    },
+    {
+      "line_no": "38",
+      "meter": 2364
+    },
+    {
+      "line_no": "836",
+      "meter": 174941
+    }
+  ]
+}

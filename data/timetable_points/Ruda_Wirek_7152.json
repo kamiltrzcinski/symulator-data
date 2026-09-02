@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713136,
+  "type": "TIMETABLE_POINT",
+  "name": "Ruda Wirek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 10386
+    },
+    {
+      "line_no": "141",
+      "meter": 10558
+    },
+    {
+      "line_no": "141",
+      "meter": 10558
+    }
+  ]
+}

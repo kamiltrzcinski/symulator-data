@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713710,
+  "type": "TIMETABLE_POINT",
+  "name": "Strabla",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "32",
+      "meter": 47653
+    },
+    {
+      "line_no": "32",
+      "meter": 47653
+    },
+    {
+      "line_no": "32",
+      "meter": 47653
+    },
+    {
+      "line_no": "32",
+      "meter": 47653
+    },
+    {
+      "line_no": "32",
+      "meter": 47653
+    }
+  ]
+}

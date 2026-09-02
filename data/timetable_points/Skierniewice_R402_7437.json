@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713421,
+  "type": "TIMETABLE_POINT",
+  "name": "Skierniewice R402",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 3732
+    },
+    {
+      "line_no": "558",
+      "meter": 3646
+    }
+  ]
+}

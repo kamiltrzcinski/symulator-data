@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715042,
+  "type": "TIMETABLE_POINT",
+  "name": "Zabrze Mak.Kop.R55cd",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "141",
+      "meter": 18819
+    },
+    {
+      "line_no": "677",
+      "meter": 0
+    }
+  ]
+}

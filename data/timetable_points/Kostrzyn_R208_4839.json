@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710823,
+  "type": "TIMETABLE_POINT",
+  "name": "Kostrzyn R208",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 256398
+    },
+    {
+      "line_no": "273",
+      "meter": 256398
+    },
+    {
+      "line_no": "273",
+      "meter": 256398
+    },
+    {
+      "line_no": "827",
+      "meter": 1861
+    },
+    {
+      "line_no": "827",
+      "meter": 1861
+    }
+  ]
+}

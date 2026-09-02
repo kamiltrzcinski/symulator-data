@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710655,
+  "type": "TIMETABLE_POINT",
+  "name": "Kl\u0119pnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 266003
+    },
+    {
+      "line_no": "202",
+      "meter": 266003
+    },
+    {
+      "line_no": "202",
+      "meter": 266003
+    },
+    {
+      "line_no": "202",
+      "meter": 266003
+    }
+  ]
+}

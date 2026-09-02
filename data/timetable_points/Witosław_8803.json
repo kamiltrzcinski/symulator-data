@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714787,
+  "type": "TIMETABLE_POINT",
+  "name": "Witos\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 253194
+    },
+    {
+      "line_no": "281",
+      "meter": 253194
+    },
+    {
+      "line_no": "281",
+      "meter": 253194
+    },
+    {
+      "line_no": "281",
+      "meter": 253194
+    }
+  ]
+}

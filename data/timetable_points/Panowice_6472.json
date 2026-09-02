@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712456,
+  "type": "TIMETABLE_POINT",
+  "name": "Panowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "367",
+      "meter": 15646
+    },
+    {
+      "line_no": "367",
+      "meter": 15646
+    },
+    {
+      "line_no": "367",
+      "meter": 15646
+    },
+    {
+      "line_no": "367",
+      "meter": 15707
+    },
+    {
+      "line_no": "367",
+      "meter": 15707
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715150,
+  "type": "TIMETABLE_POINT",
+  "name": "Zawidz Ko\u015bcielny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 71999
+    },
+    {
+      "line_no": "27",
+      "meter": 71999
+    },
+    {
+      "line_no": "27",
+      "meter": 71999
+    }
+  ]
+}

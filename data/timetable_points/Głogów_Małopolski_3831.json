@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709815,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142og\u00f3w Ma\u0142opolski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 53976
+    },
+    {
+      "line_no": "71",
+      "meter": 53976
+    },
+    {
+      "line_no": "71",
+      "meter": 53976
+    },
+    {
+      "line_no": "71",
+      "meter": 53976
+    },
+    {
+      "line_no": "71",
+      "meter": 53976
+    },
+    {
+      "line_no": "71",
+      "meter": 54207
+    }
+  ]
+}

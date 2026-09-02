@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709433,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0119blin PZS R271",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 105320
+    },
+    {
+      "line_no": "7",
+      "meter": 105320
+    },
+    {
+      "line_no": "26",
+      "meter": 63463
+    },
+    {
+      "line_no": "26",
+      "meter": 63463
+    },
+    {
+      "line_no": "26",
+      "meter": 63463
+    },
+    {
+      "line_no": "770",
+      "meter": 4105
+    },
+    {
+      "line_no": "770",
+      "meter": 4105
+    }
+  ]
+}

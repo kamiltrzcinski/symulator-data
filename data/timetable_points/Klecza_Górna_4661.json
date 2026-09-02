@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710645,
+  "type": "TIMETABLE_POINT",
+  "name": "Klecza G\u00f3rna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "117",
+      "meter": 11218
+    },
+    {
+      "line_no": "117",
+      "meter": 11218
+    }
+  ]
+}

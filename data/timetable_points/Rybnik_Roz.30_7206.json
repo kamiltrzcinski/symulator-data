@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713190,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik Roz.30",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 39202
+    },
+    {
+      "line_no": "173",
+      "meter": -500
+    }
+  ]
+}

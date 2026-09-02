@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713285,
+  "type": "TIMETABLE_POINT",
+  "name": "Sadurki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 151808
+    },
+    {
+      "line_no": "7",
+      "meter": 151870
+    },
+    {
+      "line_no": "7",
+      "meter": 151870
+    },
+    {
+      "line_no": "7",
+      "meter": 152013
+    },
+    {
+      "line_no": "7",
+      "meter": 152469
+    },
+    {
+      "line_no": "7",
+      "meter": 152469
+    },
+    {
+      "line_no": "7",
+      "meter": 152469
+    }
+  ]
+}

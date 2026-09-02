@@ -1,0 +1,12 @@
+{
+  "uid": 3453153709494,
+  "type": "TIMETABLE_POINT",
+  "name": "Dolna Odra GT T4-12",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 330187
+    }
+  ]
+}

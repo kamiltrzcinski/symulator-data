@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711931,
+  "type": "TIMETABLE_POINT",
+  "name": "Modgarby",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "353",
+      "meter": 378548
+    },
+    {
+      "line_no": "353",
+      "meter": 378548
+    },
+    {
+      "line_no": "353",
+      "meter": 378590
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714948,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw Psie Pole",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "143",
+      "meter": 153742
+    },
+    {
+      "line_no": "143",
+      "meter": 153742
+    },
+    {
+      "line_no": "143",
+      "meter": 153742
+    },
+    {
+      "line_no": "143",
+      "meter": 153742
+    },
+    {
+      "line_no": "326",
+      "meter": 0
+    },
+    {
+      "line_no": "326",
+      "meter": 0
+    },
+    {
+      "line_no": "326",
+      "meter": 0
+    }
+  ]
+}

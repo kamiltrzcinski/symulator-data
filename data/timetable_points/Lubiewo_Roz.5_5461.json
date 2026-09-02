@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711445,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubiewo Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 88342
+    },
+    {
+      "line_no": "401",
+      "meter": 88342
+    },
+    {
+      "line_no": "996",
+      "meter": -161
+    },
+    {
+      "line_no": "996",
+      "meter": -161
+    },
+    {
+      "line_no": "996",
+      "meter": -161
+    }
+  ]
+}

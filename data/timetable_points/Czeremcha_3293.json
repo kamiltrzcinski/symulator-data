@@ -1,0 +1,68 @@
+{
+  "uid": 3453153709277,
+  "type": "TIMETABLE_POINT",
+  "name": "Czeremcha",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 90167
+    },
+    {
+      "line_no": "31",
+      "meter": 90167
+    },
+    {
+      "line_no": "31",
+      "meter": 90167
+    },
+    {
+      "line_no": "31",
+      "meter": 90167
+    },
+    {
+      "line_no": "31",
+      "meter": 90167
+    },
+    {
+      "line_no": "32",
+      "meter": 885
+    },
+    {
+      "line_no": "32",
+      "meter": 885
+    },
+    {
+      "line_no": "32",
+      "meter": 885
+    },
+    {
+      "line_no": "32",
+      "meter": 885
+    },
+    {
+      "line_no": "32",
+      "meter": 885
+    },
+    {
+      "line_no": "32",
+      "meter": 885
+    },
+    {
+      "line_no": "43",
+      "meter": 498
+    },
+    {
+      "line_no": "43",
+      "meter": 498
+    },
+    {
+      "line_no": "43",
+      "meter": 498
+    },
+    {
+      "line_no": "43",
+      "meter": 498
+    }
+  ]
+}

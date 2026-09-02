@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710372,
+  "type": "TIMETABLE_POINT",
+  "name": "Jerzmanice Lub.R.16",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 217968
+    },
+    {
+      "line_no": "273",
+      "meter": 217968
+    },
+    {
+      "line_no": "821",
+      "meter": -13
+    },
+    {
+      "line_no": "821",
+      "meter": 0
+    }
+  ]
+}

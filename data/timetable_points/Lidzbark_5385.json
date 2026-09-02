@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711369,
+  "type": "TIMETABLE_POINT",
+  "name": "Lidzbark",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 22956
+    },
+    {
+      "line_no": "208",
+      "meter": 22956
+    },
+    {
+      "line_no": "208",
+      "meter": 22956
+    },
+    {
+      "line_no": "208",
+      "meter": 22956
+    },
+    {
+      "line_no": "208",
+      "meter": 22956
+    }
+  ]
+}

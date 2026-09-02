@@ -1,0 +1,36 @@
+{
+  "uid": 3453153712451,
+  "type": "TIMETABLE_POINT",
+  "name": "Panewnik Roz. 3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "171",
+      "meter": 41538
+    },
+    {
+      "line_no": "171",
+      "meter": 41538
+    },
+    {
+      "line_no": "171",
+      "meter": 41538
+    },
+    {
+      "line_no": "171",
+      "meter": 41538
+    },
+    {
+      "line_no": "897",
+      "meter": 0
+    },
+    {
+      "line_no": "897",
+      "meter": 0
+    },
+    {
+      "line_no": "897",
+      "meter": 0
+    }
+  ]
+}

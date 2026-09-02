@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709833,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0142ucho\u0142azy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "297",
+      "meter": 5952
+    },
+    {
+      "line_no": "333",
+      "meter": 0
+    },
+    {
+      "line_no": "333",
+      "meter": 0
+    },
+    {
+      "line_no": "333",
+      "meter": 0
+    },
+    {
+      "line_no": "343",
+      "meter": 0
+    },
+    {
+      "line_no": "343",
+      "meter": 0
+    }
+  ]
+}

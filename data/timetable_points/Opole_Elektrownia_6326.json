@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712310,
+  "type": "TIMETABLE_POINT",
+  "name": "Opole Elektrownia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "977",
+      "meter": 1276
+    },
+    {
+      "line_no": "977",
+      "meter": 1276
+    },
+    {
+      "line_no": "977",
+      "meter": 2000
+    }
+  ]
+}

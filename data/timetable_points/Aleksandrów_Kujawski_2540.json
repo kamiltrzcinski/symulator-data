@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708524,
+  "type": "TIMETABLE_POINT",
+  "name": "Aleksandr\u00f3w Kujawski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 91702
+    },
+    {
+      "line_no": "18",
+      "meter": 91702
+    },
+    {
+      "line_no": "245",
+      "meter": 64
+    }
+  ]
+}

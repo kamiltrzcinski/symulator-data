@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714222,
+  "type": "TIMETABLE_POINT",
+  "name": "Toru\u0144 Towarowy Trb",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 110970
+    },
+    {
+      "line_no": "18",
+      "meter": 110970
+    },
+    {
+      "line_no": "353",
+      "meter": 133860
+    },
+    {
+      "line_no": "353",
+      "meter": 133860
+    },
+    {
+      "line_no": "734",
+      "meter": 2472
+    },
+    {
+      "line_no": "734",
+      "meter": 2473
+    }
+  ]
+}

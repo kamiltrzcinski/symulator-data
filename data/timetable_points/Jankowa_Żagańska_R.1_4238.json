@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710222,
+  "type": "TIMETABLE_POINT",
+  "name": "Jankowa \u017baga\u0144ska R.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "282",
+      "meter": 93325
+    },
+    {
+      "line_no": "389",
+      "meter": 11738
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709035,
+  "type": "TIMETABLE_POINT",
+  "name": "Chab\u00f3wka Po\u0142udnie PZS R101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "98",
+      "meter": 33310
+    },
+    {
+      "line_no": "98",
+      "meter": 33310
+    },
+    {
+      "line_no": "633",
+      "meter": 10
+    }
+  ]
+}

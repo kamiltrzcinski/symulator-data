@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714810,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oszczowice Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": -298
+    },
+    {
+      "line_no": "70",
+      "meter": -298
+    },
+    {
+      "line_no": "73",
+      "meter": 19267
+    }
+  ]
+}

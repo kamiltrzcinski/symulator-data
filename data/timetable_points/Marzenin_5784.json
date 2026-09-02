@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711768,
+  "type": "TIMETABLE_POINT",
+  "name": "Marzenin",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "281",
+      "meter": 142730
+    },
+    {
+      "line_no": "281",
+      "meter": 142730
+    },
+    {
+      "line_no": "281",
+      "meter": 142730
+    }
+  ]
+}

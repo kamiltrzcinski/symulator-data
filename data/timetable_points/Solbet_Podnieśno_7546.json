@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713530,
+  "type": "TIMETABLE_POINT",
+  "name": "Solbet Podnie\u015bno",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "55",
+      "meter": 105818
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714570,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Wsch. Towarowa PZS R47",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "902",
+      "meter": 7723
+    },
+    {
+      "line_no": "902",
+      "meter": 7723
+    }
+  ]
+}

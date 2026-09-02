@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709668,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Oliwa SKM",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "250",
+      "meter": 8031
+    },
+    {
+      "line_no": "250",
+      "meter": 8080
+    },
+    {
+      "line_no": "250",
+      "meter": 8080
+    },
+    {
+      "line_no": "250",
+      "meter": 8080
+    },
+    {
+      "line_no": "250",
+      "meter": 8080
+    }
+  ]
+}

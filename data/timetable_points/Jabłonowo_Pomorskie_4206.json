@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710190,
+  "type": "TIMETABLE_POINT",
+  "name": "Jab\u0142onowo Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "208",
+      "meter": 78560
+    },
+    {
+      "line_no": "208",
+      "meter": 78560
+    },
+    {
+      "line_no": "208",
+      "meter": 78560
+    },
+    {
+      "line_no": "208",
+      "meter": 78560
+    },
+    {
+      "line_no": "353",
+      "meter": 193940
+    },
+    {
+      "line_no": "353",
+      "meter": 193940
+    }
+  ]
+}

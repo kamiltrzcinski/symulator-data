@@ -1,0 +1,24 @@
+{
+  "uid": 3453153714619,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Zachodnia R82",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 3709
+    },
+    {
+      "line_no": "849",
+      "meter": 3709
+    },
+    {
+      "line_no": "849",
+      "meter": 3709
+    },
+    {
+      "line_no": "920",
+      "meter": 4053
+    }
+  ]
+}

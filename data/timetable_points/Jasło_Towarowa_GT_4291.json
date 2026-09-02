@@ -1,0 +1,12 @@
+{
+  "uid": 3453153710275,
+  "type": "TIMETABLE_POINT",
+  "name": "Jas\u0142o Towarowa GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "618",
+      "meter": 695
+    }
+  ]
+}

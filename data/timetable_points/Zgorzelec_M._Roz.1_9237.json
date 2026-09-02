@@ -1,0 +1,16 @@
+{
+  "uid": 3453153715221,
+  "type": "TIMETABLE_POINT",
+  "name": "Zgorzelec M. Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "278",
+      "meter": 25233
+    },
+    {
+      "line_no": "778",
+      "meter": -8
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711843,
+  "type": "TIMETABLE_POINT",
+  "name": "Mietk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 28733
+    },
+    {
+      "line_no": "274",
+      "meter": 28733
+    },
+    {
+      "line_no": "274",
+      "meter": 28733
+    },
+    {
+      "line_no": "274",
+      "meter": 29610
+    },
+    {
+      "line_no": "274",
+      "meter": 29718
+    },
+    {
+      "line_no": "274",
+      "meter": 29718
+    },
+    {
+      "line_no": "970",
+      "meter": 1
+    },
+    {
+      "line_no": "970",
+      "meter": 1
+    }
+  ]
+}

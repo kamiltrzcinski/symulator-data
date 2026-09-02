@@ -1,0 +1,24 @@
+{
+  "uid": 3453153708606,
+  "type": "TIMETABLE_POINT",
+  "name": "Bednary Roz.5",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 71320
+    },
+    {
+      "line_no": "3",
+      "meter": 71320
+    },
+    {
+      "line_no": "15",
+      "meter": -693
+    },
+    {
+      "line_no": "15",
+      "meter": -693
+    }
+  ]
+}

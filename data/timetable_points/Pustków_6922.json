@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712906,
+  "type": "TIMETABLE_POINT",
+  "name": "Pustk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 310656
+    },
+    {
+      "line_no": "25",
+      "meter": 310656
+    },
+    {
+      "line_no": "25",
+      "meter": 310740
+    },
+    {
+      "line_no": "25",
+      "meter": 310741
+    },
+    {
+      "line_no": "25",
+      "meter": 310741
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711667,
+  "type": "TIMETABLE_POINT",
+  "name": "\u0141uczyn\u00f3w Ps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "77",
+      "meter": 7750
+    },
+    {
+      "line_no": "77",
+      "meter": 7750
+    }
+  ]
+}

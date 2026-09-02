@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710738,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142aki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 51973
+    },
+    {
+      "line_no": "36",
+      "meter": 51973
+    },
+    {
+      "line_no": "36",
+      "meter": 51973
+    }
+  ]
+}

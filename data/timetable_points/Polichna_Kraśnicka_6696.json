@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712680,
+  "type": "TIMETABLE_POINT",
+  "name": "Polichna Kra\u015bnicka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 58474
+    },
+    {
+      "line_no": "68",
+      "meter": 58528
+    },
+    {
+      "line_no": "68",
+      "meter": 58528
+    },
+    {
+      "line_no": "68",
+      "meter": 58528
+    },
+    {
+      "line_no": "68",
+      "meter": 58528
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713956,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczepanowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 283934
+    },
+    {
+      "line_no": "8",
+      "meter": 283934
+    },
+    {
+      "line_no": "8",
+      "meter": 283934
+    },
+    {
+      "line_no": "8",
+      "meter": 283934
+    },
+    {
+      "line_no": "8",
+      "meter": 283934
+    },
+    {
+      "line_no": "8",
+      "meter": 284891
+    }
+  ]
+}

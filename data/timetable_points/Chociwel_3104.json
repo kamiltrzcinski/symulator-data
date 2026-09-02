@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709088,
+  "type": "TIMETABLE_POINT",
+  "name": "Chociwel",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "202",
+      "meter": 305886
+    },
+    {
+      "line_no": "202",
+      "meter": 305886
+    },
+    {
+      "line_no": "202",
+      "meter": 305886
+    },
+    {
+      "line_no": "202",
+      "meter": 305886
+    },
+    {
+      "line_no": "202",
+      "meter": 305886
+    }
+  ]
+}

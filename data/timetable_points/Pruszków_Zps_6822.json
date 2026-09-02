@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712806,
+  "type": "TIMETABLE_POINT",
+  "name": "Pruszk\u00f3w Zps",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "512",
+      "meter": 2223
+    }
+  ]
+}

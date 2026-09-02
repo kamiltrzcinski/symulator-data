@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712884,
+  "type": "TIMETABLE_POINT",
+  "name": "Pstroszyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 272194
+    },
+    {
+      "line_no": "8",
+      "meter": 272194
+    },
+    {
+      "line_no": "8",
+      "meter": 272194
+    },
+    {
+      "line_no": "8",
+      "meter": 272194
+    },
+    {
+      "line_no": "8",
+      "meter": 272194
+    },
+    {
+      "line_no": "8",
+      "meter": 272194
+    }
+  ]
+}

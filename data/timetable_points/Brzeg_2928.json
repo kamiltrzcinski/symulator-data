@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708912,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeg",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "132",
+      "meter": 139447
+    },
+    {
+      "line_no": "132",
+      "meter": 139447
+    },
+    {
+      "line_no": "288",
+      "meter": 47404
+    },
+    {
+      "line_no": "288",
+      "meter": 47404
+    },
+    {
+      "line_no": "304",
+      "meter": 148
+    }
+  ]
+}

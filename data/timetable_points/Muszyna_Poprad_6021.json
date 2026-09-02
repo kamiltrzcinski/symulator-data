@@ -1,0 +1,20 @@
+{
+  "uid": 3453153712005,
+  "type": "TIMETABLE_POINT",
+  "name": "Muszyna Poprad",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 141769
+    },
+    {
+      "line_no": "96",
+      "meter": 141769
+    },
+    {
+      "line_no": "96",
+      "meter": 141769
+    }
+  ]
+}

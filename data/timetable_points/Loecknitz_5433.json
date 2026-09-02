@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711417,
+  "type": "TIMETABLE_POINT",
+  "name": "Loecknitz",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "498",
+      "meter": 24800
+    },
+    {
+      "line_no": "498",
+      "meter": 24800
+    },
+    {
+      "line_no": "498",
+      "meter": 24830
+    }
+  ]
+}

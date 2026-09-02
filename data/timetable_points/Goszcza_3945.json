@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709929,
+  "type": "TIMETABLE_POINT",
+  "name": "Goszcza",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 298890
+    },
+    {
+      "line_no": "8",
+      "meter": 298890
+    },
+    {
+      "line_no": "8",
+      "meter": 298890
+    },
+    {
+      "line_no": "8",
+      "meter": 298890
+    },
+    {
+      "line_no": "8",
+      "meter": 298890
+    }
+  ]
+}

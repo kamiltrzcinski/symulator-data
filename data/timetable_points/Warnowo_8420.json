@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714404,
+  "type": "TIMETABLE_POINT",
+  "name": "Warnowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "401",
+      "meter": 79740
+    },
+    {
+      "line_no": "401",
+      "meter": 79740
+    },
+    {
+      "line_no": "401",
+      "meter": 79740
+    }
+  ]
+}

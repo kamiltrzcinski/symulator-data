@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708585,
+  "type": "TIMETABLE_POINT",
+  "name": "Bartnica KSS \u015awierki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "286",
+      "meter": 35679
+    },
+    {
+      "line_no": "286",
+      "meter": 35679
+    }
+  ]
+}

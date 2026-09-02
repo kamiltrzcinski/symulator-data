@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714867,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u00f3lka Ratowiecka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 195280
+    },
+    {
+      "line_no": "6",
+      "meter": 195280
+    },
+    {
+      "line_no": "6",
+      "meter": 195280
+    },
+    {
+      "line_no": "6",
+      "meter": 195280
+    },
+    {
+      "line_no": "6",
+      "meter": 195401
+    }
+  ]
+}

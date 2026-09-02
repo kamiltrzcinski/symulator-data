@@ -1,0 +1,44 @@
+{
+  "uid": 3453153713883,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Goc\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "406",
+      "meter": 13220
+    },
+    {
+      "line_no": "406",
+      "meter": 13220
+    },
+    {
+      "line_no": "406",
+      "meter": 13220
+    },
+    {
+      "line_no": "406",
+      "meter": 13220
+    },
+    {
+      "line_no": "406",
+      "meter": 13815
+    },
+    {
+      "line_no": "406",
+      "meter": 13815
+    },
+    {
+      "line_no": "406",
+      "meter": 13815
+    },
+    {
+      "line_no": "406",
+      "meter": 13815
+    },
+    {
+      "line_no": "406",
+      "meter": 13815
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714423,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Dawidy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 16500
+    },
+    {
+      "line_no": "8",
+      "meter": 16500
+    },
+    {
+      "line_no": "8",
+      "meter": 16500
+    },
+    {
+      "line_no": "8",
+      "meter": 16500
+    },
+    {
+      "line_no": "8",
+      "meter": 16500
+    }
+  ]
+}

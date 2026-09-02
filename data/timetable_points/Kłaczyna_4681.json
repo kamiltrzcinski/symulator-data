@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710665,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142aczyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "302",
+      "meter": 49800
+    },
+    {
+      "line_no": "302",
+      "meter": 49800
+    },
+    {
+      "line_no": "302",
+      "meter": 49800
+    }
+  ]
+}

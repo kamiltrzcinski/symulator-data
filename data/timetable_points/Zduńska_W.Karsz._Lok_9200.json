@@ -1,0 +1,20 @@
+{
+  "uid": 3453153715184,
+  "type": "TIMETABLE_POINT",
+  "name": "Zdu\u0144ska W.Karsz. Lok",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 166485
+    },
+    {
+      "line_no": "131",
+      "meter": 166485
+    },
+    {
+      "line_no": "131",
+      "meter": 166485
+    }
+  ]
+}

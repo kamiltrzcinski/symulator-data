@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711898,
+  "type": "TIMETABLE_POINT",
+  "name": "Mimowola Roz.1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 321030
+    },
+    {
+      "line_no": "131",
+      "meter": 321030
+    },
+    {
+      "line_no": "741",
+      "meter": -10
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712803,
+  "type": "TIMETABLE_POINT",
+  "name": "Pruszcz Pomorski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 397344
+    },
+    {
+      "line_no": "131",
+      "meter": 397344
+    }
+  ]
+}

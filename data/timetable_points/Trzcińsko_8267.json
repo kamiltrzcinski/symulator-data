@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714251,
+  "type": "TIMETABLE_POINT",
+  "name": "Trzci\u0144sko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 117000
+    },
+    {
+      "line_no": "274",
+      "meter": 117103
+    },
+    {
+      "line_no": "274",
+      "meter": 117103
+    }
+  ]
+}

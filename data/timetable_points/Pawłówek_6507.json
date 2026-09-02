@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712491,
+  "type": "TIMETABLE_POINT",
+  "name": "Paw\u0142\u00f3wek",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 169863
+    },
+    {
+      "line_no": "18",
+      "meter": 169863
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713364,
+  "type": "TIMETABLE_POINT",
+  "name": "Sierpc",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "27",
+      "meter": 87792
+    },
+    {
+      "line_no": "27",
+      "meter": 87792
+    },
+    {
+      "line_no": "33",
+      "meter": 87116
+    },
+    {
+      "line_no": "33",
+      "meter": 87116
+    }
+  ]
+}

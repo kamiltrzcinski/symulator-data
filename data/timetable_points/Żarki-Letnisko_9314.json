@@ -1,0 +1,24 @@
+{
+  "uid": 3453153715298,
+  "type": "TIMETABLE_POINT",
+  "name": "\u017barki-Letnisko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 254088
+    },
+    {
+      "line_no": "1",
+      "meter": 254088
+    },
+    {
+      "line_no": "1",
+      "meter": 254088
+    },
+    {
+      "line_no": "1",
+      "meter": 254088
+    }
+  ]
+}

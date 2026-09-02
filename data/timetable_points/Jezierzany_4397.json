@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710381,
+  "type": "TIMETABLE_POINT",
+  "name": "Jezierzany",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 70211
+    },
+    {
+      "line_no": "275",
+      "meter": 70750
+    },
+    {
+      "line_no": "275",
+      "meter": 70750
+    },
+    {
+      "line_no": "296",
+      "meter": 8768
+    },
+    {
+      "line_no": "775",
+      "meter": 51
+    }
+  ]
+}

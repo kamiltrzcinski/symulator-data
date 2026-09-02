@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709234,
+  "type": "TIMETABLE_POINT",
+  "name": "Czach\u00f3wek Wschodni R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "12",
+      "meter": 66439
+    },
+    {
+      "line_no": "12",
+      "meter": 66439
+    },
+    {
+      "line_no": "12",
+      "meter": 66439
+    },
+    {
+      "line_no": "525",
+      "meter": 1644
+    },
+    {
+      "line_no": "525",
+      "meter": 1644
+    }
+  ]
+}

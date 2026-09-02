@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713964,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczukowskie G\u00f3rki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "61",
+      "meter": 8173
+    },
+    {
+      "line_no": "61",
+      "meter": 8336
+    },
+    {
+      "line_no": "61",
+      "meter": 8336
+    },
+    {
+      "line_no": "61",
+      "meter": 8336
+    },
+    {
+      "line_no": "61",
+      "meter": 8336
+    },
+    {
+      "line_no": "61",
+      "meter": 8336
+    }
+  ]
+}

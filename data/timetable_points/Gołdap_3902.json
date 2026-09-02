@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709886,
+  "type": "TIMETABLE_POINT",
+  "name": "Go\u0142dap",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "41",
+      "meter": 65316
+    },
+    {
+      "line_no": "41",
+      "meter": 65316
+    },
+    {
+      "line_no": "41",
+      "meter": 65316
+    }
+  ]
+}

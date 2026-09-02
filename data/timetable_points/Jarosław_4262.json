@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710246,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaros\u0142aw",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 209319
+    },
+    {
+      "line_no": "91",
+      "meter": 209319
+    },
+    {
+      "line_no": "91",
+      "meter": 209319
+    },
+    {
+      "line_no": "91",
+      "meter": 209319
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714304,
+  "type": "TIMETABLE_POINT",
+  "name": "Turzno Kujawskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 84160
+    },
+    {
+      "line_no": "18",
+      "meter": 84160
+    }
+  ]
+}

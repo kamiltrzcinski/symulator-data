@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713948,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecinek Chy\u017ce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "404",
+      "meter": 3770
+    },
+    {
+      "line_no": "404",
+      "meter": 3900
+    }
+  ]
+}

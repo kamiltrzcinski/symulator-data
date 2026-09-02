@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709017,
+  "type": "TIMETABLE_POINT",
+  "name": "Bytom Roz.9",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "131",
+      "meter": 16726
+    },
+    {
+      "line_no": "131",
+      "meter": 16912
+    },
+    {
+      "line_no": "131",
+      "meter": 16912
+    },
+    {
+      "line_no": "132",
+      "meter": 16712
+    },
+    {
+      "line_no": "132",
+      "meter": 16912
+    },
+    {
+      "line_no": "132",
+      "meter": 16912
+    }
+  ]
+}

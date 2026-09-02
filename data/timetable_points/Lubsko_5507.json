@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711491,
+  "type": "TIMETABLE_POINT",
+  "name": "Lubsko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 172780
+    },
+    {
+      "line_no": "275",
+      "meter": 172780
+    },
+    {
+      "line_no": "275",
+      "meter": 172780
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uid": 3453153714839,
+  "type": "TIMETABLE_POINT",
+  "name": "Wolan\u00f3w Roz.17",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "22",
+      "meter": 76315
+    },
+    {
+      "line_no": "22",
+      "meter": 76315
+    },
+    {
+      "line_no": "22",
+      "meter": 76315
+    },
+    {
+      "line_no": "22",
+      "meter": 76315
+    },
+    {
+      "line_no": "22",
+      "meter": 76376
+    },
+    {
+      "line_no": "576",
+      "meter": 72
+    },
+    {
+      "line_no": "576",
+      "meter": 130
+    }
+  ]
+}

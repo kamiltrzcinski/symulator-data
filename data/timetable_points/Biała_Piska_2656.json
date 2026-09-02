@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708640,
+  "type": "TIMETABLE_POINT",
+  "name": "Bia\u0142a Piska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "219",
+      "meter": 120811
+    },
+    {
+      "line_no": "219",
+      "meter": 120811
+    },
+    {
+      "line_no": "219",
+      "meter": 120811
+    },
+    {
+      "line_no": "219",
+      "meter": 121070
+    },
+    {
+      "line_no": "219",
+      "meter": 121070
+    }
+  ]
+}

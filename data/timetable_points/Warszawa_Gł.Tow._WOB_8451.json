@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714435,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142.Tow. WOB",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "20",
+      "meter": 1170
+    },
+    {
+      "line_no": "510",
+      "meter": 1233
+    }
+  ]
+}

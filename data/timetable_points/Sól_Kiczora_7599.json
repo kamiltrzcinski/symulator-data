@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713583,
+  "type": "TIMETABLE_POINT",
+  "name": "S\u00f3l Kiczora",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "139",
+      "meter": 108008
+    },
+    {
+      "line_no": "139",
+      "meter": 108008
+    }
+  ]
+}

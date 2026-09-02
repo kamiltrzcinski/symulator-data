@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712502,
+  "type": "TIMETABLE_POINT",
+  "name": "Petrovice u Karvine",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "478",
+      "meter": 290762
+    },
+    {
+      "line_no": "478",
+      "meter": 290762
+    }
+  ]
+}

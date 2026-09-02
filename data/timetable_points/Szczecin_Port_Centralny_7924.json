@@ -1,0 +1,124 @@
+{
+  "uid": 3453153713908,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Port Centralny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "273",
+      "meter": 354535
+    },
+    {
+      "line_no": "273",
+      "meter": 354535
+    },
+    {
+      "line_no": "273",
+      "meter": 354535
+    },
+    {
+      "line_no": "273",
+      "meter": 354535
+    },
+    {
+      "line_no": "273",
+      "meter": 354535
+    },
+    {
+      "line_no": "439",
+      "meter": 178
+    },
+    {
+      "line_no": "854",
+      "meter": 1
+    },
+    {
+      "line_no": "854",
+      "meter": 1
+    },
+    {
+      "line_no": "854",
+      "meter": 1
+    },
+    {
+      "line_no": "855",
+      "meter": 853
+    },
+    {
+      "line_no": "855",
+      "meter": 854
+    },
+    {
+      "line_no": "855",
+      "meter": 854
+    },
+    {
+      "line_no": "855",
+      "meter": 1133
+    },
+    {
+      "line_no": "855",
+      "meter": 1133
+    },
+    {
+      "line_no": "990",
+      "meter": 5000
+    },
+    {
+      "line_no": "990",
+      "meter": 5000
+    },
+    {
+      "line_no": "990",
+      "meter": 5000
+    },
+    {
+      "line_no": "991",
+      "meter": 3521
+    },
+    {
+      "line_no": "991",
+      "meter": 3521
+    },
+    {
+      "line_no": "991",
+      "meter": 3521
+    },
+    {
+      "line_no": "992",
+      "meter": 3726
+    },
+    {
+      "line_no": "992",
+      "meter": 3726
+    },
+    {
+      "line_no": "992",
+      "meter": 3726
+    },
+    {
+      "line_no": "993",
+      "meter": 1000
+    },
+    {
+      "line_no": "994",
+      "meter": 500
+    },
+    {
+      "line_no": "994",
+      "meter": 500
+    },
+    {
+      "line_no": "994",
+      "meter": 500
+    },
+    {
+      "line_no": "995",
+      "meter": 400
+    },
+    {
+      "line_no": "995",
+      "meter": 1000
+    }
+  ]
+}

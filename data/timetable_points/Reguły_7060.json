@@ -1,0 +1,12 @@
+{
+  "uid": 3453153713044,
+  "type": "TIMETABLE_POINT",
+  "name": "Regu\u0142y",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "47",
+      "meter": 12936
+    }
+  ]
+}

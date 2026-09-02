@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711862,
+  "type": "TIMETABLE_POINT",
+  "name": "Mik\u0142asze",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "52",
+      "meter": 7128
+    },
+    {
+      "line_no": "52",
+      "meter": 7139
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714959,
+  "type": "TIMETABLE_POINT",
+  "name": "Wroc\u0142aw \u015awieb.R.132",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 1623
+    },
+    {
+      "line_no": "274",
+      "meter": 1623
+    },
+    {
+      "line_no": "761",
+      "meter": 767
+    },
+    {
+      "line_no": "761",
+      "meter": 767
+    },
+    {
+      "line_no": "761",
+      "meter": 767
+    }
+  ]
+}

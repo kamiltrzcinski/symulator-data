@@ -1,0 +1,60 @@
+{
+  "uid": 3453153714407,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Aleje Jerozolimskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 6167
+    },
+    {
+      "line_no": "8",
+      "meter": 6167
+    },
+    {
+      "line_no": "8",
+      "meter": 6167
+    },
+    {
+      "line_no": "8",
+      "meter": 6167
+    },
+    {
+      "line_no": "8",
+      "meter": 6167
+    },
+    {
+      "line_no": "445",
+      "meter": 6068
+    },
+    {
+      "line_no": "445",
+      "meter": 6068
+    },
+    {
+      "line_no": "445",
+      "meter": 6068
+    },
+    {
+      "line_no": "445",
+      "meter": 6068
+    },
+    {
+      "line_no": "445",
+      "meter": 6068
+    },
+    {
+      "line_no": "510",
+      "meter": 3911
+    },
+    {
+      "line_no": "510",
+      "meter": 3911
+    },
+    {
+      "line_no": "510",
+      "meter": 3911
+    }
+  ]
+}

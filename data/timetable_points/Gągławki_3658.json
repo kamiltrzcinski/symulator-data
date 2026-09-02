@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709642,
+  "type": "TIMETABLE_POINT",
+  "name": "G\u0105g\u0142awki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 68688
+    },
+    {
+      "line_no": "216",
+      "meter": 68688
+    },
+    {
+      "line_no": "216",
+      "meter": 68797
+    },
+    {
+      "line_no": "216",
+      "meter": 68797
+    },
+    {
+      "line_no": "216",
+      "meter": 68797
+    }
+  ]
+}

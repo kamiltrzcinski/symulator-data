@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714764,
+  "type": "TIMETABLE_POINT",
+  "name": "Wilk\u00f3w Z\u0142otoryjski",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "342",
+      "meter": 6277
+    },
+    {
+      "line_no": "342",
+      "meter": 6277
+    }
+  ]
+}

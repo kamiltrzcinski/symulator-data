@@ -1,0 +1,36 @@
+{
+  "uid": 3453153709870,
+  "type": "TIMETABLE_POINT",
+  "name": "Gola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "360",
+      "meter": 39642
+    },
+    {
+      "line_no": "360",
+      "meter": 39642
+    },
+    {
+      "line_no": "360",
+      "meter": 39642
+    },
+    {
+      "line_no": "360",
+      "meter": 39642
+    },
+    {
+      "line_no": "360",
+      "meter": 39642
+    },
+    {
+      "line_no": "463",
+      "meter": 6900
+    },
+    {
+      "line_no": "463",
+      "meter": 6900
+    }
+  ]
+}

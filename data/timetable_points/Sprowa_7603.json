@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713587,
+  "type": "TIMETABLE_POINT",
+  "name": "Sprowa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "64",
+      "meter": 17675
+    },
+    {
+      "line_no": "64",
+      "meter": 17675
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710295,
+  "type": "TIMETABLE_POINT",
+  "name": "Ja\u015bkowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 26544
+    },
+    {
+      "line_no": "94",
+      "meter": 26544
+    },
+    {
+      "line_no": "94",
+      "meter": 26544
+    },
+    {
+      "line_no": "94",
+      "meter": 26544
+    },
+    {
+      "line_no": "94",
+      "meter": 26544
+    },
+    {
+      "line_no": "94",
+      "meter": 26544
+    }
+  ]
+}

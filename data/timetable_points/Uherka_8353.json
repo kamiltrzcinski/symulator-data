@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714337,
+  "type": "TIMETABLE_POINT",
+  "name": "Uherka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 246573
+    },
+    {
+      "line_no": "7",
+      "meter": 246573
+    },
+    {
+      "line_no": "63",
+      "meter": 24300
+    },
+    {
+      "line_no": "63",
+      "meter": 24300
+    },
+    {
+      "line_no": "63",
+      "meter": 24300
+    }
+  ]
+}

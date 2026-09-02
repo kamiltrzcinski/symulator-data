@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708924,
+  "type": "TIMETABLE_POINT",
+  "name": "Brzeziniec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "317",
+      "meter": 77398
+    },
+    {
+      "line_no": "317",
+      "meter": 77398
+    },
+    {
+      "line_no": "317",
+      "meter": 77398
+    },
+    {
+      "line_no": "317",
+      "meter": 77398
+    },
+    {
+      "line_no": "317",
+      "meter": 77398
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153714460,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Jelonki R27",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "509",
+      "meter": 4479
+    },
+    {
+      "line_no": "509",
+      "meter": 4479
+    },
+    {
+      "line_no": "509",
+      "meter": 4479
+    },
+    {
+      "line_no": "938",
+      "meter": -55
+    },
+    {
+      "line_no": "938",
+      "meter": -55
+    }
+  ]
+}

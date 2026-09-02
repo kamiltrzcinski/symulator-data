@@ -1,0 +1,32 @@
+{
+  "uid": 3453153710058,
+  "type": "TIMETABLE_POINT",
+  "name": "Grz\u0119ska",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 190511
+    },
+    {
+      "line_no": "91",
+      "meter": 190511
+    },
+    {
+      "line_no": "91",
+      "meter": 190526
+    },
+    {
+      "line_no": "91",
+      "meter": 190526
+    },
+    {
+      "line_no": "91",
+      "meter": 190526
+    },
+    {
+      "line_no": "91",
+      "meter": 190526
+    }
+  ]
+}

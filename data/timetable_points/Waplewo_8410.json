@@ -1,0 +1,32 @@
+{
+  "uid": 3453153714394,
+  "type": "TIMETABLE_POINT",
+  "name": "Waplewo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "216",
+      "meter": 42808
+    },
+    {
+      "line_no": "216",
+      "meter": 42895
+    },
+    {
+      "line_no": "216",
+      "meter": 42895
+    },
+    {
+      "line_no": "216",
+      "meter": 43060
+    },
+    {
+      "line_no": "216",
+      "meter": 43060
+    },
+    {
+      "line_no": "216",
+      "meter": 43060
+    }
+  ]
+}

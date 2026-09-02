@@ -1,0 +1,12 @@
+{
+  "uid": 3453153712915,
+  "type": "TIMETABLE_POINT",
+  "name": "Puszczyk\u00f3wko Roz.18",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "271",
+      "meter": 150026
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711165,
+  "type": "TIMETABLE_POINT",
+  "name": "Kutno R603",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 243
+    },
+    {
+      "line_no": "33",
+      "meter": 243
+    }
+  ]
+}

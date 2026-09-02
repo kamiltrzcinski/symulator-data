@@ -1,0 +1,28 @@
+{
+  "uid": 3453153712972,
+  "type": "TIMETABLE_POINT",
+  "name": "Radom Stara Wola",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 96463
+    },
+    {
+      "line_no": "8",
+      "meter": 96463
+    },
+    {
+      "line_no": "8",
+      "meter": 96500
+    },
+    {
+      "line_no": "8",
+      "meter": 96500
+    },
+    {
+      "line_no": "8",
+      "meter": 96500
+    }
+  ]
+}

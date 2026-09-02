@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712239,
+  "type": "TIMETABLE_POINT",
+  "name": "Okrzeja",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "26",
+      "meter": 30948
+    },
+    {
+      "line_no": "26",
+      "meter": 30948
+    },
+    {
+      "line_no": "26",
+      "meter": 30948
+    },
+    {
+      "line_no": "26",
+      "meter": 30948
+    },
+    {
+      "line_no": "26",
+      "meter": 30948
+    },
+    {
+      "line_no": "26",
+      "meter": 30948
+    }
+  ]
+}

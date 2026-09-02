@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711351,
+  "type": "TIMETABLE_POINT",
+  "name": "Le\u017ano",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "234",
+      "meter": 14503
+    },
+    {
+      "line_no": "234",
+      "meter": 14858
+    }
+  ]
+}

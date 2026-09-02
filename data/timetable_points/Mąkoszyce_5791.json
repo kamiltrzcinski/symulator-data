@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711775,
+  "type": "TIMETABLE_POINT",
+  "name": "M\u0105koszyce",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "277",
+      "meter": 43935
+    },
+    {
+      "line_no": "277",
+      "meter": 43935
+    },
+    {
+      "line_no": "277",
+      "meter": 43935
+    }
+  ]
+}

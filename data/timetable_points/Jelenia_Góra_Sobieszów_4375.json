@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710359,
+  "type": "TIMETABLE_POINT",
+  "name": "Jelenia G\u00f3ra Sobiesz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "311",
+      "meter": 9261
+    },
+    {
+      "line_no": "311",
+      "meter": 9261
+    }
+  ]
+}

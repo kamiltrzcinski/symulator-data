@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710888,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u017cuch\u00f3w R2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "371",
+      "meter": 61233
+    },
+    {
+      "line_no": "371",
+      "meter": 61233
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711844,
+  "type": "TIMETABLE_POINT",
+  "name": "Mietk\u00f3w R. 101",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 28734
+    },
+    {
+      "line_no": "274",
+      "meter": 28734
+    },
+    {
+      "line_no": "970",
+      "meter": 0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710046,
+  "type": "TIMETABLE_POINT",
+  "name": "Gryb\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "96",
+      "meter": 61067
+    },
+    {
+      "line_no": "96",
+      "meter": 61067
+    },
+    {
+      "line_no": "96",
+      "meter": 61067
+    }
+  ]
+}

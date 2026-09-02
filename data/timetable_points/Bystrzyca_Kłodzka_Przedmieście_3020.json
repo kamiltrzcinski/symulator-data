@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709004,
+  "type": "TIMETABLE_POINT",
+  "name": "Bystrzyca K\u0142odzka Przedmie\u015bcie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 112788
+    },
+    {
+      "line_no": "276",
+      "meter": 112788
+    },
+    {
+      "line_no": "276",
+      "meter": 112788
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uid": 3453153711063,
+  "type": "TIMETABLE_POINT",
+  "name": "Krosno Miasto",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "108",
+      "meter": 70481
+    },
+    {
+      "line_no": "108",
+      "meter": 70481
+    },
+    {
+      "line_no": "108",
+      "meter": 70481
+    },
+    {
+      "line_no": "108",
+      "meter": 70552
+    },
+    {
+      "line_no": "108",
+      "meter": 70552
+    }
+  ]
+}

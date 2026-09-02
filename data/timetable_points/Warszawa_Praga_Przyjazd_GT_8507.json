@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714491,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa Praga Przyjazd GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "833",
+      "meter": 13662
+    },
+    {
+      "line_no": "833",
+      "meter": 13662
+    },
+    {
+      "line_no": "833",
+      "meter": 13662
+    }
+  ]
+}

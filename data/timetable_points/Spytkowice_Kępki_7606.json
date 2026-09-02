@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713590,
+  "type": "TIMETABLE_POINT",
+  "name": "Spytkowice K\u0119pki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "94",
+      "meter": 38510
+    },
+    {
+      "line_no": "94",
+      "meter": 38510
+    },
+    {
+      "line_no": "94",
+      "meter": 38510
+    },
+    {
+      "line_no": "94",
+      "meter": 38510
+    },
+    {
+      "line_no": "94",
+      "meter": 38510
+    },
+    {
+      "line_no": "94",
+      "meter": 38510
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid": 3453153709455,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0142ubnia",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "95",
+      "meter": 13150
+    },
+    {
+      "line_no": "95",
+      "meter": 13150
+    },
+    {
+      "line_no": "95",
+      "meter": 13150
+    },
+    {
+      "line_no": "95",
+      "meter": 13159
+    },
+    {
+      "line_no": "95",
+      "meter": 13159
+    },
+    {
+      "line_no": "607",
+      "meter": 1006
+    },
+    {
+      "line_no": "607",
+      "meter": 1206
+    },
+    {
+      "line_no": "607",
+      "meter": 1206
+    },
+    {
+      "line_no": "607",
+      "meter": 1206
+    }
+  ]
+}

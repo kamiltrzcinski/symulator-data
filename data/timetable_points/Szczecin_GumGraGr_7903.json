@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713887,
+  "type": "TIMETABLE_POINT",
+  "name": "Szczecin Gum/Gra(Gr)",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "408",
+      "meter": 13194
+    },
+    {
+      "line_no": "408",
+      "meter": 13194
+    },
+    {
+      "line_no": "408",
+      "meter": 13194
+    },
+    {
+      "line_no": "498",
+      "meter": 13194
+    },
+    {
+      "line_no": "498",
+      "meter": 13194
+    },
+    {
+      "line_no": "498",
+      "meter": 13194
+    }
+  ]
+}

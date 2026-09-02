@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713186,
+  "type": "TIMETABLE_POINT",
+  "name": "Rybnik R.115",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 39980
+    },
+    {
+      "line_no": "148",
+      "meter": 35980
+    }
+  ]
+}

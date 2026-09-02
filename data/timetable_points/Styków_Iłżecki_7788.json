@@ -1,0 +1,20 @@
+{
+  "uid": 3453153713772,
+  "type": "TIMETABLE_POINT",
+  "name": "Styk\u00f3w I\u0142\u017cecki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 168870
+    },
+    {
+      "line_no": "25",
+      "meter": 168870
+    },
+    {
+      "line_no": "25",
+      "meter": 168996
+    }
+  ]
+}

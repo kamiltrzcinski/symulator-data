@@ -1,0 +1,32 @@
+{
+  "uid": 3453153713981,
+  "type": "TIMETABLE_POINT",
+  "name": "Szewnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 47587
+    },
+    {
+      "line_no": "6",
+      "meter": 47587
+    },
+    {
+      "line_no": "6",
+      "meter": 47587
+    },
+    {
+      "line_no": "6",
+      "meter": 48335
+    },
+    {
+      "line_no": "6",
+      "meter": 48335
+    },
+    {
+      "line_no": "6",
+      "meter": 48335
+    }
+  ]
+}

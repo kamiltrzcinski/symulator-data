@@ -1,0 +1,16 @@
+{
+  "uid": 3453153713764,
+  "type": "TIMETABLE_POINT",
+  "name": "Studzianka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "275",
+      "meter": 106125
+    },
+    {
+      "line_no": "275",
+      "meter": 106125
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711817,
+  "type": "TIMETABLE_POINT",
+  "name": "Miedniewice Roz.3",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "1",
+      "meter": 61972
+    },
+    {
+      "line_no": "1",
+      "meter": 61972
+    },
+    {
+      "line_no": "529",
+      "meter": 530
+    }
+  ]
+}

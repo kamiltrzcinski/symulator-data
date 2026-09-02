@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712967,
+  "type": "TIMETABLE_POINT",
+  "name": "Radom Go\u0142\u0119bi\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "8",
+      "meter": 99475
+    },
+    {
+      "line_no": "8",
+      "meter": 99475
+    }
+  ]
+}

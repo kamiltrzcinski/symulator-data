@@ -1,0 +1,72 @@
+{
+  "uid": 3453153715238,
+  "type": "TIMETABLE_POINT",
+  "name": "Zielonka",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 14472
+    },
+    {
+      "line_no": "6",
+      "meter": 14472
+    },
+    {
+      "line_no": "6",
+      "meter": 14763
+    },
+    {
+      "line_no": "6",
+      "meter": 14763
+    },
+    {
+      "line_no": "6",
+      "meter": 14763
+    },
+    {
+      "line_no": "21",
+      "meter": 9942
+    },
+    {
+      "line_no": "21",
+      "meter": 9942
+    },
+    {
+      "line_no": "21",
+      "meter": 10840
+    },
+    {
+      "line_no": "21",
+      "meter": 10840
+    },
+    {
+      "line_no": "21",
+      "meter": 10840
+    },
+    {
+      "line_no": "449",
+      "meter": 21314
+    },
+    {
+      "line_no": "449",
+      "meter": 21314
+    },
+    {
+      "line_no": "449",
+      "meter": 21450
+    },
+    {
+      "line_no": "449",
+      "meter": 21450
+    },
+    {
+      "line_no": "449",
+      "meter": 21461
+    },
+    {
+      "line_no": "449",
+      "meter": 21556
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714774,
+  "type": "TIMETABLE_POINT",
+  "name": "Wis\u0142a Ob\u0142aziec",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "191",
+      "meter": 12338
+    },
+    {
+      "line_no": "191",
+      "meter": 12338
+    }
+  ]
+}

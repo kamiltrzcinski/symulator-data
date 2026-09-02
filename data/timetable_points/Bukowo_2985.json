@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708969,
+  "type": "TIMETABLE_POINT",
+  "name": "Bukowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "293",
+      "meter": 12873
+    },
+    {
+      "line_no": "293",
+      "meter": 12873
+    },
+    {
+      "line_no": "293",
+      "meter": 12873
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710410,
+  "type": "TIMETABLE_POINT",
+  "name": "Juszkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 4536
+    },
+    {
+      "line_no": "229",
+      "meter": 4536
+    },
+    {
+      "line_no": "229",
+      "meter": 4536
+    }
+  ]
+}

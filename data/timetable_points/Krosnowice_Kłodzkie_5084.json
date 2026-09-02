@@ -1,0 +1,20 @@
+{
+  "uid": 3453153711068,
+  "type": "TIMETABLE_POINT",
+  "name": "Krosnowice K\u0142odzkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 100362
+    },
+    {
+      "line_no": "276",
+      "meter": 100362
+    },
+    {
+      "line_no": "322",
+      "meter": 231
+    }
+  ]
+}

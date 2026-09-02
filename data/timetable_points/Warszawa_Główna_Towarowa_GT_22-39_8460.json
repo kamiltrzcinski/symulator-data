@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714444,
+  "type": "TIMETABLE_POINT",
+  "name": "Warszawa G\u0142\u00f3wna Towarowa GT 22-39",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "509",
+      "meter": 1000
+    },
+    {
+      "line_no": "509",
+      "meter": 1000
+    }
+  ]
+}

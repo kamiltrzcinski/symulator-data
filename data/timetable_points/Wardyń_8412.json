@@ -1,0 +1,20 @@
+{
+  "uid": 3453153714396,
+  "type": "TIMETABLE_POINT",
+  "name": "Wardy\u0144",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "410",
+      "meter": 135462
+    },
+    {
+      "line_no": "410",
+      "meter": 135462
+    },
+    {
+      "line_no": "410",
+      "meter": 135462
+    }
+  ]
+}

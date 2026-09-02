@@ -1,0 +1,40 @@
+{
+  "uid": 3453153708635,
+  "type": "TIMETABLE_POINT",
+  "name": "Biadoliny",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "91",
+      "meter": 60197
+    },
+    {
+      "line_no": "91",
+      "meter": 60197
+    },
+    {
+      "line_no": "91",
+      "meter": 60197
+    },
+    {
+      "line_no": "91",
+      "meter": 60197
+    },
+    {
+      "line_no": "91",
+      "meter": 60197
+    },
+    {
+      "line_no": "91",
+      "meter": 60796
+    },
+    {
+      "line_no": "91",
+      "meter": 60796
+    },
+    {
+      "line_no": "91",
+      "meter": 60796
+    }
+  ]
+}

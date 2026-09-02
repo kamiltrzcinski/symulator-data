@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712544,
+  "type": "TIMETABLE_POINT",
+  "name": "Pietrowice Wielkie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "177",
+      "meter": 12342
+    },
+    {
+      "line_no": "177",
+      "meter": 12342
+    },
+    {
+      "line_no": "177",
+      "meter": 12342
+    },
+    {
+      "line_no": "194",
+      "meter": 177
+    },
+    {
+      "line_no": "194",
+      "meter": 177
+    },
+    {
+      "line_no": "194",
+      "meter": 177
+    }
+  ]
+}

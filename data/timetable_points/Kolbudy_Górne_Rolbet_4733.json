@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710717,
+  "type": "TIMETABLE_POINT",
+  "name": "Kolbudy G\u00f3rne Rolbet",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "229",
+      "meter": 16440
+    },
+    {
+      "line_no": "229",
+      "meter": 16440
+    },
+    {
+      "line_no": "229",
+      "meter": 16440
+    }
+  ]
+}

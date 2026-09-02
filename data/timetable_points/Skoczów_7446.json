@@ -1,0 +1,36 @@
+{
+  "uid": 3453153713430,
+  "type": "TIMETABLE_POINT",
+  "name": "Skocz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "157",
+      "meter": 23720
+    },
+    {
+      "line_no": "157",
+      "meter": 23720
+    },
+    {
+      "line_no": "157",
+      "meter": 23744
+    },
+    {
+      "line_no": "190",
+      "meter": 22186
+    },
+    {
+      "line_no": "190",
+      "meter": 22186
+    },
+    {
+      "line_no": "190",
+      "meter": 22186
+    },
+    {
+      "line_no": "190",
+      "meter": 22186
+    }
+  ]
+}

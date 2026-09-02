@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709637,
+  "type": "TIMETABLE_POINT",
+  "name": "Gawrony",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "16",
+      "meter": 54248
+    },
+    {
+      "line_no": "16",
+      "meter": 54248
+    },
+    {
+      "line_no": "16",
+      "meter": 54248
+    }
+  ]
+}

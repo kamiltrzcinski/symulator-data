@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712705,
+  "type": "TIMETABLE_POINT",
+  "name": "Pora\u017cyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "3",
+      "meter": 350967
+    },
+    {
+      "line_no": "3",
+      "meter": 350967
+    },
+    {
+      "line_no": "3",
+      "meter": 351149
+    },
+    {
+      "line_no": "3",
+      "meter": 351149
+    },
+    {
+      "line_no": "3",
+      "meter": 351149
+    },
+    {
+      "line_no": "3",
+      "meter": 351409
+    }
+  ]
+}

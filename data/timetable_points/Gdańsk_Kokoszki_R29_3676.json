@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709660,
+  "type": "TIMETABLE_POINT",
+  "name": "Gda\u0144sk Kokoszki R29",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "234",
+      "meter": 12330
+    },
+    {
+      "line_no": "234",
+      "meter": 12330
+    }
+  ]
+}

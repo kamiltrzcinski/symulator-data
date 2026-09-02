@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709461,
+  "type": "TIMETABLE_POINT",
+  "name": "D\u0142ugopole-Zdr\u00f3j",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "276",
+      "meter": 118343
+    },
+    {
+      "line_no": "276",
+      "meter": 118343
+    },
+    {
+      "line_no": "276",
+      "meter": 118343
+    },
+    {
+      "line_no": "276",
+      "meter": 118343
+    },
+    {
+      "line_no": "276",
+      "meter": 118718
+    }
+  ]
+}

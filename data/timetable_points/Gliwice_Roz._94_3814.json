@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709798,
+  "type": "TIMETABLE_POINT",
+  "name": "Gliwice Roz. 94",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "168",
+      "meter": 463
+    },
+    {
+      "line_no": "168",
+      "meter": 463
+    },
+    {
+      "line_no": "168",
+      "meter": 500
+    },
+    {
+      "line_no": "200",
+      "meter": -513
+    },
+    {
+      "line_no": "200",
+      "meter": -500
+    }
+  ]
+}

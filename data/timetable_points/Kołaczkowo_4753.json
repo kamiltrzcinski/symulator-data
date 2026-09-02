@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710737,
+  "type": "TIMETABLE_POINT",
+  "name": "Ko\u0142aczkowo",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "356",
+      "meter": 107767
+    },
+    {
+      "line_no": "356",
+      "meter": 107767
+    }
+  ]
+}

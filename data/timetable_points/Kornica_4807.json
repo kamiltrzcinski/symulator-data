@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710791,
+  "type": "TIMETABLE_POINT",
+  "name": "Kornica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 102339
+    },
+    {
+      "line_no": "25",
+      "meter": 102452
+    },
+    {
+      "line_no": "25",
+      "meter": 102452
+    }
+  ]
+}

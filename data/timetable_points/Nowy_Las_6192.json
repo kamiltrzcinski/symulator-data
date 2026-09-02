@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712176,
+  "type": "TIMETABLE_POINT",
+  "name": "Nowy Las",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 123600
+    },
+    {
+      "line_no": "137",
+      "meter": 123600
+    }
+  ]
+}

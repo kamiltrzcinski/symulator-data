@@ -1,0 +1,20 @@
+{
+  "uid": 3453153709995,
+  "type": "TIMETABLE_POINT",
+  "name": "Grambow",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "498",
+      "meter": 14910
+    },
+    {
+      "line_no": "498",
+      "meter": 14910
+    },
+    {
+      "line_no": "498",
+      "meter": 14910
+    }
+  ]
+}

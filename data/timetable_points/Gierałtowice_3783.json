@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709767,
+  "type": "TIMETABLE_POINT",
+  "name": "Giera\u0142towice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "149",
+      "meter": 5822
+    },
+    {
+      "line_no": "149",
+      "meter": 5822
+    },
+    {
+      "line_no": "172",
+      "meter": -84
+    },
+    {
+      "line_no": "172",
+      "meter": -84
+    },
+    {
+      "line_no": "172",
+      "meter": -84
+    }
+  ]
+}

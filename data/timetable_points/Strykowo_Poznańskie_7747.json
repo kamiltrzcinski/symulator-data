@@ -1,0 +1,28 @@
+{
+  "uid": 3453153713731,
+  "type": "TIMETABLE_POINT",
+  "name": "Strykowo Pozna\u0144skie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "357",
+      "meter": 87660
+    },
+    {
+      "line_no": "357",
+      "meter": 87660
+    },
+    {
+      "line_no": "357",
+      "meter": 87660
+    },
+    {
+      "line_no": "357",
+      "meter": 87686
+    },
+    {
+      "line_no": "357",
+      "meter": 87686
+    }
+  ]
+}

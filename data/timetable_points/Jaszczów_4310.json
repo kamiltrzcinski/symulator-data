@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710294,
+  "type": "TIMETABLE_POINT",
+  "name": "Jaszcz\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 201843
+    },
+    {
+      "line_no": "7",
+      "meter": 201843
+    }
+  ]
+}

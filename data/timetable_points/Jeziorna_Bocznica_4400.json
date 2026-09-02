@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710384,
+  "type": "TIMETABLE_POINT",
+  "name": "Jeziorna Bocznica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "937",
+      "meter": 18800
+    },
+    {
+      "line_no": "937",
+      "meter": 18800
+    },
+    {
+      "line_no": "937",
+      "meter": 18800
+    }
+  ]
+}

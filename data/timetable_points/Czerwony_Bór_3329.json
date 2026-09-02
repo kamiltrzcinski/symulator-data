@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709313,
+  "type": "TIMETABLE_POINT",
+  "name": "Czerwony B\u00f3r",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "36",
+      "meter": 36366
+    },
+    {
+      "line_no": "36",
+      "meter": 36366
+    },
+    {
+      "line_no": "36",
+      "meter": 36366
+    },
+    {
+      "line_no": "36",
+      "meter": 36366
+    },
+    {
+      "line_no": "36",
+      "meter": 36366
+    }
+  ]
+}

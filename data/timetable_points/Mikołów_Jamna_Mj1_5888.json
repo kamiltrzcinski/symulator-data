@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711872,
+  "type": "TIMETABLE_POINT",
+  "name": "Miko\u0142\u00f3w Jamna Mj1",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "140",
+      "meter": 5055
+    },
+    {
+      "line_no": "140",
+      "meter": 5055
+    }
+  ]
+}

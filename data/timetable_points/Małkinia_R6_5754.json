@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711738,
+  "type": "TIMETABLE_POINT",
+  "name": "Ma\u0142kinia R6",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 87429
+    },
+    {
+      "line_no": "6",
+      "meter": 87429
+    },
+    {
+      "line_no": "6",
+      "meter": 87429
+    },
+    {
+      "line_no": "6",
+      "meter": 87651
+    },
+    {
+      "line_no": "6",
+      "meter": 87651
+    },
+    {
+      "line_no": "34",
+      "meter": 54302
+    },
+    {
+      "line_no": "34",
+      "meter": 54302
+    },
+    {
+      "line_no": "34",
+      "meter": 54522
+    }
+  ]
+}

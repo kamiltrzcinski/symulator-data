@@ -1,0 +1,16 @@
+{
+  "uid": 3453153708895,
+  "type": "TIMETABLE_POINT",
+  "name": "Brody Pomorskie",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "244",
+      "meter": 5848
+    },
+    {
+      "line_no": "244",
+      "meter": 5848
+    }
+  ]
+}

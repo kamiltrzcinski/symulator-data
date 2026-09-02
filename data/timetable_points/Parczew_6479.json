@@ -1,0 +1,24 @@
+{
+  "uid": 3453153712463,
+  "type": "TIMETABLE_POINT",
+  "name": "Parczew",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "30",
+      "meter": 53145
+    },
+    {
+      "line_no": "30",
+      "meter": 53145
+    },
+    {
+      "line_no": "30",
+      "meter": 53145
+    },
+    {
+      "line_no": "30",
+      "meter": 53145
+    }
+  ]
+}

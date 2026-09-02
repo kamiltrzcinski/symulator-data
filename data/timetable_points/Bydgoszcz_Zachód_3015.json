@@ -1,0 +1,20 @@
+{
+  "uid": 3453153708999,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz Zach\u00f3d",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 163067
+    },
+    {
+      "line_no": "18",
+      "meter": 163068
+    },
+    {
+      "line_no": "18",
+      "meter": 163068
+    }
+  ]
+}

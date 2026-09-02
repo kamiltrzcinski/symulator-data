@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710525,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice Murcki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "142",
+      "meter": 5236
+    },
+    {
+      "line_no": "142",
+      "meter": 5236
+    },
+    {
+      "line_no": "142",
+      "meter": 5610
+    }
+  ]
+}

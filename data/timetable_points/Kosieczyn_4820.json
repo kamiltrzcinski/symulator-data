@@ -1,0 +1,36 @@
+{
+  "uid": 3453153710804,
+  "type": "TIMETABLE_POINT",
+  "name": "Kosieczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "358",
+      "meter": 1992
+    },
+    {
+      "line_no": "358",
+      "meter": 1992
+    },
+    {
+      "line_no": "358",
+      "meter": 1992
+    },
+    {
+      "line_no": "358",
+      "meter": 1992
+    },
+    {
+      "line_no": "819",
+      "meter": 4808
+    },
+    {
+      "line_no": "819",
+      "meter": 4808
+    },
+    {
+      "line_no": "819",
+      "meter": 4808
+    }
+  ]
+}

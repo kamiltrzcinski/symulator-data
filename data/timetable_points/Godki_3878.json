@@ -1,0 +1,28 @@
+{
+  "uid": 3453153709862,
+  "type": "TIMETABLE_POINT",
+  "name": "Godki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "220",
+      "meter": 18278
+    },
+    {
+      "line_no": "220",
+      "meter": 18278
+    },
+    {
+      "line_no": "220",
+      "meter": 18278
+    },
+    {
+      "line_no": "220",
+      "meter": 18371
+    },
+    {
+      "line_no": "220",
+      "meter": 18371
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153713432,
+  "type": "TIMETABLE_POINT",
+  "name": "Skocz\u00f3w B\u0142adnice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "190",
+      "meter": 24766
+    },
+    {
+      "line_no": "190",
+      "meter": 24766
+    },
+    {
+      "line_no": "190",
+      "meter": 24836
+    },
+    {
+      "line_no": "190",
+      "meter": 24836
+    }
+  ]
+}

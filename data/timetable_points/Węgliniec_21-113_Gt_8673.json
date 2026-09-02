@@ -1,0 +1,16 @@
+{
+  "uid": 3453153714657,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0119gliniec 21-113 Gt",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "975",
+      "meter": 1500
+    },
+    {
+      "line_no": "975",
+      "meter": 1500
+    }
+  ]
+}

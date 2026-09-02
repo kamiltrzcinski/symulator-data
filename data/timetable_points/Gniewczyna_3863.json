@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709847,
+  "type": "TIMETABLE_POINT",
+  "name": "Gniewczyna",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "68",
+      "meter": 172990
+    },
+    {
+      "line_no": "68",
+      "meter": 172990
+    },
+    {
+      "line_no": "68",
+      "meter": 172990
+    },
+    {
+      "line_no": "68",
+      "meter": 173000
+    },
+    {
+      "line_no": "68",
+      "meter": 173000
+    },
+    {
+      "line_no": "68",
+      "meter": 173000
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "uid": 3453153710152,
+  "type": "TIMETABLE_POINT",
+  "name": "I\u0142awa G\u0142\u00f3wna Il",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "9",
+      "meter": 208075
+    },
+    {
+      "line_no": "9",
+      "meter": 208218
+    },
+    {
+      "line_no": "9",
+      "meter": 208218
+    }
+  ]
+}

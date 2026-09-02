@@ -1,0 +1,28 @@
+{
+  "uid": 3453153710512,
+  "type": "TIMETABLE_POINT",
+  "name": "Katowice M. Roz. 233",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "652",
+      "meter": -6
+    },
+    {
+      "line_no": "652",
+      "meter": 0
+    },
+    {
+      "line_no": "657",
+      "meter": 9579
+    },
+    {
+      "line_no": "657",
+      "meter": 9579
+    },
+    {
+      "line_no": "657",
+      "meter": 9612
+    }
+  ]
+}

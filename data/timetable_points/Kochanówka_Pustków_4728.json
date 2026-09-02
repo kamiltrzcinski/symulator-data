@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710712,
+  "type": "TIMETABLE_POINT",
+  "name": "Kochan\u00f3wka Pustk\u00f3w",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "25",
+      "meter": 314568
+    },
+    {
+      "line_no": "25",
+      "meter": 314568
+    },
+    {
+      "line_no": "25",
+      "meter": 314568
+    },
+    {
+      "line_no": "25",
+      "meter": 314568
+    }
+  ]
+}

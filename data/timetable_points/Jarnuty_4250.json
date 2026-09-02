@@ -1,0 +1,16 @@
+{
+  "uid": 3453153710234,
+  "type": "TIMETABLE_POINT",
+  "name": "Jarnuty",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "34",
+      "meter": 9700
+    },
+    {
+      "line_no": "34",
+      "meter": 9700
+    }
+  ]
+}

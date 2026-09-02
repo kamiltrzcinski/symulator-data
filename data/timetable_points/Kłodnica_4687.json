@@ -1,0 +1,40 @@
+{
+  "uid": 3453153710671,
+  "type": "TIMETABLE_POINT",
+  "name": "K\u0142odnica",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "136",
+      "meter": 2268
+    },
+    {
+      "line_no": "136",
+      "meter": 2268
+    },
+    {
+      "line_no": "136",
+      "meter": 2268
+    },
+    {
+      "line_no": "136",
+      "meter": 2268
+    },
+    {
+      "line_no": "680",
+      "meter": 2268
+    },
+    {
+      "line_no": "680",
+      "meter": 2268
+    },
+    {
+      "line_no": "680",
+      "meter": 2268
+    },
+    {
+      "line_no": "680",
+      "meter": 2268
+    }
+  ]
+}

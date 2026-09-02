@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709216,
+  "type": "TIMETABLE_POINT",
+  "name": "Cmolas",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "71",
+      "meter": 31115
+    },
+    {
+      "line_no": "71",
+      "meter": 31115
+    }
+  ]
+}

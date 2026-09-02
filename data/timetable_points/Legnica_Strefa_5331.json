@@ -1,0 +1,12 @@
+{
+  "uid": 3453153711315,
+  "type": "TIMETABLE_POINT",
+  "name": "Legnica Strefa",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "137",
+      "meter": 276404
+    }
+  ]
+}

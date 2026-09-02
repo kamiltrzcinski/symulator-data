@@ -1,0 +1,32 @@
+{
+  "uid": 3453153709774,
+  "type": "TIMETABLE_POINT",
+  "name": "Gi\u017cycko",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "38",
+      "meter": 150976
+    },
+    {
+      "line_no": "38",
+      "meter": 150976
+    },
+    {
+      "line_no": "38",
+      "meter": 150976
+    },
+    {
+      "line_no": "38",
+      "meter": 150976
+    },
+    {
+      "line_no": "38",
+      "meter": 150976
+    },
+    {
+      "line_no": "38",
+      "meter": 150976
+    }
+  ]
+}

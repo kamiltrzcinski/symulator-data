@@ -1,0 +1,16 @@
+{
+  "uid": 3453153709203,
+  "type": "TIMETABLE_POINT",
+  "name": "Ci\u0119\u017ckowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "718",
+      "meter": 16896
+    },
+    {
+      "line_no": "718",
+      "meter": 16896
+    }
+  ]
+}

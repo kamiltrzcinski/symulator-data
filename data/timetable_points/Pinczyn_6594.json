@@ -1,0 +1,16 @@
+{
+  "uid": 3453153712578,
+  "type": "TIMETABLE_POINT",
+  "name": "Pinczyn",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "203",
+      "meter": 35956
+    },
+    {
+      "line_no": "203",
+      "meter": 35956
+    }
+  ]
+}

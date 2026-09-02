@@ -1,0 +1,16 @@
+{
+  "uid": 3453153711267,
+  "type": "TIMETABLE_POINT",
+  "name": "L973 km:3,354 PLK - Z-dy Ch. WIZ\u00d3W",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "973",
+      "meter": 3354
+    },
+    {
+      "line_no": "973",
+      "meter": 3354
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": 3453153708904,
+  "type": "TIMETABLE_POINT",
+  "name": "Browarek P S\u0142u\u017cbowy",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "4",
+      "meter": 195900
+    }
+  ]
+}

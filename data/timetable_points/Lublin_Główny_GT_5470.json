@@ -1,0 +1,40 @@
+{
+  "uid": 3453153711454,
+  "type": "TIMETABLE_POINT",
+  "name": "Lublin G\u0142\u00f3wny GT",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "7",
+      "meter": 174554
+    },
+    {
+      "line_no": "7",
+      "meter": 174554
+    },
+    {
+      "line_no": "68",
+      "meter": 417
+    },
+    {
+      "line_no": "68",
+      "meter": 417
+    },
+    {
+      "line_no": "68",
+      "meter": 417
+    },
+    {
+      "line_no": "935",
+      "meter": -207
+    },
+    {
+      "line_no": "935",
+      "meter": -207
+    },
+    {
+      "line_no": "935",
+      "meter": 1098
+    }
+  ]
+}

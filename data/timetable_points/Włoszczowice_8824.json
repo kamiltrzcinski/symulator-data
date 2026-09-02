@@ -1,0 +1,48 @@
+{
+  "uid": 3453153714808,
+  "type": "TIMETABLE_POINT",
+  "name": "W\u0142oszczowice",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "70",
+      "meter": 0
+    },
+    {
+      "line_no": "70",
+      "meter": 0
+    },
+    {
+      "line_no": "70",
+      "meter": 0
+    },
+    {
+      "line_no": "70",
+      "meter": 0
+    },
+    {
+      "line_no": "70",
+      "meter": 0
+    },
+    {
+      "line_no": "73",
+      "meter": 19542
+    },
+    {
+      "line_no": "73",
+      "meter": 19542
+    },
+    {
+      "line_no": "73",
+      "meter": 19542
+    },
+    {
+      "line_no": "73",
+      "meter": 19542
+    },
+    {
+      "line_no": "73",
+      "meter": 19542
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uid": 3453153712057,
+  "type": "TIMETABLE_POINT",
+  "name": "Narewka Roz.2",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "31",
+      "meter": 139543
+    },
+    {
+      "line_no": "31",
+      "meter": 139543
+    },
+    {
+      "line_no": "31",
+      "meter": 139543
+    },
+    {
+      "line_no": "31",
+      "meter": 139543
+    },
+    {
+      "line_no": "31",
+      "meter": 139543
+    },
+    {
+      "line_no": "913",
+      "meter": -1293
+    }
+  ]
+}

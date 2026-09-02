@@ -1,0 +1,36 @@
+{
+  "uid": 3453153711939,
+  "type": "TIMETABLE_POINT",
+  "name": "Mokra Wie\u015b",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "6",
+      "meter": 42824
+    },
+    {
+      "line_no": "6",
+      "meter": 42824
+    },
+    {
+      "line_no": "6",
+      "meter": 42824
+    },
+    {
+      "line_no": "6",
+      "meter": 43154
+    },
+    {
+      "line_no": "6",
+      "meter": 43155
+    },
+    {
+      "line_no": "6",
+      "meter": 43155
+    },
+    {
+      "line_no": "6",
+      "meter": 43155
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "uid": 3453153710378,
+  "type": "TIMETABLE_POINT",
+  "name": "Jerzmanki",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "274",
+      "meter": 197383
+    },
+    {
+      "line_no": "274",
+      "meter": 197383
+    },
+    {
+      "line_no": "274",
+      "meter": 197383
+    },
+    {
+      "line_no": "274",
+      "meter": 197383
+    }
+  ]
+}

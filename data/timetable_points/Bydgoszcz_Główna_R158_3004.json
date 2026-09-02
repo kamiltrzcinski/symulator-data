@@ -1,0 +1,28 @@
+{
+  "uid": 3453153708988,
+  "type": "TIMETABLE_POINT",
+  "name": "Bydgoszcz G\u0142\u00f3wna R158",
+  "point_type": "OTHER",
+  "line_locations": [
+    {
+      "line_no": "18",
+      "meter": 160608
+    },
+    {
+      "line_no": "18",
+      "meter": 160608
+    },
+    {
+      "line_no": "18",
+      "meter": 160608
+    },
+    {
+      "line_no": "745",
+      "meter": 550
+    },
+    {
+      "line_no": "745",
+      "meter": 550
+    }
+  ]
+}
