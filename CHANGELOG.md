@@ -5,6 +5,7 @@ All notable changes are documented here.
 ## [Unreleased]
 
 ### Added
+- `ci`: Added `scripts/check-changelog.py` and updated `.githooks/pre-commit` to enforce `CHANGELOG.md` staging and version entry checks, mirroring `symulator` repository rules.
 - `scripts`: Added unit tests (`tests/test_find_path.py`) covering `BaseTractionStrategy` and `ElectricTractionStrategy` cost calculations, line change penalties (+5 min), and unelectrified track exclusions (`float('inf')`).
 
 ### Changed
