@@ -1,12 +1,20 @@
 import json
-import sys
 import pickle
+import heapq
+import sys
 import argparse
 from pathlib import Path
-from collections import deque
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_FILE = ROOT / "data" / ".topology_cache.pkl"
+REGISTRY_FILE = ROOT / "data" / "plk_registry.json"
+
+def load_registry():
+    if not REGISTRY_FILE.exists():
+        print(f"Brak pliku {REGISTRY_FILE.name}. Uruchom najpierw import_plk_registry.py.", file=sys.stderr)
+        return {}
+    with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 def build_cache():
     print("Budowanie indeksu bazy (to potrwa tylko za pierwszym razem)...", flush=True)
@@ -31,15 +39,22 @@ def build_cache():
                 fr = obj["from_uid"]
                 to = obj["to_uid"]
                 lines_data = obj.get("lines", [])
+                
+                # Zapisujemy dystans, nr linii, oraz poczatek/koniec kilometracji 
                 dist = 0
                 line_no = "999"
+                from_meter = 0
+                to_meter = 0
+                
                 if lines_data:
-                    dist = abs(lines_data[0].get("to_meter", 0) - lines_data[0].get("from_meter", 0))
+                    from_meter = lines_data[0].get("from_meter", 0)
+                    to_meter = lines_data[0].get("to_meter", 0)
+                    dist = abs(to_meter - from_meter)
                     line_no = str(lines_data[0].get("line_no", "999"))
                 
                 if fr not in connections:
                     connections[fr] = []
-                connections[fr].append((to, dist, line_no))
+                connections[fr].append((to, dist, line_no, from_meter, to_meter))
                 
     cache_data = (points, points_by_name, connections)
     try:
@@ -55,66 +70,92 @@ def load_catalog():
             with open(CACHE_FILE, "rb") as f:
                 return pickle.load(f)
         except Exception:
-            CACHE_FILE.unlink(missing_ok=True)
+            pass
     return build_cache()
 
-import heapq
-
-# Explicit classification based on PKP PLK Id-12 (Wykaz linii kolejowych PLK)
-# Classification: M = Magistralna (1.0), P = Pierwszorzedna (1.2), D = Drugorzedna (2.5), J = Miejscowa (4.5), L = Lacznik/Manewrowa (10.0)
-PLK_MAGISTRALE = {
-    "1", "2", "3", "4", "6", "7", "8", "9", "11", "12", "13", "14", "15", "16", "17", "18", "19", 
-    "21", "22", "25", "26", "91", "131", "133", "271", "272", "273", "274", "351", "353", "447", "448"
-}
-
-PLK_PIERWSZORZEDNE = {
-    "20", "23", "24", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "38", "39", "40",
-    "41", "42", "43", "44", "45", "61", "93", "106", "137", "138", "139", "143", "144", "145",
-    "201", "202", "203", "275", "355", "356", "401", "402", "403"
-}
-
-PLK_DRUGORZEDNE = {
-    "107", "108", "117", "140", "146", "204", "207", "208", "213", "281", "357", "358", "395"
-}
-
-def get_line_multiplier(line_no_str: str, traction: str = None) -> float:
-    line_clean = line_no_str.strip()
+def get_segment_vmax(line_no: str, from_m: int, to_m: int, registry: dict) -> float:
+    """Zwraca usredniona predkosc dla danego odcinka na podstawie rejestru PLK."""
+    line_data = registry.get(line_no)
+    if not line_data:
+        return 40.0 # domyslna niska predkosc dla nieznanych linii (np. lacznice)
+        
+    speeds = line_data.get("speeds", [])
+    if not speeds:
+        return 40.0
+        
+    start_km = min(from_m, to_m) / 1000.0
+    end_km = max(from_m, to_m) / 1000.0
     
-    # 1. Official PLK Id-12 explicit classification
-    if line_clean in PLK_MAGISTRALE:
-        mult = 1.0
-    elif line_clean in PLK_PIERWSZORZEDNE:
-        mult = 1.25
-    elif line_clean in PLK_DRUGORZEDNE:
-        mult = 2.5
+    total_weighted_vmax = 0.0
+    total_length = 0.0
+    
+    for s in speeds:
+        # Zakladamy tor 1 lub N dla uproszczenia (mozna dopracowac o konkretny tor)
+        if s["track"] not in ["1", "N"]:
+            continue
+            
+        s_km_start = min(s["km_start"], s["km_end"])
+        s_km_end = max(s["km_start"], s["km_end"])
+        
+        # Oblicz czesc wspolna przedzialow
+        overlap_start = max(start_km, s_km_start)
+        overlap_end = min(end_km, s_km_end)
+        
+        if overlap_end > overlap_start:
+            length = overlap_end - overlap_start
+            vmax = s["vmax_pas"] if s["vmax_pas"] > 0 else 40.0
+            total_weighted_vmax += vmax * length
+            total_length += length
+            
+    if total_length > 0:
+        return total_weighted_vmax / total_length
     else:
-        try:
-            num = int(line_clean)
-            if 1 <= num <= 450:
-                mult = 1.8
-            elif 451 <= num <= 699:
-                mult = 4.0
-            else:
-                mult = 12.0 # 700+ lacznice/manewrowe
-        except ValueError:
-            mult = 8.0
+        # Jesli nie znalezlismy zadnego pokrycia, wez maksymalna dla calej linii
+        max_v = max([s["vmax_pas"] for s in speeds if s["vmax_pas"] > 0] + [40.0])
+        return max_v
 
-    # Traction modifier: if Electric, apply additional penalty to non-magistral/branch lines
-    if traction == "E":
-        if line_clean not in PLK_MAGISTRALE and line_clean not in PLK_PIERWSZORZEDNE:
-            mult *= 4.0
+def get_segment_class(line_no: str, from_m: int, to_m: int, registry: dict) -> str:
+    """Zwraca dominujaca klase odcinka na podstawie rejestru PLK."""
+    line_data = registry.get(line_no)
+    if not line_data:
+        return ""
+        
+    classes = line_data.get("classes", [])
+    if not classes:
+        return ""
+        
+    start_km = min(from_m, to_m) / 1000.0
+    end_km = max(from_m, to_m) / 1000.0
+    
+    class_lengths = {}
+    for c in classes:
+        if c["track"] not in ["1", "N"]:
+            continue
+            
+        c_km_start = min(c["km_start"], c["km_end"])
+        c_km_end = max(c["km_start"], c["km_end"])
+        
+        overlap_start = max(start_km, c_km_start)
+        overlap_end = min(end_km, c_km_end)
+        
+        if overlap_end > overlap_start:
+            length = overlap_end - overlap_start
+            klasa = c["class"]
+            class_lengths[klasa] = class_lengths.get(klasa, 0) + length
+            
+    if class_lengths:
+        # Zwroc klase, ktora pokrywa najdluzszy fragment
+        return max(class_lengths.items(), key=lambda x: x[1])[0]
+    return ""
 
-    return mult
-
-def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, traction=None):
-    """Finds optimal path using Dijkstra prioritizing mainlines and avoiding backwoods."""
+def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, registry, traction=None):
+    """Finds optimal path using Dijkstra prioritizing time based on factual PLK speed limits."""
     if start_uid == end_uid:
         return [start_uid], 0
         
-    # (weighted_cost, physical_distance, current_uid, path, last_line_no)
-    pq = [(0, 0, start_uid, [start_uid], None)]
+    # (cost_minutes, physical_distance, current_uid, path, last_line_no)
+    pq = [(0.0, 0, start_uid, [start_uid], None)]
     visited = excluded_uids.copy()
-    best_dist = {}
     
     while pq:
         cost, dist, current, path, last_line = heapq.heappop(pq)
@@ -127,21 +168,35 @@ def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, traction=No
         visited.add(current)
             
         for edge_tuple in connections.get(current, []):
-            if len(edge_tuple) == 3:
+            if len(edge_tuple) == 5:
+                neighbor, edge_dist, line_no, from_meter, to_meter = edge_tuple
+            elif len(edge_tuple) == 3:
                 neighbor, edge_dist, line_no = edge_tuple
+                from_meter, to_meter = 0, 0
             else:
                 neighbor, edge_dist = edge_tuple[:2]
-                line_no = "999"
+                line_no, from_meter, to_meter = "999", 0, 0
 
             if neighbor not in visited:
-                mult = get_line_multiplier(line_no, traction)
-                edge_cost = edge_dist * mult
+                vmax = get_segment_vmax(line_no, from_meter, to_meter, registry)
+                klasa = get_segment_class(line_no, from_meter, to_meter, registry)
                 
-                # Penalty for changing lines to avoid zigzagging across switching connections
+                # Czas przejazdu w minutach (dystans w km / vmax w km/h * 60)
+                # Zabezpieczenie przed dystansem = 0
+                dist_km = max(edge_dist, 100) / 1000.0
+                time_cost = (dist_km / vmax) * 60.0
+                
+                # Kara za zmiane linii (zapobiega niepotrzebnemu skakaniu po lacznicach i wezlach)
                 if last_line is not None and last_line != line_no:
-                    edge_cost += 2000.0  # 2 km virtual penalty for switching lines
+                    time_cost += 5.0  # +5 minut za zmiane linii (karygodne zygzakowanie)
                     
-                heapq.heappush(pq, (cost + edge_cost, dist + edge_dist, neighbor, path + [neighbor], line_no))
+                # Brak twardych danych o trakcji z ZAL 2.2, ale stosujemy ogolna heurystyke na podstawie klas i predkosci:
+                # Linie znaczenia miejscowego o niskiej predkosci rzadko maja siec trakcyjna.
+                if traction == "E":
+                    if vmax < 60.0 and klasa not in ["C3", "C4", "D3", "D4"]:
+                        time_cost *= 3.0 # Duza kara dla tras potencjalnie niezelektryfikowanych
+                
+                heapq.heappush(pq, (cost + time_cost, dist + edge_dist, neighbor, path + [neighbor], line_no))
     return None, 0
 
 def resolve_point(name, points_by_name, role="Punkt"):
@@ -162,6 +217,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None, tractio
         exclude_names = []
         
     points, points_by_name, connections = load_catalog()
+    registry = load_registry()
     
     if not connections:
         print("Blad: Brak polaczen w bazie.")
@@ -207,7 +263,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None, tractio
     via_str = f" przez: {', '.join([o for _, o in resolved_via])}" if resolved_via else ""
     ex_str = f" [wykluczone: {', '.join(excluded_names_display)}]" if excluded_names_display else ""
     tr_str = f" [trakcja: {traction}]" if traction else ""
-    print(f"Szukanie optymalnej trasy PLK: {start_orig} -> {end_orig}{via_str}{ex_str}{tr_str}...", flush=True)
+    print(f"Szukanie optymalnej trasy (na bazie predkosci z reg. PLK): {start_orig} -> {end_orig}{via_str}{ex_str}{tr_str}...", flush=True)
 
     full_path = []
     total_distance = 0
@@ -215,7 +271,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None, tractio
         seg_start_uid, seg_start_name = waypoints[i]
         seg_end_uid, seg_end_name = waypoints[i + 1]
         
-        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids, traction=traction)
+        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids, registry, traction=traction)
         if not seg_path:
             print(f"\nNie znaleziono polaczenia na odcinku: {seg_start_name} -> {seg_end_name} z uwzglednieniem podanych kryteriow.")
             return
@@ -226,7 +282,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None, tractio
         else:
             full_path.extend(seg_path[1:]) # unikamy dublowania punktu stykowego
 
-    print("\nZnaleziona trasa (z uwzglednieniem priorytetu magistrali PLK):")
+    print("\nZnaleziona trasa:")
     for idx, p in enumerate(full_path):
         tag = ""
         if p == start_uid:
@@ -242,28 +298,28 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None, tractio
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Wyszukiwarka tras kolejowych w oparciu o topologie SKRJ Kalkulacja.",
+        description="Wyszukiwarka tras w oparciu o parametry z Regulaminu Sieci PLK.",
         formatter_class=argparse.RawTextHelpFormatter
     )
-    parser.add_argument("start", help="Nazwa punktu poczatkowego (np. \"Kielce Glowne\")")
-    parser.add_argument("end", help="Nazwa punktu koncowego (np. \"Krakow Glowny\")")
+    parser.add_argument("start", help="Nazwa punktu poczatkowego")
+    parser.add_argument("end", help="Nazwa punktu koncowego")
     parser.add_argument(
         "--via", "-v", 
         nargs="+", 
         default=[], 
-        help="Punkty posrednie przez ktore musi przebiegac trasa (kolejnosc ma znaczenie).\nPrzyklad: --via \"Radom Glowny\" \"Deblin\""
+        help="Punkty posrednie przez ktore musi przebiegac trasa"
     )
     parser.add_argument(
         "--exclude", "-e", 
         nargs="+", 
         default=[], 
-        help="Punkty/posterunki wykluczone z wyznaczania trasy (objazdy).\nPrzyklad: --exclude \"Tunel\" \"Miechow\""
+        help="Punkty wykluczone z wyznaczania trasy"
     )
     parser.add_argument(
         "--traction", "-t",
         choices=["E", "S"],
         default=None,
-        help="Rodzaj trakcji (E - Elektryczna, S - Spalinowa).\nPrzyklad: -t E"
+        help="Rodzaj trakcji (E/S) - wariant przyblizony"
     )
     
     if len(sys.argv) < 3:
