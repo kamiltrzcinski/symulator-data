@@ -7,27 +7,37 @@
     {
       "line_no": "14",
       "from_meter": 179930,
-      "to_meter": 180268
+      "to_meter": 180268,
+      "vmax": 100.0,
+      "class": "C3"
     },
     {
       "line_no": "14",
       "from_meter": 180914,
-      "to_meter": 180268
+      "to_meter": 180268,
+      "vmax": 100.0,
+      "class": "C3"
     },
     {
       "line_no": "362",
       "from_meter": 665,
-      "to_meter": 666
+      "to_meter": 666,
+      "vmax": 40.0,
+      "class": "--"
     },
     {
       "line_no": "362",
       "from_meter": 718,
-      "to_meter": 666
+      "to_meter": 666,
+      "vmax": 40.0,
+      "class": "--"
     },
     {
       "line_no": "362",
       "from_meter": 718,
-      "to_meter": 719
+      "to_meter": 719,
+      "vmax": 40.0,
+      "class": "--"
     }
   ]
 }
