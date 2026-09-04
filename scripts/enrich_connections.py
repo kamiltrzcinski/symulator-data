@@ -108,27 +108,30 @@ def build_registry():
         
     return registry
 
-def get_segment_vmax(line_no, from_m, to_m, registry):
+def get_segment_vmax(line_no, from_m, to_m, registry, preferred_tracks=("1", "N", "2")):
     line_data = registry.get(line_no)
     if not line_data or not line_data.get("speeds"): return 40.0
     speeds = line_data["speeds"]
     start_km = min(from_m, to_m) / 1000.0
     end_km = max(from_m, to_m) / 1000.0
-    total_time = 0.0
-    total_l = 0.0
-    for s in speeds:
-        if s["track"] not in ["1", "N"]: continue
-        skm_s = min(s["km_start"], s["km_end"])
-        skm_e = max(s["km_start"], s["km_end"])
-        overlap_start = max(start_km, skm_s)
-        overlap_end = min(end_km, skm_e)
-        if overlap_end > overlap_start:
-            l = overlap_end - overlap_start
-            v = s["vmax_pas"] if s["vmax_pas"] > 0 else 40.0
-            total_time += l / v
-            total_l += l
-    if total_time > 0: 
-        return total_l / total_time
+    
+    for track_group in [("1", "N"), ("2",), None]:
+        total_time = 0.0
+        total_l = 0.0
+        for s in speeds:
+            if track_group and s["track"] not in track_group: continue
+            skm_s = min(s["km_start"], s["km_end"])
+            skm_e = max(s["km_start"], s["km_end"])
+            overlap_start = max(start_km, skm_s)
+            overlap_end = min(end_km, skm_e)
+            if overlap_end > overlap_start:
+                l = overlap_end - overlap_start
+                v = s["vmax_pas"] if s["vmax_pas"] > 0 else 40.0
+                total_time += l / v
+                total_l += l
+        if total_time > 0: 
+            return total_l / total_time
+
     # Fallback to absolute max if no exact segment match
     return max([s["vmax_pas"] for s in speeds if s["vmax_pas"] > 0] + [40.0])
 
@@ -138,19 +141,21 @@ def get_segment_class(line_no, from_m, to_m, registry):
     classes = line_data["classes"]
     start_km = min(from_m, to_m) / 1000.0
     end_km = max(from_m, to_m) / 1000.0
-    class_l = {}
-    for c in classes:
-        if c["track"] not in ["1", "N"]: continue
-        ckm_s = min(c["km_start"], c["km_end"])
-        ckm_e = max(c["km_start"], c["km_end"])
-        overlap_start = max(start_km, ckm_s)
-        overlap_end = min(end_km, ckm_e)
-        if overlap_end > overlap_start:
-            l = overlap_end - overlap_start
-            k = c["class"]
-            class_l[k] = class_l.get(k, 0) + l
-    if class_l:
-        return max(class_l.items(), key=lambda x: x[1])[0]
+    
+    for track_group in [("1", "N"), ("2",), None]:
+        class_l = {}
+        for c in classes:
+            if track_group and c["track"] not in track_group: continue
+            ckm_s = min(c["km_start"], c["km_end"])
+            ckm_e = max(c["km_start"], c["km_end"])
+            overlap_start = max(start_km, ckm_s)
+            overlap_end = min(end_km, ckm_e)
+            if overlap_end > overlap_start:
+                l = overlap_end - overlap_start
+                k = c["class"]
+                class_l[k] = class_l.get(k, 0) + l
+        if class_l:
+            return max(class_l.items(), key=lambda x: x[1])[0]
     return ""
 
 def main():
