@@ -4,9 +4,43 @@ import heapq
 import sys
 import argparse
 from pathlib import Path
+from abc import ABC, abstractmethod
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_FILE = ROOT / "data" / ".topology_cache.pkl"
+
+class CostStrategy(ABC):
+    @abstractmethod
+    def get_cost(self, edge_dist_m: float, vmax: float, line_no: str, klasa: str, last_line_no: str) -> float:
+        """Calculates edge weight (e.g. time cost). Returns float('inf') if edge is forbidden."""
+        pass
+
+class BaseTractionStrategy(CostStrategy):
+    def get_cost(self, edge_dist_m: float, vmax: float, line_no: str, klasa: str, last_line_no: str) -> float:
+        # Distance in km, guard against zero/negative distances
+        dist_km = max(edge_dist_m, 100) / 1000.0
+        
+        # Effective vmax, guard against division by zero
+        vmax_eff = max(vmax, 10.0) 
+        
+        # Base time cost in minutes
+        time_cost = (dist_km / vmax_eff) * 60.0
+        
+        # Penalty for changing lines to avoid zigzagging across junctions
+        if last_line_no is not None and last_line_no != line_no:
+            time_cost += 5.0
+            
+        return time_cost
+
+class ElectricTractionStrategy(BaseTractionStrategy):
+    def get_cost(self, edge_dist_m: float, vmax: float, line_no: str, klasa: str, last_line_no: str) -> float:
+        base_cost = super().get_cost(edge_dist_m, vmax, line_no, klasa, last_line_no)
+        
+        # If line appears to be a low-speed local line without wire, strictly forbid entry
+        if vmax < 60.0 and klasa not in ["C3", "C4", "D3", "D4"]:
+            return float('inf')
+            
+        return base_cost
 
 def build_cache():
     print("Budowanie indeksu bazy (to potrwa tylko za pierwszym razem)...", flush=True)
@@ -42,7 +76,6 @@ def build_cache():
                     to_meter = lines_data[0].get("to_meter", 0)
                     dist = abs(to_meter - from_meter)
                     line_no = str(lines_data[0].get("line_no", "999"))
-                    # Baza zawiera już pre-kalkulowane parametry PLK
                     vmax = float(lines_data[0].get("vmax", 40.0))
                     klasa = lines_data[0].get("class", "")
                 
@@ -67,8 +100,8 @@ def load_catalog():
             pass
     return build_cache()
 
-def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, traction=None):
-    """Wyszukuje optymalna trase uzywajac danych wyciagnietych bezposrednio z bazy."""
+def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, cost_strategy: CostStrategy):
+    """Wyszukuje optymalna trase uzywajac wstrzyknietej strategii kosztowej (Dependency Injection)."""
     if start_uid == end_uid:
         return [start_uid], 0
         
@@ -93,19 +126,10 @@ def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, traction=No
                 line_no, vmax, klasa = "999", 40.0, ""
 
             if neighbor not in visited:
-                # Dystans w kilometrach, zabezpieczenie przed 0
-                dist_km = max(edge_dist, 100) / 1000.0
-                vmax = max(vmax, 10.0) # Unikamy dzielenia przez 0
+                time_cost = cost_strategy.get_cost(edge_dist, vmax, line_no, klasa, last_line)
                 
-                # Bezpośrednie użycie prędkości zaszytej w bazie! Koszt = fizyczny czas.
-                time_cost = (dist_km / vmax) * 60.0
-                
-                if last_line is not None and last_line != line_no:
-                    time_cost += 5.0
-                    
-                if traction == "E":
-                    if vmax < 60.0 and klasa not in ["C3", "C4", "D3", "D4"]:
-                        time_cost *= 3.0
+                if time_cost == float('inf'):
+                    continue
                 
                 heapq.heappush(pq, (cost + time_cost, dist + edge_dist, neighbor, path + [neighbor], line_no))
     return None, 0
@@ -164,13 +188,16 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None, tractio
     tr_str = f" [trakcja: {traction}]" if traction else ""
     print(f"Szukanie optymalnej trasy: {start_orig} -> {end_orig}{via_str}{ex_str}{tr_str}...", flush=True)
 
+    # Dependency Injection
+    strategy = ElectricTractionStrategy() if traction == "E" else BaseTractionStrategy()
+
     full_path = []
     total_distance = 0
     for i in range(len(waypoints) - 1):
         seg_start_uid, seg_start_name = waypoints[i]
         seg_end_uid, seg_end_name = waypoints[i + 1]
         
-        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids, traction=traction)
+        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids, cost_strategy=strategy)
         if not seg_path:
             print(f"\nNie znaleziono polaczenia na odcinku: {seg_start_name} -> {seg_end_name} z uwzglednieniem podanych kryteriow.")
             return

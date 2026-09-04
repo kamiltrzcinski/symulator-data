@@ -18,6 +18,17 @@ def parse_speed(val):
     except (ValueError, TypeError):
         return 0.0
 
+def safe_line_no(val):
+    if pd.isna(val):
+        return ""
+    if isinstance(val, float):
+        if val.is_integer():
+            return str(int(val))
+    val_str = str(val).strip()
+    if val_str.endswith('.0'):
+        return val_str[:-2]
+    return val_str
+
 def build_registry():
     sources_dir = ROOT / "data" / "plk_registry_sources"
     speeds_file = sources_dir / "N_ZAL_2.1_20252026_20260825065748.xlsx"
@@ -36,15 +47,18 @@ def build_registry():
                 break
                 
     for _, row in df_v.iterrows():
-        line_no = str(row.get('Nr linii', '')).strip()
+        line_no = safe_line_no(row.get('Nr linii'))
         if not line_no or line_no == 'nan':
             continue
             
         km_start = parse_km(row.get('Km pocz. ', row.get('Km pocz.')))
-        km_end = parse_km(row.get('Km końca'))
+        # Correctly decode potential polish characters by trying common column variations if exactly 'Km końca' is mangled
+        km_end_col = [c for c in df_v.columns if 'Km ko' in str(c)][0] if [c for c in df_v.columns if 'Km ko' in str(c)] else 'Km końca'
+        km_end = parse_km(row.get(km_end_col))
+        
         tor = str(row.get('Tor', '1')).strip()
         
-        pas_col = [c for c in df_v.columns if 'Pasażerskie' in str(c)]
+        pas_col = [c for c in df_v.columns if 'Pasaż' in str(c) or 'Pasa' in str(c)]
         vmax_pas = parse_speed(row[pas_col[0]]) if pas_col else 0.0
         
         tow_col = [c for c in df_v.columns if 'towarowe' in str(c)]
@@ -72,12 +86,13 @@ def build_registry():
                 break
 
     for _, row in df_c.iterrows():
-        line_no = str(row.get('Nr linii', '')).strip()
+        line_no = safe_line_no(row.get('Nr linii'))
         if not line_no or line_no == 'nan':
             continue
             
         km_start = parse_km(row.get('Km pocz.', row.get('Km pocz. ')))
-        km_end = parse_km(row.get('Km końca'))
+        km_end_col = [c for c in df_c.columns if 'Km ko' in str(c)][0] if [c for c in df_c.columns if 'Km ko' in str(c)] else 'Km końca'
+        km_end = parse_km(row.get(km_end_col))
         tor = str(row.get('Tor', '1')).strip()
         klasa = str(row.get('Klasa odcinka linii', '')).strip()
         
@@ -99,7 +114,7 @@ def get_segment_vmax(line_no, from_m, to_m, registry):
     speeds = line_data["speeds"]
     start_km = min(from_m, to_m) / 1000.0
     end_km = max(from_m, to_m) / 1000.0
-    total_v = 0.0
+    total_time = 0.0
     total_l = 0.0
     for s in speeds:
         if s["track"] not in ["1", "N"]: continue
@@ -110,9 +125,11 @@ def get_segment_vmax(line_no, from_m, to_m, registry):
         if overlap_end > overlap_start:
             l = overlap_end - overlap_start
             v = s["vmax_pas"] if s["vmax_pas"] > 0 else 40.0
-            total_v += v * l
+            total_time += l / v
             total_l += l
-    if total_l > 0: return total_v / total_l
+    if total_time > 0: 
+        return total_l / total_time
+    # Fallback to absolute max if no exact segment match
     return max([s["vmax_pas"] for s in speeds if s["vmax_pas"] > 0] + [40.0])
 
 def get_segment_class(line_no, from_m, to_m, registry):
