@@ -7,17 +7,23 @@
     {
       "line_no": "8",
       "from_meter": 202025,
-      "to_meter": 201955
+      "to_meter": 201955,
+      "vmax": 100.0,
+      "class": "D4"
     },
     {
       "line_no": "8",
       "from_meter": 202029,
-      "to_meter": 202154
+      "to_meter": 202154,
+      "vmax": 100.0,
+      "class": "D4"
     },
     {
       "line_no": "569",
       "from_meter": 0,
-      "to_meter": 1
+      "to_meter": 1,
+      "vmax": 60.0,
+      "class": "D4"
     }
   ]
 }

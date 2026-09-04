@@ -7,12 +7,16 @@
     {
       "line_no": "61",
       "from_meter": 18297,
-      "to_meter": 18235
+      "to_meter": 18235,
+      "vmax": 120.0,
+      "class": "D4"
     },
     {
       "line_no": "61",
       "from_meter": 18297,
-      "to_meter": 19017
+      "to_meter": 19017,
+      "vmax": 120.0,
+      "class": "D4"
     }
   ]
 }

@@ -7,22 +7,30 @@
     {
       "line_no": "3",
       "from_meter": 3365,
-      "to_meter": 3082
+      "to_meter": 3082,
+      "vmax": 160.0,
+      "class": ""
     },
     {
       "line_no": "46",
       "from_meter": 2642,
-      "to_meter": 3082
+      "to_meter": 3082,
+      "vmax": 100.0,
+      "class": "D3"
     },
     {
       "line_no": "46",
       "from_meter": 3365,
-      "to_meter": 3082
+      "to_meter": 3082,
+      "vmax": 100.0,
+      "class": "D3"
     },
     {
       "line_no": "46",
       "from_meter": 3365,
-      "to_meter": 3366
+      "to_meter": 3366,
+      "vmax": 100.0,
+      "class": "D3"
     }
   ]
 }

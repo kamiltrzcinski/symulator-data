@@ -7,17 +7,23 @@
     {
       "line_no": "529",
       "from_meter": 1731,
-      "to_meter": 1732
+      "to_meter": 1732,
+      "vmax": 60.0,
+      "class": "D3"
     },
     {
       "line_no": "529",
       "from_meter": 1796,
-      "to_meter": 1732
+      "to_meter": 1732,
+      "vmax": 60.0,
+      "class": "D3"
     },
     {
       "line_no": "529",
       "from_meter": 1796,
-      "to_meter": 1797
+      "to_meter": 1797,
+      "vmax": 60.0,
+      "class": "D3"
     }
   ]
 }

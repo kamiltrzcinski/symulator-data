@@ -7,7 +7,9 @@
     {
       "line_no": "273",
       "from_meter": 318966,
-      "to_meter": 314856
+      "to_meter": 314856,
+      "vmax": 139.1,
+      "class": "D3"
     }
   ]
 }
