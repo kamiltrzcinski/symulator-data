@@ -32,12 +32,14 @@ def build_cache():
                 to = obj["to_uid"]
                 lines_data = obj.get("lines", [])
                 dist = 0
+                line_no = "999"
                 if lines_data:
                     dist = abs(lines_data[0].get("to_meter", 0) - lines_data[0].get("from_meter", 0))
+                    line_no = str(lines_data[0].get("line_no", "999"))
                 
                 if fr not in connections:
                     connections[fr] = []
-                connections[fr].append((to, dist))
+                connections[fr].append((to, dist, line_no))
                 
     cache_data = (points, points_by_name, connections)
     try:
@@ -58,16 +60,62 @@ def load_catalog():
 
 import heapq
 
-def dijkstra_segment(start_uid, end_uid, connections, excluded_uids):
-    """Finds shortest path between two points using Dijkstra avoiding excluded points (returns tuple: path, distance)."""
+# Explicit classification based on PKP PLK Id-12 (Wykaz linii kolejowych)
+# Classification: M = Magistralna (1.0), P = Pierwszorzedna (1.2), D = Drugorzedna (2.5), J = Miejscowa (4.5), L = Lacznik/Manewrowa (10.0)
+PLK_MAGISTRALE = {
+    "1", "3", "4", "6", "7", "8", "9", "91", "131", "271", "272", "273", "274", "351", "353", "447", "448"
+}
+
+PLK_PIERWSZORZEDNE = {
+    "14", "18", "22", "25", "26", "27", "38", "61", "93", "133", "138", "139", "143",
+    "201", "202", "203", "275", "355", "356", "401"
+}
+
+PLK_DRUGORZEDNE = {
+    "106", "107", "108", "117", "137", "140", "146", "204", "207", "208", "213", "281", "357", "358", "395"
+}
+
+def get_line_multiplier(line_no_str: str, traction: str = None) -> float:
+    line_clean = line_no_str.strip()
+    
+    # 1. Official PLK Id-12 explicit classification
+    if line_clean in PLK_MAGISTRALE:
+        mult = 1.0
+    elif line_clean in PLK_PIERWSZORZEDNE:
+        mult = 1.25
+    elif line_clean in PLK_DRUGORZEDNE:
+        mult = 2.5
+    else:
+        try:
+            num = int(line_clean)
+            if 1 <= num <= 450:
+                mult = 1.8
+            elif 451 <= num <= 699:
+                mult = 4.0
+            else:
+                mult = 12.0 # 700+ lacznice/manewrowe
+        except ValueError:
+            mult = 8.0
+
+    # Traction modifier: if Electric, apply additional penalty to non-magistral/branch lines
+    if traction == "E":
+        if line_clean not in PLK_MAGISTRALE and line_clean not in PLK_PIERWSZORZEDNE:
+            mult *= 4.0
+
+    return mult
+
+def dijkstra_segment(start_uid, end_uid, connections, excluded_uids, traction=None):
+    """Finds optimal path using Dijkstra prioritizing mainlines and avoiding backwoods."""
     if start_uid == end_uid:
         return [start_uid], 0
         
-    pq = [(0, start_uid, [start_uid])]
+    # (weighted_cost, physical_distance, current_uid, path, last_line_no)
+    pq = [(0, 0, start_uid, [start_uid], None)]
     visited = excluded_uids.copy()
+    best_dist = {}
     
     while pq:
-        dist, current, path = heapq.heappop(pq)
+        cost, dist, current, path, last_line = heapq.heappop(pq)
         
         if current == end_uid:
             return path, dist
@@ -76,9 +124,22 @@ def dijkstra_segment(start_uid, end_uid, connections, excluded_uids):
             continue
         visited.add(current)
             
-        for neighbor, edge_dist in connections.get(current, []):
+        for edge_tuple in connections.get(current, []):
+            if len(edge_tuple) == 3:
+                neighbor, edge_dist, line_no = edge_tuple
+            else:
+                neighbor, edge_dist = edge_tuple[:2]
+                line_no = "999"
+
             if neighbor not in visited:
-                heapq.heappush(pq, (dist + edge_dist, neighbor, path + [neighbor]))
+                mult = get_line_multiplier(line_no, traction)
+                edge_cost = edge_dist * mult
+                
+                # Penalty for changing lines to avoid zigzagging across switching connections
+                if last_line is not None and last_line != line_no:
+                    edge_cost += 2000.0  # 2 km virtual penalty for switching lines
+                    
+                heapq.heappush(pq, (cost + edge_cost, dist + edge_dist, neighbor, path + [neighbor], line_no))
     return None, 0
 
 def resolve_point(name, points_by_name, role="Punkt"):
@@ -92,7 +153,7 @@ def resolve_point(name, points_by_name, role="Punkt"):
         print(f"Podpowiedzi: {', '.join(matches)}")
     return None, None
 
-def find_route(start_name, end_name, via_names=None, exclude_names=None):
+def find_route(start_name, end_name, via_names=None, exclude_names=None, traction=None):
     if via_names is None:
         via_names = []
     if exclude_names is None:
@@ -143,7 +204,8 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None):
     
     via_str = f" przez: {', '.join([o for _, o in resolved_via])}" if resolved_via else ""
     ex_str = f" [wykluczone: {', '.join(excluded_names_display)}]" if excluded_names_display else ""
-    print(f"Szukanie trasy: {start_orig} -> {end_orig}{via_str}{ex_str}...", flush=True)
+    tr_str = f" [trakcja: {traction}]" if traction else ""
+    print(f"Szukanie optymalnej trasy PLK: {start_orig} -> {end_orig}{via_str}{ex_str}{tr_str}...", flush=True)
 
     full_path = []
     total_distance = 0
@@ -151,7 +213,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None):
         seg_start_uid, seg_start_name = waypoints[i]
         seg_end_uid, seg_end_name = waypoints[i + 1]
         
-        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids)
+        seg_path, seg_dist = dijkstra_segment(seg_start_uid, seg_end_uid, connections, excluded_uids, traction=traction)
         if not seg_path:
             print(f"\nNie znaleziono polaczenia na odcinku: {seg_start_name} -> {seg_end_name} z uwzglednieniem podanych kryteriow.")
             return
@@ -162,7 +224,7 @@ def find_route(start_name, end_name, via_names=None, exclude_names=None):
         else:
             full_path.extend(seg_path[1:]) # unikamy dublowania punktu stykowego
 
-    print("\nZnaleziona trasa:")
+    print("\nZnaleziona trasa (z uwzglednieniem priorytetu magistrali PLK):")
     for idx, p in enumerate(full_path):
         tag = ""
         if p == start_uid:
@@ -195,13 +257,19 @@ def main():
         default=[], 
         help="Punkty/posterunki wykluczone z wyznaczania trasy (objazdy).\nPrzyklad: --exclude \"Tunel\" \"Miechow\""
     )
+    parser.add_argument(
+        "--traction", "-t",
+        choices=["E", "S"],
+        default=None,
+        help="Rodzaj trakcji (E - Elektryczna, S - Spalinowa).\nPrzyklad: -t E"
+    )
     
     if len(sys.argv) < 3:
         parser.print_help()
         sys.exit(1)
         
     args = parser.parse_args()
-    find_route(args.start, args.end, via_names=args.via, exclude_names=args.exclude)
+    find_route(args.start, args.end, via_names=args.via, exclude_names=args.exclude, traction=args.traction)
 
 if __name__ == "__main__":
     main()
